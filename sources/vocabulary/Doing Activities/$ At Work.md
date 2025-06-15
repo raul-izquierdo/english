@@ -95,6 +95,10 @@ tienes la capacidad de ...?
 
 solicitar/apuntarse para trabajo = apply for ... `I applied for a job at the company`
 
+un criterio [de selección] = a criterion `The most importat criterion is the experience`
+    - El plural es _criteria_ (no _criterions_) `The selection criteria for the job are very strict`
+
+
 publicado, anunciado = advertised `The job was advertised in the newspaper`
 
 reclutamiento = recruitment (buscar y seleccionar) `The recruitment process is important for the company`
@@ -105,6 +109,8 @@ contratar
     = take on (contratar+incorporar) `The company took on a new employee` - `A manager is taking on a new team member`
     = hire (neutro) `He was hired by the company`
     = employ (formal) `He was employed by the company`
+
+conseguir un trabajo = get a job `I got a job at the company` - `He got a job as a teacher`
 
 tener empleado = employ `The company employs over 100 people`
 
@@ -220,8 +226,15 @@ trabajos que hacer = assignments `I have a lot of assignments to do this week`
 ofrecerse a (hacer algo)
     = offer TO `Jack offered to buy Amy a new book` - `I offered to help him with the project`
 
+
 asumir/aceptar una tarea/responsabilidad
     = take on `She took on the organization of the event` - `I took on the responsibility of managing the project`
+
+
+asumir responsabilidades = take responsibility for
+    = Tienes que asumir la responsabilidad de tus acciones : `You need to take responsibility for your actions`
+
+asumir un papel = take on a role `He took on the role of project manager`
 
 hacerse cargo de
     = take charge of `I will take charge of the project` - `He took charge of the team`
@@ -248,6 +261,10 @@ tratar con, encargarse de, lidiar con (personas o situaciones)
 
 ## Teamwork
 
+trabajar en equipo = work as a team `They need to learn to work as a team`
+
+estar en el mismo equipo = be ON the same team
+
 ser asignado a un equipo = be assigned to a team `He was assigned to the team last month`
 incorporarse a un equipo = join a team `He joined the team last month`
 formar parte de un equipo = be part of a team `He is part of the team`
@@ -266,7 +283,14 @@ hacer la parte que le corresponde
     = do his part (lo asignado) `He needs to do his part in the project`
     = do his share (su parte equitativa) `He needs to do his share of the chores`
 
+puedes echar un vistazo a
+    = can you take a look at `Can you take a look at this document?`
+
+
 ## Work Related Activities
+
+ponerse a trabajar = get to work
+    ? Después de comer, me pondré a trabajar en el informe que me pediste: `After lunch, I'll get to work on that report you asked for`
 
 Llamar al trabajo para informar de algo = call IN `I called in sick to work today`
 
@@ -282,6 +306,13 @@ ponerse al dia
 huelga = strike `The workers went on strike for better pay` - `The workers are on strike`
 
 manifestación = demonstration `The workers held a demonstration for better pay` - `The workers are demonstrating for better pay`
+
+tomar un descanso
+    = take a break `I need to take a break from work`
+
+presentar una solicitud
+    = submit an application
+    ? Presenté una solicitud para cambiar las vacaciones: `I submitted an application to change my holidays`
 
 ## Meetings
 
