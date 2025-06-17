@@ -191,10 +191,13 @@ revisión del examen = exam review `The date for the exam review is next Monday`
 doy la asignatura de = I teach the subject of `I teach the subject of mathematics`
 
 dar/pasar (con las manos) = to hand `Could you hand me the newspaper?`
-repartir = hand out `The teacher handed out the exams to the students` - `Volunteers handed out food to the homeless`
+repartir
+    = hand out `The teacher handed out the exams to the students` - `Volunteers handed out food to the homeless`
+    = give out `The teacher gave out the exams to the students` - `Volunteers gave out food to the homeless`
+
 hacer una entrega
     = submit (siguiendo procedimiento - formal) `I need to submit my assignment by Friday`
-    = hand in (entrega menos formal) `I need to hand in my assignment by Friday` - `I handed in the lost keys at the reception`
+    = hand in (entrega menos formal - aunque no sea a mano) `I need to hand in my assignment by Friday` - `I handed in the lost keys at the reception`
 
 enseñar
     = teach (enseñanza reglada) `I teach English to children`

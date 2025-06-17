@@ -15,8 +15,13 @@ posar algo en un lugar horizontal
 
 colgar algo = hang
 
-tirar/quitar/retirar
-    = throw away (tirar a la basura) `I only throw away clothes that are too old to wear`
+tirar/lanzar
+    = throw into (a container) `He threw the ball into the basket`
+    = throw to (a alguien para ser cogido) `He threw the ball to his friend`
+    = throw at (hacia/contra algo) `He threw the ball at the wall`
+
+ retirar/quitar/deshacerse de algo
+    = throw away (tirar) `I only throw away clothes that are too old to wear`
     = get rid of (deshacerse sin especificar: regalar, tirar...) `He got rid of his old clothes`
     = remove (retirar/quitar; quizás para poner en otro sitio) `He removed the stain from the carpet`
 

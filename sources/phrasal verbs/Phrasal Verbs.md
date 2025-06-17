@@ -34,7 +34,7 @@ cheer up = animar `I tried to cheer him up by telling him a joke` - `He cheered 
 
 
 come about = sucedió/tuvo lugar/se originó `The meeting came about after a long discussion` - `The changes came about as a result of the new policy`
-come across = encontrarse con, toparse con `I came across an old friend at the supermarket`
+come across = encontrarse/toparse con (cosas, situaciones - no problemas ni personas) `I came across an old book at the library`
 come along = acompáñanos `Come along to the concert!! It's free`
 come out = salir [a la vista] `The sun came out after the rain` - `The book came out last month` - `The truth will come out eventually`
 come over = ir a casa de alguien `Why don't you come over for a cup of tea?`
@@ -67,9 +67,8 @@ figure out = averiguar/resolver algo (pensándolo) `I need to figure out the ans
 
 find out = averiguar/descubrir (con distintos medios, no sólo pensado) `He found out the truth`
 
-get about <lugar> = moverse/desplazarse por <lugar> `He gets about on public transport` - `I use a bike to get about the city`
 get along = llevarse bien (igual que get on) `He gets along with his colleagues` - `I get along with my family`
-get around = moverse con medio de transporte `He gets around the city by bus` - `He finds it hard to get around without a car`
+get around = moverse/desplazarse por un lugar `He gets around the city by bus` - `He finds it hard to get around without a car`
 get away
     = escapar (real o figuradamente) `He got away from the police` - `I need to get away from work for a few days`
         - _run away_ es sólo la parte de escapar de un lugar (fugarse) `He ran away from the police`
@@ -85,7 +84,7 @@ get over = superar una situación `I need to get over my fear of flying`
 get ready [for] = prepararse `He got ready for the party`
 get rid of = deshacerse de `He got rid of his old clothes`
 get stuck = quedarse atascado `He got stuck in the mud`
-get the chance to = tener la oportunidad de `I get the chance to work with animals every day`
+get the chance to = surgir la oportunidad de `I get the chance to work with animals every day`
 get to = tener la oportunidad de `We get to see the concert for free`
 
 
@@ -93,14 +92,13 @@ give away
     = revelar un secreto (normalmente sin querer) `He gave away the surprise party` - `He never gives away his secrets`
     = donar `He gave away his old clothes to charity` - `He gave away the tickets to the concert`
 give back = give <sthing> back (devolver algo a una persona) `He gave back the money he borrowed`
+<!-- TODO: 📅 /**/ rendirse: give in / give up ? -->
 give in
-    = entregar algo (version informal de _hand in_) `He gave in his homework`
     = rendirse `He finally gave in to his demands`
 give out
     = repartir `He gave out the tests to the students`
     = hacer público/revelar `The school will give out the results next week`
 give up = rendirse/abandonar `He gave up on his dreams` - `He gave himself up` - `Never gonna give you up, never gonna let you down🎶`
-<!-- TODO: 📅 /**/ rendirse: give in / give up ? -->
 
 
 go after = ir a por `He went after the thief` - `He went after the job he wanted`
@@ -113,17 +111,21 @@ go round = ir a, pasarse por `He went round to his friend's house` - `He went ro
 grow up = crecer `I grew up in a small village`
 
 hand in = hacer entrega/depositar `I need to hand in my assignment by Friday` - `I handed in the lost keys at the reception`
-    - versión formal de _give in_
-    - Nótese que la relación entre _hand in_ and _give in_ no es la misma que entre _hand out_ y _give out_. Aquí se trata de formalidad (no de forma de reparto).
 hand out = repartir `The teacher handed out the exams to the students` - `Volunteers handed out food to the homeless`
-    - como _give out_ pero enfatizando que se hace con las manos
-    - Nótese que la relación entre _hand out_ and _give out_ no es la misma que entre _hand in_ y _give in_. Aquí se trata de la forma de reparto (no formalidad).
+    - como _give out_
+hand over = entregar/ceder normalmente por obligación `He handed his license over to the police`
+
 
 hang around = andar/vagar por ahí `He hung around the park` - `I hung around the station for an hour waiting for my train`
 hang on = esperar/ sujetar `Hang on a minute!` - `Hang on to the rope tightly, or you might fall`
     - _hold on_ es más formal y general
 hang out = pasar el rato `He hung out with his friends`
 hang up = colgar `He hung up the phone`
+
+
+head for <dirección> = (partir/salir en dirección a...) Responde a "Which way are you going?" `The hikers headed for the smoke they saw in the distance`
+head off to <place> = Salir para `We are heading off to the beach for the weekend`
+head to <place> = (partir/salir a sitio concreto) Responde a "Where are you going?" `I'm heading to the supermarket`
 
 
 hit it off = se cayeron bien `They hit it off at the party`
@@ -205,8 +207,8 @@ run into
     = asciende a/llega a la cifra de `The cost will often run into thousands of pounds`
     = chocar con `He wasn't looking and ran into a lamppost`
         - _walk into_ es choque más suave
-    = encontrarse con alguien/algo inesperado `I ran into an old colleague at the shops` - `I ran into problems with the project`
-        - más sorpresa o inesperado que _come across_ (qué coincidencia!!)
+    = encontrarse/toparse con (persona o problemas) `I ran into an old colleague at the shops` - `I ran into problems with the project`
+        - come across es para toparse con cosas o situaciones
 run out of = quedarse sin `We ran out of milk` - `I ran out of time` - `He ran out of money`
 
 
@@ -321,7 +323,7 @@ animar = cheer up `I tried to cheer him up by telling him a joke` - `He cheered 
 
 
 sucedió/tuvo lugar/se originó = come about `The meeting came about after a long discussion` - `The changes came about as a result of the new policy`
-encontrarse con, toparse con = come across `I came across an old friend at the supermarket`
+encontrarse/toparse con = come across (para situaciones o cosas) `I came across a very unpleasant situation`
 acompáñanos = come along `Come along to the concert!! It's free`
 salir [a la vista] = come out `The sun came out after the rain` - `The book came out last month` - `The truth will come out eventually`
 ir a casa de alguien = come over `Why don't you come over for a cup of tea?`
@@ -350,9 +352,8 @@ averiguar/resolver algo (pensándolo) = figure out `I need to figure out the ans
 
 averiguar/descubrir (con distintos medios, no sólo pensado) = find out `He found out the truth`
 
-moverse/desplazarse por <lugar> = get about <lugar> `He gets about on public transport` - `I use a bike to get about the city`
 llevarse bien (igual que get on) = get along `He gets along with his colleagues` - `I get along with my family`
-moverse con medio de transporte = get around `He gets around the city by bus` - `He finds it hard to get around without a car`
+moverse, desplazarse por = get around `He gets around the city by bus` - `He finds it hard to get around without a car`
 escapar (real o figuradamente) = get away `He got away from the police` - `I need to get away from work for a few days`
     - _run away_ es sólo la parte de escapar de un lugar (fugarse) `He ran away from the police`
 salir impune = get away with <ing> `He got away with cheating on the exam` - `They went away with a warning`
@@ -367,19 +368,16 @@ superar = get over `I need to get over my fear of flying`
 prepararse = get ready [for] `He got ready for the party`
 deshacerse de = get rid of `He got rid of his old clothes`
 quedarse atascado = get stuck `He got stuck in the mud`
-tener la oportunidad de = get the chance to `I get the chance to work with animals every day`
-tener la oportunidad de = get to `We get to see the concert for free`
+surgir la oportunidad de = get [the chance] to `I get the chance to work with animals every day`
 
 
 revelar un secreto (normalmente sin querer) = give away `He gave away the surprise party` - `He never gives away his secrets`
 donar = give away `He gave away his old clothes to charity` - `He gave away the tickets to the concert`
 devolver algo a una persona = give back `He gave back the money he borrowed`
-entregar algo (version informal de _hand in_) = give in `He gave in his homework`
 rendirse = give in `He finally gave in to his demands`
-repartir = give out `He gave out the tests to the students`
+repartir
 hacer público/revelar = give out `The school will give out the results next week`
 rendirse/abandonar = give up `He gave up on his dreams` - `He gave himself up` - `Never gonna give you up, never gonna let you down🎶`
-<!-- TODO: 📅 /**/ rendirse: give in / give up ? -->
 
 
 ir a por = go after `He went after the thief` - `He went after the job he wanted`
@@ -391,11 +389,9 @@ ir a, pasarse por = go round `He went round to his friend's house` - `He went ro
 crecer = grow up `I grew up in a small village`
 
 hacer entrega/depositar = hand in `I need to hand in my assignment by Friday` - `I handed in the lost keys at the reception`
-    - versión formal de _give in_
-    - Nótese que la relación entre _hand in_ and _give in_ no es la misma que entre _hand out_ y _give out_. Aquí se trata de formalidad (no de forma de reparto).
-repartir = hand out `The teacher handed out the exams to the students` - `Volunteers handed out food to the homeless`
-    - como _give out_ pero enfatizando que se hace con las manos
-    - Nótese que la relación entre _hand out_ and _give out_ no es la misma que entre _hand in_ y _give in_. Aquí se trata de la forma de reparto (no formalidad).
+repartir
+    = hand out `The teacher handed out the exams to the students` - `Volunteers handed out food to the homeless`
+    = give out `He gave out the tests to the students`
 
 andar/vagar por ahí = hang around `He hung around the park` - `I hung around the station for an hour waiting for my train`
 esperar/sujetar = hang on `Hang on a minute!` - `Hang on to the rope tightly, or you might fall`
@@ -475,8 +471,13 @@ escapar de un lugar/peligro = run away `He ran away from home` - `He ran away fr
 asciende a/llega a la cifra de = run into `The cost will often run into thousands of pounds`
 chocar con = run into `He wasn't looking and ran into a lamppost`
     - _walk into_ es choque más suave
-encontrarse con alguien/algo inesperado = run into `I ran into an old colleague at the shops` - `I ran into problems with the project`
-    - más sorpresa o inesperado que _come across_ (qué coincidencia!!)
+encontrarse/toparse con
+    = run into (personas o problemas)
+    = come across (cosas, situaciones)
+    ? Me encontré con un viejo amigo en el supermercado : `I ran into an old friend at the supermarket`
+    ? Me encontré con un libro que solía leer de niño : `I came across a book I used to read as a child`
+    ? Me encontré con una situación muy desagradable : `I came across a very unpleasant situation`
+
 quedarse sin = run out of `We ran out of milk` - `I ran out of time` - `He ran out of money`
 
 
@@ -553,7 +554,7 @@ mess around/about = estar haciendo el tonto/perdiendo el tiempo `I was just mess
 
 ## Across
 
-come across = encontrarse con, toparse con `I came across an old friend at the supermarket`
+come across = encontrarse/toparse con (cosas, situaciones - no problemas ni personas) `I came across an old book at the library`
 get across = comunicar/transmitir `I'm trying to get across how important this is` - `The message didn't get across`
 
 ## After
@@ -580,7 +581,7 @@ take apart = desmontar `He took apart the old computer to see how it worked`
 
 ## Around/Round
 
-get around = moverse con medio de transporte `He gets around the city by bus` - `He finds it hard to get around without a car`
+get around = moverse/desplazarse por un lugar `He gets around the city by bus` - `He finds it hard to get around without a car`
 hang around = andar/vagar por ahí `He hung around the park` - `I hung around the station for an hour waiting for my train`
 move around = moverse por `he cat is moving around the house` - `He moved the boxes around to make space`
 come round = +/-come over
@@ -678,11 +679,8 @@ break in = entrar a la fuerza `Someone broke in through the window`
 call in = llamar para reportar algo `I called in sick to work` - `I called in to report the accident`
 get in touch with = contactar `He got in touch with his old friends`
 give in
-    = entregar algo (version informal de _hand in_) `He gave in his homework`
     = rendirse `He finally gave in to his demands`
 hand in = hacer entrega/depositar `I need to hand in my assignment by Friday` - `I handed in the lost keys at the reception`
-    - versión formal de _give in_
-    - Nótese que la relación entre _hand in_ and _give in_ no es la misma que entre _hand out_ y _give out_. Aquí se trata de formalidad (no de forma de reparto).
 move in = mudarse (ir) `He moved in with his girlfriend`
 take in = asimilar, aceptar algo `He took in the information quickly` - `He couldn't take in the bad news`
 
@@ -697,7 +695,7 @@ run into
     = chocar con `He wasn't looking and ran into a lamppost`
         - _walk into_ es choque más suave
     = encontrarse con alguien/algo inesperado `I ran into an old colleague at the shops` - `I ran into problems with the project`
-        - más sorpresa o inesperado que _come across_ (qué coincidencia!!)
+        - come across es para toparse con cosas o situaciones
 talk <sbody> into = convencer a alguien `He talked me into going to the party` - `I talked him into trying the new restaurant`
 turn into = convertirse/transformarse en `He turned into a monster` - `He turned disappointment into opportunity`
 walk into
@@ -786,7 +784,6 @@ give out
 go out = (salir por ahí) `He went out for a walk` - `He went out with his friends`
 hand out = repartir `The teacher handed out the exams to the students` - `Volunteers handed out food to the homeless`
     - como _give out_ pero enfatizando que se hace con las manos
-    - Nótese que la relación entre _hand out_ and _give out_ no es la misma que entre _hand in_ y _give in_. Aquí se trata de la forma de reparto (no formalidad).
 hang out = pasar el rato `He hung out with his friends`
 kick out = echar a alguien `He was kicked out of the club` - `He was kicked out of the house`
 look out = tener cuidado `Look out! There's a car coming`
@@ -821,7 +818,7 @@ wear out
     = desgastar `My shoes are worn out`
     = agotar `The long walk wore me out`
 work out
-    = resolver `Let me work out this problem`
+    = resolver, averiguar `Let me work out this problem`
     = hacer ejercicio `I work out at the gym`
     = resultar `Everything worked out fine`
 

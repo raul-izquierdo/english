@@ -123,10 +123,11 @@ crianza = upbringing `My upbringing was very strict`
 
 
 cuidar (a veces intercambiables)
-    = look after (implica algo de supervisión) `He takes care of his sick mother`.
-    = take care (ten cuidado o cuídate!) `take care of yourself` - `take care!!` (despedida)
-    = care for (más emocional) `I care for my family` - `I care for my friends`
-    <!-- TODO: 📅 /**/ CB -->
+    ! Los dos primeros son bastante intercambiables
+    = look after (cuidar/atender - implica algo de supervisión) `He takes care of his sick mother`.
+    = take care [of <sbody>] (cuidar de, encargarse de) `take care!!` (despedida) - `She takes care of her elderly parents`
+    = care for (con más dedicación y/o profesional) `Nurses care for patients in the hospital` - `It takes a lot of patience to **care for** someone with dementia`
+        - También _importar_ `I care for my family` - `He doesn't care for modern art`
 
 ... los unos a los otros
     = each other

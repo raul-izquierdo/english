@@ -360,7 +360,7 @@ esforzarse en
     = work at `You need to work at improving your skills`
 trabajar en
     = work on `He's working on a new project`
-resolver
+resolver, averiguar
     = work out `Let me work out this problem`
 hacer ejercicio
     = work out `I work out at the gym`
@@ -621,7 +621,7 @@ redactar
 *work at = esforzarse en `You need to work at improving your skills`
 *work on = trabajar en `He's working on a new project`
 *work out
-    = resolver `Let me work out this problem`
+    = resolver, averiguar `Let me work out this problem`
     = hacer ejercicio `I work out at the gym`
     = resultar `Everything worked out fine`
 *write up = redactar `I need to write up the report`

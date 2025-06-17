@@ -70,14 +70,12 @@ combinar ropa
     = matches `This shirt matches these trousers` - `She matched her clothes perfectly`
 
 vestir
-    = get dressed (vestirse) `He got dressed quickly and left the house`
-    = to dress (a otros) `She dressed her daughter in a warm coat`
-    <!-- TODO: 📅 /**/ CB -->
+    = get dressed (vestirse uno mismo) `He got dressed quickly and left the house`
+    = to dress (vestir a otros) `She dressed her daughter in a warm coat`
 
 desvestirse (no entiendo muy bien la diferencia)
-    = undress `I undress before going to bed`
-    = get undressed `I get undressed before going to bed`
-    <!-- TODO: 📅 /**/ CB -->
+    = get undressed (uno mismo) `I get undressed before going to bed`
+    = undress (a otros)`I undress her before going to bed`
 
 
 ponerse la <prenda> = put on `He put on his shirt before going to the meeting`

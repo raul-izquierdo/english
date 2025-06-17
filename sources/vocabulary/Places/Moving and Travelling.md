@@ -152,10 +152,15 @@ escapada a otra ciudad  = city break `I went on a city break to Paris` - `The ci
 
 ## Movement
 
-<!-- TODO: 📅 /**/ CB -->
+partir/salir para
+    ! Aunque ambos pueden indicar destino, _set off_ es más común si no se indica y _head off_ si se indica
+    = set off [for <place>] `I set off for home` - `The hikers set off at dawn` - `He set off for London early this morning`
+    = head off to <place> `We are heading off to the beach for the weekend`
 
-salir/partir para
-    = set off `I set off for home` - `The hikers set off at dawn` - `He set off for London early this morning`
+dirigirse a <lugar>
+    ! Bastante intercambiables
+    = head to <place> (ir a sitio concreto) Responde a "Where are you going?" `I'm heading to the supermarket`
+    = head for <dirección> (en dirección a...) Responde a "Which way are you going?" `The hikers headed for the smoke they saw in the distance`
 
 me puse en marcha, arranqué, salír (pasar de estar parado a moverse)
     = move off (iniciar movimiento) `The car moved off quickly` - `As soon as the traffic lights turned green, the car in front moved off`
@@ -164,11 +169,6 @@ irse
     = leave (dejó un sitio) `He left the office at 5 pm` - `He left the room without saying goodbye`
     = go off (salida espontánea ) `He went off to find help` - `He just went off without saying anything`
     = go away (se fué/está ausente) `I’m going away for the weekend` - `I’m going away for a week`
-
-dirigirse a <lugar>, salgo para
-    = head to <place> (ir a sitio concreto). Responde a "Where are you going?" `We're going to head to the restaurant now for dinner`
-    = head for <dirección> (ir hacia, en dirección a...) Responde a "Which way are you going?" `The lost hikers started to head for the smoke they saw in the distance`
-    = head off to <place> (partir, poner rumbo a) `We are heading off to the beach for the weekend`
 
 salir (movimiento)
     = go out (salir por ahí) `I went out for a walk` - `I went out with my friends`
@@ -247,9 +247,11 @@ estar de vuelta
 
 ## Moving Around a City
 
-desplazarse, moverse por
-    = get around (normalmente por transporte público) `I get around the city by bus` - `He finds it hard to get around without a car`
-    = move around (más general) `The cat is moving around the house` - `I like to move around during the day rather than sitting at my desk for too long`
+desplazarse/moverse por lugar
+    = get around `I get around the city by bus` - `He finds it hard to get around without a car`
+
+moverse (cambiar de sitio)
+    = move around `The cat is moving around the house` - `I like to move around during the day rather than sitting at my desk for too long`
 
 
 ir a <lugar> en <transporte>
@@ -328,7 +330,6 @@ arrancar
     = start the car `I started the car` - `The car won't start`
     = move off (iniciar movimiento) `The car moved off quickly` - `The train moved off on time`
 
-<!-- TODO: 📅 /**/ CB -->
 parar (un coche)
     = stop `I stopped at the traffic light`
     = pull up (parar en un semáforo, aparcar, dejar a alguien...) `I pulled up to the traffic light`

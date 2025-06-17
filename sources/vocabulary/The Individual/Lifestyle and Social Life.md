@@ -242,6 +242,9 @@ pedir ayuda
     = request help (más formal) `I requested help with my homework` - `I requested help with the project`
 
 
+me gustaría/agradecería alguna sugerencia
+    = I would appreciate any suggestions for `I would appreciate any suggestions for my project`
+
 
 ## Popularity
 

@@ -36,7 +36,10 @@ warn
     = warn <sbody> AGAINST <ing> `He warned his friend against going to the party`
     = warn <sbody> NOT TO <base> `He warned his friend not to go to the party`
 
-recommend = THAT <sbody> <base> `I recommend THAT you go`
+
+<!-- TODO: 📅 /**/ Buscar la versión última de recommend y suggest en los MD -->
+
+recommend = [THAT] <sbody> <base> `I recommend [THAT] you go` - `I recommend he GO to the doctor` (no _goes_)
 
 sugerir
     = suggest <ing> (a todos, speaker included) `He suggested going to the cinema`

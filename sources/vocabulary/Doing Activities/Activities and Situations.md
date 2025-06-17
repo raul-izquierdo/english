@@ -164,7 +164,7 @@ dar el visto bueno a = give the green light to `The manager gave the green light
 posponer = put off `I put off going to the dentist for months`
 
 resultó, acabó siendo
-    = turn out TO <base> (cierta sorpresa)`He turned out to be really nice` - `It turned out that he was lying` - `Everything turned out well in the end` - `The cake turned out better than I thought` - `Things didn’t turn out the way we expected`
+    = turn out TO <base> (cierta sorpresa) `He turned out to be really nice` - `It turned out that he was lying` - `Everything turned out well in the end` - `The cake turned out better than I thought` - `Things didn’t turn out the way we expected`
     = ended up being <ing> (no indica expectativas) `It ended up being a great success` - `It ended up being a disaster` - `It ended up being a lot of fun` - `It ended up being a mistake` - `It ended up being a great experience` - `It ended up being a lot of work`
 
 conseguir llegar a /alcanzar <lugar>
@@ -228,10 +228,8 @@ superar una situación = get over
     ? Necesito superar mi miedo a volar : `I need to get over my fear of flying`
 
 tener la oportunidad de
-    = get to `I get to work with animals every day` - `We get to see the concert for free`
-    = get the chance to `I get the chance to work with animals every day`
-    = have the chance to `I have the chance to work with animals every day`
-    <!-- TODO: 📅 /**/ CB -->
+    = get [the chance] to (mas entusiasta e informal) `I get to work with animals every day` - `I get the chance to work with...`
+    = have the chance to (más soso) `I have the chance to work with animals every day`
 
 hasta que alguien haga algo
     = until someone takes action `Until someone takes action, nothing will change`
@@ -265,4 +263,9 @@ encontrar
     = find (cosas) `I found my keys` - `I found a new job`
     = meet (people) `I met my friend at the park`
 
-encontrarse con algo/alguien = come across `I came across an old friend at the supermarket` - `I came across a book I used to read as a child`
+encontrarse/toparse con
+    = run into (personas o problemas)
+    = come across (cosas, situaciones)
+    ? Me encontré con un viejo amigo en el supermercado : `I ran into an old friend at the supermarket`
+    ? Me encontré con un libro que solía leer de niño : `I came across a book I used to read as a child`
+    ? Me encontré con una situación muy desagradable : `I came across a very unpleasant situation`

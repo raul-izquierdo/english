@@ -302,7 +302,7 @@ sugerir/recomendar (presente)
     ! Recommend: sabes que funciona (por conocimiento o experiencia
     ! Suggest: puede que funcione (propuesta). En las traducciones, vale _recommend_ en vez de _suggest
     = suggest <ing> (a todos, speaker included) `He suggested going to the cinema`
-    = suggest [THAT] <sbody> <base> (sugerir acción a alguien) `I suggest he go to the doctor` (nótese que no es _goes_)
+    = suggest [THAT] <sbody> <base> (sugerir acción a alguien) `I suggest he GO to the doctor` (nótese que no es _goes_)
     = suggest <obj> TO <sbody> (sugerir objeto) `She suggested a new restaurant to us`
     ? Sugiero ir al doctor : `I suggest going to the doctor` (a todos)
     ? Sugiero que vaya al doctor : `I suggest [that] he GO to the doctor` (a él) (no GOES)
