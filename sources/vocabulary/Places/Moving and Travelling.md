@@ -32,6 +32,9 @@ maleta
     = suitcase (rígidas)
 hacer las maletas = pack my bags `I need to pack my bags for the trip` - `I packed my bags last night`
 
+se fue de viaje
+    = went away/on a trip/on holiday
+    ? Él se quedó en casa y su familia se fue de viaje : `He stayed at home while his family went away` - `... on holiday/on a trip`
 
 ## Plans
 

@@ -1,72 +1,16 @@
-# Appearance and Clothes (v1)
-
-
-## Look
-
-aspecto, imagen
-    = look `His look was very casual`
-    = appearance (formal) `Her appearance was very casual`
-
-
-desnudo = naked
-desvestido = undressed `He was undressed when he entered the room`
-
-te queda bien (talla) = fits `The dress fits you perfectly/like a globe`
-te sienta bien (te favorece) = suits `The dress really suits you` - `This clothes don’t suit you`
-    - `The dress fits you well, but it doesn't suit you`
-
-
-no tiene buen aspecto (estético)
-    = She doesn't look well
-    = She is not looking her best
-
-tiene buen aspecto
-    = She looks good (imagen) `She looks good in that dress`
-    = She looks well (salud) `She looks well after her vacation`
-
-## Aspecto Físico
-
-calvo = bald `He is bald and shaves his head`
-
-arrugado = wrinkled `He has wrinkled skin due to age` - `She has a wrinkled face`
-pecoso = freckled `He has a freckled face` - `She has a freckled nose`
-bronceado = tanned `She has a tanned skin`
-expresivo = expressive `He has an expressive face` - `She has expressive eyes`
-pálida = pale `He has a pale complexion` - `She has a pale face`
-complexion = complexion - tez (aspecto de piel) `She takes good care of her skin, and her complexion reflects that` - `She has a dark complexion`
-
-gordo
-    = plump (regordente - afectivo) `He is plump and has a round face` - `She is plump and looks cute`
-    = overweight `He is overweight and needs to lose weight` - `She is overweight and should exercise more`
-    = fat (negativo) `He is fat and needs to lose weight` - `She is fat and should exercise more`
-
-delgado
-    = slim (delgado en forma) `He is slim and fit` - `She is slim and looks great`
-    = thin (flaco) `He is thin and needs to eat more` - `She is thin and should exercise more`
-    = skinny (delgado pero poco atractivo) `He is skinny and needs to gain weight` - `She is skinny and should eat more`
-
-pelo rizado = curly hair `He has curly hair` - `She has curly hair`
-pelo liso = straight hair `He has straight hair` - `She has straight hair`
-pelo ondulado = wavy hair `He has wavy hair` - `She has wavy hair`
-
-pelo suelto = flowing hair `She has flowing hair` - `He has flowing hair`
-pelo recogido = tied-up hair `She had her hair tied up in a ponytail`
-con una coleta = IN a ponytail `She had her hair tied up in a ponytail`
-
-manchas (en la piel) = spots `She has spots on her skin`
-lunares = moles `He has moles on his face` - `She has moles on her skin`
-
-ojos claros = light eyes `He has light eyes`
+# Clothes
 
 ## Clothing related Tasks
 
-llevar (puesto) = wear/wore/worn `She wore a dress to the party`
+llevar (puesto) = wear/wore/worn
+    = : `She wore a dress to the party`
 
 combinar ropa
-    = to match clothes - `He matched his clothes with his shoes`
+    = to match clothes
+    = : `He matched his clothes with his shoes`
 
 (prenda1) combina/pega con (prenda2)
-    = goes with `This shirt goes with these trousers` - `This dress goes with these shoes`
+    = goes with `This shirt goes with these trousers`
     = matches `This shirt matches these trousers` - `She matched her clothes perfectly`
 
 vestir
@@ -93,6 +37,9 @@ desabrochar (ropa)
 levantar = lift `Can you lift up your T-Shirt, please?`
 
 disfrazarse = dress up `I dressed up for the party` - `He dressed up as a pirate for Halloween`
+
+desnudo = naked
+desvestido = undressed `He was undressed when he entered the room`
 
 ## Types of Clothes
 
