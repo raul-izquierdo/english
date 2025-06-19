@@ -3,11 +3,11 @@
 ## Clothing related Tasks
 
 llevar (puesto) = wear/wore/worn
-    = : `She wore a dress to the party`
+    = Llevó un vestido a la fiesta : `She wore a dress to the party`
 
 combinar ropa
     = to match clothes
-    = : `He matched his clothes with his shoes`
+    ? Combinó su ropa con sus zapatos : `He matched his clothes with his shoes`
 
 (prenda1) combina/pega con (prenda2)
     = goes with `This shirt goes with these trousers`
@@ -23,6 +23,7 @@ desvestirse (no entiendo muy bien la diferencia)
 
 
 ponerse la <prenda> = put on `He put on his shirt before going to the meeting`
+
 quitarse la <prenda>
     = take off (informal) `He took off his shoes before entering the house`
     = remove (formal) `He removed his shoes before entering the house`
@@ -30,6 +31,7 @@ quitarse la <prenda>
 abrochar (ropa)
     = fasten `She fastened her coat before going outside`
     = button up (abotonar) `He buttoned up his shirt before going to the meeting`
+
 desabrochar (ropa)
     = unfasten `She unfastened her coat when she got inside`
     = unbutton `He unbuttoned his shirt when he got home`
@@ -39,6 +41,7 @@ levantar = lift `Can you lift up your T-Shirt, please?`
 disfrazarse = dress up `I dressed up for the party` - `He dressed up as a pirate for Halloween`
 
 desnudo = naked
+
 desvestido = undressed `He was undressed when he entered the room`
 
 ## Types of Clothes
@@ -46,8 +49,8 @@ desvestido = undressed `He was undressed when he entered the room`
 un conjunto, la ropa que se lleva puesta  = an outfit `She wore a beautiful outfit to the party`
 
 ropa
-    = clothes (no tiene singular) `I need to put my clothes in the laundry` - `She bought new clothes for the summer`
-    = garment (prenda concreta) `This garment is made from high-quality fabric` - `The designer created a unique garment for the fashion show`
+    = clothes (no tiene singular) `I need to put my clothes in the laundry`
+    = garment (prenda concreta) `This garment is made from high-quality fabric`
     = clothing (La ropa) `Clothing is an important part of self-expression` - `The clothing industry has grown significantly in recent years`
 
 
@@ -63,7 +66,7 @@ traje = suit
 chaleco = vest `He wore a vest under his suit`
 corbata = tie
 camisa = shirt
-polo = polo shirt `He wore a polo shirt to the meeting`
+polo = polo shirt
 cuello de la camisa = collar `The collar of the shirt is too tight`
 mangas = sleeves
 pernera = leg `The legs of the trousers are too short`
@@ -102,21 +105,21 @@ ajustada
     = tight fitting (por diseño) `She wore tight fitting clothes to the party`
     = tight (demasiado pequeña) `These pants are too tight for me`
 
-de moda = trendy (puntual) `She wore trendy clothes to the party`
+de moda = trendy (puntual)
 pasado de moda = unfashionable (más formal) `His clothes were unfashionable, but he didn't care`
-pasar de mode = go out of fashion `These clothes will go out of fashion soon`
+pasar de moda = go out of fashion
 
-elegante = smart (UK) `He wore smart clothes to the party`
+elegante = smart
 desaliñado = scruffy `He looked scruffy in his old clothes`
 
 nuevo (estrenando) = brand new `She wore brand new shoes to the party`
-de segunda mano = second-hand `He wore second-hand clothes to the party`
+de segunda mano = second-hand
 
-colorido = colourful `She wore colourful clothes to the party`
-vestido liso (sin dibujos) = plain `She wore a plain grey dress to the ceremony`
-vertido estampado = printed dress `She wore a printed dress to the ceremony`
+colorido = colourful
+vestido liso (sin dibujos) = plain dress
+vestido estampado = printed dress
 
-duradera = guaranteed to last `These shoes are guaranteed to last for years`
+duradero = guaranteed to last `These shoes are guaranteed to last for years`
 
 
 ## Clothes Attributes
@@ -128,6 +131,6 @@ talla
 Cuál es tu talla = `What size are you?`
 Cuál es tu talla de _= What's your_ size? `What's your clothing/shoe size?`
 
-talla grande = large size `I need a large size`
-talla pequeña = small size `I need a small size`
-talla mediana = medium size `I need a medium size`
+talla grande = large size
+talla pequeña = small size
+talla mediana = medium size

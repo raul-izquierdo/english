@@ -412,3 +412,7 @@ as
 si volviera atrás en el tiempo = if I could go back in time `If I could go back in time, I would change many things` - `If I could go back in time, I would do things differently`
 
 ---
+
+después de eso
+    = after that `I finished my work, and after that, I went for a walk` - `I had lunch, and after that, I took a nap`
+    = then ...

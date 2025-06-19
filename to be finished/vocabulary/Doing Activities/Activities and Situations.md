@@ -1,5 +1,10 @@
 # Activities and Situations (v1)
 
+## Common Expressions
+
+
+Translate:
+? Miraré/averiguaré cuál es el problema e intentaré solucionarlo. Después, realizaré el paso final : `I'll figure out what the problem is and I'll try to sort it out. After that, I'll carry out the final step`
 
 ## Types of Activities
 
@@ -176,7 +181,7 @@ llevar a, provocar, causar
 
 llegó a ser = grew to be `He grew to be a great leader`
 
-solucionar, arreglar (situación) = sort out `We need to sort out the problem` - `I need to sort out my finances`
+solucionar, arreglar (situación) = sort out `We need to sort out the problem` - `I need to sort out my finances` - `I'll figure out what the problem was and I'll try to sort it out`
 
 
 salir bien parado = `land on your feet`
@@ -251,7 +256,7 @@ ir a por algo = go after `He went after the job he wanted`
 
 averiguar
     = find out (buscar en fuente externa) `I need to find out the answer to this question`
-    = figure out (pensarlo yo) `I need to figure out the answer to this question`
+    = figure out (pensarlo yo) `I need to figure out the answer to this question` - `I'll figure out what the problem was and I'll try to sort it out`
 
 descubrir
     = discover (encontrar algo nuevo) `I discovered a new restaurant in town` - `He discovered a hidden talent for painting`

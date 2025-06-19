@@ -4,8 +4,10 @@
 ## Look
 
 aspecto, imagen
-    = look `His look was very casual`
-    = appearance (formal) `Her appearance was very casual`
+    = look
+    = appearance (formal)
+    ? Tiene un aspecto juvenil : `She has a youthful look`
+    = Su aspecto era muy informal : `His look was very casual`
 
 tiene buen aspecto
     = looks good (buen aspecto exterior)
@@ -45,17 +47,18 @@ expresivo = expressive `He has an expressive face`
 pálida = pale `She has a pale face`
 
 complexion = tez (aspecto de piel)
-    `She takes good care of her skin, and her complexion reflects that`
+    ? Se cuida la piel y su tez lo refleja : `She takes good care of her skin, and her complexion reflects that`
 
 gordo
     = plump (regordete - afectivo) `He is plump and has a round face`
     = overweight `He is overweight and needs to lose weight`
-    = fat (negativo) `He is fat and needs to lose weight`
+    = fat (negativo)
 
 delgado
-    = slim (delgado pero en forma) `He is slim and fit`
+    = slim (delgado pero en forma)
     = thin (flaco) `He is thin and needs to eat more`
     = skinny (delgado pero poco atractivo) `He is skinny and needs to gain weight`
+    ? Es delgado pero está en forma : `He is slim but fit`
 
 pelo rizado = curly hair
 pelo liso = straight hair
