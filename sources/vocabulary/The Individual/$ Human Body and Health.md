@@ -1,11 +1,12 @@
-# Human Body and Health (v1)
+# Human Body and Health
 
 
 ## Body Parts
 
 pecho = chest `He has a strong chest`
 papos = cheeks `She has rosy cheeks`
-trasero = bottom `He slipped and landed on his bottom`
+culo = bottom `He slipped and landed on his bottom`
+
 
 ## Body Functions
 
@@ -17,8 +18,7 @@ respiración
 sudar = sweat `I can't remember the last time I sweated`
 
 
-
-## Vocabulary
+## Healt related Vocabulary
 
 moratón = bruise `I have a bruise on my arm`
 
@@ -31,7 +31,7 @@ cicatriz = scar `I have a scar on my arm`
 ampolla = blister `I have a blister on my foot`
 
 
-venda = bandage `I need a bandage for my cut
+venda = bandage `I need a bandage for my cut`
 
 tirita = plaster `I need a plaster for my cut`
 escayola = plaster [cast] `I need a plaster [cast] for my broken arm`
@@ -85,7 +85,7 @@ enfermedad = illness `I have an illness`
 ponerse enfermo
     = get sick (gravedad leve a media) `I got sick after eating that food`
     = fall ill (gravedad media a alta) `I fell ill after eating that food`
-    ? Mi mujer siempre se está poniendo enferma = `My wife is always getting sick` - `My wife is always falling ill`
+    ? Mi mujer siempre se está poniendo enferma : `My wife is always getting sick` - `My wife is always falling ill`
 
 estar en coma = be in a coma `He is in a coma after the accident`
     - No confundir con _comma_, que el el símbolo de puntuación
@@ -151,6 +151,8 @@ está en el hospital
     ?  Estoy en el hospital visitando a mi tía: `I'm at the hospital visiting my aunt`
     ? Estoy en el hospital porque me han operado: `I'm in the hospital because I had surgery`
 
+brote, estallido (de un evento) = outbreak `The outbreak of the disease was unexpected`- `There was an outbreak of chaos after the announcement`
+
 ## Idioms
 
 sentirse indispuesto, no muy bien
@@ -177,12 +179,6 @@ aliviar
     = to ease `The medicine eases the pain` (aliviar el dolor)
 
 
-
-
------------
-brote, estallido (de un evento) = outbreak `The outbreak of the disease was unexpected`- `There was an outbreak of chaos after the announcement`
-
-----
 
 ## Physical Condition
 

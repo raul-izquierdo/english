@@ -1,4 +1,4 @@
-# Growing Up. Families and Education (v1)
+# Growing Up. Families and Education
 
 ## Identity
 
@@ -49,7 +49,24 @@ ha cumplido x años = has turned x `He has turned 30 this year`
 
 cuando maduras = when you grow up `When you grow up, you'll understand the world better`
 
-## Educate
+
+## Stages of Life
+
+nacer = be born `I was born in 1990`
+dar a luz = give birth `She gave birth to a baby`
+
+crecer = grow up `I grew up in a small village`
+crianza = upbringing `My upbringing was very strict`
+
+madurar = mature `He matured quickly after his father's death` - `She matured into a responsible adult`
+
+envejecer = grow old `We all grow old eventually`
+
+morir
+    = die `He died in a car accident`
+    = pass away (fallecer - más suave) `He passed away peacefully in his sleep`
+
+## Educating
 
 educar
     = educate (es más lo que hacen los padres) `I educate my children about the importance of recycling`
@@ -92,7 +109,8 @@ adquirir hábitos = pick up `I picked up bad habits`
 acostumbrarse gradualmente
     = to ease into `I will ease into the new job` - `You should ease yourself into the exercise routine`
 
-## Relaciones familiares
+
+## Family Relationships
 
 padre/madre = father/mother/parent
 abuelo = grandfather/grandmother/grandparent
@@ -111,34 +129,4 @@ suegro = father-in-law/mother-in-law
 tío = uncle/aunt
 primos = cousins
 
-yerno = son-in-law/daughter-in-law
-yerno = son-in-law/daughter-in-law
-
-## Actions
-
-nacer = be born `I was born in 1990`
-dar a luz = give birth `She gave birth to a baby`
-crecer = grow up `I grew up in a small village`
-crianza = upbringing `My upbringing was very strict`
-
-
-cuidar (a veces intercambiables)
-    ! Los dos primeros son bastante intercambiables
-    = look after (cuidar/atender - implica algo de supervisión) `He takes care of his sick mother`.
-    = take care [of <sbody>] (cuidar de, encargarse de) `take care!!` (despedida) - `She takes care of her elderly parents`
-    = care for (con más dedicación y/o profesional) `Nurses care for patients in the hospital` - `It takes a lot of patience to **care for** someone with dementia`
-        - También _importar_ `I care for my family` - `He doesn't care for modern art`
-
-... los unos a los otros
-    = each other
-    ? Nos cuidamos los unos a los otros en la familia : `We take care of each other in the family`
-
-
-abrazar
-    = hug `I hug my friends when I see them`
-    = cuddle (abrazar/acariciar) `I cuddle my dog when I feel sad`
-        - Es más íntimo (más cariñoso, más tiempo, más cerca)
-
-morir
-    = die `He died in a car accident`
-    = pass away (fallecer - más suave) `He passed away peacefully in his sleep`
+yerno/nuera = son-in-law/daughter-in-law

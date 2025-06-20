@@ -111,6 +111,8 @@ tener problemas
     = to have problem/difficulty/trouble <ing>
     ? Tengo problemas para dormir : `I have trouble sleeping`
 
+preocupaciones, temores = concerns `There are concerns about the new policy`
+
 estoy bloqueado (no sé seguir/no entiendo)
     = I’m stuck `I’m stuck on this problem` - `I’m stuck on this project` - `I’m stuck on this task`
     = I’m at a standstill (formal) `I’m at a standstill with this project` - `I’m at a standstill with this task`
@@ -274,3 +276,66 @@ encontrarse/toparse con
     ? Me encontré con un viejo amigo en el supermercado : `I ran into an old friend at the supermarket`
     ? Me encontré con un libro que solía leer de niño : `I came across a book I used to read as a child`
     ? Me encontré con una situación muy desagradable : `I came across a very unpleasant situation`
+
+
+
+## Reasons for Doing something
+
+Hice <acción X> por <motivo Y>
+    = "for". Cuando hago X para obtener Y `I did it for pleasure`
+    = "out of": Cuando hago X debido a Y `I did it out of necessity`
+        - Hay varios casos que no cumplen lo anterior, pero para tener algo
+
+para no... = so as not to
+    ? Fuí al concierto para no aburrirme : `I went to the concert so as not to be bored`
+
+para no tener que ...
+    = so we don't have to
+        ? Fui pronto para no tener que esperar : `I left early so we don't have to wait`
+    = to avoid <ing>
+        ? ^ : `I went to the concert to avoid boredom`
+
+para entretenerse
+    = for entertainment `He listens to music for entertainment`
+     = to entertain <who> `I watch films to entertain myself`
+
+para pasar el tiempo
+    = to pass the time `I read books to pass the time`
+    = to kill time `We played cards to kill time while we waited`
+
+por error
+    = by mistake `I took the wrong umbrella by mistake`
+    = by accident `I deleted the file by accident`
+
+para pasar un rato juntos
+    = to spend time together `We went to the park to spend time together`
+    = to hang out `We went to the park to hang out together`
+
+para mantenerse en forma = to stay fit `I go to the gym to stay fit`
+
+por probar algo nuevo = to try something new `I went to the concert to try something new`
+
+
+por costumbre = out of habit `He always checks the door twice out of habit`
+
+por necesidad = out of necessity `They had to sell their car out of necessity`
+
+por obligación = out of obligation `He went to the party out of obligation`
+
+por curiosidad = out of curiosity `I asked him out of curiosity`
+
+
+por ocio = for leisure `I play sports for leisure`
+
+por placer = for pleasure `She reads novels for pleasure`
+
+por diversion
+    = for enjoyment (formal) `He goes hiking for enjoyment`
+    = for fun (informal) `I play sports for fun`
+
+para cambiar = for a change `I went to the concert for a change`
+
+para animar a =  to cheer up `I went to the concert to cheer him up`
+animar
+    = encourage <sbody> to (a hacer algo) `I encourage you to take the job offer`
+    = cheer up (estado anímico) `I tried to cheer him up by telling him a joke`

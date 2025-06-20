@@ -1,0 +1,221 @@
+# Feelings and Moods
+
+
+## Expressing Emotions
+
+suspiro = sigh `He let out a sigh of relief`
+
+llanto = cry `She let out a cry of joy`
+
+gritar
+    = shout (hablar alto) `He let out a shout of surprise`
+    = scream (pegar un grito) `She let out a scream of fear`
+
+
+## Expressing Feelings
+
+estoy <mood> = I am/feel <mood> `I am down today` - `I feel cheerful today`
+
+me pone <estado> (nervioso/inquieto/...)
+    = it makes me nervous/angry/... `The noise from the construction site made me nervous`
+
+estado de ánimo, humor, ánimo = mood
+
+estar de buen/mal humor = be in a good/bad mood
+
+
+
+## Positive States
+
+alegre = cheerful `He woke up in a cheerful mood and whistled while making breakfast`
+alegría = happiness `She felt a surge of happiness when she heard the good news`
+
+se alegra de, contento con
+    = is pleased with `He is pleased with the results of the project` - `He is pleased with his new job`
+
+gozo / alegría intensa = joy `The children were filled with joy on Christmas morning`
+
+emocionar/emocionado = to excite `The news excited me` - `I'm excited about my trip to Europe`
+
+entusiasmado/encantado (excitado positivamente)
+    = excited `The children were **excited** about going to the park`
+    = thrilled (más intenso) `The fans were thrilled by their team's victory` - `I’m thrilled to meet you`
+
+entusiasmo = excitement `There was a buzz of excitement before the concert began`
+
+estar cómodo, a gusto = at ease `I feel at ease in this environment` - `She felt at ease with her friends`
+
+encantado, contento
+    = pleased to (formal) `I’m pleased to meet you`
+    = glad `I’m glad to meet you`
+
+enérgico = energetic `She was in an energetic mood and went for a long run`
+
+tranquilo / calmado = calm `The peaceful music helped her feel calm`
+
+cálmate = calm down `You need to calm down before the meeting`
+
+## Confusion
+
+
+confundido = confused about `I'm confused about the instructions`
+confusión = confusion `She felt a sense of confusion when the instructions weren't clear`
+
+sorprendido
+    = surprised `I was surprised by the news`
+    = shocked `I was shocked by the news`
+
+asombrado
+    = amazed (en positivo) `I was amazed by the view from the top of the mountain`
+    = astonished (neutro o negativo) `I was astonished by the magician's tricks`
+
+aturdido
+    = stunned `I was stunned by the beauty of the painting`
+
+
+preocupar/preocupado = to worry `I'm worried about the exam results` - `I'm worried about my exam results`
+
+sorpresa = surprise `Her eyes widened in surprise at the unexpected gift`
+
+
+## Negative States
+
+nervioso = nervous `I always get nervous before a job interview`
+ansioso/nervioso = anxious `I feel anxious when I have to speak in public`
+
+
+estresado = stressed `I'm stressed about my workload`
+
+deprimido = depressed `He felt depressed after losing his job`
+
+
+inquieto
+    = uneasy (inquieto mentalmente) `There was an uneasy silence in the room after the announcement`
+    = restless (inquieto físicamente) `The child was restless and couldn’t sit still during the movie`
+
+enfadado = angry `I was angry when I found out the truth`
+enfadar
+    = to anger `The noise from the construction site angered the neighbors`
+    = to make <sbody> angry `The noise from the construction site made the neighbors angry`
+
+molestar/molesto
+    = to bother (incomodar) `The noise from the construction site bothered the neighbors`
+    = to annoy (pelín más molesto que bother) `The noise from the construction site annoyed the neighbors` - `... made the neighbors annoyed`
+    = to irritate (el más intenso) `The noise from the construction site irritated the neighbors`
+
+
+decepcionar/decepcionado
+    = to disappoint `The movie disappointed the critics` - `I was disappointed with the movie`
+    = to let down `The movie let down the critics` -  `I was let down by the movie`
+    = to fail to meet expectations `The movie failed to meet the critics' expectations`
+    = to upset `The movie upset the critics` - `I was upset with the movie`
+
+
+absorto = engrossed `He was engrossed in the book`
+
+
+intimidado, acobardado = daunted `He felt daunted by the challenge`
+
+
+melancólico / sombrío = gloomy `The rainy weather put everyone in a gloomy mood`
+
+avergonzado
+    = embarrassed (más vergüenza) `I feel embarrassed when I make a mistake`
+    = ashamed (más culpa) `I feel ashamed when I lie to my friends`.
+
+destrozado (emocionalmente) = gutted `She felt gutted after failing her driving test`
+
+desesperado = desperate `She felt desperate when she lost her job`
+
+desanimado
+    = discouraged `He felt discouraged after failing the test`
+    = (de bajón) down `He's been feeling a bit down lately`
+
+desanimarse = put off `Don't be put off by the critics`
+
+desesperanzado = hopeless `He felt hopeless after the news`
+
+abrumado = overwhelmed `She felt overwhelmed by the amount of work`
+
+harto = fed up
+    ? Estoy harto del ruido constante : `I'm fed up with the constant noise`
+
+tristeza = sadness `A wave of sadness washed over him as he remembered his friend`
+triste = sad `She felt sad when she heard the news`
+
+ira / enfado = anger `He clenched his fists, his face red with anger`
+
+asco = disgust `He felt disgust at the sight of the rotten food`
+
+frustración = frustration `He sighed in frustration at not being able to solve the puzzle`
+
+vergüenza = shame `A feeling of shame washed over him after his mistake`
+
+culpa = guilt `She felt guilt for forgetting her promise`
+
+celos = jealousy `A pang of jealousy hit him when she saw them together`
+
+
+
+## Fear
+
+miedo = fear `A jolt of fear went through her when she heard the noise`
+
+asustar
+    = (dar miedo) to scare `The noise scared me`
+    = (dar un susto) to frighten `You frightened me`
+susto
+    = scare `That film gave me a few scares`
+    = fright `That film gave me a few frights`
+
+dar un susto = to give a fright `You gave me a fright`
+
+tener miedo, asustado
+    = scared (informal y versátil) `I was scared by the movie` - `He was scared of the dark` - `He was scared to tell her how he felt` - `I was scared to try it`
+    = frightened of (algo más formal) `I was frightened by the movie` - `He was frightened of the dark` - `He was frightened to tell her how he felt` - `I was frightened to try it`
+    = terrified (más miedo aún) `I was terrified by the movie` - `He was terrified of the dark` - `He was terrified to tell her how he felt` - `I was terrified to try it`
+
+me daría miedo <hacer X>
+    = I’d be scared to <base> `I’d be scared to go bungee jumping`
+
+en pánico
+    = panicking `He was panicking when he lost his wallet`
+
+paralizado = paralyzed `He felt paralyzed by fear`
+
+
+## Gratitude & Appreciation
+
+agradecido
+    = thankful (cotidiano) `He was thankful for the opportunity to travel`
+    = grateful (formal) `She felt grateful for the support of her friends`
+
+agradecer
+    = thank [<sbody>] FOR <ing/sthing> `He thanked his friend for the gift`
+
+gratitud / agradecimiento = gratitude `He expressed his gratitude for their help`
+
+
+## Common Expressions
+
+dejarse llevar (por la emoción/entusiasmo)
+    = to be carried away `He was carried away by his feelings and made a rash decision` - `The crowd got carried away and rushed onto the pitch after the goal`
+
+sentirse mal por
+    = feel bad about <ing> `I feel bad about not helping you`
+    = feel bad for <sbody> `I feel bad for not helping you`
+
+estaría nervioso de <hacer X>
+    = I’d be nervous ABOUT <ing> `I’d be nervous about speaking in public`
+
+Le tengo cariño a ...
+    = to be fond OF... (expresa afecto) `He’s fond of board games because they remind him of his childhood`
+
+me da pena
+    = feel sorry for <sbody> `Don't you feel sorry for me?`
+    = feel sorry for <ing> `I feel sorry for not helping you`
+
+no herir los sentimientos de alguien
+    = spare someone's feelings `I wanted to spare his feelings` - `He phrased his criticism carefully to spare their feelings`
+
+Ya está bien = `That's enough!`

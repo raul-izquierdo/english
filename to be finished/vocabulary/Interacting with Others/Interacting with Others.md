@@ -483,6 +483,21 @@ echar en cara = hold it against `I won't hold it against you if you don't come` 
 fue la peor ... de mi vida
     = it was the worst ... of my life `It was the worst day of my life`
 
+## Joking and Teasing
+
+pinchar / meterse con alguien / vacilar
+    = wind <sbody> up (I) `Alright, alright, I'm just winding up` - `He was just winding me up`
+    = tease (F) `He teased me about my haircut` - `She teased him about his clothes`
+
+va en serio? = are you serious? `Are you serious? I can't believe it!`
+
+estás de broma? = are you joking? (informal) `Are you joking? I can't believe it!`
+
+me estás vacilando? = are you kidding me?
+
+broma/inocentada = prank
+    ? Los amigos le hicieron una broma el día de los inocentes : `His friends played a prank on him on April Fool's Day`
+
 
 ## Rejecting
 
@@ -529,3 +544,22 @@ shall I <base>...?
 	Comparar con
 		Where should we go tomorrow night?
 			Más casual y común
+
+---
+
+abrazar
+    = hug `I hug my friends when I see them`
+    = cuddle (abrazar/acariciar) `I cuddle my dog when I feel sad`
+        - Es más íntimo (más cariñoso, más tiempo, más cerca)
+
+------
+cuidar (a veces intercambiables)
+    ! Los dos primeros son bastante intercambiables
+    = look after (cuidar/atender - implica algo de supervisión) `He takes care of his sick mother`.
+    = take care [of <sbody>] (cuidar de, encargarse de) `take care!!` (despedida) - `She takes care of her elderly parents`
+    = care for (con más dedicación y/o profesional) `Nurses care for patients in the hospital` - `It takes a lot of patience to **care for** someone with dementia`
+        - También _importar_ `I care for my family` - `He doesn't care for modern art`
+
+... los unos a los otros
+    = each other
+    ? Nos cuidamos los unos a los otros en la familia : `We take care of each other in the family`

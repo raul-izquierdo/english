@@ -144,6 +144,8 @@ dependiendo de, ...
     ? Dependiendo de la situación, puede ser mejor esperar : `Depending on the situation, it might be better to wait`
 
 
+perturbar
+    = to disturb `The noise from the construction site disturbed the neighbors`
 
 ## Comparing
 
