@@ -298,3 +298,7 @@ para no tener que
     = to avoid <ing> `I left early to avoid missing the bus`
 
 ---
+
+como consecuencia de
+    = as a result OF `As a RESULT OF the rain, the game was cancelled`
+    = as a consequence OF `As a CONSEQUENCE OF the rain, the game was cancelled`

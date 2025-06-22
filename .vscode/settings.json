@@ -1,3 +1,31 @@
 {
-    "cSpell.language": "es,en-GB"
+    "cSpell.language": "es,en-GB",
+    "folder-color.pathColors": [
+        {
+            "folderPath": "apuntes_online\\to be finished\\",
+            "color": "foldercolorizer.color_ff0000"
+        },
+        {
+            "folderPath": "apuntes_online\\sources\\vocabulary\\Interacting with People\\",
+            "color": "foldercolorizer.color_0066ff"
+        },
+        {
+            "folderPath": "apuntes_online\\sources\\vocabulary\\",
+            "color": "foldercolorizer.color_0000ff"
+        }
+    ],
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "md2html.cmd": true,
+        ".gitignore": true,
+        "build.cmd": true,
+        "check.cmd": true,
+        ".github": true,
+        ".vscode": true
+    },
+    "explorerExclude.backup": {}
 }

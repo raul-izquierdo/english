@@ -1,5 +1,6 @@
 # Adjectives
 
+## Adjectives
 
 agradable
     = nice (informal) `The weather was nice, so we went for a walk`
@@ -68,6 +69,38 @@ obediente = obedient `The dog was obedient to its owner` - `He was obedient to t
 
 humorístico = humorous `The comedian was humorous` - `The story had a humorous twist`
 
+
+
+## Uses of So and Such (son tan...)
+
+tan...
+    = se usa **so**...
+        - Cuando detrás va un adjetivo o adverbio `so beautiful`, `so quickly`
+        - Con _much_, _many_, _little_, _few_ `so much`, `so many`, `so little`, `so few`
+    = se usa **such**...
+        - cuando detrás va un nombre/objeto (opcionalmente con adjetivo) `such a liar`, `such fun/courage`, `such interesting ideas`
+        - Nótese que en _so_ se dijo que se utilizaba con adjetivos, pero se refieres a que después no venga un nombre.
+        - Se usa _such a/an_ cuando el nombre es contable y singular (si no, no lleva _a/an_) `such an idiot`, `such idiots`
+    ? Son tan idiotas : `They're SUCH idiotS`
+    ? Él es tan idiota : `He's SUCH AN idiot`
+    ? Nunca había escuchado voces tan maravillosas antes : `I'd never heard SUCH wonderful voiceS before`
+    ? Nunca había escuchado una voz tan maravillosa antes : `I'd never heard SUCH A wonderful VOICE before`
+    ? Nuestros vecinos son personas tan amables... : `Our neighbours are SUCH friendly people`
+    ? No he comido comida tan buena en mucho tiempo : `I haven't eaten SUCH good food for a long time`
+    ? Ella preparó una comida tan deliciosa para la fiesta... : `She prepared SUCH delicious food for the party`
+    ? Él se enfrentó a desafíos tan difíciles durante su carrera... : `He faced SUCH difficult challenges during his career`
+    ? Ellos expresaron una gratitud tan sincera por nuestra ayuda : `They expressed SUCH sincere gratitude for our help`
+    ? Ella tiene tanto talento para tocar el piano... : `She has SUCH talent for playing the piano`
+    ? Estoy tan cansado : `I'm SO TIRED`
+    ? Él fue tan amable... : `He was SO FRIENDLY`
+    ? Había tantas preguntas... : `There were SO MANY questions`
+    ? No deberías comer tanto : `You shouldn't eat SO MUCH`
+
+tan ... que <consecuencia>
+    = so/such ... THAT
+        - Si es oral y MUY informal, el _that_ se puede omitir
+    ? Fue una película tan mala que nos fuimos antes del final : `It was SUCH A BAD FILM THAT we left before the end`
+    ? Llovía tan fuerte que tuvimos que detener el coche : `It was raining SO HARD THAT we had to stop the car`
 
 
 ----

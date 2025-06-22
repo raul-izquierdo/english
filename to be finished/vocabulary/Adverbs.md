@@ -143,11 +143,10 @@ convenientemente = conveniently `The store is conveniently located near my house
 
 ----
 
-mas o menos = sort of `The project is sort of finished` - `Is he your friend? Sort of. We get along, but we're not very close`
+
 
 ----
 
-tan = so `Ì was so happy than I cried`
 ---
 
 extremadamente = extremely

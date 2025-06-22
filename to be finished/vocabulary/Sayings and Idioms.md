@@ -142,7 +142,7 @@ El tiempo lo cura todo
 Cuando estás en Roma, haz lo que los romanos
     = When in Rome, do as the Romans do
 
-El cesped del vecino siempre parece más verde
+El césped del vecino siempre parece más verde
     = The grass is always greener on the other side
 
 el tiempo vuela cuando te diviertes

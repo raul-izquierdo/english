@@ -4,6 +4,7 @@
 ## Expressing Emotions
 
 suspiro = sigh `He let out a sigh of relief`
+dar un profundo suspiro = give a deep sigh `He gave a deep sigh of relief when he finished the exam`
 
 llanto = cry `She let out a cry of joy`
 
@@ -11,6 +12,13 @@ gritar
     = shout (hablar alto) `He let out a shout of surprise`
     = scream (pegar un grito) `She let out a scream of fear`
 
+dar un grito desgarrador = give a piercing scream `He gave a piercing scream when he saw the ghost`
+
+mostrar una sonrisa de oreja a oreja = give a broad smile `He gave a broad smile when he saw the gift`
+
+con cara inexpresiva (no entendía, reconocía, confusa) = give a blank look `He gave a blank look when I asked him the question` - `She gave me a blank look when I told her the news`
+
+me causa mucho placer = gives me great pleasure `It gives me great pleasure to see you`
 
 ## Expressing Feelings
 
@@ -55,6 +63,7 @@ tranquilo / calmado = calm `The peaceful music helped her feel calm`
 
 cálmate = calm down `You need to calm down before the meeting`
 
+
 ## Confusion
 
 
@@ -76,6 +85,8 @@ aturdido
 preocupar/preocupado = to worry `I'm worried about the exam results` - `I'm worried about my exam results`
 
 sorpresa = surprise `Her eyes widened in surprise at the unexpected gift`
+llevarse una (desagradable) sorpresa = give <sbody> a nasty shock `He gave me a nasty shock when he told me the news` - `She gave me a nasty shock when she arrived unexpectedly`
+llevarse una agrada sorpresa = give <sbody> a pleasant surprise `He gave me a pleasant surprise when he told me the news` - `She gave me a pleasant surprise when she arrived unexpectedly`
 
 
 ## Negative States
@@ -103,6 +114,8 @@ molestar/molesto
     = to annoy (pelín más molesto que bother) `The noise from the construction site annoyed the neighbors` - `... made the neighbors annoyed`
     = to irritate (el más intenso) `The noise from the construction site irritated the neighbors`
 
+perturbar
+    = to disturb `The noise from the construction site disturbed the neighbors`
 
 decepcionar/decepcionado
     = to disappoint `The movie disappointed the critics` - `I was disappointed with the movie`

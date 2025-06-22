@@ -1,0 +1,181 @@
+# Exchanging Opinions. Discussing and Arguing
+
+## Sides
+
+contrarios a la idea = opponents `Opponents of the new law argue that it will increase crime rates`
+
+defensores de la idea
+    = proponents `Proponents of the new law argue that it will reduce crime rates`
+    = advocates `Advocates of the new law argue that it will reduce crime rates`
+
+## Asking Opinions
+
+¿Qué opinas/piensas de...?
+    = What do you think ABOUT...?
+        - Opinión más reflexiva. Es la más común para pedir una opinión
+    = What do you think OF...?
+        -  Casi más preguntando si te gusta algo o no ¿Qué te parece...?
+    ? ¿Qué opinas de la situación en Oriente Medio? : `What do you think ABOUT the situation in the Middle East?`
+    ? ¿Qué opinas de la nueva película? : `What do you think ABOUT the new film?`
+    ? ¿Qué te parecen mis zapatos nuevos? : `What do you think OF my new shoes?`
+    ? ¿Qué te parece su actuación? : `What do you think OF his performance?`
+
+Estás de acuerdo con...?
+    = Do you agree WITH [<sbody> ON] <sthing>?
+        - Nótese que el _with_ puede ir tanto con el _sbody_ como con el _sthing_ (en función de que haya _sbody_ o no)
+    ? ¿Estás de acuerdo con la decisión del comité? : `Do you agree WITH the committee's decision?`
+    ? ¿Estás de acuerdo con la nueva política? : `Do you agree WITH the new policy?`
+    ? ¿Estás de acuerdo con que deberíamos cambiar el enfoque? : `Do you agree WITH us ON changing the approach?`
+    ? Todos estuvimos de acuerdo en la solución : `We all agreed on the solution`
+
+## Giving Opinions
+
+dando opinión con duda
+    = I'm not quite sure, but I think...
+    = As far as I know, ...
+    = I don't really know, but I imagine...
+    = I haven't thought about it before, but perhaps...
+    - Por lo que yo sé, no va a empezar todavía : `As far as I know, he isn't going to start yet`
+
+
+dando opinion con seguridad
+    = For me, ...
+    = I'd say that...
+    = Personally, I think that...
+    = In my opinion, ...
+    = To be honest, I think that...
+    = As far as I'm concerned, ...
+    - Para mi, el primer restaurante era mejor : `For me, the first restaurant was better`
+    - Para mi, no fue falta del defensor : `For me, that wasn't a foul by the defender`
+    - Yo diría que la película fue un éxito : `I'd say that the film was a success`
+    - Desde mi punto de vista, la nueva política es una buena idea : `From my point of view, the new policy is a good idea`
+
+Por poner un ejemplo, ...
+    = To give an example
+
+dejar claro
+    = to make it clear
+    ? Quiero dejar claro que apoyo la decisión: `I want to make it clear that I support the decision`
+
+ni siquiera creo que ... = I don't even think [that] ... `I don't even think there's a word for it`
+
+tu experiencia puede ser diferente = Your mileage may vary `I found the movie boring, but your mileage may vary`
+
+## In Favour of Something
+
+inclinarse por algo = lean towards `I lean towards the idea of going to the beach` - `I lean towards the red dress`
+
+estar a favor de
+    = favour OF `We were all in FAVOUR OF him doing it`
+
+abogar por, defender = advocate for `He advocated for the construction of a new bridge to improve traffic flow`
+
+
+## Reacting to Opinions
+
+Qué es lo que quieres decir = What do you mean by that?
+
+Me gustaría añadir algo a lo que has dicho
+    = I'd like to add something to what you said
+
+estoy de acuerdo
+    = I absolutely agree with you
+    = I think you're right
+
+esa es una buena observación
+    = That's a good point
+    = You nailed it (has dado en el clavo)
+    = You're spot on (estás en lo cierto)
+
+no hay duda
+    = There's no doubt about that
+
+estoy de acuerdo parcialmente
+    = I agree with you up to a point
+
+estoy de acuerdo en casi todo, excepto en...
+    = I agree with you on most things, except for...
+
+reconozco que (formal)
+    = I reckon that (informal) `I reckon that the new policy is a good idea`
+
+## Disagreeing
+
+no estoy tan seguro de ello
+    = I'm not so sure about that...
+
+me temo que no estoy de acuerdo
+    = I'm afraid I don't agree
+
+yo realmente no pienso eso
+    = I don't really think so
+
+creo que no siempre es así
+    = I don't think that's always the case
+
+me niego a ... = `I refuse to believe that ...`
+
+## Managing a Discussion
+
+Empecemos con ...
+    = Let's start with ...
+
+¿Pasamos al siguiente punto?
+    = Shall we move on to the next point?
+
+Hablemos ahora de ...
+    = Now, let's talk about ...
+
+Pasemos ahora a ...
+    = Now let's move on to ...
+
+¿Quieres añadir algo más? Tenemos que completar el tiempo
+    = Do you want to add anything else? We need to fill the time
+
+
+## Ending a Discussion
+
+me mantengo en mi opinión
+    = I stand by my opinion
+    = I stick to my guns
+
+cada uno tenemos nuestra opinión
+    = We can agree to disagree
+
+Así que los dos estamos de acuerdo
+    = So we both agree, don't we?
+
+
+## Agreement and Disagreement
+
+todos estaremos de acuerdo en que
+    = we can all agree that `... the new policy is a good idea`
+
+Yo <expr> ->  Yo también!
+    = Me too `I like chocolate -> Me too`
+    = (en general)  I <expr> -> So do I `I like chocolate -> So do I`
+    = (con auxiliares be/have/can/should/must/will/would) I <aux> -> So <aux> I `I can swim -> So can I` - `I would go -> So would I` - `I'm hungry -> So am I`
+        - RULE: In 'so X I', X must match the auxiliary verb used in the original statement. If it doesn't use an auxiliary (like "I like coffee"), then "do/does/did" is used
+
+Yo no <expr> ->  Yo tampoco!
+    = Me neither `I don't like chocolate -> Me neither`
+    = (en general)  I don't <expr> -> Neither do I `I don't like chocolate -> Neither do I`
+    = (con auxiliares be/have/can/should/must/will/would) I <aux> -> So <aux> I `I can't swim -> Neither can I` - `I wouldn't go -> Neither would I` - `I'm not hungry -> Neither am I`
+        - RULE: La misma que antes, pero pasando de negativo a positivo
+
+discutir sobre...
+    = discuss (hablar/tratar un tema, no necesariamente en desacuerdo)
+        - OJO: que no es el discutir español
+    = argue (es es el discutir español -> normalmente en desacuerdo)
+    = debate (plantear vistas opuestas, normalmente en foro público)
+    ? Discutieron sobre el mejor modo de resolver el problema: `They argued about the best way to solve the problem`
+    ? El comité tratará la nueva política: `The committee will discuss the new policy`
+    ? Discutimos el proyecto en detalle : `We discussed the project in detail`
+    ? Pasaron horas discutiendo sobre el tema: `They spent hours arguing the issue`
+    ? Los políticos debatieron la nueva política económica: `The politicians debated the new economic policy`
+    ? Hablamos / Tratamos los planes para el fin de semana : `We discussed the plans for the weekend`
+
+acordar que, llegar al acuerdo de
+    = agree ON <sthing> (acuerdo sobre un tema) `We agreed on the terms of the contract`
+    = agree TO <sthing> (acuerdo de hacer algo) `We agreed to meet at 5pm`
+    ? ¿Podemos acordar hacerlo de esta manera? : `Can we agree to do it this way?`

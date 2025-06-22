@@ -1,12 +1,45 @@
 # How do you Act. Behaviour and Personality
 
+## Lifestyle
+
+estilo de vida
+    = lifestyle (hábitos personales) `An outdoor lifestyle is good for mental health`
+    = way of life (cultura) `I don't like the american way of life`
+
+llevo una vida... = I lead/live/have a [adjective] lifestyle `I lead a busy lifestyle`
+
+activa = active
+ocupada = busy
+estresante = stressful
+caótica = chaotic
+
+confortable = comfortable
+sencilla = simple
+relajada = relaxed
+de lujo = luxurious
+
+sana, saludable = healthy
+sedentaria = sedentary
+
+al aire libre, en el exterior = outdoor `I lead an outdoor lifestyle`
+tradicional = traditional
+
+estable
+    = stable (improbable que cambie)`The bridge is stable, so it's safe to cross`
+
+desordenado
+    = untidy (ligeramente) `Her desk is a bit untidy, but she can still find everything she needs`
+    = messy (más caótico) `The kitchen was messy after the party, with dishes and food all over the counter`
+
+
 ## Describing Behaviors in the Present
 
 suelo/normalmente... (en el presente)
     ! No usar nunca _I use to_. Sólo se usa la forma _I useD to_, y es para HB en el pasado (nunca en el presente)
-    = <sbody> <adverb> <base>. O sea, el presente con adverbio de frecuencia: usually, normally, often, sometimes, always, never...
-    = usar _tend to <base>_
+    = <sbody> <adverb> <base> (usually, normally, often, sometimes, always, never...)
+    = tend to <base>
     ? Suelo comer fruta todos los días : `I usually eat fruit every day` - `I tend to eat fruit every day`
+    ? En mi casa solemos cenar a las 8 PM : `In my house we usually eat dinner at 8 PM`
 
 
 Yo solía... (en el pasado)
@@ -14,6 +47,8 @@ Yo solía... (en el pasado)
     = I <past> (no indica nada sobre el presente)
     ? Yo jugaba al fútbol cuando era niño (ya no) : `I used to play football when I was a child`
     ? Yo jugaba al fútbol cuando era niño (no indica nada sobre el presente) : `I played football when I was a child`
+
+Nunca lo he hecho en toda mi vida = `I've never done it in my whole life`
 
 
 ## Judging Behaviors
@@ -45,8 +80,6 @@ no era propio de él... (en pasado)
 no será propio de él... (en futuro)
     = It won't be like him to <base>
     ? No será propio de él beber cerveza : `It won't be like him to drink beer`
-
-
 
 ## Changing Behaviors
 
@@ -150,6 +183,28 @@ fiable
     = reliable `The band is reliable and always on time`
         - No confundir con _trustworthy_ (de confianza) `He is a trustworthy person`
 
+## Confidence and Trust
+
+confianza
+    = confidence (en uno mismo) `He spoke with confidence during the presentation` - `She has confidence in her abilities`
+    = trust (en otros) `I trust my friends to keep my secrets` - `He has trust in his team`
+
+me siento con confianza/seguro = to be/feel confident
+    ? Me siento seguro con el examen :  `I feel confident about the exam`
+    ? No estoy suficientemente seguro para hablar en público : `I don't feel confident enough to speak in public`
+    ? El es un orador seguro : `He is a confident speaker`
+    ? El es una persona segura : `He is a confident person`
+
+
+perder la confianza/seguridad
+    = (en uno mismo) lose confidence `He lost confidence after the failure`
+    = (en otros) lose trust IN `He lost trust in his friend after the betrayal`
+
+contar con/confiar en = rely on `I rely on my friends for support` - `I rely on many tricks to get by`
+
+persona con confianza en si misma
+    = self-confident `She is self-confident and speaks well in public`
+        - No confundir con _self-assured_ que es más seguro de sí mismo, pero no necesariamente en público
 
 
 ## Attitudes
