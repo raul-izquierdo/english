@@ -146,6 +146,10 @@ dañar objetos
     = to damage (a objetos) `I don't want to damage the environment`
     = to do damage to (f) `I don't want to do damage to the environment`
 
+traumático
+    = traumatic (no traumaticAL)
+        - traumatic experiences (experiencias traumáticas)
+        - traumatic events (situaciones traumáticas). No tienen por acabar siendo experiencias traumáticas.
 
 ## Expressions
 

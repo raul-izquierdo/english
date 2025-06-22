@@ -210,6 +210,9 @@ días de vacaciones = holidays `I like to spend my holidays with my family`
 turno (de trabajo) = shift `I work the night shift` - `I work the morning shift`
 trabajar a turnos = to work shifts `I work shifts at the hospital`
 
+dar por terminado el dia
+    = call it a day `I'm tired of working on this project. Let's call it a day and start fresh tomorrow`
+
 
 ## Responsibilities
 

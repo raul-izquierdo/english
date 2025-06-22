@@ -7,7 +7,8 @@ naturalmente
 
 
 igualmente
-    = alike `I like both options alike`- `hey think alike on most issues` - `The two teams played alike throughout the tournament`
+    = alike (apariencia o comportamiento parecido) `The two brothers look alike` - `They think alike on most issues`
+    = equally (de igual manera) `I like both options equally` - `The two teams played equally throughout the tournament`
 
 rápidamente
     = quickly `He quickly finished the project`
@@ -18,7 +19,7 @@ puntualmente
 
 adecuadamente = properly `He properly finished the project`
 
-de forma pensada, reflexibamente
+de forma pensada, reflexivamente
     = thoughtfully `He thoughtfully considered the options before making a decision`
 
 suavemente = gently `He gently placed the baby in the crib`
@@ -70,23 +71,21 @@ raramente
 
 anualmente = annually `The festival is held annually`
 
+de vez en cuando
+    = from time to time `I go to the gym from time to time` - `I go to the cinema from time to time`
+    = now and then `I go to the gym now and then` - `I go to the cinema now and then`
+    = now and again `I go to the gym now and again` - `I go to the cinema now and again`
 
-de vez en cuando = from time to time `I go to the gym from time to time` - `I go to the cinema from time to time`
-= now and then `I go to the gym now and then` - `I go to the cinema now and then`
-= now and again `I go to the gym now and again` - `I go to the cinema now and again`
-
-rarely | hardly ever
-^ [quite|very] often $
-^ usually | normally | generally
-^ sometimes $
-[almost] never
-^ ocasionally
-[almost] always
-^ frequently
+raramente = seldom `I seldom eat fast food`
 
 
-twice a week
-every day
+x veces al mes/semana...
+    = once a month `I go to the cinema once a month`
+    = twice a month `I go to the cinema twice a month`
+    = three times a month `I go to the cinema three times a month`
+
+de pascuas a ramos
+    = once in a blue moon `I only see my old college roommate once in a blue moon`
 
 ## Adverbs of Degree (to what extent something happens)
 
@@ -118,7 +117,7 @@ increíblemente
 lamentablemente
     = regrettably `Regrettably, I won't be able to attend the meeting`
 
-sin duda
+sin duda, indudablemente
     = undoubtedly `Undoubtedly, he is the best candidate`
 
 personalmente
@@ -140,18 +139,5 @@ convincentemente = convincingly `He argued convincingly for his proposal`
 
 convenientemente = conveniently `The store is conveniently located near my house`
 
-
-----
-
-
-
-----
-
----
-
-extremadamente = extremely
-
----
-
-importante
-    = significant (importante, relevante)
+indiscutiblemente
+    = unquestionably `Unquestionably, he is the best candidate`

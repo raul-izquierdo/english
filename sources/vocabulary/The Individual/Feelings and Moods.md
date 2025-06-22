@@ -89,6 +89,12 @@ llevarse una (desagradable) sorpresa = give <sbody> a nasty shock `He gave me a 
 llevarse una agrada sorpresa = give <sbody> a pleasant surprise `He gave me a pleasant surprise when he told me the news` - `She gave me a pleasant surprise when she arrived unexpectedly`
 
 
+no es de sorprender
+    = It isn't surprising `It isn't surprising that he's leaving the company`
+    = It is not a surprise (ligeramente más formal) `It is not a surprise that he's leaving the company`
+    = It comes AS no surprise (más formal)`It comes as no surprise that he's leaving the company`
+    = it's no wonder (informal - no es de extrañar) `It's no wonder you're tired after working all day`
+
 ## Negative States
 
 nervioso = nervous `I always get nervous before a job interview`

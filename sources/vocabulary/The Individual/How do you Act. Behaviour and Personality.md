@@ -51,6 +51,7 @@ Yo solía... (en el pasado)
 Nunca lo he hecho en toda mi vida = `I've never done it in my whole life`
 
 
+
 ## Judging Behaviors
 
 es raro que, no es habitual que...
@@ -252,3 +253,5 @@ me acostumbré a...
 me gusta la tranquilidad = I like peace and quiet `I like peace and quiet in my life`
 
 estar haciendo el tonto/perdiendo el tiempo = to be messing about/around `I was just messing around`
+
+no es lo mio = not my cup of tea `I don't like horror movies. They're not my cup of tea`

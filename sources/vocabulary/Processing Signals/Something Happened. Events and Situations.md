@@ -12,6 +12,8 @@ sucedió, tuvo lugar, pasó
 pillar desprevenido
     = catch off guard `I caught him off guard`
 
+de repente = out of the blue `I was surprised when she called me out of the blue`
+
 ## Consequences
 
 le supone, ocasiona

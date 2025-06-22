@@ -61,6 +61,8 @@ excepcional, sobresaliente
 
 cumple un papel importante = play an important role `He plays an important role in the project`
 
+cogerlo con pinzas
+    = take it with a grain of salt `I take everything he says with a grain of salt because he tends to exaggerate`
 
 ## Promising and Deceiving
 

@@ -146,6 +146,8 @@ poner en su lugar, poner en orden, recoger
     = tidy up `I tidied up my room` - `She tidied up the kitchen`
     = organize `I organized my closet` - `She organized the files on her computer`
 
+desordenado = disorganized `The contents of the B2 book are disorganized`
+
 
 ## Broken Things
 

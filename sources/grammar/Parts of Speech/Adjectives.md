@@ -1,6 +1,6 @@
 # Adjectives
 
-## Adjectives
+## Describing Appearance
 
 agradable
     = nice (informal) `The weather was nice, so we went for a walk`
@@ -9,18 +9,30 @@ agradable
 desagradable
     = unpleasant `The weather was unpleasant, so we stayed inside`
 
-estar encantado/contento
-    = be delighted `I'm delighted to meet you`
+raro
+    = raro (poco frecuente)
+    = unusual (poco común)
+    ? Ese fue un ruido extraño : `That was a strange noise`
+    ? Me siento raro : `I feel strange`
+    ? Es raro ver nieve en abril : `It's rare to see snow in April` (o unusual)
+    ? Es un cuadro poco común : `It's a unusual painting`
 
-extraño = strange (unusual - ni bueno ni malo) `The weather is strange today`
+extraño
+    = strange `The weather is strange today`
     = odd (más suave que strange) `She has an odd way of speaking`
     = weird (connotación negativa) `He gave me a weird look`
 
+intimidante, desalentador = daunting `The task seemed daunting at first, but I managed to complete it`
+
+repugnante = disgusting `The food was disgusting` - `The smell was disgusting`
+
+
+## Describing Personality or Feelings
+
+estar encantado/contento
+    = be delighted `I'm delighted to meet you`
+
 incómodo = awkward (incómodo) `The situation was awkward`
-
-
-mejorable
-    = improvable `The design is improvable`
 
 envidioso
     = envious `She was envious of her friend's success`
@@ -36,31 +48,6 @@ perplejo, desconcertado
 ansioso por
     = eager to `I'm eager to start my new job`
 
-constante, uniforme = steady `The boat moved in a steady rhythm across the water` - `He has a steady job in the city`
-
-similar
-    = alike `The two paintings are alike in style` - `She and her mother are alike in many ways`
-
-intimidante, desalentador = daunting `The task seemed daunting at first, but I managed to complete it`
-
-justo = fair `The teacher was fair in grading the exams` - `It was a fair decision to give everyone a chance`
-
-preocupante = worrying `The news about the virus is worrying` - `The situation is worrying for many people`
-
-molesto = annoying `The noise from the construction site is annoying` - `His constant interruptions were annoying`
-
-repugnante = disgusting `The food was disgusting` - `The smell was disgusting`
-
-tranquilizador = reassuring `The doctor's words were reassuring` - `The calm atmosphere was reassuring`
-
-está bien, ok = it's fine `It's fine to leave early` - `It's fine if you don't want to go`
-
-duro, severo = harsh `The weather was harsh` - `The criticism was harsh`
-
-indignante = outrageous `The price of the concert tickets was outrageous`
-
-cuidadoso = careful `Be careful when crossing the street` - `He was careful with his words`
-
 paciente = patient `She is a patient teacher` - `He is a patient person`
 
 dubitativo = hesitant `He was hesitant to make a decision` - `She was hesitant about the plan`
@@ -69,7 +56,35 @@ obediente = obedient `The dog was obedient to its owner` - `He was obedient to t
 
 humorístico = humorous `The comedian was humorous` - `The story had a humorous twist`
 
+preocupante = worrying `The news about the virus is worrying` - `The situation is worrying for many people`
 
+molesto = annoying `The noise from the construction site is annoying` - `His constant interruptions were annoying`
+
+tranquilizador = reassuring `The doctor's words were reassuring` - `The calm atmosphere was reassuring`
+
+duro, severo = harsh `The weather was harsh` - `The criticism was harsh`
+
+indignante = outrageous `The price of the concert tickets was outrageous`
+
+cuidadoso = careful `Be careful when crossing the street` - `He was careful with his words`
+
+## Describing Quality or Condition
+
+mejorable
+    = improvable `The design is improvable`
+
+constante, uniforme = steady `The boat moved in a steady rhythm across the water` - `He has a steady job in the city`
+
+justo = fair `The teacher was fair in grading the exams` - `It was a fair decision to give everyone a chance`
+
+está bien, ok = it's fine `It's fine to leave early` - `It's fine if you don't want to go`
+
+importante
+    = significant (importante, relevante)
+
+excepcional
+    = exceptional `The service at the hotel was exceptional` - `The food was exceptional`
+    = outstanding (sobresaliente) `The service at the hotel was outstanding` - `The food was outstanding`
 
 ## Uses of So and Such (son tan...)
 
@@ -102,10 +117,10 @@ tan ... que <consecuencia>
     ? Fue una película tan mala que nos fuimos antes del final : `It was SUCH A BAD FILM THAT we left before the end`
     ? Llovía tan fuerte que tuvimos que detener el coche : `It was raining SO HARD THAT we had to stop the car`
 
+## Emphasizing Adjectives
 
-----
-
-
-excepcional
-    = exceptional `The service at the hotel was exceptional` - `The food was exceptional`
-    = outstanding (sobresaliente) `The service at the hotel was outstanding` - `The food was outstanding`
+bastante <adjective>
+    = quite `It was quite a good movie` - `It was quite interesting`
+    = rather `It was rather a good movie` - `It was rather interesting`
+    = fairly `It was fairly a good movie` - `It was fairly interesting`
+    = pretty `It was pretty close to me`

@@ -62,7 +62,7 @@ compañero de piso = flatmate `My flatmate is very friendly` - `I share a flat w
 compañero de habitación = roommate `My roommate is very friendly` - `I share a room with my roommate`
 
 
-## Lugares de la casa
+## Places in the house
 
 salón = living room `The living room is where we relax and watch TV`
 
@@ -149,6 +149,9 @@ cajonera = chest of drawers `He has a chest of drawers in his bedroom`
 
 papelera = bin `The bin is full of paper`
 
+persianas = blinds `The blinds are closed to keep the sun out`
+cortinas = curtains `The curtains are drawn to keep the light out`
+
 ## Cleaning
 
 limpiar la habitación
@@ -163,8 +166,6 @@ limpiar el polvo = dust `I need to dust the shelves`
 fregar el suelo = mop the floor `I need to mop the floor in the kitchen`
 
 limpiar la cocina = clean the kitchen `I need to clean the kitchen`
-
-desordenado = disorganized `The contents of the B2 book are disorganized`
 
 desorden, lio, jaleo = mess `The room is a mess` - `The office is a mess`
 

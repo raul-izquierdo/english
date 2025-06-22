@@ -1,7 +1,7 @@
 # Money
 
 
-## Money
+## Money related Vocabulary
 
 ahorros = savings `I have some savings in the bank` - `I live off my savings`
 ahorrar/reservar dinero
@@ -56,7 +56,8 @@ cuota = fee `I pay a subscription fee for Netflix` - `I even used to pay a regul
 cuota periódica = regular fee `I paid a regular fee for my phone plan`
 pagar una mensualidad = pay a monthly fee `I pay a monthly fee for my phone plan`
 
-
+costar un ojo de la cara
+    = cost an arm and a leg `I'd love to buy a new car, but they cost an arm and a leg`
 
 ## Getting Money
 

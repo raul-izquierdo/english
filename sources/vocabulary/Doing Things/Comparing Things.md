@@ -164,3 +164,5 @@ igualmente, de la misma manera
 
 como si fuera una...
     = as though/if it <were> `It looks as if it were a good idea` - `It seems as if it were a good idea`
+
+tantos como = as many as `There are as many apples as oranges in the basket`

@@ -375,3 +375,11 @@ cruce
 autopista = motorway
 entrada a la autopista = motorway entrance
 salida de la autopista = motorway exit
+
+
+## Distances
+
+lejano (distancia)
+    = far away `The beach is far away from the city centre, making it a perfect getaway`
+    = remote (implica aislamiento/difícil acceso) `Living in a remote location can be challenging due to the lack of amenities`
+    = distant (implica distancia emocional) `He felt distant from his family`

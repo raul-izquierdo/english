@@ -44,6 +44,8 @@ tratar como (a persona o situación)
         - `He treats me as/like a child` - `He treats his employees with respect`
         - `He treats it like it’s a choice, when it’s actually something mandatory`
 
+hizo lo mismo, siguió el ejemplo/mismo camino = follow suit `When the first company started offering discounts, others followed suit`
+
 ## Forcing others to Do something
 
 obligo/hizo que alguien...
@@ -141,6 +143,13 @@ rechazar
     ? Ella rechazó el regalo : `She refused the present`
     ? Se negó a seguir su consejo : `He refused to follow her advice`
 
+de ninguna manera = by no means `By no means is this the best solution`
+
+y mucho menos...
+    = let alone `I can't even afford a car, let alone a house` - `I don't blame you, let alone him`
+
+y ni hablar de...
+    = not to mention (informal) `I can't even afford a car, not to mention a house` - `I can't even afford to go out, not to mention travel`
 
 ## Expectations
 

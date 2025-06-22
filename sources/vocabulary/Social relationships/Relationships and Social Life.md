@@ -125,6 +125,9 @@ montar un poyo
     = make a fuss `He made a fuss over the small details` - `She made a fuss over the little things`
         - No confundir con _make a mess_ que es hacer un lío físico `He made a mess in the kitchen`
 
+romper el hielo
+    = break the ice `To break the ice at the party, John started telling some funny stories`
+
 ## Events
 
 se celebran eventos = hold events `We hold events every month` - `The company holds events for its employees`

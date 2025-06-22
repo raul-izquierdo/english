@@ -67,6 +67,11 @@ arreglárselas
     = get by (apañárselas) `I get by with the money I earn` - `I can get by in French when I travel`
     = manage (conseguir, lograr) `I managed to finish the project on time` - `I managed to get by with the money I had`
 
+pasarse (hacer algo en exceso)
+    = overdo `I overdid it at the gym yesterday and now I'm sore` - `He overdid the salt in the soup` - `I don’t want to overdo it with the celebrations; we should keep it simple`
+
+cogerle el tranquillo, empezar a dominarlo = get the hang of it `It took me a while to get the hang of driving a manual car, but now I love it`
+
 ## Risks
 
 arriesgar
@@ -105,6 +110,14 @@ me viene bien (me encaja con mis planes)
     = suit me
     = work for me
     ? La hora de la reunión me viene bien: `The time of the meeting works for me` - `...suits me`
+
+me vendría bien
+    = would do me good (seguro que me vendría bien) `A vacation would do me good` - `A break would do me good`
+    = could do me good (me _podría_ venir bien) `A vacation could do me good` - `A break could do me good`
+
+no me vendría mal, no me haría ningún daño
+    = wouldn't do me any harm `A vacation wouldn't do me any harm` - `A break wouldn't do me any harm`
+
 
 
 ## Asking for Help
@@ -217,6 +230,7 @@ dejar de
 posponer = put off `I put off going to the dentist for months`
 
 ceder, rendirse = give in `I gave in to my friend's request to go out` - `I gave in to temptation and ate the cake`
+tirar la toalla = throw in the towel `After trying for hours to fix the car, I finally threw in the towel and called a mechanic`
 
 ## Outcome of an Activity
 
