@@ -121,7 +121,7 @@ ganar
         - Se usa en guerras, elecciones... En competiciones sólo para dramatizar
 
 perder
-    = lose (informal) `The team lost the match 3-0`
+    = lose (i) `The team lost the match 3-0`
     = to be defeated (formal - ser derrotado) `The team was defeated in the final`
 
 ganador = winner

@@ -99,7 +99,7 @@ hacerse x
     = go <estilo de vida> `I went vegan`
 
 permanece/sigue siendo igual (persona o situación)
-    = stay the same (informal) `He stayed the same after all these years`
+    = stay the same (i) `He stayed the same after all these years`
     = remain the same `He remained the same after all these years`
 
 aceptar, adoptar (idea o costumbre)

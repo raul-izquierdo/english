@@ -88,6 +88,11 @@ en la época de / cuando ...
     = in ...'S time (para personas) `In my grandparents' time, things were different`
     = in ... timeS (para periodos de la historia) `In Roman times, the empire was powerful` - `In ancient/medieval/Victorian times,...`
 
+de antes
+    = at one time (hubo un tiempo en el que) `At one time, I lived in New York`
+    = once (en su dia) `Once, I traveled to Spain`
+    = in the past (más histórico) `In the past, people used horses for transport`
+
 no hace mucho que...
     = not long ago `I saw him not long ago` - `I heard about it not long ago`
 
@@ -205,9 +210,13 @@ tarda/le lleva x tiempo
 
 ## Being On Time and Timing
 
-ser puntual/llegar a tiempo
-    = be on time `I was on time for the meeting` - `I am on time for the meeting`
-    = be punctual `I was punctual for the meeting` - `I am punctual for the meeting`
+ser puntual
+    = be on time `I was on time for the meeting`
+    = be punctual `I was punctual for the meeting`
+
+puntualmente
+    = punctually
+    ? Llegó puntual a la reunión : `He arrived punctually for the meeting`
 
 a tiempo
     = on time (puntual, a la hora) `I try to be on time for meetings` - `The train arrived on time`

@@ -38,7 +38,7 @@ hacer la colada
 
 lavar los platos
     = wash the dishes `I need to wash the dishes after dinner`
-    = do the washing up (informal) `I need to do the washing up after dinner`
+    = do the washing up (i) `I need to do the washing up after dinner`
 
 hacer la limpieza = do the cleaning `I need to do the cleaning this weekend`
 

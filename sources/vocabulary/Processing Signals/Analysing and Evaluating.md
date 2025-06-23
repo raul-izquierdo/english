@@ -8,11 +8,11 @@ analizar la situación
 considerarlo como
     = consider it (sin AS) `I consider him a good friend` - `I consider it a valid option`
     = regard it AS (formal - se usa más en pasivo) `I regard him as a good friend`
-    = see it as (informal) `I see it as a valid option` - `I see it as a good idea`
+    = see it as (i) `I see it as a valid option` - `I see it as a good idea`
 
 se puede considerar como...
-    = counts as (informal) `I don't know if that counts as interesting` - `That doesn't count as a valid excuse` - `That counts as a success in my book`
-    = is considered (formal) `I'm not sure if that would be considered interesting`
+    = counts as (i) `I don't know if that counts as interesting` - `That doesn't count as a valid excuse` - `That counts as a success in my book`
+    = is considered (f) `I'm not sure if that would be considered interesting`
 
 
 tener en cuenta, considerar
@@ -23,8 +23,8 @@ tener en cuenta, considerar
 
 diferenciar
     = tell apart (percibir diferencias - informal) `I can't tell the twins apart`
-    = distinguish (formal) `I can distinguish between the two colors`
-    = differentiate (formal) `I can differentiate between the two colors` - `I can differentiate between the two products`
+    = distinguish (f) `I can distinguish between the two colors`
+    = differentiate (f) `I can differentiate between the two colors` - `I can differentiate between the two products`
     = see the difference `I can't see the difference between the two colors`
 
 como es X
@@ -48,11 +48,11 @@ parece que (deducción)
     = seem `He seems to be in a good mood` - `It seemed like a good idea at the time`
     = sounds (en función de lo que te han contado/has oido) `It sounded like a good idea at the time`
     = look as if (formal y basado en evidencias) `It looks as if it's going to rain` - `They look as if they are enjoying themselves`
-    = look like (informal) `It looks like it's going to rain` - `They look like they are enjoying themselves`
+    = look like (i) `It looks like it's going to rain` - `They look like they are enjoying themselves`
 
 me dió la impresión de que
     = I got the impression that `I got the impression that he was upset` - `I got the impression that she was happy`
-    = I had the impression that (formal) `I had the impression that he was upset` - `I had the impression that she was happy`
+    = I had the impression that (f) `I had the impression that he was upset` - `I had the impression that she was happy`
 
 
 me temo que = I’m afraid (polite) `I'm afraid I can't help you`
@@ -219,7 +219,7 @@ if 90% false/didn't happen
 
 es probable que (ocurra algo)
     = It’s likely that `It’s likely that the meeting will be postponed`
-    = Chances are that (informal) `Chances are that the project will be delayed`
+    = Chances are that (i) `Chances are that the project will be delayed`
 
 es probable que (alguien haga algo)
     = <sbody> is likely to <base> (f) `She is likely to help us`

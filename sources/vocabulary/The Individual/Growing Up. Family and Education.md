@@ -3,8 +3,8 @@
 ## Identity
 
 apellido
-    = surname (formal) `My surname is Smith`
-    = last name (informal) `My last name is Smith`
+    = surname (f) `My surname is Smith`
+    = last name (i) `My last name is Smith`
 
 
 parecerse, salir a = take after (aspecto y/o carácter) `He takes after his father in looks` - `She takes after her mother in personality`
@@ -16,7 +16,7 @@ entre 1 y 3 años (camina) = toddler `The toddler is learning to walk`
 
 los niños
     = children `Children are the future of our society` - `The children at the party were very happy`
-    = kids (informal) `Kids are very curious`
+    = kids (i) `Kids are very curious`
 
 adolescentes = teenagers `Teenagers' brains aren't fully developed yet`
 adolescencia

@@ -1,7 +1,7 @@
 # Reported Speech
 
 
-## Use
+## Convert to Reported Speech
 
 reported speech is used to
     = The rules in this chapter are to report what someone said in the past without quoting them directly

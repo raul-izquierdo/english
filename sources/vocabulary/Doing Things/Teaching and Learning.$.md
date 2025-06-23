@@ -21,8 +21,8 @@ clases particulares/extraescolares
 curso de = course in <subject> `I am taking a course in history`
 
 apuntarse a ...
-    = sign up for ... (informal) `I signed up for a course in photography`
-    = enrol in ... (formal) `I enrolled in a photography course`
+    = sign up for ... (i) `I signed up for a course in photography`
+    = enrol in ... (f) `I enrolled in a photography course`
 estar haciendo un curso de...
     = taking `I am taking a course in photography`
     = attending (enfatiza el ir en persona) `I am attending a course in photography`
@@ -248,7 +248,7 @@ tengo que hacer un documento = I have to write a document
 
 texto de relleno, paja
     = waffle (sin añadir _text_ detrás) `The essay was full of waffle`
-    = superfluous text (formal) `The essay was full of superfluous text`
+    = superfluous text (f) `The essay was full of superfluous text`
 
 coma = comma (doble m) `The comma is used to separate items in a list`
     - OJO: no confundir con estar _en coma_, que es sólo con una 'm'
@@ -261,8 +261,8 @@ citar
     = cite (más formal) `The article cites several studies to support its argument`
 
 cita
-    = quotation (formal) `The quotation was from a famous author`
-    = quote (informal) `The quote was from a famous author`
+    = quotation (f) `The quotation was from a famous author`
+    = quote (i) `The quote was from a famous author`
 
 comillas (" ')
     = quotation marks/quotes `Don't leave out the quotes`
@@ -270,7 +270,7 @@ comillas (" ')
     = double quotes
 
 omitir, dejar fuera
-    = omit (formal) `Don't omit the important information`
+    = omit (f) `Don't omit the important information`
     = leave out `Don't leave out the important information`
 
 punto y seguido = full stop `The full stop is used to end a sentence`
@@ -302,10 +302,10 @@ porcentaje '%' = percent sign `The percent sign is used to indicate a percentage
 
 añade un <symbol>
     = add a <symbol> (neutral) `Add a comma after the word`
-    = insert a <symbol> (formal) `Insert a comma after the word`
+    = insert a <symbol> (f) `Insert a comma after the word`
 
 pon/usa un <symbol>
-    = put a <symbol> (informal) `Put a comma instead of a semicolon`
+    = put a <symbol> (i) `Put a comma instead of a semicolon`
     = use a <symbol> (neutral) `Use a comma instead of a semicolon`
 
 
@@ -328,7 +328,7 @@ distraer = to distract `The noise distracted me from studying` - `Try not to dis
 no entiendo
     = I don't get it Informal) `I don't get it, can you explain it again?`
     = I don't understand (neutral) `I don't understand the instructions`
-    = I fail to understand (formal) `I fail to understand why he did that`
+    = I fail to understand (f) `I fail to understand why he did that`
     = I don't see `I don't see the point of this exercise`
 
 para ver si lo he entendido/para aclararme = `So, just to clarify, ...`
@@ -421,14 +421,14 @@ la calidad ha disminuido = `The quality of education has decreased`
 La exigencia en la educación ha disminuido en los últimos años = `The demand in education has decreased in recent years`
 
 ampliar tu vocabulario
-    = enrich your vocabulary (formal) `Reading books can help you enrich your vocabulary`
+    = enrich your vocabulary (f) `Reading books can help you enrich your vocabulary`
 
 mejorar tus dotes de comunicación
-    = to enhance your communication skills (formal) `Taking a course can help you enhance your communication skills`
-    = to improve your communication skills (informal) `Taking a course can help you improve your communication skills`
+    = to enhance your communication skills (f) `Taking a course can help you enhance your communication skills`
+    = to improve your communication skills (i) `Taking a course can help you improve your communication skills`
 
 ampliar tus horizontes
-    = broaden your horizons (formal) `Traveling can help you broaden your horizons`
+    = broaden your horizons (f) `Traveling can help you broaden your horizons`
 
 estoy atascado/bloqueado
     = stuck (de _to stick:stuck:stuck_)

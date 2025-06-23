@@ -5,7 +5,7 @@
 
 aspecto, imagen
     = look
-    = appearance (formal)
+    = appearance (f)
     ? Tiene un aspecto juvenil : `She has a youthful look`
     = Su aspecto era muy informal : `His look was very casual`
 

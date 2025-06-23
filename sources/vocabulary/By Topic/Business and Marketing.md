@@ -7,7 +7,7 @@ publicidad = advertising `Advertising is important for businesses`
 
 anuncio
     = advertisement `I saw an advertisement for a new car`
-    = ad (informal)
+    = ad (i)
 
 anunciar = advertise `They advertised the new product on TV`
 

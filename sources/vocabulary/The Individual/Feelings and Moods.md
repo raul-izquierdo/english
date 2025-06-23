@@ -54,7 +54,7 @@ entusiasmo = excitement `There was a buzz of excitement before the concert began
 estar cómodo, a gusto = at ease `I feel at ease in this environment` - `She felt at ease with her friends`
 
 encantado, contento
-    = pleased to (formal) `I’m pleased to meet you`
+    = pleased to (f) `I’m pleased to meet you`
     = glad `I’m glad to meet you`
 
 enérgico = energetic `She was in an energetic mood and went for a long run`
@@ -207,7 +207,7 @@ paralizado = paralyzed `He felt paralyzed by fear`
 
 agradecido
     = thankful (cotidiano) `He was thankful for the opportunity to travel`
-    = grateful (formal) `She felt grateful for the support of her friends`
+    = grateful (f) `She felt grateful for the support of her friends`
 
 agradecer
     = thank [<sbody>] FOR <ing/sthing> `He thanked his friend for the gift`

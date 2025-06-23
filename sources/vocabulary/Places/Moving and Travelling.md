@@ -190,10 +190,11 @@ andar con determinación/paso firme
 
 
 llegar a
-    = arrive (formal)
+    = arrive (f)
         - arrive IN <pais/ciudad/área grande> `I arrived in Spain last week` - `The book arrived in bookshops`
         - arrive AT <lugar específico> `I arrived at the hotel late at night` - `I arrived at the airport early`
-    = get to <place> (informal) `Have you got to the hotel yet?` - `I got to the airport early`
+        - arrive FOR <event> `He arrived punctually for the meeting`
+    = get to <place> (i) `Have you got to the hotel yet?` - `I got to the airport early`
 
 
 presentarse en <lugar>
@@ -310,7 +311,7 @@ crucero = cruise `I went on a cruise to the Caribbean` - `The cruise was amazing
 
 metro
     = underground `I took the underground to work` - `The underground is very convenient`
-    = tube (informal) `I took the tube to work` - `The tube is very convenient`
+    = tube (i) `I took the tube to work` - `The tube is very convenient`
         - ($) subway
 parada de metro = underground/tube station `The tube station was crowded`
 

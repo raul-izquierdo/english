@@ -49,7 +49,7 @@ levantar/subir
             - elevar volumen `He raised his voice to be heard`
             - criar `They raised the children` - `She raised the dog from a puppy`
             - erigir `They raised the monument`
-    = put up (informal) `He put up the box on the shelf` - `Put up your hand if you have a question`
+    = put up (i) `He put up the box on the shelf` - `Put up your hand if you have a question`
 
 se eleva sobre
     = tower over `The building towers over the city` - `The mountain towers over the valley`
@@ -110,7 +110,7 @@ coger algo rápido
 ## Giving Things
 
 dar
-    = give (informal) `He gave me a book`
+    = give (i) `He gave me a book`
     = hand over (transferir control) `Could you hand over the remote control, please?`
     = pass on (pasar algo a alguien) `He passed on the message to his friend`
 

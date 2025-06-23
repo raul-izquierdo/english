@@ -153,7 +153,7 @@ me gustó, disfruté
     = I loved (el mayor) `I loved the film`
 
 estar enganchado a series
-    = be hooked on (informal) `I'm hooked on this series` - `I'm hooked on this show`
+    = be hooked on (i) `I'm hooked on this series` - `I'm hooked on this show`
     = engaged in (más formal) `I'm engaged in this series` - `I'm engaged in this show`
 
 
@@ -308,4 +308,4 @@ núcleo de la banda = core `The core of the band is made up of three members`
     - kernel es menos común fuera de informática
 
 dar un concierto/show
-    = put on (informal) `The band put on a great show` - `The company put on a great show for the employees`
+    = put on (i) `The band put on a great show` - `The company put on a great show for the employees`

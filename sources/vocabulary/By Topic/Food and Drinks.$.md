@@ -47,7 +47,7 @@ se ha estropeado
 picante = spicy `I love spicy food` - `I'm not keen on spicy onions`
 
 sabroso, con mucho sabor
-    = tasty (informal) `The food was tasty` - `The dish was very tasty`
+    = tasty (i) `The food was tasty` - `The dish was very tasty`
     = delicious `The food was delicious` - `The dish was very delicious`
 
 sosa
@@ -177,7 +177,7 @@ quiero un ... (pedir en caja McDonalds)
 tomaré X (pedir a camarero en mesa)
     = I'll have X, please `I'll have the steak, please`
     = I'll take X, please `She will take the steak, please`
-    = I'd like X, please (formal) `I'd like the steak, please`
+    = I'd like X, please (f) `I'd like the steak, please`
 
 pedimos X
     = we ordered X `We ordered the steak`

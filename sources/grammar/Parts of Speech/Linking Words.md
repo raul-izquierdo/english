@@ -4,78 +4,87 @@
 ## Purpose and Reason
 
 para [motivo]
-    = to `I’m going to the gym to stay healthy` - `I’m going to the gym to lose weight` (más informal)
-    = in order to `I went to the store in order to buy some milk`
-    = so as to (formal) `I’m going to the gym so as to stay healthy` - `I’m going to the gym so as to lose weight`
-    = so that (formal) `He saved money so that he could buy a car`
+    = [in order] to (más informal quitando el in order)
+    = so as to (f)
+    ? Voy al gimnasio para mantenerme saludable y perder peso : `I’m going to the gym to stay healthy and lose weight` - `so as to ...`
 
-por = for `He’s working for the good of his family`
+para que <sbody> pueda...
+    = so that
+    ? Le di instrucciones para que supiera qué hacer : `I gave him instructions so that he would know what to do`
+    ? Ahorró dinero para poder comprar un coche : `He saved money so that he could buy a car` (para que él...)
 
-por que (introduce motivo)
-    = because `There's no garantee because the weather is bad` - `Because you’re here, let’s start the meeting`
+por = for
+    ? Está trabajando por el bien de su familia : `He’s working for the good of his family`
 
 ya que... (motivo conocido o obvio)
-    = since (más formal) `There's no garantee since the weather is bad` - `Since you’re here, let’s start the meeting`
-    = as (más formal) `There's no garantee as the weather is bad` - `As you’re here, let’s start the meeting`
+    = since (más formal)
+    = as (más formal)
+    ? No hay garantía ya que el clima es malo : `There's no garantee since the weather is bad` - `... as the weather`
+    ? Ya que estás aquí, empecemos la reunión : `Since you’re here, let’s start the meeting`  - `As you're here...`
 
 como forma de, a modo de
-    = as a way of `I’m going to the gym as a way of staying healthy`
-    = by way of `I’m going to the gym by way of staying healthy` (más formal)
+    = as a way of
+    = by way of (más formal)
+    ? La hizo un regalo como forma de pedir perdón : `He gave her a gift as a way of asking for forgiveness`
 
-porque, debido a
-    = because (neutro) `The flight was delayed because it was raining`
-    = because OF (debido a) `The flight was delayed because of the rain`
-    = due to (formal - debido a) `The flight was delayed due to bad weather`
+porque = because
+
+debido a
+    = because OF
+    = due to (f) `The flight was delayed due to bad weather`
+    ? El vuelo se retrasó debido a la lluvia : `The flight was delayed because of the rain`
 
 para no tener que
-    = so [that] <sbody> don't/won't have to `Change that so you don't have to fix it later.`
-    = to avoid <ing> `I left early to avoid missing the bus`
-
+    = so [that] <sbody> don't/won't have to
+    = to avoid <ing>
+    ? Cámbialo para no tener que arreglarlo más tarde : `Change that so you don't have to fix it later`
+    ? Salí temprano para no perder el autobús : `I left early to avoid missing the bus`
 
 por si acaso = just in case
 
 
 ## Conditions
 
-
 siempre y cuando/a condición de que/si...
-    = if (informal) `I’ll go to the party if you come with me`
-    = as long as (enfatiza condición - neutral) `I’ll go to the party as long as you come with me`
-    = provided that (formal) `I’ll go to the party provided that you come with me`
+    ! Son las versiones formales del **if**
+    = as long as (enfatiza condición - neutral)
+    = provided that (f)
+    ? Iré a la fiesta siempre y cuando vengas conmigo : `I’ll go to the party as long as you come with me`
+    ? Puedes venir siempre y cuando traigas tu identificación : `You can come provided that you bring your ID`
 
-siempre y cuando
-    = as long as `You can stay as long as you are quiet`
-    = provided that (más formal - indica requisito) `You can come provided that you bring your ID`
-
-en caso contrario
-    = otherwise
+en caso contrario = otherwise
 
 ## Adding Information
 
 además
-    = besides (informal) `He is a good friend. Besides, he always helps me`
-    = moreover (f) (añade el aspecto más importante)  `The study was poorly designed. Moreover, it failed to consider important variables`
-    = furthermore (efecto adicional de un aspecto)  `The new policy will reduce costs. Furthermore, it will improve employee morale`
-    = what's more (informal - efecto adicional) `The new policy will reduce costs. What's more, it will improve employee morale`
+    = besides (i)
+    = moreover (f) (añade el aspecto más importante)
+    = furthermore (efecto adicional de un aspecto)
+    = what's more (i) efecto adicional
+    ? Es un buen amigo. Además, siempre me ayuda : `He is a good friend. Besides, he always helps me` (podrían ser también los otros)
 
 además de
-    = besides (informal) `Besides being known for his work, he is also a great musician`
+    = besides (i)
+    = On top of (i)
     = in addition [to] (añadir aspecto adicional) `In addition [to his duties as manager], he also oversees training`
-    = On top of that (i)
     = as well as `The job requires strong communication skills as well as technical knowledge`
     = apart from `Apart from studying, I also work part-time` (más neutral)
+    ? Además de ser conocido por su trabajo, también es un gran músico : `Besides being known for his work, he is also a great musician`
 
-también = also `I like chocolate; I also like vanilla`
+también = also
+    ? Me gusta el chocolate. También me gusta la vainilla : `I like chocolate. I also like vanilla`
 
 incluso = even
-
+    ? Incluso los expertos pueden cometer errores : `Even experts can make mistakes`
 
 ## Contrast Linkers
 
 sin embargo
-    = however (formal) `It was raining; however, we decided to go for a walk`
-    = nevertheless/nonetheless (más formal: no obstante) `It was raining. Nevertheless, we went hiking`
-    = though (sólo cuando se usa al final de una frase) `He said he was busy. He came anyway, though`
+    = however (f)
+    = nevertheless/nonetheless (más formal: no obstante)
+    = though (esto sólo se puede usar al final de una frase - los anteriores en cualquier sitio)
+    ? Estaba lloviendo, sin embargo, decidimos salir a caminar : `It was raining; however, we decided to go for a walk`
+    ? Dijo que estaba ocupado. Vino de todos modos, sin embargo : `He said he was busy. He came anyway, though`
 
 ... por el contrario
     = on the contrary
@@ -94,7 +103,7 @@ a pesar de que = even though
 
 aunque
     = although `Although it was raining, we went for a walk`
-    = though (informal) `Though it was raining, we went for a walk`
+    = though (i) `Though it was raining, we went for a walk`
     = even though (más énfasis: incluso a pesar de...) `Even though it was raining, we went for a walk` - `Even though he was tired, he went to the party`
     = if `She’s kind, if a little shy` - `It was a clever plan, if a risky one`
 
@@ -124,7 +133,7 @@ fue justo lo contrario
 
 por tanto, como consecuencia
     = as a result (neutro)
-    = therefore (formal) `The experiment did not yield the expected results; thus, the hypothesis was revised`
+    = therefore (f) `The experiment did not yield the expected results; thus, the hypothesis was revised`
     = thus (formal menos común) `The experiment did not yield the expected results; therefore, the hypothesis was revised`
     = consequently (muy formal)
 
@@ -143,7 +152,7 @@ X unido a / junto con Y...
 
 Esto plantea la cuestión de si...
     = This raises the question of whether ... `This raises the question of whether technology is good or bad for society`
-    = This poses the question of whether ... (formal)
+    = This poses the question of whether ... (f)
 
 
 ## Clarification and Explanation
@@ -154,9 +163,9 @@ ya que = since `Since it’s late, let’s go home`
 
 
 es decir
-    = that is (formal) `The company is expanding its operations; that is, it is opening new offices in Europe`
+    = that is (f) `The company is expanding its operations; that is, it is opening new offices in Europe`
     = in other words (más común) `The company is expanding its operations; in other words, it is opening new offices in Europe`
-    = namely (formal) `The company is expanding its operations; namely, it is opening new offices in Europe`
+    = namely (f) `The company is expanding its operations; namely, it is opening new offices in Europe`
 
 en lo que a mi respecta
     = as far as I'm concerned `As far as I'm concerned, the project is going well`
@@ -166,7 +175,7 @@ cuando se trata de X,
 
 Respecto a X, ...
     = regarding X `Regarding the project, we need to discuss the budget`
-    = with regard to X (formal) `With regard to the project, we need to discuss the budget`
+    = with regard to X (f) `With regard to the project, we need to discuss the budget`
 
 En cuanto a X, ...
     = as for X `As for the project, we need to discuss the budget`
@@ -209,34 +218,39 @@ en resumen (sin conclusiones)
     = all in all (informal - como balance) `All in all, it was a productive day`
     = to sum up (informal - recapitulando) `To sum up, our findings highlight the importance of teamwork`
 
-en cualquier caso (sea lo que sea)
+
+de todas formas (a pesar de algo)
+    = anyway (i)
+    = regardless (f) (un poco más tajante)
+    ? Iré a la fiesta de todas formas : `I'll go to the party anyway/regardless`
+    ? No me gusta el café. Pero lo tomaré de todos modos : `I don't like coffee. But I'll have it anyway`
+
+en cualquier caso (sea cual sea el resultado)
     = in any case
-    = anyway (i) `Anyway, I have to go now`
     ? Puede que llueva o puede que no. En cualquier caso, tenemos que coger un paraguas : `It might rain, or it might not. In any case, we need to take an umbrella`
 
-de todas formas
-    = anyway `I'm going to the party anyway`
-    = regardless (formal) `I'm going to the party regardless`
+
 
 ## Sequencing Ideas
 
-Lo primero, ...
-    = first of all
+Lo primero, ... = first of all
     ? Lo primero, quiero agradecerles haber venido : `First of all, I want to thank you for coming`
 
-lo primero/lo más importare: <tema>
-    = first thing's first `First thing's first, we need to finish this project before we can start a new one`
+lo primero es lo primero = first thing's first
+    ?  Lo primero es lo primero: quiero agradecerles haber venido : `First thing's first, we need to finish this project before we can start a new one`
 
 por un lado = on the one hand
 
 por otro lado = on the other hand
 
 etcetera
-    = and so on `I need to buy groceries, like milk, bread, eggs, and so on`
-    = and so forth (formal) `I need to buy groceries, like milk, bread, eggs, and so forth`
+    = and so on
+    = and so forth (f)
+    ? Necesito comprar alimentos, como leche, pan, huevos, etc. : `I need to buy groceries, like milk, bread, eggs, and so on` - `eggs, and so forth`
 
 ## Possibility and Uncertainty
 
 quizás
-    = perhaps (formal) `Perhaps we should consider other options`
-    = maybe (informal) `Maybe we should consider other options`
+    = maybe (i)
+    = perhaps (f)
+    ? Quizás deberíamos considerar otras opciones: `Maybe we should consider other options`

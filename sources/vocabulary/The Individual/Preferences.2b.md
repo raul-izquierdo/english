@@ -109,7 +109,7 @@ Me apetece <objeto|hacer algo> (x2)
 
 elegir, optar por
     = choose (común)  `I will choose the red dress`
-    = select (formal) `I will select the red dress`
+    = select (f) `I will select the red dress`
 
 optar, quedarse con
     = opt FOR <sthing> `I will opt for the red dress`

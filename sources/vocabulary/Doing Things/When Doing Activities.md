@@ -163,7 +163,7 @@ gran problema
 encontrar/meterse en problemas
     = run into (encontrarse - informal) `I ran into some problems with the project`
     = get into (meterse - informal) `If you don't pay your bills, you'll get into problems with the bank`
-    = encounter (formal) `We encountered some problems with the project` - `We encountered some difficulties`
+    = encounter (f) `We encountered some problems with the project` - `We encountered some difficulties`
 
 tener problemas
     = to have problem/difficulty/trouble <ing>
@@ -173,7 +173,7 @@ preocupaciones, temores = concerns `There are concerns about the new policy`
 
 estoy bloqueado (no sé seguir/no entiendo)
     = I’m stuck `I’m stuck on this problem` - `I’m stuck on this project` - `I’m stuck on this task`
-    = I’m at a standstill (formal) `I’m at a standstill with this project` - `I’m at a standstill with this task`
+    = I’m at a standstill (f) `I’m at a standstill with this project` - `I’m at a standstill with this task`
 
 estoy intrigado de por qué no funcionó = `I’m intrigued as to why it didn’t work`
 
@@ -240,9 +240,16 @@ no salir bien
     = go wrong `Something went wrong with the project`
     = backfire (salió mal por un error) `The plan backfired and caused more problems`
 
+no (consiguió) x
+    ! Es la versión más enfática de 'It didn't <sthing>'
+    = it failed to <base> (f)
+    ? No consideró variables importantes : `It failed to consider important variables`
+    ? El plan no consiguió sus objetivos : `The plan failed to achieve its goals`
+    ? El proyecto no cumplió con los plazos : `The project failed to meet the deadline`
+
 hacerlo mal
     = do it wrong `I did it wrong` - `He did it wrong`
-    = make a mess of ... (informal) `I made a mess of it` - `He made a mess of the project`
+    = make a mess of ... (i) `I made a mess of it` - `He made a mess of the project`
 
 salió bien
     = go well `The project went well`
@@ -262,7 +269,7 @@ conseguir llegar a /alcanzar <lugar>
 
 llevar a, provocar, causar
     = lead to `Lack of sleep can lead to health problems` - `Lack of exercise can lead to health problems`
-    = bring about (informal) `Lack of sleep can bring about health problems`
+    = bring about (i) `Lack of sleep can bring about health problems`
 
 llegó a ser = grew to be `He grew to be a great leader`
 
@@ -322,8 +329,8 @@ por ocio = for leisure `I play sports for leisure`
 por placer = for pleasure `She reads novels for pleasure`
 
 por diversion
-    = for enjoyment (formal) `He goes hiking for enjoyment`
-    = for fun (informal) `I play sports for fun`
+    = for enjoyment (f) `He goes hiking for enjoyment`
+    = for fun (i) `I play sports for fun`
 
 para cambiar = for a change `I went to the concert for a change`
 

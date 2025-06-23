@@ -37,9 +37,9 @@ relación de amistad = friendship `They have a strong friendship` - `She values 
 amistad = friendship `Friendship is important in life` - `She values her friendships`
 amigo
     = friend `He is my best friend` - `She is a good friend of mine`
-    = buddy (informal) `He is my buddy`
-    = mate (informal) `He is my mate`
-    = pal (informal) `He is my pal`
+    = buddy (i) `He is my buddy`
+    = mate (i) `He is my mate`
+    = pal (i) `He is my pal`
 
 compañerismo = camaraderie `Camaraderie is important in the workplace`
 
@@ -135,7 +135,7 @@ se celebran eventos = hold events `We hold events every month` - `The company ho
 (el acto) fue bien, sin incidentes = went off `The event went off without a hitch` - `The party went off without a hitch`
 
 asistir a un evento
-    = attend (formal) `I will attend the meeting tomorrow` (asistir a un evento)
+    = attend (f) `I will attend the meeting tomorrow` (asistir a un evento)
         - No confundir con _assist_, que se usa en el sentido de ayudar (`le asistió en el proyecto`)
     = turn out (se congregó - enfatiza gran número) `A lot of people turned out for the concert`
 
@@ -166,7 +166,7 @@ gracioso
         - A diferencia de fun, makes you laugh (un chiste, historia, ...)
 
 pasarlo bien
-    = enjoy oneself (formal) `I enjoyed myself at the party` - `He enjoyed himself on vacation` - `Did you enjoy yourself?`
+    = enjoy oneself (f) `I enjoyed myself at the party` - `He enjoyed himself on vacation` - `Did you enjoy yourself?`
     = have a good time `I had a good time at the party` - `We had a great time on vacation`
 
 está por ahí pasándoselo bien = `He is out enjoying himself`
@@ -179,7 +179,7 @@ pinchar / meterse con alguien / vacilar
 
 va en serio? = are you serious? `Are you serious? I can't believe it!`
 
-estás de broma? = are you joking? (informal) `Are you joking? I can't believe it!`
+estás de broma? = are you joking? (i) `Are you joking? I can't believe it!`
 
 me estás vacilando? = are you kidding me?
 
@@ -201,7 +201,7 @@ pasar el rato
 ## Contacting People
 
 contactar con alguien
-    = get in touch with (informal) `I will get in touch with you later`
+    = get in touch with (i) `I will get in touch with you later`
     = contact (neutro) `I will contact you later` - `I contacted him yesterday`
 
 dirigirse a alguien = address `He addressed the letter to the manager` - `He addressed the audience during the presentation`

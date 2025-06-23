@@ -69,8 +69,8 @@ ganar dinero
     = get money (conseguir dinero) `I get money from my job`
 
 heredar
-    = inherit (formal) `She inherited a fortune from her father`
-    = come into (informal) `He came into a lot of money when his uncle died`
+    = inherit (f) `She inherited a fortune from her father`
+    = come into (i) `He came into a lot of money when his uncle died`
 
 donación = donation
 donante = donor
@@ -94,7 +94,7 @@ salario
 
 ganarse la vida
     = make a living (natural) `I make a living as a teacher` - `He makes a living as a musician`
-    = earn a living (formal) `I earn a living as a teacher` - `He earns a living as a musician` (más formal)
+    = earn a living (f) `I earn a living as a teacher` - `He earns a living as a musician` (más formal)
 
 sustento = livelihood `My job is my livelihood` - `My job is my main source of livelihood`
 fuente de ingresos = source of income `My main source of income is my job`

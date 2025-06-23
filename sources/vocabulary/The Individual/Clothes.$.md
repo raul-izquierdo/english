@@ -25,8 +25,8 @@ desvestirse (no entiendo muy bien la diferencia)
 ponerse la <prenda> = put on `He put on his shirt before going to the meeting`
 
 quitarse la <prenda>
-    = take off (informal) `He took off his shoes before entering the house`
-    = remove (formal) `He removed his shoes before entering the house`
+    = take off (i) `He took off his shoes before entering the house`
+    = remove (f) `He removed his shoes before entering the house`
 
 abrochar (ropa)
     = fasten `She fastened her coat before going outside`

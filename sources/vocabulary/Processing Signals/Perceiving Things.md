@@ -24,7 +24,7 @@ mirar a tu alrededor
 
 al ver ...
     = at the sight of ... `At the sight of the results, I was surprised`
-    = upon seeing ... (formal) `Upon seeing the results, I was surprised`
+    = upon seeing ... (f) `Upon seeing the results, I was surprised`
 
 
 a la vista = in sight `There are no signs of life in sight`

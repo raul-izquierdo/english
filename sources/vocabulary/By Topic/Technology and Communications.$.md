@@ -95,7 +95,7 @@ subir fotos, memes... = to share `I share photos on social media`
 
 acceder a Internet con
     = to get/go online via ... `I get online every day via my phone`
-    = to access the Internet via ... (formal) `I access the Internet every day via my phone`
+    = to access the Internet via ... (f) `I access the Internet every day via my phone`
 
 recibir emails
     = to receive emails `I receive emails every day`

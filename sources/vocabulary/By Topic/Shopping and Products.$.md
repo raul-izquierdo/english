@@ -16,7 +16,7 @@ recoger = pick up `I need to pick up my clothes from the dry cleaner`
 la compra = the purchase `The purchase of the new car was a big decision`
 la compra (lo que se ha comprado)
     = shopping "I'll show you my shopping later"
-    = purchases (formal) "I'll show you my purchases later"
+    = purchases (f) "I'll show you my purchases later"
 
 comprar online = buy online `I prefer to buy online`
 comprar en la tienda = buy in-store `I prefer to buy in-store`
@@ -44,7 +44,7 @@ envolver = wrap `I need to wrap the present` - `I need to wrap the gift`
 ## Returns
 
 devolver algo
-    = return (formal) `I need to return this book to the library`
+    = return (f) `I need to return this book to the library`
     = give <sthing> back (devolver algo a persona - informal) `I need to give this book back to my friend`
     = take <sthing> back (descambiar en tienda) `He took the computer back to DELL` - `I need to take this back to the store`
 
@@ -54,7 +54,7 @@ cambiar objeto por otro
         - (para ocupar el mismo lugar) `I replaced the old computer with a new one`
         - (reemplazar por defecto) `I replaced the broken part of the machine`
     = swap (intercambiar con otra persona) `I'll swap my old comic book for your football sticker`
-    = exchange (formal) `You can exchange that jumper for a different size if it doesn't fit`
+    = exchange (f) `You can exchange that jumper for a different size if it doesn't fit`
     = trade (intercambiar en un negocio/acuerdo) `He traded his old car for a motorbike`
 
 intercambiable = interchangeable `The parts are interchangeable` - `The two products are interchangeable`
@@ -182,7 +182,7 @@ precio razonable = reasonable price `The price of the dress was reasonable`
 gratuito, gratis = free `A true tapa is free for clients`
 gratuitamente
     = for free `The service is for free` - `The service is for free for all clients`
-    = free of charge (formal) `The service is free of charge` - `The service is free of charge for all clients`
+    = free of charge (f) `The service is free of charge` - `The service is free of charge for all clients`
 
 ofertas = offers `The supermarket has many offers this week`
 producto en oferta
@@ -191,8 +191,8 @@ producto en oferta
 gangas = bargains `I love finding bargains in the sales`
 
 el precio superaba
-    = exceeds (formal) `The price exceeds my budget`
-    = goes over (informal) `The price goes over my budget`
+    = exceeds (f) `The price exceeds my budget`
+    = goes over (i) `The price goes over my budget`
 
 me ofrecieron un descuento = I was offered a 20% discount on `They offered me a discount on the new car`
 

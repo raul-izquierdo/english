@@ -5,7 +5,7 @@
 
 sucedió, tuvo lugar, pasó
     = to happen (general - informal) `The events that happened were significant`
-    = occurred (formal) `The events that occurred were significant` - `The events that occurred were important`
+    = occurred (f) `The events that occurred were significant` - `The events that occurred were important`
     = take place (para enfatizar momento o lugar - formal) `The meeting took place yesterday afternoon`
     = unfolded (eventos que se sucedieron) `The unruly scenes that unfolded in 2014` - `The events that unfolded were important`
 
@@ -17,8 +17,8 @@ de repente = out of the blue `I was surprised when she called me out of the blue
 ## Consequences
 
 le supone, ocasiona
-    = place on (formal) `Offers place a great deal of stress on staff` - `The manager placed the responsibility on the team`
-    = put on (informal) `That puts a lot of stress on him`
+    = place on (f) `Offers place a great deal of stress on staff` - `The manager placed the responsibility on the team`
+    = put on (i) `That puts a lot of stress on him`
 
 ... plantea, supone, representa
     = poses `The job poses a challenge` - `The project poses a risk` - `The job poses a problem`

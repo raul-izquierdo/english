@@ -168,8 +168,8 @@ verter
 
 acumularse en = build up `The wastes built up in the sea` - `The snow built up on the ground`
     = pile up (añade connotación de desorden) `The wastes piled up in the sea`
-    = accumulate (formal) `The wastes accumulated in the sea` - `The snow accumulated on the ground`
+    = accumulate (f) `The wastes accumulated in the sea` - `The snow accumulated on the ground`
 
 descomponerse
     = break down `The wastes broke down in the sea` - `The snow broke down on the ground`
-    = decompose (formal) `The wastes decomposed in the sea` - `The snow decomposed on the ground`
+    = decompose (f) `The wastes decomposed in the sea` - `The snow decomposed on the ground`

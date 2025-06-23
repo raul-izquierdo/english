@@ -203,7 +203,7 @@ aumentar/impulsar/estimular
 
 agotar (un recurso, un recurso natural)
     = use up `We used up the resources` - `We used up the water`
-    = exhaust (formal) `We exhausted the resources` - `We exhausted the water`
+    = exhaust (f) `We exhausted the resources` - `We exhausted the water`
 
 
 ## Approximations
@@ -221,8 +221,8 @@ alrededor de...
 ## Totals
 
 asciende a ...
-    = amounts to (formal) `The cost amounts to $1000` - `The total amount to be paid is $500`
-    = comes to (informal) `The total comes to $200` - `The bill comes to $50`
+    = amounts to (f) `The cost amounts to $1000` - `The total amount to be paid is $500`
+    = comes to (i) `The total comes to $200` - `The bill comes to $50`
     = run into (con sorpresa - con sorpresa) `The cost will often run into thousands of pounds`
 
 alcanza = reaches `The total reaches $1000` - `The cost reaches $500`

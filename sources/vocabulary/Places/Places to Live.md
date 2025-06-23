@@ -119,7 +119,7 @@ estar bien comunicado = be well connected `The city is well connected by public 
 acceso fácil (por distancia o transportes) = within easy reach `The hotel is within easy reach of the beach`
 
 a poca distancia a pie
-    = within walking distance [of place] (formal) `The hotel is within walking distance of the beach` - `The supermarket is within walking distance`
+    = within walking distance [of place] (f) `The hotel is within walking distance of the beach` - `The supermarket is within walking distance`
     = in a short walk away (oral) `The hotel is a short walk away from the beach` - `The supermarket is a short walk away`
 
 

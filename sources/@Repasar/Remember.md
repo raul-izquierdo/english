@@ -18,6 +18,8 @@ spend/waste time/money <preposition>... ¿Prepositions?
 arrive... ¿Prepositions?
     = arrive IN <pais/ciudad/área grande> `I arrived in Spain last week` - `The book arrived in bookshops`
     = arrive AT <lugar específico> `I arrived at the hotel late at night` - `I arrived at the airport early`
+    = arrive FOR <event> `He arrived punctually for the meeting`
+
 
 pay...
     = pay FOR <product> `I paid for the meal`
@@ -27,7 +29,7 @@ pay...
 
 invest = IN `I invested in the stock market`
 
-depends = ON/UPON (formal) `It depends on the situation` - `It depends upon the circumstances`
+depends = ON/UPON (f) `It depends on the situation` - `It depends upon the circumstances`
 
 congratulate = ON `I congratulated him on his promotion`
 

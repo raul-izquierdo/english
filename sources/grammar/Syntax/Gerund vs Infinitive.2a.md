@@ -1,50 +1,56 @@
 # Gerund vs Infinitive
 
 
-## Use after
+## When to use Each
 
-prepositions (la mayor parte de las veces)
-    = <ing>
-    - `...excited about starting` - `interested in learning` - `tired of waiting`
+After prepositions ¿<ing> o <base>?
+    = preposition + <ing>
+        - No siempre, pero la mayoría de las veces
+    ? Estoy excitado de empezar... `I'm excited about... ` : `starting`
+    ? Estoy interesado en aprender... `I'm interested in ...` : `learning`
+    ? Estoy cansado de esperar... `I'm tired of ...` : `waiting`
 
-adjectives (la mayor parte de las veces)
-    = to <base>
-    - `It is [difficult, easy, important, lovely, (un)necessary, normal, (im)possible, (un)usual] TO BUY beer`
-    - `I am [delighted, disappointed, (un)happy, sad, surprised] TO BUY beer`
 
-verbs which admit both
+After adjectives ¿<ing> o <base>?
+    = adjective + to <base>
+        - No siempre, pero la mayoría de las veces
+    ? Añadir '**comprar**' al final de `It is [difficult, easy, important, lovely, (un)necessary, normal, (im)possible, (un)usual]...` : `to buy`
+    ? Añadir '**de verte**' al final de `I am [delighted, disappointed, (un)happy, sad, surprised]` : `to see you`
+
+verbs which admit both: <ing> and <to base>?
+    = (preferences) like, love, hate, prefer
     = begin, start, continue
     = intend
-    = (preferences) like, love, hate, prefer
 
 ## Verbs that Change their Meaning
 
-remember/forget
+remember / forget. Diferencia entre...
     = <ing> (tengo recuerdos de)
     = TO <base> (imperativo: recuerda)
-    ? Recuerdo venir aquí : `I remember comING here`
-    ? Recuerda venir aquí : `Remember TO come here`
+    ? `I remember COMING here` : Recuerdo venir aquí
+    ? `Remember TO come here` : Recuerda venir aquí
 
-mean
+mean. Diferencia entre...
     = <ing> (significar)
     = to <base> (pretendía, tenia la intención de...)
-    ? Tenía la intención de llamar al electricista, pero se me pasó : `I meant to phone the electrician, but I forgot`
-    ? Hacer dieta normalmente significa dejar de comer cosas : `Dieting usually means GIVING up eating things`
+    ? `I meant TO phone the electrician, but I forgot` : Tenía la intención de llamar al electricista, pero se me pasó
+    ? `Dieting usually means GIVING up eating things` : Hacer dieta normalmente significa dejar de comer cosas
 
 
-need
-    = need TO <base> (es lo normal)
-    = needs <ing> (es un atajo de _needs TO BE <past>_)
-    ? Esta casa necesita ser pintada : `This house needs TO BE painted` - `This house needs PAINTING` (atajo)
+need. Diferencia entre...
+    = need TO <base> (es el normal)
+    = needs <ing> (atajo del anterior) <ing> -> _needs TO BE <past>_
+    ? `This house needs TO be painted` : uso normal del verbo
+    ? `This house needs PAINTING` : atajo de la anterior
 
-stop
+stop. Diferencia entre...
     = <ing> (para siempre)
     = TO <base> (paró para hacer algo)
-    ? Paró de fumar : `He stopped SMOKING`
-    ? Paró para fumar : `He stopped TO SMOKE`
+    ? `He stopped SMOKING` : Paró DE fumar
+    ? `He stopped TO SMOKE` : Paró PARA fumar
 
-try
+try. Diferencia entre...
     = <ing> (prueba a, intenta...)
     = TO <base> (hacer un esfuerzo para...)
-    ? Prueba a descansar un rato, puede que luego te encuentres mejor : `Try RESTING for a while: you might feel better then`
-    ? Alan intentó detener al ladrón mientras escapaba : `Alan tried TO STOP the thief as he ran away`
+    ? `Try RESTING for a while; you might feel better then` : Prueba a descansar un rato (a ver qué pasa)
+    ? `Alan tried TO stop the thief as he ran away` : Alan intentó detener...

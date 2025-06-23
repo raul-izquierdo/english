@@ -3,17 +3,15 @@
 ## Describing Appearance
 
 agradable
-    = nice (informal) `The weather was nice, so we went for a walk`
-    = pleasant (formal) `The weather was pleasant, so we went for a walk`
+    = nice (i) `The weather was nice, so we went for a walk`
+    = pleasant (f) `The weather was pleasant, so we went for a walk`
 
 desagradable
     = unpleasant `The weather was unpleasant, so we stayed inside`
 
-raro
+raro (poco frecuente)
     = raro (poco frecuente)
     = unusual (poco común)
-    ? Ese fue un ruido extraño : `That was a strange noise`
-    ? Me siento raro : `I feel strange`
     ? Es raro ver nieve en abril : `It's rare to see snow in April` (o unusual)
     ? Es un cuadro poco común : `It's a unusual painting`
 
@@ -21,74 +19,100 @@ extraño
     = strange `The weather is strange today`
     = odd (más suave que strange) `She has an odd way of speaking`
     = weird (connotación negativa) `He gave me a weird look`
+    ? Ese fue un ruido extraño : `That was a strange noise`
+    ? Me siento raro : `I feel strange`
 
-intimidante, desalentador = daunting `The task seemed daunting at first, but I managed to complete it`
+intimidante, desalentador = daunting
+    ? La tarea parecía desalentadora al principio, pero logré completarla : `The task seemed daunting at first, but I managed to complete it`
 
-repugnante = disgusting `The food was disgusting` - `The smell was disgusting`
+repugnante = disgusting `The food was disgusting`
+    ? El olor era repugnante : `The smell was disgusting`
 
 
 ## Describing Personality or Feelings
 
 estar encantado/contento
-    = be delighted `I'm delighted to meet you`
+    = be delighted
+    ? Estoy encantado de haberte visto : `I'm delighted to have seen you`
 
-incómodo = awkward (incómodo) `The situation was awkward`
+incómodo = awkward (incómodo)
+    ? La situación era incómoda : `The situation was awkward`
 
-envidioso
-    = envious `She was envious of her friend's success`
+envidioso = envious
+    ? Ella estaba envidiosa del éxito de su amiga : `She was envious of her friend's success`
 
-angustiado = distressed `He was distressed by the news`
+angustiado = distressed
+    ? Él estaba angustiado por la noticia : `He was distressed by the news`
 
 perplejo, desconcertado
-    = puzzled (más ligero y común)`I was puzzled by the strange behavior of my friend`
-    = baffled (medio) `I was baffled by the magician's trick`
-    = perplexed (más intenso)`I was perplexed by the complex math problem`
-    = bemused (puzzled pero en positivo) `I was bemused by the unexpected turn of events`
+    = puzzled (más ligero y común)
+    = baffled (medio)
+    ? Me sentí perplejo por el extraño comportamiento de mi amigo : `I was puzzled by the strange behavior of my friend`
+    ? Me sentí desconcertado por el truco del mago : `I was baffled by the magician's trick`
 
 ansioso por
-    = eager to `I'm eager to start my new job`
+    = eager to
+    ? Estoy ansioso por comenzar mi nuevo trabajo : `I'm eager to start my new job`
 
-paciente = patient `She is a patient teacher` - `He is a patient person`
+paciente = patient
+    ? Es una persona paciente : `He is a patient person`
 
-dubitativo = hesitant `He was hesitant to make a decision` - `She was hesitant about the plan`
+dubitativo = hesitant
+    ? Dudó en tomar una decisión : `He was hesitant to make a decision`
+    ? Ella tenía dudas sobre el plan : `She was hesitant about the plan`
 
-obediente = obedient `The dog was obedient to its owner` - `He was obedient to the rules`
+obediente = obedient
 
-humorístico = humorous `The comedian was humorous` - `The story had a humorous twist`
+humorístico = humorous `The comedian was humorous`
+    ? La historia tenía un giro humorístico : `The story had a humorous twist`
 
-preocupante = worrying `The news about the virus is worrying` - `The situation is worrying for many people`
+preocupante = worrying
 
-molesto = annoying `The noise from the construction site is annoying` - `His constant interruptions were annoying`
+molesto = annoying
 
-tranquilizador = reassuring `The doctor's words were reassuring` - `The calm atmosphere was reassuring`
+tranquilizador = reassuring
+    ? La palabras del doctor eran tranquilizadoras : `The doctor's words were reassuring`
+    ? La atmósfera tranquila era tranquilizadora : `The calm atmosphere was reassuring`
 
-duro, severo = harsh `The weather was harsh` - `The criticism was harsh`
+duro, severo = harsh
+    ? La crítica fue dura : `The criticism was harsh`
 
-indignante = outrageous `The price of the concert tickets was outrageous`
+indignante = outrageous
+    ? El precio de las entradas del concierto era indignante : `The price of the concert tickets was outrageous`
 
-cuidadoso = careful `Be careful when crossing the street` - `He was careful with his words`
+cuidadoso = careful
+    ? Ten cuidado al cruzar la calle : `Be careful when crossing the street`
+    ? Fue cuidadoso con sus palabras : `He was careful with his words`
 
 ## Describing Quality or Condition
 
-mejorable
-    = improvable `The design is improvable`
+mejorable = improvable
+    ? El diseño es mejorable : `The design is improvable`
 
-constante, uniforme = steady `The boat moved in a steady rhythm across the water` - `He has a steady job in the city`
+constante, uniforme = steady
+    ? El barco se movía en un ritmo constante a través del agua : `The boat moved in a steady rhythm across the water`
+    ? Tiene un trabajo estable en la ciudad : `He has a steady job in the city`
 
-justo = fair `The teacher was fair in grading the exams` - `It was a fair decision to give everyone a chance`
+justo = fair
+    ? El profesor fue justo al calificar los exámenes : `The teacher was fair in grading the exams`
+    ? Fue una decisión justa darles a todos una oportunidad : `It was a fair decision to give everyone a chance`
 
-está bien, ok = it's fine `It's fine to leave early` - `It's fine if you don't want to go`
+está bien, ok = it's fine
+    ? Está bien si no quieres ir : `It's fine if you don't want to go`
 
-importante
-    = significant (importante, relevante)
+importante = significant (importante, relevante)
 
 excepcional
-    = exceptional `The service at the hotel was exceptional` - `The food was exceptional`
-    = outstanding (sobresaliente) `The service at the hotel was outstanding` - `The food was outstanding`
+    = exceptional
+    = outstanding (sobresaliente)
+    ? El servicio en el hotel fue sobresaliente : `The service at the hotel was outstanding`
+
+mal hecho = poorly done
+    ? El trabajo estaba mal hecho : `The work was poorly done`
 
 ## Uses of So and Such (son tan...)
 
-tan...
+tan (I)...
     = se usa **so**...
         - Cuando detrás va un adjetivo o adverbio `so beautiful`, `so quickly`
         - Con _much_, _many_, _little_, _few_ `so much`, `so many`, `so little`, `so few`
@@ -101,11 +125,13 @@ tan...
     ? Nunca había escuchado voces tan maravillosas antes : `I'd never heard SUCH wonderful voiceS before`
     ? Nunca había escuchado una voz tan maravillosa antes : `I'd never heard SUCH A wonderful VOICE before`
     ? Nuestros vecinos son personas tan amables... : `Our neighbours are SUCH friendly people`
+tan (II)...
     ? No he comido comida tan buena en mucho tiempo : `I haven't eaten SUCH good food for a long time`
     ? Ella preparó una comida tan deliciosa para la fiesta... : `She prepared SUCH delicious food for the party`
     ? Él se enfrentó a desafíos tan difíciles durante su carrera... : `He faced SUCH difficult challenges during his career`
     ? Ellos expresaron una gratitud tan sincera por nuestra ayuda : `They expressed SUCH sincere gratitude for our help`
     ? Ella tiene tanto talento para tocar el piano... : `She has SUCH talent for playing the piano`
+tan (III)...
     ? Estoy tan cansado : `I'm SO TIRED`
     ? Él fue tan amable... : `He was SO FRIENDLY`
     ? Había tantas preguntas... : `There were SO MANY questions`
@@ -120,7 +146,9 @@ tan ... que <consecuencia>
 ## Emphasizing Adjectives
 
 bastante <adjective>
-    = quite `It was quite a good movie` - `It was quite interesting`
-    = rather `It was rather a good movie` - `It was rather interesting`
-    = fairly `It was fairly a good movie` - `It was fairly interesting`
+    = quite  `It was quite interesting`
+    = rather `It was rather a good movie` -
     = pretty `It was pretty close to me`
+    ? Fue una película bastante buena : `It was quite a good movie`
+    ? Fue bastante interesante : `It was quite interesting`
+    ? Estaba bastante cerca de mí : `It was pretty close to me`

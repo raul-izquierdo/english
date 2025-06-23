@@ -175,7 +175,7 @@ brote, estallido (de un evento) = outbreak `The outbreak of the disease was unex
 ## Idioms
 
 sentirse indispuesto, no muy bien
-    = feel under the weather (informal) `I'm feeling under the weather today, so I'm going to stay home`
+    = feel under the weather (i) `I'm feeling under the weather today, so I'm going to stay home`
 
 ## Verbs
 

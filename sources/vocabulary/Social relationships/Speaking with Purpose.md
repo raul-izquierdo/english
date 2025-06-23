@@ -168,8 +168,8 @@ no te arrepentirás
     = you won't regret it `You won't regret going to the concert`
 
 seguro que si ... no te arrepentirás
-    = I'm sure if you ..., you won't regret it (informal) `I'm sure if you go to the concert, you won't regret it`
-    = I'm sure THAT if you ..., you won't regret it (formal) `I'm sure that if you go to the concert, ...`
+    = I'm sure if you ..., you won't regret it (i) `I'm sure if you go to the concert, you won't regret it`
+    = I'm sure THAT if you ..., you won't regret it (f) `I'm sure that if you go to the concert, ...`
 
 sugerir/recomendar (presente)
     ! Recommend: sabes que funciona (por conocimiento o experiencia
@@ -198,7 +198,7 @@ sugerí/recomendé (pasado)
 
 es recomendable
     = is recommended (neutro) `It is recommended that you take a break every hour`
-    = is to be recommended (formal) `It is to be recommended that you take a break every hour`
+    = is to be recommended (f) `It is to be recommended that you take a break every hour`
 no te equivocarás = you can't go FAR wrong in <ing> `You can't go far wrong in choosing a classic black suit for formal events`
 
 ## Warning

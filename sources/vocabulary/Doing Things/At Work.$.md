@@ -102,9 +102,9 @@ es necesario (los siguientes se solapan bastante, no darle muchas vueltas)
 tienes la capacidad de ...?
     = are you able to `Are you able to work overtime?` - `I am able to work overtime`
     = can you handle `Can you handle the pressure?` - `I can handle the pressure`
-    = do you have what it takes (informal) `Do you have what it takes to be a manager?`
+    = do you have what it takes (i) `Do you have what it takes to be a manager?`
     = Do you have the required skills for ...?
-    = Do you possess the necessary qualifications to ...? (formal)
+    = Do you possess the necessary qualifications to ...? (f)
 
 se necesita/requiere = it takes `It takes time to learn a new language` - `It takes effort to succeed`
 
@@ -126,7 +126,7 @@ recomendar para un trabajo = recommend <sbody> FOR <sthing> `He recommended his 
 contratar
     = take on (contratar+incorporar) `The company took on a new employee` - `A manager is taking on a new team member`
     = hire (neutro) `He was hired by the company`
-    = employ (formal) `He was employed by the company`
+    = employ (f) `He was employed by the company`
 
 conseguir un trabajo = get a job `I got a job at the company` - `He got a job as a teacher`
 
@@ -144,12 +144,12 @@ despido
     = redundancy (por falta de trabajo) `His redundancy was unexpected`
 
 acabar contrato
-    = the contract came to an end (informal) `The contract came to an end last month`
-    = the contract expired (formal) `The contract expired last month`
+    = the contract came to an end (i) `The contract came to an end last month`
+    = the contract expired (f) `The contract expired last month`
 
 dimitir
-    = quit (informal) `He quit his job` - `He quit the company`
-    = resign from (formal) `He resigned from his job` - `He resigned from the company`
+    = quit (i) `He quit his job` - `He quit the company`
+    = resign from (f) `He resigned from his job` - `He resigned from the company`
 
 dejar el trabajo/la compañía = leave the job/company (menos drástico) `He left the company to pursue other opportunities`
 
@@ -266,8 +266,8 @@ formar parte de un equipo = be part of a team `He is part of the team`
 ser the un equipo = be on a team `He is on the team`
 
 participar en ...
-    = take part in ... (informal) `I took part in the project`
-    = participate in ... (formal) `I participated in the project`
+    = take part in ... (i) `I took part in the project`
+    = participate in ... (f) `I participated in the project`
     = get involved in ... (implicación - mayor grado) `I got involved in the project`
 
 participación en ...

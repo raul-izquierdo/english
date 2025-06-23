@@ -149,7 +149,7 @@ y mucho menos...
     = let alone `I can't even afford a car, let alone a house` - `I don't blame you, let alone him`
 
 y ni hablar de...
-    = not to mention (informal) `I can't even afford a car, not to mention a house` - `I can't even afford to go out, not to mention travel`
+    = not to mention (i) `I can't even afford a car, not to mention a house` - `I can't even afford to go out, not to mention travel`
 
 ## Expectations
 

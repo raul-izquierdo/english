@@ -96,8 +96,8 @@ estoy de acuerdo parcialmente
 estoy de acuerdo en casi todo, excepto en...
     = I agree with you on most things, except for...
 
-reconozco que (formal)
-    = I reckon that (informal) `I reckon that the new policy is a good idea`
+reconozco que (f)
+    = I reckon that (i) `I reckon that the new policy is a good idea`
 
 ## Disagreeing
 

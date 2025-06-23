@@ -115,9 +115,13 @@ son los culpables
 son los responsables de
     = are responsible for `The police say the criminals are responsible for the increase in crime`
 
-pedir perdón
-    = apologize [TO <sbody>] FOR <ing> `He apologized to his boss for being late`
+disculparse
+    = apologize [TO <sbody>] FOR <ing>
+    ? Se disculpó con su jefe por llegar tarde : `He apologized to his boss for being late`
+    ? Le hizo un regalo como forma de disculparse : `He gave her a gift as a way of apologizing`
 
+pedir perdón
+    = ask for forgiveness `He asked for forgiveness for his mistakes`
 
 
 ## Trial
@@ -131,7 +135,7 @@ acusar
 
 jurar
     = vow (más formal) `I vow to always be there for you` - `I vow to protect you`
-    = swear (informal) `I swear to tell the truth` - `I swear to protect you`
+    = swear (i) `I swear to tell the truth` - `I swear to protect you`
 
 fingir
     = pretend:ed `He pretended to be sick to avoid going to school`
@@ -176,7 +180,7 @@ pagar una multa = pay a fine `He was sentenced/ordered to pay a fine`
 imponer una restricción = impose a restriction `The judge imposed a restriction on his movements` - `Speed restrictions were imposed on the road`
 
 encerrar en prisión
-    = imprison (formal) `He was imprisoned for his crimes` - `He was imprisoned for life`
+    = imprison (f) `He was imprisoned for his crimes` - `He was imprisoned for life`
     = put in prison `He was put in prison for his crimes` - `He was put in prison for life`
 
 cadena perpetua = life imprisonment `He was sentenced to life imprisonment for his crimes`
