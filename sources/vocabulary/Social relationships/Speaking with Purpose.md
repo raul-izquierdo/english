@@ -140,6 +140,11 @@ deberías ...
     ? Es una gran película, tienes que verla : `It's a great movie, you must see it` (más fuerte que _should_)
     ? Mejor que lleves un paraguas. Parece que va a llover : `You’d better take an umbrella — it looks like rain`
 
+¿Debería...?
+    = shall I <base>...? (f)
+    = should I <base>...? (i)
+	? ¿A dónde iremos mañana por la noche? : `Where shall we go tomorrow night?` - `Where should we go tomorrow night?`
+
 Creo que no deberías... (caso especial para 'creer + deber')
     ! I think you shouldn't... (EVITAR; es correcta pero muy tajante)
     = I don't think you should...
@@ -163,9 +168,7 @@ aconsejar
 aceptar consejo = take advice `You should take his advice` - `I always take his advice`
 seguir un consejo = follow advice `I always follow his advice`
 
-
-no te arrepentirás
-    = you won't regret it `You won't regret going to the concert`
+## Recommending
 
 seguro que si ... no te arrepentirás
     = I'm sure if you ..., you won't regret it (i) `I'm sure if you go to the concert, you won't regret it`
@@ -191,15 +194,15 @@ sugerí/recomendé (pasado)
     ? Él recomendó ir al cine : `He recommended going to the cinema`
     ? Le recomendé que comiera menos chocolate : `I recommended he eat less chocolate`
 
-¿Debería...?
-    = shall I <base>...? (f)
-    = should I <base>...? (i)
-	? ¿A dónde iremos mañana por la noche? : `Where shall we go tomorrow night?` - `Where should we go tomorrow night?`
-
 es recomendable
     = is recommended (neutro) `It is recommended that you take a break every hour`
     = is to be recommended (f) `It is to be recommended that you take a break every hour`
 no te equivocarás = you can't go FAR wrong in <ing> `You can't go far wrong in choosing a classic black suit for formal events`
+
+Deberías probarlo = You should give it a try
+Vale la pena intentarlo = It’s definitely worth trying
+No te arrepentirás = You won’t regret it!
+Te recomiendo que lo pruebes = I highly recommend giving it a go
 
 ## Warning
 

@@ -1,12 +1,43 @@
 # Exchanging Opinions. Discussing and Arguing
 
-## Sides
 
-contrarios a la idea = opponents `Opponents of the new law argue that it will increase crime rates`
+## Setting the Context
 
-defensores de la idea
-    = proponents `Proponents of the new law argue that it will reduce crime rates`
-    = advocates `Advocates of the new law argue that it will reduce crime rates`
+establecer el contexto = set the context
+    ? Hay que establecer el contexto de la situación : `We need to set the context of the situation`
+
+## General Agreement
+
+Existe un consenso en que...
+    = It is [generally/widely] (agreed/accepted/believed) that...
+    ? Existe un consenso en que la educación es importante : `It is generally accepted that education is important`
+
+Hoy en dia, la mayoría de la gente cree que...
+    = Nowadays, most people share the view that...
+    ? Hoy en día, la mayoría de la gente cree que Sanchez es un sinvergüenza : `Nowadays, most people share the view that Sanchez is a rogue`
+
+Se dice que... = It is said that...
+
+## Mixed Opinions
+
+Aunque algunos afirman que.... otros, sin embargo, creen que... (50% de acuerdo)
+    = While some people argue that..., others, however, believe that...
+
+Aunque la mayoría de la gente cree que... algunos, sin embargo, piensan que... (70/30 de acuerdo)
+    = Although most people believe that ... some, however, think that...
+
+cada vez hay más gente que...
+    = more and more people are in favour OF
+    ? Cada vez hay más gente que apoya las energías nucleares : `More and more people are in favour of nuclear energy`
+
+
+defensores de esta postura
+    = Those who agree with this view/point
+    = Those who hold this view
+    = supporters of this view/point
+
+contrarios a esta postura = opponents of this view/point
+
 
 ## Asking Opinions
 
@@ -50,25 +81,22 @@ dando opinion con seguridad
     - Yo diría que la película fue un éxito : `I'd say that the film was a success`
     - Desde mi punto de vista, la nueva política es una buena idea : `From my point of view, the new policy is a good idea`
 
-Por poner un ejemplo, ...
-    = To give an example
+inclinarse por algo = lean towards `I lean towards the idea of going to the beach` - `I lean towards the red dress`
 
-dejar claro
-    = to make it clear
+estar a favor de = in favour OF `We were all in FAVOUR OF him doing it`
+
+Por poner un ejemplo, ... = To give an example
+
+otra ventaja/desventaja es que...
+    = Another advantage/disadvantage is that...
+    = A **further** advantage/criticism of... (f)
+
+dejar claro = to make it clear
     ? Quiero dejar claro que apoyo la decisión: `I want to make it clear that I support the decision`
 
 ni siquiera creo que ... = I don't even think [that] ... `I don't even think there's a word for it`
 
 tu experiencia puede ser diferente = Your mileage may vary `I found the movie boring, but your mileage may vary`
-
-## In Favour of Something
-
-inclinarse por algo = lean towards `I lean towards the idea of going to the beach` - `I lean towards the red dress`
-
-estar a favor de
-    = favour OF `We were all in FAVOUR OF him doing it`
-
-abogar por, defender = advocate for `He advocated for the construction of a new bridge to improve traffic flow`
 
 
 ## Reacting to Opinions

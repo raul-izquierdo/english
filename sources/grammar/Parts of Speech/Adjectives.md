@@ -65,6 +65,8 @@ obediente = obedient
 
 humorístico = humorous `The comedian was humorous`
     ? La historia tenía un giro humorístico : `The story had a humorous twist`
+humor = humor
+    ? Su sentido del humor es contagioso : `His sense of humor is contagious`
 
 preocupante = worrying
 

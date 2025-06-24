@@ -3,33 +3,33 @@
 ## Verbs not ending in 's' sound
 
 Choose /ɪd/, /t/ or /d/ (I)
-        ? `walked` : /t/
-        ? `tried` : /d/
-        ? `needed` : /ɪd/
-        ? `laughed` : /t/
+        ? walked : /t/
+        ? tried : /d/
+        ? needed : /ɪd/
+        ? laughed : /t/
 
 Choose /ɪd/, /t/ or /d/ (II)
-        ? `hoped` : /t/
-        ? `remembered` : /d/
-        ? `coped` : /t/
+        ? hoped : /t/
+        ? remembered : /d/
+        ? coped : /t/
 
 Choose /ɪd/, /t/ or /d/ (III)
-        ? `ended` : /ɪd/
-        ? `played` : /d/
-        ? `picked` : /t/
-        ? `breathed` : /t/
+        ? ended : /ɪd/
+        ? played : /d/
+        ? picked : /t/
+        ? breathed : /t/
 
 Choose /ɪd/, /t/ or /d/ (IV)
-        ? `called` : /d/
-        ? `matched` : /t/
-        ? `ordered` : /d/
-        ? `tested` : /ɪd/
+        ? called : /d/
+        ? matched : /t/
+        ? ordered : /d/
+        ? tested : /ɪd/
 
 Choose /ɪd/, /t/ or /d/ (V)
-        ? `coughed` : /t/
-        ? `wanted` : /ɪd/
-        ? `loved` : /d/
-        ? `watched` : /t/
+        ? coughed : /t/
+        ? wanted : /ɪd/
+        ? loved : /d/
+        ? watched : /t/
 
 Rules
     = /ɪd/
@@ -53,29 +53,29 @@ Rules
 ## Verbs ending in 's' sound
 
 Choose /t/ or /d/ (I)
-    ? `fixed` : /t/
-    ? `reduce` : /t/
-    ? `dressed` : /d/
-    ? `mixed` : /t/
+    ? fixed : /t/
+    ? reduce : /t/
+    ? dressed : /d/
+    ? mixed : /t/
 
 Choose /t/ or /d/ (II)
-    ? `crushed` : /t/
-    ? `closed` : /d/
-    ? `produce` : /t/
-    ? `force` : /t/
+    ? crushed : /t/
+    ? closed : /d/
+    ? produce : /t/
+    ? force : /t/
 
 Choose /t/ or /d/ (III)
-    ? `raised` : /d/
-    ? `used` : /d/
-    ? `noticed` : /t/
-    ? `passed` : /t/
+    ? raised : /d/
+    ? used : /d/
+    ? noticed : /t/
+    ? passed : /t/
 
 Choose /t/ or /d/ (IV)
-    ? `embrace` : /t/
-    ? `convince` : /t/
-    ? `introduced` : /t/
-    ? `announce` : /t/
-    ? `practice` : /t/
+    ? embrace : /t/
+    ? convince : /t/
+    ? introduced : /t/
+    ? announce : /t/
+    ? practice : /t/
 
 Rules
     = /t/ si acaba en '-ss', '-sh', '-ce' o '-x'
@@ -85,5 +85,5 @@ Rules
     = /d/ el resto
         - `used` - `closed` - `raised` - `dressed`
 
-Exception
-    = promised /ˈprɒm.ɪst/
+Exception: promised?
+    = /ˈprɒm.ɪst/

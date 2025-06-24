@@ -55,5 +55,5 @@ Past Perfect Continuous (`I had been going`) is used when...
 
 Compare these tenses...
     = Past Simple vs Past Continuous
-    ? `Last week WE sat on the beach` : Enfatiza QUÉ hicimos en el pasado (sentarse)
-    ? `Last week WE WERE SITTING on the beach` : Enfatiza que **estuvimos un rato** sentados en el pasado
+    ? Last week WE sat on the beach : Enfatiza **qué** hicimos en el pasado (sentarse)
+    ? Last week WE WERE SITTING on the beach : Enfatiza que **estuvimos un rato** sentados en el pasado

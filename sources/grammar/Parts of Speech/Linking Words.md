@@ -102,7 +102,8 @@ a pesar de
 a pesar de que = even though
 
 aunque
-    = although `Although it was raining, we went for a walk`
+    = while (mientras que) `Aunque mucha gente piensa... otros..` - > `While many people think...`
+    = although (a pesar de) `Although it was raining, we went for a walk`
     = though (i) `Though it was raining, we went for a walk`
     = even though (más énfasis: incluso a pesar de...) `Even though it was raining, we went for a walk` - `Even though he was tired, he went to the party`
     = if `She’s kind, if a little shy` - `It was a clever plan, if a risky one`
@@ -186,11 +187,14 @@ pero en cuanto a...
 
 o, mejor dicho, ... = ..., or rather, ... `I like the beach, or rather, I love it`
 
+después de todo = after all (clarifica) `He seemed uninterested, but after all, he was just shy`
+
 en gran medida = to a large extent `To a large extent, the project was successful`
 
 algo relacionado con
     = something to do with (oral) `I want to talk about something to do with the project` - `I want to talk about something to do with the meeting`
     = something related to (escrito) `I want to talk about something related to the project` - `I want to talk about something related to the meeting`
+
 
 ## Selecting
 
@@ -209,15 +213,15 @@ todo excepto X
 
 ## Summary and Conclusion
 
-después de todo
-    = after all (clarifica) `He seemed uninterested, but after all, he was just shy`
+considerando todo lo anterior
+    = considering all of the above
+    = taking into account all of the above (f)
 
-en resumen (sin conclusiones)
+en resumen
+    = **in conclusion** (formal - añade conclusión)
     = in summary (formal - resumiendo) `In summary, we covered the key findings and proposed next steps`
-    = in conclusion (formal - añade conclusión)
     = all in all (informal - como balance) `All in all, it was a productive day`
     = to sum up (informal - recapitulando) `To sum up, our findings highlight the importance of teamwork`
-
 
 de todas formas (a pesar de algo)
     = anyway (i)
@@ -233,7 +237,9 @@ en cualquier caso (sea cual sea el resultado)
 
 ## Sequencing Ideas
 
-Lo primero, ... = first of all
+Lo primero, ...
+    = first of all
+    = Firstly (f)
     ? Lo primero, quiero agradecerles haber venido : `First of all, I want to thank you for coming`
 
 lo primero es lo primero = first thing's first
