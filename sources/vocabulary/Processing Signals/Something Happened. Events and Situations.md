@@ -14,6 +14,9 @@ pillar desprevenido
 
 de repente = out of the blue `I was surprised when she called me out of the blue`
 
+la alarma sonó
+    = the alarm went off
+
 ## Consequences
 
 le supone, ocasiona

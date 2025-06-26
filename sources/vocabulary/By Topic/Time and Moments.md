@@ -5,14 +5,18 @@
 
 momento
     ! Tampoco hay que volverse muy loco con estas diferencias, ya que muchas veces se pueden usar indistintamente
-    = moment (puntual, memorable) `At that moment, I realized the truth` - `It was a beautiful moment`
-    = time (con duración -> momentoS, etapa, época) `It was a difficult time for me` - `At that time, I was living in London`
+    = moment (puntual, memorable)
+    = time (con duración -> momentoS, etapa, época)
+    ? En ese momento, me di cuenta de la verdad : `At that moment, I realized the truth`
+    ? Fue un momento hermoso : `It was a beautiful moment`
+    ? Fue una época difícil para mí : `It was a difficult time for me`
+    ? En ese momento, yo vivía en Londres : `At that time, I was living in London`
     ? El momento ideal es en la mañana : `The ideal time is in the morning` (la mañana es una duración, no un momento puntual) )
     ? El momento perfecto es a las 10:00 : `The perfect moment is at 10:00` (la hora es un momento puntual, no una duración)
 
-en los buenos momentos = in the good times `In the good times, we had a lot of fun together` - `In the good times, we shared many memories`
+en los buenos momentos = in the good times `In the good times, we had a lot of fun together`
 
-en mis buenos tiempos = in my good times `In my good times, I was happy` - `In my good times, I was successful`
+en mis buenos tiempos = in my good times
 
 es un buen momento = it's a good time
     ? Las rebajas es un buen momento para comprar ropa : `The sales are a good time to buy clothes`
@@ -20,149 +24,164 @@ es un buen momento = it's a good time
 ## Time Management and Use of Time
 
 dedicar/pasar tiempo
-    = spend time ON <thing> `I spend time on my hobbies every week`
-    = spend time IN <place> `I spend time in the mountains`
+    = spend time ON <thing>
+    = spend time IN <place>
+    ? Paso tiempo en mis aficiones cada semana : `I spend time on my hobbies every week`
+    ? Paso tiempo en las montañas : `I spend time in the mountains`
 
-perder el tiempo = las mimas variantes que _spend_ pero con _waste_
+perder el tiempo = las mismas variantes que _spend_ pero con _waste_
 
 pasar el rato
-    = hung out `I hung out with my friends last night`
+    = hung out
+    ? Estuve con mis amigos anoche : `I hung out with my friends last night`
     ? Me encontré con una persona interesante en la fiesta y pasamos un rato juntos; realmente nos llevamos muy bien : `I came across an interesting person at the party and we hung out for a bit; we actually get along really well`
 
-el tiempo que requiere = the time it takes `The time it takes to complete the project is important` `I don't have the time it takes to finish the project`
 
-perder la noción del tiempo = lose track of time `I lose track of time when I'm reading`
+perder la noción del tiempo = lose track of time
+    ? Pierdo la noción del tiempo cuando leo : `I lose track of time when I'm reading`
 
 buscar tiempo para hacer algo
-    = make time for `I make time for my hobbies every week` - `I make time for my family every week`
-    = find time for `I find time for my hobbies every week` - `I have to find time to do it`
+    = find time for (buscar tiempo para...)
+    ? Tengo que encontrar tiempo para hacerlo : `I have to find time to do it`
+
+sacar tiempo para hacer algo
+    = make time for (sacar tiempo para...)
+    ? Saco tiempo a mi familia cada semana : `I make time for my family every week`
 
 hacer tiempo (esperar hasta que llegue la hora de hacer algo)
-    = kill the time `I kill time by reading` - `I killed time by watching TV`
-    = fill the time `I fill the time by reading` - `I filled the time by watching TV`
+    = kill time BY <ing>
+    ? Hago tiempo leyendo : `I kill time by reading`
 
-sacar tiempo
-    = take out time `I need to take out time to study` - `I took out time to travel`
+tiempo de ocio = leisure time `I spend my leisure time reading`
 
-tiempo de ocio
-    = leisure time `I spend my leisure time reading`
+ganar tiempo = gain time
 
-ganar tiempo
-    = gain time `I need to gain time to finish the project` - `I gained time to finish the project`
+ahorrar tiempo = save time
 
-ahorrar tiempo
-    = save time `I need to save time to finish the project` - `I saved time to finish the project`
+tomarse tiempo para = take time to
+    ? Deberías tomarte tiempo para pensarlo : `You should take time to think about it`
 
-tomarse tiempo para = take time to "You should take time to relax"
-
-lo que más tiempo me llevó fue ...
-    = What took me the longest was... `What took me the longest was the research`
-
-lleva (tiempo) = it takes `It takes me an hour to get to work` - `It takes me a long time to finish my homework`
 
 ## Periods of the Day
 
-mañana = [in the] morning (hasta las 12) `I wake up in the morning` - `I do it in the morning`
-tarde = [in the] afternoon (hasta las 18) `I do it in the afternoon`
+mañana = [in the] morning (hasta las 12)
+tarde = [in the] afternoon (hasta las 18)
 noche
-    = [in the] evening (aún no durmiendo; hasta las 22:00) `I do it in the evening`
-    = [at] night (la gente está durmiendo) `I do it at night` - `I do it at night`
+    = [in the] evening (aún no durmiendo; hasta las 22:00)
+    = [at] night (la gente está durmiendo)
+    ? Lo hice por la tarde : `I did it in the evening`
+    ? Lo hice por la noche : `I did it at night`
 
 mediodía (12:00)
-    = [at] noon `I have lunch at noon`
-    = [at] midday `I have lunch at midday`
+    = [at] noon
+    = [at] midday
 
-medianoche (24:00)
-    = [at] midnight  `I go to bed at midnight`
+medianoche (24:00) = [at] midnight
 
-el amanecer
-    = dawn `The sun rises at dawn` - `I wake up at dawn`
+el amanecer = at dawn `The sun rises at dawn`
 
-el anochecer, crepúsculo
-    = dusk `The sky turned orange at dusk` - `The stars come out at dusk`
-
+el anochecer, crepúsculo = at dusk
 
 ## Time Expressions About the Past
 
-hace tiempo = a long time ago `I saw him a long time ago` - `I heard about it a long time ago`
+hace tiempo = a long time ago
+    ? Lo oí hace mucho tiempo :`I heard about it a long time ago`
 
 en la época de / cuando ...
-    = in ...'S time (para personas) `In my grandparents' time, things were different`
-    = in ... timeS (para periodos de la historia) `In Roman times, the empire was powerful` - `In ancient/medieval/Victorian times,...`
+    = in ...'S time (para personas)
+    = in ... timeS (para periodos de la historia) `In ancient/medieval/Victorian times,...`
+    ? En la época de mis abuelos, las cosas eran diferentes : `In my grandparents' time, things were different`
+    ? En la época romana, el imperio era poderoso : `In Roman times, the empire was powerful`
 
 de antes
-    = at one time (hubo un tiempo en el que) `At one time, I lived in New York`
-    = once (en su dia) `Once, I traveled to Spain`
-    = in the past (más histórico) `In the past, people used horses for transport`
+    ! El _used to_ ya incluye el _de antes_, por lo que no es necesario
+    = In the past (f)
+    = Back then (en esa época - necesita un contexto del que se está hablando)
+    = In the old days (con nostalgia)
+    ? De antes yo vivía en Santander : `I used to live in Santander` (el _used to_ incluye el _de antes_)
+    ? En el pasado, la gente usaba caballos para transportarse : `In the past, people used horses for transport`
+    ? Estaba recordando mis días de escuela. En esa época, no teníamos que usar uniforme : `I was just remembering my school days. Back then, we didn't have to wear a uniform`
 
-no hace mucho que...
-    = not long ago `I saw him not long ago` - `I heard about it not long ago`
+Una vez = once
+    ? Una vez viajé a Alemania : `Once, I traveled to Germany`
 
-en los últimos X años
-    = in the last X years `I haven't seen him in the last 5 years`
+no hace mucho que... = not long ago
+    ? No hace mucho que lo vi : `I saw him not long ago`
 
-en los último años
-    = in recent years
+en los último años = in recent years
 
-hasta hace poco...
-    = until [quite] recently `Until recently, I didn't know the truth`
-    = until a short time ago `Until a short time ago, I was unaware of the situation`
-    = until not long ago `Until not long ago, I didn't know the truth`
+en los últimos X años = in the last X years
+    ? No lo he visto en los últimos 5 años : `I haven't seen him in the last 5 years`
 
+en mucho tiempo = in a long time
+    ? No lo he visto en mucho tiempo : `I haven't seen him in a long time`
+    ? No he ido al gimnasio en mucho tiempo : `I haven't been to the gym in a long time`
 
-han pasado años/.../hours desde que = it's been years since `It's been years since I last saw him`
+hasta hace poco... = until [quite] recently
+    ? Hasta hace poco, no sabía la verdad : `Until recently, I didn't know the truth`
 
-pasamos un buen rato = we had a good time `We had a good time at the party` - `We had a good time together`
+han pasado años/.../hours desde que = it's been years since
+    ? Han pasado años desde la última vez que lo vi : `It's been years since I last saw him`
 
-en mucho tiempo
-    = in a long time `I haven't seen him in a long time` - `I haven't been to the gym in a long time`
-
-
-so far = hasta ahora `So far, I have completed the project` - `So far, I have learned a lot`
+por ahora/hasta ahora = so far
+    ? Por ahora no ha habido problemas : `So far there have been no problems`
 
 desde la última vez que
-    = since <sbody> last <past> `A lot has changed since I last saw him` - `Have you heard from her since she last called?`
+    = since <sbody> last <past>
+    ? Han cambiado muchas cosas desde la última vez que lo vi : `A lot has changed since I last saw him`
+    ? ¿Has sabido de ella desde la última vez que llamó? : `Have you heard from her since she last called?`
 
-desde hace <time>
-    = for
+desde hace <time> = for
 	? Lo conozco desde hace 20 años : `I've known him FOR twenty years`
 
-puede remontarse a = can be traced back to `The tradition can be traced back to ancient times` - `The custom can be traced back to the Middle Ages`
 
+## Travelling Back in Time
+
+puede remontarse a = can be traced back to
+    ? La tradición se remonta a la antigüedad : `The tradition dates back to ancient times`
+    ? La costumbre se remonta a la edad media : `The custom dates back to the Middle Ages`
 
 te lleva al pasado
-    = takes you back [in time] `This song takes me back to my childhood` - `... to the 90s`
+    = takes you back [in time]
+    ? Esta canción me lleva a mi infancia : `This song takes me back to my childhood` - `... to the 90s`
 
-si volviera atrás en el tiempo = if I could go back in time `If I could go back in time, I would change many things` - `If I could go back in time, I would do things differently`
+si volviera atrás en el tiempo = if I could go back in time
+    ? Si pudiera volver atrás en el tiempo, haría las cosas de otra manera : `If I could go back in time, I would do things differently`
 
 
 ## Time Expressions About the Future
 
 (tendrá lugar) hacia el final de
-    = towards the end of `The event will take place towards the end of the month`
+    = towards the end of
+    ? El evento tendrá lugar hacia el final del mes : `The event will take place towards the end of the month`
 
-estar a punto de hacer algo
-    = to be about to do something (en breve) `I’m about to leave` - `I’m about to start the meeting`
-    = to be on the point of doing something (inmediato) `I’m on the point of leaving` - `I’m on the point of starting the meeting`
+estar a punto de hacer algo (en breves momentos)
+    = to be about to do something
+    ? Estoy a punto de irme : `I’m about to leave`
+    ? Estoy a punto de empezar la reunión : `I’m about to start the meeting`
 
-estar al borde de
-    = to be on the point of <base> `The company is on the verge of bankruptcy` - `She was on the verge of tears`
+estar al borde de (en el límite de)
+    = to be on the verge of
+    ? La empresa está al borde de la bancarrota : `The company is on the verge of bankruptcy`
+    ? Ella estaba al borde de las lágrimas : `She was on the verge of tears`
 
 
 dentro de X años
-    = in X years `I’ll be back in 5 years` - `I’ll be back in a year`
+    = in X years
+    ? Volveré dentro de un año : `I’ll be back in a year`
 
 el próximo año
-    = the forthcoming year `I plan to travel in the forthcoming year`
-    = the coming year (menos formal) `I plan to travel in the coming year`
-    = next year (el más informal)`I plan to travel in the next year`
+    = the coming year
+    = next year (i)
+    ? Pienso viajar el próximo año : `I plan to travel in the coming year` - `...next year`
 
 dentro de ...
     = <n weeks/days/hours...> from now
-    ? Dentro de seis semanas, me habré casado : `Six weeks from now, I will have gotten married`
+    ? Dentro de seis semanas, me habré casado : `Six weeks from now, I will have got married`
 
 El <dia> a las <hora>
-    = ON <day> AT <hour> `On Monday at 7 pm, I will be at the meeting`
+    = ON <day> AT <hour>
+    ? El lunes a las 7 pm estaré en la reunión : `On Monday at 7 pm, I will be at the meeting`
 
 nunca sabes lo que te depara el futuro = `You never know what the future holds for you`
 
@@ -170,69 +189,104 @@ nunca sabes lo que te depara el futuro = `You never know what the future holds f
 ## Time Periods and Durations
 
 durante X años
-    = for X years `I haven't seen him for 5 years` - `I haven't been to the gym for 5 years`
+    ! En SP, _durante_ tiene muchos significados que aquí hay que separar
+    ! El primero (_for_) indica duración, mientras que los otros indican solapamiento de acciones
+    = for X years (para indicar duración del periodo) `We talked **for** hours`
+    = during (algo ocurre puntualmente/sin especificar dentro de un periodo - during the meeting, during the summer)
+    = over [the course of] <duration> () (_a lo largo de_ - ocurre repetidamente/gradualmente durante el periodo)
+    = Throughout <periodo> (durante **todo** el periodo)
+    ? Hablamos durante 2 horas : `We talked **for** hours` (duración)
+    ? Ella estudió durante toda la tarde : `She studied **for** the whole afternoon` (duración)
+    ? Ella hizo varios amigos durante el verano : `She made several friends **over** the summer`
+    ? Él viajó mucho durante la última década : `He travelled a lot **over** [the course of] the last decade`
+    ? La alarma sonó [una vez] durante la reunión : `The alarm went off during the meeting` (puntualmente)
+    ? La alarma sonó [varias veces] durante la reunión : `The alarm went off over the course of the meeting`
+    ? La alarma sonó [constantemente] durante la reunión : `The alarm sounded throughout the meeting`
+    ? Durante el día, estamos expuestos a diversas formas de publicidad : `During the day, we are exposed to various forms of advertising` - `Over the course of the day, ...`
+    ? Él cambió mucho durante el verano : `He changed a lot over the summer` (cambio gradual -> over)
 
-durante <periodo>
-    = over <duration> `Over nine months, I made significant progress`
-    = over THE COURSE OF <duration> (durante un periodo de ...) `Over the course of nine months, I made significant progress` - `Over the course of a year, I learned a lot`
+todo el dia = all day (sin THE)
+    ? Trabajé todo el día : `I worked all day`
+toda la mañana = all morning (sin THE)
+    ? Trabajé toda la mañana : `I worked all morning`
+toda la tarde = all afternoon (sin THE)
+    ? Trabajé toda la tarde : `I worked all afternoon`
 
-A lo largo del dia ..
-    = Throughout the day ... `Throughout the day we are exposed to various forms of advertising`
-
-todo el dia = all day (sin THE) `I worked all day` - `I was busy all day`
-toda la mañana = all morning (sin THE) `I worked all morning` - `I was busy all morning`
-toda la tarde = all afternoon (sin THE) `I worked all afternoon` - `I was busy all afternoon`
-
-todos los días = every day `I go to the gym every day` - `I work every day`
-    - OJO: no confundir con _everyday_ que es _cotidiano_
+todos los días = every day
+    - OJO: no confundir con _everyday_ (todo junto) que es _cotidiano_
+    ? Voy al gimnasio todos los días : `I go to the gym every day`
 
 todo el tiempo/rato
-    = [pretty much] all the time `I was busy all the time` -  `He’s on his phone all the time`
-    = constantly `I was constantly busy` - `I was constantly working`
+    = [pretty much] all the time
+    = constantly
+    ? Está con el móvil todo el tiempo : `He’s on his phone all the time` - `... constantly` - `He’s constantly on his phone`
 
 un rato
     = a while
     ? Pasamos un rato juntos : `We spent a while together`
 
-over vs during
-    =  over. Algo se prolonga durante un periodo (e.g., over the years, over the weekend).
-    =  during. Algo ocurre en un momento en lo que otra cosa se estaba desarrollando (e.g., during the meeting, during the summer).
 
 el evento duró...
-    = the event lasted `The event lasted two hours`
-    = the event went on for (implica que se prolongó más de lo esperado/deseable) `The event went on for two hours`
+    = the event lasted
+    = the event went on for (continuó por - implica que se prolongó más de lo esperado/deseable)
+    ? El evento duró dos horas : `The event lasted two hours`
+    ? La reunión duró una eternidad : `The meeting went on for ages!`
 
 quedarse demasiado tiempo, durar demasiado, hacerse pesado
     = to overstay its welcome
     ? El juego se hizo pesado : `It felt like the game overstayed its welcome`
     ? La fiesta se hizo larga, prolongándose hasta bien entrada la madrugada : `The party overstayed its welcome, lasting well into the early hours of the morning`
 
-tarda/le lleva x tiempo
-    = take `The train is taking a long time | It took me two hours to finish the report | The worker took too long to finish the task`
+tardar/le lleva <x> tiempo = take
+    ? El tren está tardando mucho : `The train is taking a long time`
+    ? Tardé dos horas en terminar el informe : `It took me two hours to finish the report`
+    ? El trabajador tardó demasiado en terminar la tarea : `The worker took too long to finish the task`
+    ? Tardo una hora en llegar al trabajo : `It takes me an hour to get to work`
+    ? Me lleva una hora llegar al trabajo : lo mismo
+
+lo que más tiempo me llevó fue ...
+    = What took me the longest was...
+
+el tiempo que requiere = the time it takes
 
 ## Being On Time and Timing
 
 ser puntual
-    = be on time `I was on time for the meeting`
-    = be punctual `I was punctual for the meeting`
+    = be on time
+    = be punctual
+    ? Llegué puntual a la reunión : `I was on time for the meeting` - `I was punctual for ...`
 
 puntualmente
     = punctually
     ? Llegó puntual a la reunión : `He arrived punctually for the meeting`
 
 a tiempo
-    = on time (puntual, a la hora) `I try to be on time for meetings` - `The train arrived on time`
-    = in time (dentro del tiempo) `The ambulance arrived in time to save him` - `I hope the package arrives in time for my birthday`
+    = on time (puntual, a la hora)
+    = in time (dentro del tiempo)
+    ? Intento llegar a tiempo a las reuniones : `I try to be **on** time for meetings`
+    ? El tren llegó a su hora : `The train arrived **on** time`
+    ? La ambulancia llegó a tiempo para salvarlo : `The ambulance arrived **in** time to save him`
+    ? Espero que el paquete llegue a tiempo para mi cumpleaños : `I hope the package arrives **in** time for my birthday`
 
 A la hora acordada = at the agreed time `The meeting started at the agreed time`
 
-finalmente = IN the end `In the end, it was a great experience` - `In the end, I enjoyed the film`
+finalmente, al final = IN the end
     - No confundir con _at the end_ que es al final de algo
+    - OJO: No usar _finally_ para _finalmente_, ya que se usar para el último paso de algo
+    ? Al final, fue una gran experiencia : `In the end, it was a great experience`
+    ? Finalmente, no fue tan desagradable como pensaba : `In the end, it wasn't as unpleasant as I thought` (**no** Finally!!!)
 
-por fin = at last `At last, I finished the book` - `At last, I can relax`
+Por fin, al fin (algo llevó tiempo/varios intentos)
+    = AT last
+    ? Por fin acabé el libro : `At last, I finished the book`
+    ? Por fin puedo relajarme : `At last, I can relax`
+    ? He pasado el examen al fin : `I've passed the exam AT LAST`
+
 
 Ya es hora de que (se quiera que algo, que debería estar hecho, se haga)
-    = it's [high|about] time <sbody> <past> `It's about time you went to bed` - `It's about time we BOUGHT a new car; this one is far too unreliable`
+    = it's [high|about] time <sbody> <past>
+    ? Ya es hora de que te vayas a la cama: `It's about time you went to bed`
+    ? Ya es hora de que compremos un coche nuevo; este es muy poco fiable : `It's about time we BOUGHT a new car; this one is far too unreliable`
 
 ## Moments in relation to other Moments
 
@@ -282,29 +336,26 @@ al final ...
     ? Al final del día, me sorprendió: `At the end of the film, I was surprised` (al final de algo - el dia)
     ? Al final de la película, todo el mundo aplaudió : `At the end of the film, everyone clapped`
 
-
-Por fin, al fin (algo llevó tiempo/varios intentos)
-    = AT last
-    ? Por fin acabé el libro : `At last, I finished the book`
-    ? Por fin puedo relajarme : `At last, I can relax`
-    ? He pasado el examen al fin : `I've passed the exam AT LAST`
-
-
-víspera = eve `The eve of the event was filled with excitement` - `Christmas Eve is a special time for many families`
+víspera = eve
+    ? La víspera del evento estuvo llena de emoción : `The eve of the event was filled with excitement`
+    ? La Nochebuena es un momento especial para muchas familias : `Christmas Eve is a special time for many families`
 
 al dia siguiente = the next day
 
-el día <day> que viene
-    = the day after tomorrow `I will see you the day after tomorrow` - `I will call you the day after tomorrow`
+pasado mañana
+    = the day after tomorrow
+    ? Te llamaré pasado mañana : `I will call you the day after tomorrow`
 
-tan pronto como
-    = as soon as `I’ll call you as soon as I get home` (más informal)
+tan pronto como = as soon as
+    ? Te llamaré tan pronto como llegue a casa : `I’ll call you as soon as I get home` (más informal)
 
 ## Still vs Yet vs Already
 
 ya
-    = already (se usa solo en afirmaciones) `I have already seen that film`
-    = yet (sólo en preguntas) `Have you seen that film yet?`
+    = already (se usa solo en afirmaciones)
+    = yet (sólo en preguntas)
+    ? Ya he visto esa película : `I have already seen that film`
+    ? ¿Has visto esa película ya? : `Have you seen that film yet?`
 
 todavía (se está haciendo algo que debería haber acabado)
     = still (tanto en afirmaciones como en negaciones y antes del verbo)
@@ -319,5 +370,7 @@ aún
 ## Ever vs Never
 
 ever vs never
-    = ever (en preguntas - alguna vez?) `Have you ever been to Paris?`
-    = never (en afirmaciones - nunca) `I have never been to Paris`
+    = ever (en preguntas - alguna vez?)
+    = never (en afirmaciones - nunca)
+    ? ¿Has estado alguna vez en París? : `Have you ever been to Paris?`
+    ? Nunca he estado en París : `I have never been to Paris`

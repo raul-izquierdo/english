@@ -206,3 +206,14 @@ estar acostado/tirado
         - Si, es la misma palabra que para _mentir_
         - Usar _down_ para enfatizar la acción en vez de la posición `He lay down on the bed`
         - No confundir con verbo _lay_ que es poner algo en una superficie horizontal `He lay the book on the table`
+
+tomar un descanso
+    = take/have a break (descanso corto)
+    ? Necesito hacer un descanso: `I need to take a break`
+
+tomarse un tiempo
+    = take time out (descanso largo)
+    ? Es importante tomarse un tiempo para recargar energías: `It's important to take time out to recharge your batteries`
+    ? Ha decidido tomarse un tiempo fuera de su carrera para viajar por el mundo: `He's decided to take some time out from his career to travel the world`
+
+tiempo libre = free time `I like to spend my free time reading` - `I enjoy my free time`

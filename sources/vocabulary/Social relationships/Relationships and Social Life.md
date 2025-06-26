@@ -105,11 +105,18 @@ reunir
         - `Please gather together in the living room for the meeting`
         - `We need to gather together all the documents`
 
-juntarse, quedar, reunirse
+juntarse, reunirse
     = to get together (cita aunque sea informal) `We should get together for dinner sometime`
-    = to meet up (más espontaneo) `Let’s meet up for coffee tomorrow`
 
 dar una fiesta = throw a party `He threw a party for his birthday` - `She threw a party for her friends`
+
+quedar
+    = to meet
+    = to meet up with <sbody> (más informal)
+    ? He quedado con mi jefe a las 10 : `I'm meeting my boss at 10 AM`
+    ? He quedado con mis amigos el próximo martes: `I'm meeting my friends next Tuesday` - `... meeting up **with** my...`
+    ? ¿Te apetece quedar conmigo luego? : `Do you fancy meeting up with me later?`
+    ? Quedamos con nuestros amigos todos los viernes : `We meet up with our friends every Friday`
 
 regalo
     = present (regalo envuelto en celebración) `He gave her a present for Christmas`
@@ -197,12 +204,18 @@ visitar
 pasar el rato
     = to hang out `I’m hanging out with friends this weekend`
 
+pasamos un buen rato = we had a good time
+    ? Pasamos un buen rato en la fiesta: `We had a good time at the party`
 
 ## Contacting People
 
 contactar con alguien
     = get in touch with (i) `I will get in touch with you later`
     = contact (neutro) `I will contact you later` - `I contacted him yesterday`
+
+mantenerse en contacto
+    = keep in touch
+    ? Deberíamos mantenernos en contacto : `We should keep in touch`
 
 dirigirse a alguien = address `He addressed the letter to the manager` - `He addressed the audience during the presentation`
 destinatario = addressee `The addressee of the letter is the manager`

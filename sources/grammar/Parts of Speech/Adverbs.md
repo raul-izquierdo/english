@@ -51,6 +51,8 @@ tarde o temprano, en algún momento = eventually
 
 recientemente = recently
 
+enseguida = quickly
+    ? Llamé enseguida a mi amigo : `I called my friend quickly`
 
 ## Adverbs of Frequency (how often something happens)
 

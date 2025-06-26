@@ -311,10 +311,6 @@ huelga = strike `The workers went on strike for better pay` - `The workers are o
 
 manifestación = demonstration `The workers held a demonstration for better pay` - `The workers are demonstrating for better pay`
 
-tomar un descanso
-    = take a break `I need to take a break from work`
-
-tiempo libre = free time `I like to spend my free time reading` - `I enjoy my free time`
 
 presentar una solicitud
     = submit an application

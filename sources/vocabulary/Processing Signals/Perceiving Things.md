@@ -64,8 +64,21 @@ he visto/notado/comprobado que
 
 me llamó la atención = `It caught my attention`
 
+matiz = nuance
+    ? No pillo el matiz : `I don't catch the nuance`
+    ? El artista capturó los matices de la luz en la pintura : `The artist captured the nuances of light in the painting`
 
 transmite, comunica, indica = convey `The painting conveys a sense of peace` - `The message conveyed the importance of teamwork`
+
+## Remembering
+
+recordar
+    = remember (uno mismo recuerda)
+    = remind (uno recuerda a otro)
+    ? Recuerdo mi primer día de escuela : `I remember my first day at school`
+    ? Recuérdame que le llame : `Remind me to call her`
+    ? Recuerda llamarla : `Remember to call her` (acuérdate tu misma)
+    ? Me recuerda a mi infancia : `It reminds me of my childhood` (una cosa te está recordando a ti)
 
 
 ## Getting Attention
