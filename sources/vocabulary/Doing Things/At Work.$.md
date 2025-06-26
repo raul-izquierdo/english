@@ -180,7 +180,7 @@ con iniciativa, emprendedor
 ## Adjectives For Jobs
 
 monótono = monotonous `The job is monotonous`
-desafiante = challenging `The job is challenging`
+difícil, desafiante = challenging `The job is challenging`
 satisfactorio = rewarding `The job is rewarding`
 estresante = stressful `The job is stressful`
 de responsabilidad = responsible `Being a manager is a responsible job because you are accountable for the performance of your team`
@@ -302,7 +302,7 @@ ponerse a trabajar = get to work
 
 Llamar al trabajo para informar de algo = call IN `I called in sick to work today`
 
-hacer una demostración/exhibición...
+hacer/organizar una demostración/exhibición...
     = give a presentation `I gave a presentation on the new project` - `He gave a presentation to the team`
     = hold a demonstration, competition, event, exhibition...) `The company held a demonstration of their new product`
 

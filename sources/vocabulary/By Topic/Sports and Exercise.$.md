@@ -5,41 +5,50 @@
 
 atletismo = athletics (running, jumping, throwing) `I love watching athletics`
 
-ciclismo = cycling `I love cycling in the countryside`
+ciclismo = cycling
 gimnasia = gymnastics `I love watching gymnastics`
 
 esquí (deporte)= skiing (doble i) `I love skiing in the mountains`
-natación = swimming (doble m) `I love swimming in the sea`
-
-tenis = tennis (doble n) `I love playing tennis`
+natación = swimming (doble m)
+tenis = tennis (doble n)
 
 senderismo
-    = hiking (más ligero) `We went hiking in the national park last weekend` - `Hiking is my favorite activity`
-    = trekking (más duro) `I love trekking in the mountains`
+    = hiking (más ligero)
+    = trekking (más duro)
+    ? Fuimos de senderismo en el parque nacional el fin de semana pasado : `We went hiking in the national park last weekend`
 
 ## Doing Sports
 
 salir a correr
-    = go running (habit) `I go running every morning`
-    = go for a run (puntual) `I go for a run every morning`
+    = go running
+    = go for a run
+    ? Salgo a correr todas las mañanas : `I go for a run every morning` (más común)
 
 andar en bicicleta
-    = to cycle (en general) `I cycle every day` - `I don’t like cycling`
-    = to go cycling (salida concreta en bicicleta) `I went cycling in the countryside last weekend`
+    = to cycle (en general)
+    = to go cycling (salida concreta en bicicleta)
         - Esta dualidad entre usar [verbo / go <ing>] se aplica a muchos deportes: ski, hike, swim, run, etc.
+    ? Yo monto en bicicleta todos los días : `I cycle every day`
+    ? No me gusta montar en bicicleta : `I don’t like cycling`
+    ? Fui a montar en bicicleta por el campo el fin de semana pasado : `I went cycling in the countryside last weekend`
 
 hacer <deporte>
-    = to play (jugar a: deportes con pelotas o competitivos -> tennis, football, golf...) `I play tennis every weekend`
-    = to go (hacer: implican movimiento y acaban en _ing_) (swimming, running, hiking) `I went running yesterday`
+    = to play (jugar a: deportes con pelotas o competitivos -> tennis, football, golf...)
+    = to go (hacer: implican movimiento y acaban en _ing_) (swimming, running, hiking)
     = to do (el resto: do athletics, do gymnastics, do yoga, do karate, do exercise...)
+    ? Juego al tenis todos los fines de semana : `I play tennis every weekend`
+    ? Fui a correr ayer : `I went running yesterday`
+    ? No hago ejercicio todos los días : `I don’t exercise every day`
 
-partido = match `The match was very exciting`
 
-practicar
-    = practiSe <base> `I need to practise my English`
-        - No confundir con _practiCe_ (práctica) `I need more practice`
+practicar un deporte
+    = Usar la expresión anterior **hacer**: play, do, go...
+    ? Practicaba balonmano cuando era joven : `I used to play handball when I was young`
+    ? Practico Karate cada semana : `I do karate every week`
 
-sesión de ejercicio = workout `Yesterday I did a workout` - `I try to do a workout three times a week`
+sesión de ejercicio = workout
+    ? Ayer hice una sesión de ejercicio : `Yesterday I did a workout`
+    ? Intento hacer una sesión de ejercicio tres veces a la semana : `I try to do a workout three times a week`
 
 ## Roles
 
@@ -51,53 +60,63 @@ espectador = spectator `The spectators enjoyed the match`
 
 ## Places
 
-pista (tenis, basketball, squash...) = court `The tennis court is very well maintained`
-pista de atletismo = track
+pista
+    = court (tenis, basketball, squash...)
+    = track (pista de atletismo, carreras de coches...)
+    ? La pista de tenis está muy bien mantenida : `The tennis court is very well maintained`
+    ? La pista de atletismo está en obras : `The athletics track is under construction`
 
-campo de <deporte> = pitch `The pitch was in bad condition`
-campo de golf = golf course `The golf course is very challenging`
-campo de fútbol = football field `The football field is very big`
+campo de <deporte> = pitch
+    ? El Real Madrid salió al campo : `Real Madrid came onto the pitch`
 
-gimnasio = gym `I go to the gym three times a week`
+campo de golf = golf course
 
-areas deportivas = sports facilities `The school has excellent sports facilities`
+gimnasio = gym
+
+áreas deportivas = sports facilities `The school has excellent sports facilities`
 
 ## Water Activities
 
 en el agua
-    = on the water (sobre objeto/embarcación) `The boat floated on the water`
-    = in the water (nadar, bucear...) `I swim in the water`
+    = on the water (sobre objeto/embarcación)
+    = in the water (nadar, bucear...)
+    ? El barco flotaba sobre el agua : `The boat floated **on** the water`
+    ? Nado en el agua : `I swim **in** the water`
 
 flotar = float:ed `The boat floated on the water`
 hundirse = sink:saunk:sunk `The ship sank in the storm`
-zambullirse = plunge:ed `He plunged into the water`
-bucear = dive:ed `He dived into the pool`
-ahogarse = drown:ed `He drowned in the river`
+zambullirse = plunge `He plunged into the water`
+bucear = dive `He dived into the pool`
+ahogarse = drown `He drowned in the river`
 
 ## Verbs
 
-entrenar = train `The team trained for the match`
+entrenar = train
+    ? El equipo entrenó durante la mañana : `The team trained during the morning`
 
-participar en = take part in `He takes part in the local marathon every year`
+participar en = take part in
+    ? Él participa en el maratón local cada año : `He takes part in the local marathon every year`
 
-competir = compete `The team competed in the tournament`
+competir = compete
+    ? El equipo compitió en el torneo : `The team competed in the tournament`
 
 
 albergar una competición/evento
-    = host a competition, event, exhibition...) `The company held a demonstration of their new product`
+    = host a competition, event, exhibition...)
+    ? Madrid alberga muchos eventos deportivos importantes : `Madrid hosts many important sporting events`
+    ? La empresa organizó una demostración de su nuevo producto : `The company held a demonstration of their new product`
 
-celebrar una competición (show, a talk, demonstration, etc.)
-    = hold a (competition, event, exhibition...) `The club is going to hold a tennis competition`
-
-hacer una competición
-    = put on (competition, event, exhibition...) `The club put on a tennis competition`
+hacer/organizar una competición
+    = put on (competition, event, exhibition...)
+    ? El club organizó una competición de tenis : `The club put on a tennis competition`
 
 tener un record
-    = to hold a record (logro competitivo) `The athlete holds the record for the fastest time in the 100-meter sprint`
+    = to hold a record (logro competitivo)
+    ? El atleta tiene el récord del tiempo más rápido : `The athlete holds the record for the fastest time`
 
+golpear (on raqueta, por ejemplo) = hit `He hit the ball with his racket`
 chutar = kick `He kicked the ball into the goal`
 dar un pase = pass `He passed the ball to his teammate`
-golpear = hit `He hit the ball with his racket`
 
 marcar un gol/puntos = score a goal/points `He scored a goal in the match`
 fallar un gol = miss a goal `He missed the goal in the match`
@@ -109,24 +128,40 @@ el resultado = the outcome `The outcome of the match was unexpected`
 conseguir = achieve `He achieved his goal of running a marathon`
 logros = achievements `The team’s achievements are impressive`
 
-empate = draw `The match ended in a draw`
-van empatados = they are drawing `They are drawing 1-1`
+partido = match `The match was very exciting`
+
+Van 3-2
+    = It's three two (el guión no se pronuncia)
+    = They are winning three two
+Van 3-0 = It's three nil (el cero se dice _nil_) `The final score was three-nil`
+
+van empatados = to be level
+    ? Van empatados : `They're level`
+van empatados a <número> = It's <number> all
+    ? Van empatados a uno/dos/... : `It's one-all` - `It's two-all`
+empate (finalizado)= draw
+    ? El partido acabó en empate : `The match ended in a draw`
+
 van perdiendo = they are losing `They are losing 1-0`
 
 ganar
-    = beat (a personas: equipo/individuo) `The team beat their rivals 3-0`
-    = win (partido/competición) `The team won the match 3-0`
-        - Difference `He beat John in the tennis match, but he didn't win the tournament`
+    = beat (a personas: equipo/individuo)
+    = win (partido/competición)
     = to defeat (derrotar - formal) `The team defeated their rivals in the final`
         - Se usa en guerras, elecciones... En competiciones sólo para dramatizar
+    ? El equipo venció a sus rivales 3-0 : `The team beat their rivals 3-0`
+    ? El equipo ganó el partido 3-0 : `The team won the match 3-0`
+    ? Él ganó a John, pero no ganó el torneo : `He **beat** John, but he didn't **win** the tournament`
+    ? Él ganó el partido a John : `He **won** the match against John`
 
 perder
-    = lose (i) `The team lost the match 3-0`
+    = lose (i)
     = to be defeated (formal - ser derrotado) `The team was defeated in the final`
+    ? El equipo perdió el partido 3-0 : `The team lost the match 3-0`
 
 ganador = winner
-campeón = champion (ganador con prestigio/dominio)`The champion was very happy`
-el segundo = runner-up `The runner-up was very disappointed`
+campeón = champion (ganador con prestigio/dominio) `The champion was very happy`
+el segundo = the runner-up `The runner-up was very disappointed`
 
 lesión = injury `The injury was very serious`
 lesionarse = get injured `He got injured in the match`
@@ -135,15 +170,20 @@ lesionarse = get injured `He got injured in the match`
 
 hay muchas/varias actividades disponibles = `There is a wide range of activities on offer`
 
-cuántos jugadores forman un equipo de ... = how many players are there in a ...
+¿Cuántos jugadores forman un equipo de ...? = `How many players are there in a ...?`
 
 no practico ningún deporte = `I don't do any sport`
 practico algo de deporte = `I do a bit of sport`
 
-no hago tanto ejercicio como debería = I don't exercise as much as I should `I don't exercise as much as I should, but I'm trying to change that`
+no hago tanto ejercicio como debería
+    ? ... pero estoy intentando cambiar eso : `I don't exercise as much as I should, but I'm trying to change that`
 
-persona en forma = fit person `I am a fit person`
+persona en forma = fit person
+    ? Soy una persona en forma : `I am a fit person`
+    ? Estoy en forma : `I am fit`
 
 ponerse en forma
-    = get in shape (mejorar apariencia) `I want to get in shape for the beach`
-    = get fit (mejorar salud) `I want to get fit and improve my overall health`
+    = get in shape (mejorar apariencia)
+    = get fit (mejorar salud)
+    ? Quiero ponerme en forma para la playa : `I want to get in shape for the beach`
+    ? Quiero ponerme en forma y mejorar mi salud en general : `I want to get fit and improve my overall health`
