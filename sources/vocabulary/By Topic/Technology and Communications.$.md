@@ -1,74 +1,85 @@
 # Technology and Communications (v1)
 
-
-
 ## News
 
 noticia, noticias
-    = news `I read the news every day`
+    = news
         - Se usa tanto para singular como plural
-        - Se considera singular para el verbo `The news IS very encouraging` (no _are_)
+        - Se considera singular para el verbo
+    ? Leo las noticias todos los días : `I read the news every day`
+    ? Las noticias son muy alentadoras : `The news IS very encouraging` (no _are_)
 
 información
-    = information `I read the information about the event`
+    = information
         - Se considera singular (no tiene plural)
+    ? Lei todas las informaciones sobre el suceso : `I read all the information about the event` (usar singular)
 
 hoy hay buenas noticias
-    = there is good news today `There is good news today`
-    - Queda raro poner el _today_ delante: _Today there is good news_
+    = there is good news today
+    ? Hoy hay buenas noticias : `There is good news today` (no poner el _today_ al principio - queda raro)
 
-noticia de última hora = breaking news `I saw the breaking news on TV`
+noticia de última hora = breaking news
+    ? Vi la noticia de última hora en la tele : `I saw the breaking news on TV`
 
-titular = headline `I read the headline of the news article`
+titular = headline
 
-del exterior = foreign news `I read the foreign news every day`
-locales = local news `I read the local news every day`
-noticias internacionales = international news `I read the international news every day`
-de entretenimiento = entertainment new `I read the entertainment news every day`
-del tiempo = weather news `I read the weather news every day`
+noticias del exterior = foreign news
+noticias locales = local news
+noticias internacionales = international news
+noticias de entretenimiento = entertainment new
+noticias del tiempo = weather news
 
-dar noticias = give news `I have to give you some news`
-dar buenas noticias = give good news `I have to give good news to you` - `He gave the good news to his family`
-dar malas noticias = break bad news `I have to break bad news to you` - `He broke the bad news to his family`
+dar noticias = give news
+    ? Tengo que darte una noticia : `I have to give you some news`
+    ? Tengo noticias para ti : `I have news for you`
 
+dar buenas noticias = give good news
+dar malas noticias = break bad news
 
 información falsa
     = misinformation (por error) `There was misinformation about the project deadline`
     = disinformation (a propósito) `There was disinformation about the project deadline`
 
 malentendido
-    = misunderstanding `There was a misunderstanding about the meeting time`
+    = misunderstanding
 
-los medios de comunicación
-    = the media `The media are covering the event`
+los medios de comunicación = the media `The media are covering the event`
 
-según ...
-    = according to
+según ...= according to
     ? Según el periódico, la noticia es cierta : `According to the newspaper, the news is true`
 
 ## Telephone
 
 linea fija = landline `I prefer to use a landline for important calls`
 
-llamar por teléfono = call `I call my friends every day`
-contestar al teléfono = answer the phone `I answer the phone when it rings`
-colgar el teléfono = hang up the phone `I hang up the phone when I finish talking`
-te llamo para decirte que ... = I'm calling you to tell you ... `I'm calling you to tell you that I can't come to the meeting`
+llamar por teléfono = call
+    ? Llamo a mis amigos todos los días : `I call my friends every day`
+    ? Te llamo para decirte que no puedo ir a la reunión : `I'm calling you to tell you that I can't come to the meeting`
 
-usar el móvil = spend time on my phone `I spend a lot of time on my phone`
+contestar al teléfono = answer the phone
+    ? No suelo contestar al teléfono durante las comidas : `I usually don’t answer the phone during meals`
 
-enviar mensajes = to message `I message my friends every day`
+colgar el teléfono = hang up the phone
+    ? Cuelgo si veo que es una llamada comercial : `I hang up if I see it’s a sales call`
+
+usar el móvil = spend time on my phone
+    ? Ella usa mucho el móvil : `She spends a lot of time on her phone`
+
+enviar mensajes = to message
+    ? Le envié un mensaje para decirle que llegaría tarde : `I messaged my friend to tell her I would be late`
 
 ## Radio
 
+poner la radio = turn on the radio
+    ? Suelo poner la radio todas las tardes : `I usually turn on the radio every afternoon`
 
-pongo la radio = `I usually turn on the radio every afternoon`
+No suelo escuchar música. Solo oigo la radio
+    = `I don’t usually listen to music. I just listen to the radio`
 
-No suelo escuchar música. Solo oigo la radio = `I don’t usually listen to music. I just listen to the radio`
+poner música = put on music
+    ? Puso música para relajarse : `He put on some music to relax`
 
-poner música = put on music `He put on some music to relax`
-
-tertulia (radiofónica) = `talk show`
+tertulia = `talk show`
 
 programa de radio = `radio show`
 
@@ -83,22 +94,24 @@ echan una película ...
 telediario = the news `I watch the news every day`
 documental = documentary `I like watching documentaries`
 
-serie the TV = TV series `I like watching TV series`
-una tertulia = talk show `I like watching talk shows on TV`
+serie the TV = TV series
 
 
 ## Internet
 
 recibir emails
-    = to receive emails `I receive emails every day`
-    = to get emails `I get emails every day`
+    = to receive emails
+    = to get emails
+    ? Recibo correos electrónicos todos los días : `I receive emails every day` - `I get emails every day`
 
 acceder a Internet con
-    = to get/go online via ... `I get online every day via my phone`
-    = to access the Internet via ... (f) `I access the Internet every day via my phone`
+    = to get/go online via ...
+    = to access the Internet via ... (f)
+    ? Me conecto a Internet todos los días desde el móvil : `I get online every day via my phone` - `I access the Internet every ...`
 
 navegar por Internet
-    = to browse the Internet `I browse the Internet every day`
+    = to browse the Internet
+    ? Navego por internet todos los días : `I browse the Internet every day`
 
 buscar en Internet
     = to search the Internet [for] (~mirar en internet)
@@ -108,16 +121,22 @@ buscar en Internet
 
 Búscalo en Google = `Google it`
 
+redes sociales = social networks
+    ? Uso las redes sociales para mantenerme en contacto con mis amigos : `I use social networks to keep in touch with my friends`
+
 Esta información la he sacado de Internet = `I got this information from the Internet`
 
-subir fotos, memes... = to share `I share photos on social media`
+subir fotos, memes...
+    = to share
+    = to upload
+    ? Ella comparte fotos a las redes sociales : `She shares photos on social networks`
 
 ## Technology
 
 auriculares
-    = headphones `I always listen to music with my headphones`
-    = earphones (los de insertar en oreja) `I always listen to music with my earphones`
+    = headphones
+    = earphones (los de insertar en oreja)
 
-dejar algo encendido
-    = leave something on `Don't forget to turn off the TV; I left it on`
+dejar algo encendido = leave something on
+    ? No olvides apagar la tele; la dejé encendida : `Don't forget to turn off the TV; I left it on`
     ? Dejé el ordenador encendido : `I left the computer on`
