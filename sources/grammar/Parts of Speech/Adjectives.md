@@ -88,6 +88,13 @@ cuidadoso = careful
 
 ## Describing Quality or Condition
 
+tremendo
+    = terrible /devastating (terrible)
+    = huge (tremendo de grande)
+    ? La inundación fue tremenda :  `The flash flood was terrible/devastating`
+    ? El elefante era tremendo : `The elephant was huge`
+
+
 mejorable = improvable
     ? El diseño es mejorable : `The design is improvable`
 

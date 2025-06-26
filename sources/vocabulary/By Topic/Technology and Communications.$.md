@@ -26,7 +26,7 @@ titular = headline
 noticias del exterior = foreign news
 noticias locales = local news
 noticias internacionales = international news
-noticias de entretenimiento = entertainment new
+noticias de entretenimiento = entertainment news
 noticias del tiempo = weather news
 
 dar noticias = give news
@@ -94,7 +94,7 @@ echan una película ...
 telediario = the news `I watch the news every day`
 documental = documentary `I like watching documentaries`
 
-serie the TV = TV series
+serie de TV = TV series
 
 
 ## Internet
