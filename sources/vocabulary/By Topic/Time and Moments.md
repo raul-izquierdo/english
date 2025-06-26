@@ -14,6 +14,8 @@ en los buenos momentos = in the good times `In the good times, we had a lot of f
 
 en mis buenos tiempos = in my good times `In my good times, I was happy` - `In my good times, I was successful`
 
+es un buen momento = it's a good time
+    ? Las rebajas es un buen momento para comprar ropa : `The sales are a good time to buy clothes`
 
 ## Time Management and Use of Time
 

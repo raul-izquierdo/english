@@ -128,11 +128,14 @@ horno = oven `I need to preheat the oven`
 placa = [induction/ceramic] hob `I need to turn on the induction hob`
 
 freír = fry `I need to fry the eggs`
-cocer = boil `I need to boil the pasta`
+cocer, hervir = boil `I need to boil the pasta`
 calentar = heat `I need to heat the food`
 hornear = bake `I need to bake the cake`
 dejar reposar = let it rest `I need to let the dough rest`
 
+libro de cocina
+    = cookbook (enseña a cocinar) `This book is a cookery book`
+    = recipe book (recetas) `This book is a recipe book`
 
 ## Furniture
 

@@ -89,17 +89,28 @@ una tertulia = talk show `I like watching talk shows on TV`
 
 ## Internet
 
-
-
-subir fotos, memes... = to share `I share photos on social media`
+recibir emails
+    = to receive emails `I receive emails every day`
+    = to get emails `I get emails every day`
 
 acceder a Internet con
     = to get/go online via ... `I get online every day via my phone`
     = to access the Internet via ... (f) `I access the Internet every day via my phone`
 
-recibir emails
-    = to receive emails `I receive emails every day`
-    = to get emails `I get emails every day`
+navegar por Internet
+    = to browse the Internet `I browse the Internet every day`
+
+buscar en Internet
+    = to search the Internet [for] (~mirar en internet)
+    = to look up on the Internet <sthing> (buscar algo específico)
+    ? Necesito buscar en Internet información para mi ensayo : `I need to search the Internet for information for my essay`
+    ? Simplemente buscaré la dirección en Internet : `I'll just look up the address on the Internet`
+
+Búscalo en Google = `Google it`
+
+Esta información la he sacado de Internet = `I got this information from the Internet`
+
+subir fotos, memes... = to share `I share photos on social media`
 
 ## Technology
 

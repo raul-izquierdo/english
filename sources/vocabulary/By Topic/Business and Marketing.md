@@ -1,72 +1,105 @@
-# Business and Marketing (v1)
+# Business and Marketing
 
 
 ## Advertising
 
-publicidad = advertising `Advertising is important for businesses`
+publicidad = advertising
+    ? La publicidad es importante para las empresas : `Advertising is important for businesses`
 
 anuncio
-    = advertisement `I saw an advertisement for a new car`
+    = advertisement
     = ad (i)
+    ? Vi un anuncio de un nuevo coche : `I saw an advertisement for a new car`
 
 anunciar = advertise `They advertised the new product on TV`
 
 ## Business
 
-empresa = company `The company is expanding` - `The company is a startup`
-compañía = company `The company is expanding` - `The company is a startup`
-negocio = business `The business is growing` - `The business is a startup`
+empresa
+    = business
+    = company (más grande, más formal
 
-montar una empresa = set up a company `He set up a company with his friends`
+negocio = business
+    ? El negocio de la energía verde está creciendo significativamente en todo el mundo : `The green energy business is growing significantly worldwide`
 
-inaugurar (negocio)
-    = open `The company opened a new branch in the city` - `The restaurant opened last week`
+montar una empresa = set up a company
+
+inaugurar (un negocio) = open
 
 la competencia (otros vendedores)
     = competitors `It poses a threat to competitors`
-    = rival/competing companies `It poses a threat to rival companies`
+    = (rival/competing) companies `It poses a threat to rival companies`
 
 ser pionero, marcar el camino = leading the way `The company is leading the way in innovation`
+
 estaba en sus inicios = it was in its infancy `The technology was in its infancy`
 
-venta de minorista = retail `He works in retail` - `The retail price of the product is 100 euros`
+venta de minorista = retail
+    ? Trabaja en venta de minorista : `He works in retail`
 
 ## Products
 
-lanzar, presentar (un producto)
-    = launch `The company launched a new product` - `They launched their new book at the fair`
+producto tiene <atributo>
+    = product is <atributo>
+        - No se usa "to have" en estos casos en los que se habla de un atributo del producto
+    ? La chaqueta tenía un precio razonable : `The jacket was a reasonable price`
+    ? El coche tiene transmisión automática : `The car is automatic transmission`
+
+tienen/comparten características
+    = to share
+    = to have in common
+    ? Los dos coches tienen muchas características en común : `The two cars share many characteristics` - `The two cars have many features in common`
+
+característica
+    ! Hay bastante solape
+    = feature (funcionalidad, ventaja - algo que fue diseñado)
+    = characteristic (cualidad)
+    ? El nuevo teléfono tiene muchas características avanzadas : `The new phone has many advanced features`
+    ? Una característica común de estas especies es su cola corta : `A common characteristic of these species is their short tail`
+
+marca
+    = brand `I prefer to buy products from a well-known brand`
+    = make (para coches y electronics) `The make of the car is Toyota`
+
+marca blanca = own brand `I usually buy the own brand products to save money`
+
+lanzar, presentar (un producto) = launch
+    ? La empresa lanzó un nuevo producto : `The company launched a new product`
 
 (producto) dirigido a ...
-    = aimed at `The campaign is aimed at young adults`
-    = directed at `The campaign is directed at young adults`
+    = aimed at
+    = directed at
+    ? El producto está dirigido a jóvenes : `The product is aimed at young people` - `...directed at`
 
 esto es tanto para X como para Y
-    = this is both for X and Y `This is both for the students and the teachers` - `This is both for the parents and the children`
-    = this is for both X and Y `This is for both the students and the teachers` - `This is for both the parents and the children`
+    = this is for both X and Y
+    ?  Esto es tanto para los estudiantes como para los profesores : `This is for both students and teachers`
 
-Una utilidad que tiene ... = One use of ... `One use of technology is to improve communication`
+para las necesidades de X, no para las de Y
+    = for the needs of X, not for THOSE of Y
+    ? Este producto está diseñado para las necesidades del cliente, no para las de la empresa : `This product is designed for the needs of the customer, not for those of the company`
 
 ## Markets
 
-rentable, beneficioso = profitable `The business is profitable` - `The investment was profitable`
+rentable, beneficioso = profitable
 
-oferta y demanda
-    = supply and demand `The price of the product is determined by supply and demand`
+oferta y demanda = supply and demand
 
-satisfacer la demanda
-    = meet the demand `The company is trying to meet the demand for the new product`
+satisfacer la demanda = meet the demand
 
-satisfacer al cliente = meet the customer needs `The company is trying to meet the customer needs`
+satisfacer al cliente = meet the customer needs
 
-el comercio = trade `The trade is important for the economy` - `The trade is growing`
+el comercio = trade
+    ? El comercio es importante para la economía : `The trade is important for the economy`
 
-revuelo, desorden = scramble `The news caused a scramble in the market`
+revuelo, desorden = scramble
+    ? Las noticias causaron un revuelo en el mercado : `The news caused a scramble in the market`
 
 
 ## Roles
 
 emprendedor (el que monta un negocio)
     = entrepreneur `He is an entrepreneur`
-        - No confundir con _enterprising_: con iniciativa (aunque no monte negocio)
+        - No confundir con _enterprising_ -> con iniciativa (aunque no monte negocio)
 
-contables = accountants `The accountants are responsible for the company's finances`
+contables = accountants

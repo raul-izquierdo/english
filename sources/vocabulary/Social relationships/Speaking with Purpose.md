@@ -207,7 +207,7 @@ Te recomiendo que lo pruebes = I highly recommend giving it a go
 ## Warning
 
 avisar, informar
-    = inform [<sbody>] OF <sthing> `He informed his boss of the meeting`
+    = inform [<sbody>] OF <sthing> `He informed his boss of the meeting`= to report (de una forma más formal o estructurada) `He reported the incident to the police`
     = notify (notificación más oficial) `He notified his boss of the meeting`
     = warn (de peligro)
         - warn [<sbody>] ABOUT <ing/sthing> `He warned his friend about the danger`
@@ -281,3 +281,37 @@ presumir/fardar de
     = show off `He likes to show off his new car` - `He's always showing off his new car`
     = brag `He likes to brag about his achievements`
 derecho a fardar = bragging rights (jocoso) `I have bragging rights for the rest of the year`
+
+## Blaming and Apologizing
+
+culpar
+    = blame <culpable> FOR <acto> `He blamed his brother FOR breaking the vase` - `Don't blame me for your mistakes`
+    = blame <acto> ON <culpable> `He blamed the accident ON the weather` - `They blamed the defeat ON the referee`
+
+aceptar la culpa = take the blame `I don't want to take the blame for this` - `He took the blame for the mistake`
+
+la culpa es de = It's <sbody> fault
+    ? La culpa es de Elsa : `It's Elsa's fault`
+
+
+él es el culpable
+    = he is [the one(s)] to blame for `The police say the criminals are to blame for the increase in crime`
+
+¿de quién es la culpa?
+    = whose fault is it [THAT...]? `Whose fault is it?` - `Whose fault is it that the project failed?` - `Whose fault is it that we are late?`
+    = who is to blame FOR ...? `Who is to blame FOR the accident?`
+
+son los culpables
+    = are to blame for `The police say the criminals are to blame for the increase in crime`
+    = are the ones to blame for `The police say the criminals are to blame for the increase in crime`
+
+son los responsables de
+    = are responsible for `The police say the criminals are responsible for the increase in crime`
+
+disculparse
+    = apologize [TO <sbody>] FOR <ing>
+    ? Se disculpó con su jefe por llegar tarde : `He apologized to his boss for being late`
+    ? Le hizo un regalo como forma de disculparse : `He gave her a gift as a way of apologizing`
+
+pedir perdón
+    = ask for forgiveness `He asked for forgiveness for his mistakes`

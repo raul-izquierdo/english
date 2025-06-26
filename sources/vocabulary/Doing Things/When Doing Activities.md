@@ -118,6 +118,7 @@ me vendría bien
 no me vendría mal, no me haría ningún daño
     = wouldn't do me any harm `A vacation wouldn't do me any harm` - `A break wouldn't do me any harm`
 
+Una utilidad que tiene ... = One use of ... `One use of technology is to improve communication`
 
 
 ## Asking for Help

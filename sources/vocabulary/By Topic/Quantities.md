@@ -7,6 +7,7 @@ cantidad
     = amount (incontable)
     = number (contable)
     = quantity (ambos, pero es más técnico, así que se usan más las anteriores) (f)
+    = Roberto y Elsa son unos capullos
     ? La cantidad de agua es insuficiente:  `The amount of water is insufficient`
     ? La cantidad de estudiantes está aumentando: `The number of students is increasing`
 
@@ -20,51 +21,48 @@ muy pocos, pocos, bastantes, muchos, muchísimos, demasiados (contables)
 muy poco, poco, bastante, mucho, muchísimo, demasiado (incontables)
     = very little, little, quite a bit of, much, a large amount of, too much
 
-
 con mucho...
-    = with a great deal of (incontables - formal) `With a great deal of effort, we can finish the project on time`
-    = with a lot of (ambos - informal) `With a lot of effort, we can finish the project on time`
-
+    = with a great deal of (incontables - formal)
+    = with a lot of (ambos - informal)
+    ? Con mucho esfuerzo, podemos terminar el proyecto a tiempo : `With a great deal of effort, we can finish the project on time` - `... a lot of effort...`
 
 little/few vs a little/a few
     = sin la _a_ : pesimista
     = con la _a_ : optimista
-    ? There is little hope of success: poca esperanza
-    ? There is a little hope of success: algo de esperanza
+    ? `There is little hope of success` ¿Cuánta esperanza hay? : poca esperanza
+    ? `There is a little hope of success` ¿Cuánta esperanza hay? : algo de esperanza
 
 few vs quite a few
     = _few_ es negativo, _quite a few_ es positivo
-    ? There are few people at the party: hay poca gente
-    ? There are quite a few people at the party: hay bastante gente
+    ? `There are few people at the party`¿Cuánta gente hay? : hay poca gente
+    ? `There are quite a few people at the party`¿Cuánta gente hay? : hay bastante gente
 
 
 (a lot of) vs (lots of)
     = Ambos valen para contable e incontables. Son intercambiables
-        - `There are a lot of books on the shelf` - `There are lots of books on the shelf`
-        - `There is a lot of money` - `There is lots of money`
         - Ambos son informales, pero _lots of_ es aún más informal que _a lot of_.
         - Para formal, usar _a large number of_ o _a large amount of_.
+        ? Hay muchos libros en la estantería : `There are a lot of books on the shelf` - `...lots of books`
+        ? Hay mucho dinero : `There is a lot of money` - `...lots of money`
 
 una gran cantidad de
     = a great deal of (incontables - formal)
     ? Hay una gran cantidad de trabajo por hacer : `There is a great deal of work to do`
 
-un número importante de
-    = a significant number of
+un número importante de = a significant number of
 
-una cantidad importante de
-    = a significant amount of (incontables - formal)
+una cantidad importante de = a significant amount of (incontables - formal)
     ? Hay una cantidad importante de trabajo por hacer : `There is a significant amount of work to do`
 
-una cantidad considerable de
-    = considerable (cuantioso)
+una cantidad considerable de = considerable (cuantioso)
     ? Hay una cantidad considerable de trabajo por hacer : `There is a considerable amount of work to do`
 
 
 
 ## Quantities relative to a Target
 
-superar en número = outnumber `The number of visitors outnumbered the available seats in the theatre`
+superar en número = outnumber
+    ? El número de visitantes superó el número de asientos disponibles en el teatro : `The number of visitors outnumbered the available seats in the theatre`
 
 demasiado (exceso)
     = too much/many (incontables/contables)
@@ -73,15 +71,15 @@ demasiado (exceso)
 
 para enfatizar el exceso
     = De más a menos: far, way, rather, a little, a bit
-    ? Hay muchísimo azúcar : `There is far too much sugar` - `way too much`
+    ? Hay muchísimo azúcar : `There is far too much sugar` - `...way too much`
     ? Es un poco demasiado azúcar : `There is a little too much sugar`
     ? Hay un pelín demasiado azúcar : `There is bit too much sugar`
 
 demasiado poco
     = too few/little (contables/incontables)
     = not enough (para ambos)
-    ? Hay muy pocas personas en la habitación: `There are too few people in the room` - `There are not enough people in the room`
-    ? Hay muy poco azúcar en esta tarta: `There is too little sugar in this cake` - `There is not enough sugar in this cake`
+    ? Hay muy pocas personas en la habitación: `There are too few people in the room`
+    ? Hay muy poco azúcar en esta tarta: `There is too little sugar in this cake`
 
 suficiente[mente]
     = <adjective> enough `tall enough`
@@ -104,32 +102,39 @@ casi hay/no hay por poco
     ? Esto es casi suficiente dinero para comprar los billetes: `This is almost enough money to buy the tickets`
     ? Eso no es suficiente tiempo para acabar el proyecto!! : `That’s not quite enough time to finish the project`
 
-escasez = shortage `There is a shortage of food in the region`
 
-falta de
-    = lack of (más general) `There is a lack of information about the topic` - `Lack of sleep can affect your health` - `Lack of exercise can lead to health problems`
-    = shortage of (escasez temporal o repentina) `There is a shortage of resources for the project`
 
-de sobra
-    = plenty
+escasez, falta de...
+    = shortage of (escasez de algún suministro))
+    = lack of (más general)
+    ? Hay escasez de comida en la región : `There is a shortage of food in the region`
+    ? Hay escasez de recursos para el proyecto : `There is a shortage of resources for the project`
+    ? Su trabajo muestra una falta de esfuerzo : `His work shows a lack of effort`
+    ? Hay una falta de confianza en el gobierno : `There is a lack of confidence in the government`
+
+de sobra = plenty
     ? Hay un montón de comida: `There is a lot of food` - `There is plenty of food`
 
 
 ## Sizes
 
 grande
-    = big (no sólo para tamaños físicos) `This is a big decision`
-    = large (más polite pero solo para tamaños físicos) `The large house was very spacious` - `He was a large man`
+    = big (no sólo para tamaños físicos)
+    = large (más polite pero solo para tamaños físicos)
+    ? Esta es una gran decisión : `This is a big decision`
+    ? La casa grande era muy espaciosa : `The large house was very spacious`
+    ? Él era un hombre grande : `He was a large man`
+    ? Él era un gran hombre (importante): `He was a great man`
 
 enorme
-    = huge `The huge house was very spacious` - `The huge car was very comfortable`
-
+    = huge
 
 
 ## Distribution
 
 todo el mundo
-    = everyone/everybody IS/HAS (singular) `Everyone is invited to the party` - `Everybody has a right to vote`
+    = everyone/everybody IS/HAS (singular)
+    ? Todo el mundo tiene derecho a votar : `Everybody has a right to vote`
 
 una mayoría/minoría de
     = most of (i)
@@ -143,42 +148,57 @@ una minoría de
     ? Una minoría votó en contra de la nueva ley : `A minority voted against the new law` - `Only a few people...`
 
 todos nosotros/vosotros
-    = all of us/you  `All of us are invited to the party` - `All of you have a right to vote`
+    = all of us/you
+    ? Todos nosotros estamos invitados a la fiesta : `All of us are invited to the party`
+    ? Todos vosotros tenéis derecho a votar : `All of you have a right to vote`
 
 todos los
-    = all `All students must submit their assignment` - `All people have a right to vote`
+    = all
+    ? Todas las personas tienen derecho a votar : `All people have a right to vote`
 
-todo/todos ...
-    = every
+todo/todos ... = every
     ? Voy al gimnasio todos los días : `I go to the gym every day`
     ? Todo alumno debe asistir a clase : `Every student must attend class`
     ? Todo estudiante recibirá un certificado : `Every/Each student will receive a certificate` (aquí se solapa con _each_)
 
-cada
-    = each
+cada = each
     ? Cada alumno recibirá un regalo diferente : `Each child got a different gift`
-
 
 ## Existence
 
-tiene que haber = there has to be `There has to be some left` - `There has to be some food`
-no tiene que haber = there doesn't have to be `There doesn't have to be any left` - `There doesn't have to be any food`
+tiene que haber = there has to be
+    ? Tiene que haber algo de comida : `There has to be some food`
+    ? Tiene que quedar algo : `There has to be some left`
 
-no puede haber  = there can't be `There can't be any more left` - `There can't be any more food`
+no tiene que haber = there doesn't have to be
+    ? No tiene que haber comida : `There doesn't have to be any food`
+    ? No tiene que quedar nada : `There doesn't have to be any left`
 
-debe haber = there must be `There must be some left` - `There must be some food`
-debería haber = there should be `There should be some left` - `There should be some food`
+no puede haber  = there can't be
+    ? No puede quedar nada más : `There can't be any more left`
 
-debería haber habido = there should have been `There should have been some left` - `There should have been some food`
+debe haber = there must be
+    ? Debe quedar algo : `There must be some left`
+
+debería haber = there should be
+    ? Debería quedar algo : `There should be some left`
+
+debería haber habido = there should have been
+    ? Debería haber quedado algo : `There should have been some left`
 
 algo
-    = something (en afirmativas)` There has to be something left`
-    = anything (negativa e interrogativa) `There doesn't have to be anything left` - `Is there anything to eat?`
+    = something (en afirmativas)
+    = anything (negativa e interrogativa)
+    ? Tiene que quedar algo : `There has to be something left`
+    ? ¿Hay algo para comer? : `Is there anything to eat?`
 
-nada = nothing `There has to be nothing left` - `There has to be nothing to eat`
+nada = nothing
+    ? No tiene que quedar nada : `There has to be nothing left`
 
 
-cero, ceros = zero, zeros `There are zero chances of success` - `There are zeros in the number 1000`
+cero, ceros = zero, zeros
+    ? Hay cero posibilidades de éxito : `There are zero chances of success`
+    ? Hay ceros en el número 1000 : `There are zeros in the number 1000`
 
 ninguno
     = neither (para dos opciones)
@@ -193,38 +213,52 @@ nadie = no one
 
 ## Changing Quantities
 
-reducir = cut down on `I need to cut down on my spending this month`
+reducir a
+    = to halve (a la mitad)
+    = cut by half, by a quarter, by a third...
+    = reduced by half, by a quarter, by a third...
+    ? El precio se redujo a la mitad :  `The price was halved` - `The price was cut by half` - `...reduced by half`
 
-eliminar = cut out `I decided to cut out junk food from my diet`
+reducir el consumo (hábito) = cut down on
+    ? Necesito reducir mis gastos este mes : `I need to cut down on my spending this month`
+
+eliminar = cut out
+    ? Decidí eliminar la comida basura de mi dieta : `I decided to cut out junk food from my diet`
 
 aumentar/impulsar/estimular
-    = boost (más repentino/grande) `The new law boosted the economy` - `It will boost your confidence` - `The new law boosted the economy` - `The new product boosted sales`
-    = increase/ed `The price of the house increased by 10%`
+    = boost (más repentino/grande)
+    = increase/ed
+    ? La nueva ley impulsó la economía : `The new law boosted the economy`
+    ? Esto aumentará tu confianza : `It will boost your confidence`
+    ? El precio de la casa aumentó un 10% : `The price of the house increased by 10%`
 
 agotar (un recurso, un recurso natural)
-    = use up `We used up the resources` - `We used up the water`
-    = exhaust (f) `We exhausted the resources` - `We exhausted the water`
-
+    = use up
+    = exhaust (f)
+    ? Agotamos los recursos : `We used up the resources` - `...exhausted the`
 
 ## Approximations
 
 mas o menos ...
-    = or so `I think it was 10 years or so ago` - `It was 10 years or so ago`
-    = more or less `I think it was 10 years more or less` - `It was 10 years more or less`
+    = <cantidad> or so
+    = more or less
+    ? Creo que fue hace unos 10 años : `I think it was **10 years or so** ago` - `I think it was **10 years ago**, more or less`
 
 alrededor de...
-    = around `There were about 20 people` - `It was about 10 years ago`
-    = about `There were around 20 people` - `It was around 10 years ago`
-
-
+    = around / about
+    ? Había alrededor de 20 personas : `There were around 20 people` - `...about`
+    ? Fue hace unos 10 años : `It was about 10 years ago` - `...around`
 
 ## Totals
 
-asciende a ...
-    = amounts to (f) `The cost amounts to $1000` - `The total amount to be paid is $500`
-    = comes to (i) `The total comes to $200` - `The bill comes to $50`
-    = run into (con sorpresa - con sorpresa) `The cost will often run into thousands of pounds`
+asciende a ... (totaliza)
+    = amounts to (f)
+    = comes to (i)
+    = run into (cantidad alta o inesperada) (i)
+    ? El coste asciende a $1000 : `The cost amounts to $1000`
+    ? El importe total a pagar es $500 : `The total amount to be paid is $500`
+    ? La cuenta asciende a $50 : `The bill comes to $50`
+    ? El coste suele ascender a miles de libras!! : `The cost will often run into thousands of pounds`
 
-alcanza = reaches `The total reaches $1000` - `The cost reaches $500`
-
-a la mitad = by half `The price was cut by half` - `The price was reduced by half`
+alcanza, llega a (nivel) = reaches
+    ? El coste alcanza los $500 : `The cost reaches $500`

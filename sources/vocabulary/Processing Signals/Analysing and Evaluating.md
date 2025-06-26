@@ -75,13 +75,16 @@ pensar en
     ? Se te ocurre alguna forma mejor de hacerlo : `Can you think of a better way to do this?`
     ? ¿Qué piensas de mi nuevo peinado? : `What do you think of my new haircut?`
 
-no merece la pena
-    = it's not worth <ing>...
-    = it's not worth <thing> `It's not worth the effort`
-    = It's not worth it
+
+[no] merece la pena
+    = it's [not] worth <ing>...
+    = it's [not] worth <thing> `It's [not] worth the effort`
+    = It's [not] worth it
     ? No merece la pena gastar tanto dinero en eso : `It's not worth spending so much money on that`
 
-merece la pena = it's worth `The film is worth watching` - `The film is worth the price of admission`
+No sé si merece la pena hacerlo
+    = `I don't know if it's worth doing it`
+
 
 no sirve de nada, es inútil
     = It's no use <ing>..

@@ -96,6 +96,16 @@ dejar claro = to make it clear
 
 ni siquiera creo que ... = I don't even think [that] ... `I don't even think there's a word for it`
 
+dicho de otra manera, ...
+    = In other words, ...
+    = [Let me/Well, to] put it another way, ...
+        - Puede ser _another way_ (de otra manera) o _this way_ (de esta manera)
+    ? Los beneficios de la compañía han disminuido ligeramente. Dicho de otra manera, no estamos ganando tanto como el año pasado : `The company's profits have decreased slightly. To put it another way, we're not making as much money as last year`
+    ? A ver, dicho de otra manera, creo que es más importante la salud que el dinero : `Let me put it another way, I think health is more important than money`
+
+A ver...
+    = [Well, ] let's see...
+
 tu experiencia puede ser diferente = Your mileage may vary `I found the movie boring, but your mileage may vary`
 
 
