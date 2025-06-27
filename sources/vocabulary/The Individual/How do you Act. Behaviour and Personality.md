@@ -124,7 +124,7 @@ por su cuenta/ a su manera = ON his own `He did it on his own` - `She prefers to
 es una persona x
     = he is a <adjetivo> person `He is a very calm person` - `She is a kind person`
 
-## Personality
+## Personality. Positive
 
 educado = polite
 alegre = cheerful `He is a cheerful person` - `He has a cheerful personality`
@@ -136,45 +136,20 @@ sensato
 
 sensible = sensitive `He is sensitive and gets hurt easily` - `She is sensitive to criticism`
 
-tranquilo = easy-going `I have an easy-going nature`
-
-pesimista
-    = pessimistic `He is pessimistic about the future`
-
-optimista
-    = optimistic `She is optimistic about the future`
-    = upbeat (animado, positivo) `She had an upbeat mood and encouraged everyone`
-
-radiante, sonriente
-    = beaming `She had a beaming smile on her face` - `He was beaming with pride after the award ceremony`
-
-arrogante = arrogant `He is arrogant and thinks he knows everything` - `She is arrogant and doesn't listen to others`
-arrogancia = arrogance `His arrogance made him unpopular` - `Her arrogance was off-putting`
-
-infantil = childish `His childish behavior annoyed everyone` - `She has a childish sense of humor`
-
-cabezón, obstinado = stubborn `He is stubborn and won't change his mind` - `She is stubborn and won't listen to advice`
 
 entusiasta = enthusiastic `He is enthusiastic about his new job` - `She is enthusiastic about the project`
-
-sociable = sociable `He is sociable and enjoys meeting new people` - `She is sociable and loves to socialize`
-reservado = reserved `He is reserved and doesn't share his feelings easily` - `She is reserved and doesn't open up to others`
-
-egoísta = selfish `He is selfish and only thinks about himself` - `She is selfish and doesn't care about others`
 
 educado = polite `He is polite and always says please and thank you` - `She is polite and respectful to everyone`
 
 amistoso = friendly `He is friendly and easy to talk to` - `She is friendly and makes everyone feel welcome`
-amable = kind `He is kind and helps others` - `She is kind and always offers a helping hand`
-tímido = shy `He is shy and doesn't like to speak in public` - `She is shy and prefers to stay in the background`
+
+amable = kind `She is a kind person`
+    ? Ella es una persona amable : `She is a kind person`
+
+atento, servicial = helpful
+    ? El personal del hotel fue muy servicial : `The staff at the hotel were very helpful`
+
 leal = loyal `He is loyal to his friends` - `She is loyal and always stands by her side`
-hablador = talkative `He is talkative and loves to chat` - `She is talkative and enjoys conversations`
-
-malhumorado = grumpy `He woke up feeling grumpy and didn't want to talk to anyone`
-
-mal carácter = bad-tempered `He is bad-tempered and gets angry easily` - `She is bad-tempered and doesn't like to be disturbed`
-
-tranquilo = easy-going `He is easy-going and doesn't get stressed easily` - `She is easy-going and goes with the flow`
 
 sincero
     = honest (que dice la verdad) `He was honest about his mistake`
@@ -183,6 +158,53 @@ sincero
 fiable
     = reliable `The band is reliable and always on time`
         - No confundir con _trustworthy_ (de confianza) `He is a trustworthy person`
+
+paciente = patient
+    ? Es una persona paciente : `He is a patient person`
+
+obediente = obedient
+
+cuidadoso = careful
+    ? Ten cuidado al cruzar la calle : `Be careful when crossing the street`
+    ? Fue cuidadoso con sus palabras : `He was careful with his words`
+
+
+## Personality. Neutral
+
+infantil = childish `His childish behavior annoyed everyone` - `She has a childish sense of humor`
+
+sociable = sociable `He is sociable and enjoys meeting new people` - `She is sociable and loves to socialize`
+reservado = reserved `He is reserved and doesn't share his feelings easily` - `She is reserved and doesn't open up to others`
+
+tímido = shy `He is shy and doesn't like to speak in public` - `She is shy and prefers to stay in the background`
+
+tranquilo = easy-going `He is easy-going and doesn't get stressed easily` - `She is easy-going and goes with the flow`
+
+hablador = talkative `He is talkative and loves to chat` - `She is talkative and enjoys conversations`
+
+pesimista = pessimistic `He is pessimistic about the future`
+
+optimista
+    = optimistic `She is optimistic about the future`
+    = upbeat (animado, positivo) `She had an upbeat mood and encouraged everyone`
+
+## Personality. Negative
+
+arrogante = arrogant `He is arrogant and thinks he knows everything` - `She is arrogant and doesn't listen to others`
+arrogancia = arrogance `His arrogance made him unpopular` - `Her arrogance was off-putting`
+
+cabezón, obstinado = stubborn `He is stubborn and won't change his mind` - `She is stubborn and won't listen to advice`
+
+egoísta = selfish `He is selfish and only thinks about himself` - `She is selfish and doesn't care about others`
+
+
+malhumorado = grumpy `He woke up feeling grumpy and didn't want to talk to anyone`
+
+mal carácter = bad-tempered `He is bad-tempered and gets angry easily` - `She is bad-tempered and doesn't like to be disturbed`
+
+envidioso = envious
+    ? Ella estaba envidiosa del éxito de su amiga : `She was envious of her friend's success`
+
 
 ## Confidence and Trust
 

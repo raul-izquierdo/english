@@ -29,44 +29,7 @@ repugnante = disgusting `The food was disgusting`
     ? El olor era repugnante : `The smell was disgusting`
 
 
-## Describing Personality or Feelings
-
-estar encantado/contento
-    = be delighted
-    ? Estoy encantado de haberte visto : `I'm delighted to have seen you`
-
-incómodo = awkward (incómodo)
-    ? La situación era incómoda : `The situation was awkward`
-
-envidioso = envious
-    ? Ella estaba envidiosa del éxito de su amiga : `She was envious of her friend's success`
-
-angustiado = distressed
-    ? Él estaba angustiado por la noticia : `He was distressed by the news`
-
-perplejo, desconcertado
-    = puzzled (más ligero y común)
-    = baffled (medio)
-    ? Me sentí perplejo por el extraño comportamiento de mi amigo : `I was puzzled by the strange behavior of my friend`
-    ? Me sentí desconcertado por el truco del mago : `I was baffled by the magician's trick`
-
-ansioso por
-    = eager to
-    ? Estoy ansioso por comenzar mi nuevo trabajo : `I'm eager to start my new job`
-
-paciente = patient
-    ? Es una persona paciente : `He is a patient person`
-
-dubitativo = hesitant
-    ? Dudó en tomar una decisión : `He was hesitant to make a decision`
-    ? Ella tenía dudas sobre el plan : `She was hesitant about the plan`
-
-obediente = obedient
-
-humorístico = humorous `The comedian was humorous`
-    ? La historia tenía un giro humorístico : `The story had a humorous twist`
-humor = humor
-    ? Su sentido del humor es contagioso : `His sense of humor is contagious`
+## Describing Situations
 
 preocupante = worrying
 
@@ -82,9 +45,11 @@ duro, severo = harsh
 indignante = outrageous
     ? El precio de las entradas del concierto era indignante : `The price of the concert tickets was outrageous`
 
-cuidadoso = careful
-    ? Ten cuidado al cruzar la calle : `Be careful when crossing the street`
-    ? Fue cuidadoso con sus palabras : `He was careful with his words`
+humorístico = humorous `The comedian was humorous`
+    ? La historia tenía un giro humorístico : `The story had a humorous twist`
+humor = humor
+    ? Su sentido del humor es contagioso : `His sense of humor is contagious`
+
 
 ## Describing Quality or Condition
 

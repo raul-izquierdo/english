@@ -56,6 +56,10 @@ No me gusta (x4)
 	= I hate <ing|to base>...
 	= I can't stand <ing> (no soporto) `I can't stand the noise` - `She can't stand people being late`
 
+me da asco = disgusts me `The smell of the garbage disgusts me`
+asco = disgust `He felt disgust at the sight of the rotten food`
+
+
 Me gusta más hacer ... que ...
     = I like <ing> better than <ing>
     ? Me gusta correr más que montar en bicicleta : `I like running better than cycling`

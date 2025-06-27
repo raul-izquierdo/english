@@ -318,6 +318,8 @@ estudiar = study `I don't have a place to study`
 concentrarse = concentrate ON `I need to concentrate on my studies` - `She concentrated on her work to finish it on time`
 centrarse = focus ON `I need to focus on my studies` - `She focused on her work to finish it on time`
 
+absorto = engrossed `He was engrossed in the book`
+
 emplearse/esforzarse en algo = apply oneself to something `...hindering our ability to apply ourselves for any length of time to one task`
 
 atender, prestar atención

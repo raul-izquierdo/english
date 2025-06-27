@@ -46,6 +46,10 @@ tratar como (a persona o situación)
 
 hizo lo mismo, siguió el ejemplo/mismo camino = follow suit `When the first company started offering discounts, others followed suit`
 
+
+perturbar
+    = to disturb `The noise from the construction site disturbed the neighbors`
+
 ## Forcing others to Do something
 
 obligo/hizo que alguien...
