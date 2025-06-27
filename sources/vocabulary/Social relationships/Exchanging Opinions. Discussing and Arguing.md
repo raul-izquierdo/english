@@ -85,16 +85,27 @@ inclinarse por algo = lean towards `I lean towards the idea of going to the beac
 
 estar a favor de = in favour OF `We were all in FAVOUR OF him doing it`
 
-Por poner un ejemplo, ... = To give an example
-
 otra ventaja/desventaja es que...
     = Another advantage/disadvantage is that...
     = A **further** advantage/criticism of... (f)
 
+ni siquiera creo que ... = I don't even think [that] ... `I don't even think there's a word for it`
+
+tu experiencia puede ser diferente = Your mileage may vary `I found the movie boring, but your mileage may vary`
+
+
+## Clarifying Concepts
+
 dejar claro = to make it clear
     ? Quiero dejar claro que apoyo la decisión: `I want to make it clear that I support the decision`
 
-ni siquiera creo que ... = I don't even think [that] ... `I don't even think there's a word for it`
+Por poner un ejemplo, ... = To give an example
+
+por ejemplo
+    = for example (más común)
+    = for instance (intercambiable)
+    ? Hay muchas formas de ahorrar dinero; por ejemplo, puedes dejar de comer fuera : `There are many ways to save money; for example, you can cut down on eating out`
+    ? Hay muchas formas de ahorrar dinero; por ejemplo, puedes dejar de comer fuera : `There are many ways to save money; for instance, you can cut down on eating out`
 
 dicho de otra manera, ...
     = In other words, ...
@@ -103,11 +114,14 @@ dicho de otra manera, ...
     ? Los beneficios de la compañía han disminuido ligeramente. Dicho de otra manera, no estamos ganando tanto como el año pasado : `The company's profits have decreased slightly. To put it another way, we're not making as much money as last year`
     ? A ver, dicho de otra manera, creo que es más importante la salud que el dinero : `Let me put it another way, I think health is more important than money`
 
+para que quede claro = `Just to be clear, ...`
+    ? Solo para que quede claro, ... : `Just to be clear, ...`
+
+para asegurarme de que = `Just to make sure that ...`
+    ? Solo para asegurarme de que ... : `Just to make sure that ...`
+
 A ver...
     = [Well, ] let's see...
-
-tu experiencia puede ser diferente = Your mileage may vary `I found the movie boring, but your mileage may vary`
-
 
 ## Reacting to Opinions
 

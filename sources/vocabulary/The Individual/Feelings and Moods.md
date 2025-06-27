@@ -171,6 +171,16 @@ culpa = guilt `She felt guilt for forgetting her promise`
 confundido = confused about `I'm confused about the instructions`
 confusión = confusion `She felt a sense of confusion when the instructions weren't clear`
 
+confundir <algo>
+    = to mistake (identificar algo mal)
+    = to mistake X for Y
+    ? Me equivoqué de dirección : `I mistook the address`
+    ? Me equivoqué de sus intenciones : `I mistook his intentions`
+    ? Me equivoqué de persona : `I mistook the person`
+    ? Te confundí con tu compañero : `I mistook you for your colleague`
+    ? Lo confundí con otra persona : `I mistook him for someone else`
+    ? No confundas su amabilidad con debilidad : `Don't mistake his kindness for weakness`
+
 sorprendido
     = surprised `I was surprised by the news`
     = shocked `I was shocked by the news`
@@ -259,3 +269,7 @@ Le tengo cariño a ...
 
 no herir los sentimientos de alguien
     = spare someone's feelings `I wanted to spare his feelings` - `He phrased his criticism carefully to spare their feelings`
+
+procesar algo (emocionalmente)
+    = to process it
+    ? Necesito tiempo para asimilar esta mala noticia : `I need time to process this bad news`

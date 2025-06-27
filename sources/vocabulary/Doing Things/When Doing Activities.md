@@ -47,10 +47,6 @@ llevar a cabo, hacer
 
 hacer progresos en = make progress in `We are making progress in the project`
 
-realizar un esfuerzo = make an effort `She made an effort to improve her English`
-hacer un mayor esfuerzo = make more of an effort `If you want to succeed, you'll need to make more of an effort`
-hacerlo lo mejor que pueda = do my best
-
 hacerlo en partes = break it down `I need to break it down into smaller tasks` - `I need to break it down into smaller pieces`
 hacerlo en etapas/pasos = do it in stages/steps `I need to do it in stages` - `I need to do it in steps`
 
@@ -70,7 +66,20 @@ arreglárselas
 pasarse (hacer algo en exceso)
     = overdo `I overdid it at the gym yesterday and now I'm sore` - `He overdid the salt in the soup` - `I don’t want to overdo it with the celebrations; we should keep it simple`
 
-cogerle el tranquillo, empezar a dominarlo = get the hang of it `It took me a while to get the hang of driving a manual car, but now I love it`
+
+## Effort and Application
+
+emplearse/esforzarse en algo = apply oneself to something
+    ? ...dificultando nuestra capacidad de concentrarnos durante mucho tiempo en una sola tarea : `...hindering our ability to apply ourselves for any length of time to one task`
+
+hacer un esfuerzo = make an effort
+    ? Necesito hacer un esfuerzo para estudiar más : `I need to make an effort to study more`
+    ? Hizo un esfuerzo para mejorar su inglés : `He made an effort to improve his English`
+
+hacer un mayor esfuerzo = make more of an effort `If you want to succeed, you'll need to make more of an effort`
+
+haz lo que puedas = do your best
+    ? Haz lo que puedas en el examen : `Do your best in the exam`
 
 ## Risks
 

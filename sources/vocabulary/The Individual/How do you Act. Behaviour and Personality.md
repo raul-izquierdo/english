@@ -277,3 +277,6 @@ me gusta la tranquilidad = I like peace and quiet `I like peace and quiet in my 
 estar haciendo el tonto/perdiendo el tiempo = to be messing about/around `I was just messing around`
 
 no es lo mio = not my cup of tea `I don't like horror movies. They're not my cup of tea`
+
+necesito organizar mi vida
+    = `I need to sort myself out`

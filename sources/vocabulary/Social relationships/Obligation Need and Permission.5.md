@@ -31,6 +31,11 @@ No puedes... (está prohibido)
     ? No puedes usar el móvil en clase : `You must not use your phone in class`
     ? No podéis salir del edificio : `You must not leave the building`
 
+es obligatorio
+    = is mandatory (más neutro)
+    = is compulsory (más formal - forzoso)
+    ? La asistencia es obligatoria para todos los estudiantes : `Attendance is mandatory for all students`
+    ? El servicio militar es obligatorio en algunos países : `The army service is compulsory in some countries`
 
 
 ## Need

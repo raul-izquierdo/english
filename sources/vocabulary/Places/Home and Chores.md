@@ -209,7 +209,9 @@ estar acostado/tirado
 
 tomar un descanso
     = take/have a break (descanso corto)
+    = take <period> off (descanso largo)
     ? Necesito hacer un descanso: `I need to take a break`
+    ? Me voy a coger un semestre libre para viajar : `I’m taking a semester off to travel`
 
 tomarse un tiempo
     = take time out (descanso largo)

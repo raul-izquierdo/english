@@ -233,7 +233,10 @@ en cualquier caso (sea cual sea el resultado)
     = in any case
     ? Puede que llueva o puede que no. En cualquier caso, tenemos que coger un paraguas : `It might rain, or it might not. In any case, we need to take an umbrella`
 
-
+en general, en conjunto
+    = overall
+    = on balance
+    ? En general, la reunión fue productiva : `Overall, the meeting was productive` - `On balance, the meeting was productive`
 
 ## Sequencing Ideas
 
