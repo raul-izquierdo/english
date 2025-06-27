@@ -41,6 +41,8 @@ amigo
     = mate (i) `He is my mate`
     = pal (i) `He is my pal`
 
+¿Sois amigos? = Are you friends?
+
 compañerismo = camaraderie `Camaraderie is important in the workplace`
 
 tener cariño a = to be fond of <sbody/sthing> `I am fond of my family` - `He is fond of his old armchair; it's so comfortable`

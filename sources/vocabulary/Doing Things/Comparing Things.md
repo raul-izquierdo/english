@@ -3,7 +3,10 @@
 ## Asking
 
 que es lo más ... = `What is the most ...`
-qué es lo que más utilizas = `What do you use the most in your daily life?`
+    ? ¿Qué es lo más importante para ti? : `What is the most important thing for you?`
+
+qué es lo que más utilizas = `What do you use the most...`
+    ? ¿Qué es lo que más utilizas en tu vida diaria? : `What do you use the most in your daily life?`
 
 ## Comparatives and Superlatives
 
@@ -61,7 +64,7 @@ es (mucho más) ... que... (¿mucho?)
     = The <superlative> IN <group>
     ? Roberto es el más gracioso de la clase : `Roberto is the funniest IN the class`
 
-Alex es el más rápido and John es el más listo
+Alex es el más rápido y John es el más listo
     = `Alex is the FASTER swimmer and John is the MORE CLEVER one`
         - De entre ellos dos. No se usa el superlativo en este caso
     = `Alex is the FASTEST swimmer and John is the MOST CLEVER one`
@@ -75,7 +78,8 @@ is the biggest ... (¿por poco?)
 	= by a bit, barely, by a small margin
 	? Es el más grande por poco : `It's the biggest by a bit` - `It is barely the biggest`
 
-second to none = el mejor `The service was second to none`
+es inmejorable = second to none
+    ? El servicio fué inmejorable : `The service was second to none`
 
 fue la peor ... de mi vida
     = it was the worst ... of my life `It was the worst day of my life`
@@ -157,12 +161,19 @@ No es un ... tan ...
 mi hijo es de la misma edad que el tuyo
     = `My son is THE SAME AGE AS yours`
 
-mas o menos = sort of `The project is sort of finished` - `Is he your friend? Sort of. We get along, but we're not very close`
+mas o menos = sort of
+    ? El proyecto está más o menos terminado : `The project is sort of finished`
+    ? ¿Sois amigos? Más o menos. Nos llevamos bien, pero no somos muy cercanos. : `Are you friends? Sort of. We get along, but we're not very close`
 
 igualmente, de la misma manera
     ? Quiero que funcione de la misma manera que el anterior : `I want it to work the same way as the previous one`
 
-como si fuera una...
-    = as though/if it <were> `It looks as if it were a good idea` - `It seems as if it were a good idea`
+como si fuera/hubiera...
+    = as though/if it <were>
+    ? Habla como si fuera el jefe : `He speaks as though he were the boss`
+    ? Parece como si hubiera estado lloviendo antes : `It looks as though it were raining earlier`
+    ? Me miró como si fuera la última vez que nos veríamos : `She looked at me as though it were the last time we’d meet`
+    ? Se comportaron como si todo fuera una broma : `They behaved as though it were all a joke`
 
-tantos como = as many as `There are as many apples as oranges in the basket`
+tantos como = as many as
+    ? Hay tantas manzanas como naranjas en la cesta : `There are as many apples as oranges in the basket`

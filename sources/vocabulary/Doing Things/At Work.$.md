@@ -4,25 +4,25 @@
 
 trabajo
     = work (actividad o lugar)
-    ? : `I work as a teacher`
-    ? : `He's at work right now`
+    ? Trabajo como profesor : `I work as a teacher`
+    ? Está en el trabajo ahora mismo : `He's at work right now`
 
 puesto de trabajo
     = job
         - hay excepciones `Great job on finishing the project`
     = position (cargo)
     = role (más general - función que desempeña)
-    ? : `What's your job? I work as a teacher`
+    ? ¿Cuál es tu trabajo? Trabajo como profesor : `What's your job? I work as a teacher`
 
 profesión = profession (ocupación que requiere titulación/cualificación)
-    ? : `Teaching is a respected profession`
+    ? La enseñanza es una profesión respetada : `Teaching is a respected profession`
 
 trabajo de/soy ..
     = (soy) I'm a ...
         - No se dice `My job is an engineer`
     = (trabajo como) work as ...
-    ? : `I’m an engineer`
-    ? : `He works as a teacher`
+    ? Soy ingeniero : `I’m an engineer`
+    ? Él trabaja como profesor : `He works as a teacher`
 
 director = director
 gerente = manager
@@ -30,12 +30,12 @@ jefe = boss
 subdirector = deputy director
 
 el personal/plantilla = staff
-    ? : `There are over a hundred staff working in the company`
+    ? La plantilla está formada por unos 20 empleados : `The staff consists of approximately 20 employees.`
 subordinados = subordinates
 
 ascender en un sistema = work his way up
-    ? : `He worked his way up the company`
-    ? : `The plastics worked its way up in the food chain`
+    ? Él fue ascendiendo en la empresa : `He worked his way up the company`
+    ? El plástico ascendió en la cadena alimentaria : `The plastics worked its way up in the food chain`
 
 compañeros de trabajo
     = workmates (relación más amigable)
@@ -43,9 +43,6 @@ compañeros de trabajo
 
 juntarse con compañeros (para tomar el cafe)
     = get together with colleagues
-
-con el resto, con sus semejantes = with their peers
-    ? : `He spends time with his peers`
 
 equipo/cuadrilla/tripulación = crew
 
@@ -59,21 +56,21 @@ ama de casa = housewife
 
 carrera (profesional)= career
     - A diferencia de español, no se usa para "carrera universitaria" (eso es _degree_).
-    ? : `I have a long career in marketing`
+    ? Tengo una larga carrera en marketing : `I have a long career in marketing`
 
 dedicarse a una carrera = go into a career
-    ? : `I decided to go into a career in engineering`
+    ? Decidí dedicarme a la ingeniería : `I decided to go into a career in engineering`
 dedicar su carrera a = dedicate his career to
-    ? : `He dedicated his career to helping others`
+    ? Él dedicó su carrera a ayudar a los demás : `He dedicated his career to helping others`
 seguir una carrera = follow a career
-    ? : `For anyone thinking of following a career in engineering`
+    ? Para cualquiera que piense en seguir una carrera profesional en ingeniería : `For anyone thinking of following a career in engineering`
 cambiar de carrera = change/switch careers (si, en plural)
-    ? : `I decided to change career**s** and become a teacher`
+    ? Decidí cambiar de carrera profesional y convertirme en profesor : `I decided to change career**s** and become a teacher`
 dejar una carrera
     = give up a career (abandonar)
     = leave a career (menos drástico - dejar - puede ser temporal)
-    ? : `I gave up my career in engineering to become a teacher`
-    ? : `He left her career in advertising to spend more time with her family`
+    ? Dejé mi carrera profesional en ingeniería para ser profesor : `I gave up my career in engineering to become a teacher`
+    ? Ella dejó su carrera en publicidad para pasar más tiempo con su familia : `He left her career in advertising to spend more time with her family`
 
 
 ## Work Places
@@ -94,19 +91,19 @@ almacén = warehouse
 experiencia
     = (años haciéndolo) experience
     = (conocimiento) expertise
-    ? : `He has five years of experience in marketing`
-    ? : `He has expertise in data analysis`
+    ? Él tiene cinco años de experiencia en marketing : `He has five years of experience in marketing`
+    ? Él tiene experiencia en análisis de datos : `He has expertise in data analysis`
 experiencia laboral = work experience `I have 5 years of work experience`
 experiencia previa = previous experience
 ganar experiencia = gain experience `I gained experience in marketing during my internship`
 
 he asistido a = I have attended
-    ? : `I have been attending a local academy for the last year`
+    ? He estado asistiendo a una academia local durante el último año : `I have been attending a local academy for the last year`
 
 necesitas conocimientos = you need to have knowledge of
 necesitas habilidades = you need to have skills in
     - computer skills, technical skills, analytical skills, problem-solving skills, interpersonal skills, leadership skills, organizational skills
-    ? : `You need to have skills in communication to work in marketing`
+    ? Necesitas tener habilidades de comunicación para trabajar en marketing : `You need to have skills in communication to work in marketing`
 
 ser adecuado/apropiado para ...
     = be suitable for ... `He is suitable for the job`
@@ -122,9 +119,9 @@ es necesario
     = required (enfatiza que es por normativa)
     = is needed (informal, necesidad puntual)
         - `Help is needed with this project` Aquí _necessary_ implicaría que la ayuda es "condición necesaria" para continuar, cuando sólo quiere indicar que se necesita
-    ? : `A passport is necessary for international travel`
-    ? : `A visa is required for entry into the country`
-    ? : `Extra towels are needed for the guests`
+    ? Es necesario un pasaporte para viajar internacionalmente : `A passport is necessary for international travel`
+    ? Se requiere un visado para entrar en el país : `A visa is required for entry into the country`
+    ? Se necesitan toallas extra para los huéspedes : `Extra towels are needed for the guests`
 
 tienes la capacidad de ...?
     = Are you able to
@@ -132,54 +129,54 @@ tienes la capacidad de ...?
     = Do you have what it takes (i)
     = Do you have the required skills for ...?
     = Do you possess the necessary qualifications to ...? (f)
-    ? : `Are you able to work overtime?` - `I am able to work overtime`
-    ? : `Can you handle the pressure?` - `I can handle the pressure`
-    ? : `Do you have what it takes to be a manager?`
+    ? ¿Puedes trabajar horas extra? -> Puedo trabajar horas extra : `Are you able to work overtime?` -> `I am able to work overtime`
+    ? ¿Puedes manejar la presión? -> Puedo manejar la presión : `Can you handle the pressure?` -> `I can handle the pressure`
+    ? ¿Tienes lo que se necesita para ser gerente? : `Do you have what it takes to be a manager?`
 
 se necesita/requiere = it takes
-    ? : `It takes time to learn a new language`
-    ? : `It takes effort to succeed`
+    ? Se necesita tiempo para aprender un nuevo idioma : `It takes time to learn a new language`
+    ? Se necesita esfuerzo para tener éxito : `It takes effort to succeed`
 
 
 ## Hiring and Firing
 
 solicitar/apuntarse para trabajo = apply for ...
-    ? : `I applied for a job at the company`
+    ? Solicité un trabajo en la empresa : `I applied for a job at the company`
 
 un criterio [de selección] = a criterion
     - El plural es _criteria_ (no _criterions_) `The selection criteria for the job are very strict`
-    ? : `The most importat criterion is the experience`
+    ? El criterio más importante es la experiencia : `The most important criterion is the experience`
 
 publicado, anunciado = advertised `The job was advertised in the newspaper`
 
 reclutamiento = recruitment process (buscar y seleccionar)
 
 recomendar para un trabajo = recommend <sbody> FOR <sthing>
-    ? : `He recommended his friend for the job`
+    ? Él recomendó a su amigo para el trabajo : `He recommended his friend for the job`
 
 contratar
     = take on (contratar+incorporar)
     = hire (neutro)
-    = employ (f) `
-    ? : `The company took on a new employee`
-    ? : `A manager is taking on a new team member`
-    ? : `He was hired by the company` - `...employed`
+    = employ (f)
+    ? La empresa contrató a un nuevo empleado : `The company took on a new employee`
+    ? Un gerente está incorporando a un nuevo miembro al equipo : `A manager is taking on a new team member`
+    ? Fue contratado/empleado por la empresa : `He was hired/employed by the company`
 
 conseguir un trabajo = get a job `I got a job at the company`
 
 tener empleado = employ
-    ? : `The company employs over 100 people`
+    ? La empresa emplea a más de 100 personas : `The company employs over 100 people`
 
 contratación = hiring process
-    ? : `The hiring process is important for the company`
+    ? El proceso de contratación es importante para la empresa : `The hiring process is important for the company`
 
 despedir
     = fire (informal y negativo - mal desempeño)
     = dismiss (formal y neutro)
     = to make someone redundant (por falta de trabajo)
-    ? : `He was fired from the company`
-    ? : `He was dismissed from the company`
-    ? : `He was made redundant after the company downsized`
+    ? Fue despedido de la empresa (hizo algo inapropiado): `He was fired from the company`
+    ? Fue despedido de la empresa (neutro): `He was dismissed from the company`
+    ? Fue despedido por reducción de plantilla : `He was made redundant after the company downsized`
 
 despido
     = dismissal `His dismissal was unexpected`
@@ -199,8 +196,8 @@ jubilarse = retire `He retired at 65`
 jubilado = retired `He is retired`
 
 cambiar de trabajo = change jobs
-    ? : `He changed jobs last year`
-    ? : `He changed companies last year`
+    ? Cambió de trabajo el año pasado : `He changed jobs last year`
+    ? Cambió de empresa el año pasado : `He changed companies last year`
 
 cambio a mejor = change for the better
 
@@ -254,7 +251,7 @@ trabajar a turnos = to work shifts `I work shifts at the hospital`
 
 dar por terminado el dia
     = call it a day
-    ? : `Let's call it a day and start fresh tomorrow`
+    ? Vamos a dejarlo por hoy y empezar frescos mañana : `Let's call it a day and start fresh tomorrow`
 
 
 ## Responsibilities
@@ -262,12 +259,12 @@ dar por terminado el dia
 trabajos que hacer = assignments `I have a lot of assignments to do this week`
 
 ofrecerse a (hacer algo) = offer TO
-    ? : `Jack offered to buy Amy a new book`
+    ? Jack se ofreció a comprarle un libro nuevo a Amy : `Jack offered to buy Amy a new book`
 
 
 asumir/aceptar una tarea/responsabilidad = take on
-    ? : `She took on the organization of the event`
-    ? : `I took on the responsibility of managing the project`
+    ? Ella se encargó de la organización del evento : `She took on the organization of the event`
+    ? Me encargué de la gestión del proyecto : `I took on the responsibility of managing the project`
 
 
 asumir responsabilidades = take responsibility for
@@ -276,24 +273,24 @@ asumir responsabilidades = take responsibility for
 asumir un papel = take on a role `He took on the role of project manager`
 
 hacerse cargo de = take charge of
-    ? : `I will take charge of the team/project`
+    ? Me haré cargo del equipo/proyecto : `I will take charge of the team/project`
 
 pasar a dirigir/controlar = take over (suele implicar sustituir a alguien)
-    ? : `I will take over the project`
-    ? : `Could you take over driving for a bit?`
+    ? Dirigiré proyecto : `I will take over the project`
+    ? ¿Puedes conducir tú un rato? : `Could you take over driving for a bit?`
 
 obligaciones
     = obligations (genérico de las siguientes)
     = duties (tareas)
     = responsibilities (responsabilidades)
     = commitments (compromisos normalmente voluntarios)
-    ? : `My obligations include managing the team`
-    ? : `My duties include managing the team`
-    ? : `My responsibilities include managing the team`
-    ? : `My commitments include managing the team`
+    ? Mis obligaciones incluyen gestionar el equipo : `My obligations include managing the team`
+    ? Mis tareas incluyen gestionar el equipo : `My duties include managing the team`
+    ? Mis responsabilidades incluyen gestionar el equipo : `My responsibilities include managing the team`
+    ? Mis compromisos incluyen gestionar el equipo : `My commitments include managing the team`
 
 estar dispuesto a (hacer algo) = to be willing to <base>
-    ? : `Men are more willing to eat than women`
+    ? Los hombres están más dispuestos a comer que las mujeres : `Men are more willing to eat than women`
 
 tratar con, encargarse de, lidiar con (personas o situaciones)
     = deal with (para tratar con algo difícil/desagradable)
@@ -302,10 +299,10 @@ tratar con, encargarse de, lidiar con (personas o situaciones)
         - `I can deal with him` Puedo encargarme, se centra más en que él es molesto/desagradable
     = cope with (hacer frente emocionalmente)
         - más emocional, lidiar con algo difícil o estresante
-    ? : `I have to deal with a lot of paperwork at work`
-    ? : `I can handle the situation`
-    ? : `I have to cope with a lot of stress at work`
-    ? : `I have to cope with difficult customers`
+    ? Tengo que ocuparme de mucho papeleo en el trabajo : `I have to deal with a lot of paperwork at work`
+    ? Puedo manejar la situación : `I can handle the situation`
+    ? Tengo que tratar con mucho estrés en el trabajo : `I have to cope with a lot of stress at work`
+    ? Tengo que tratar con clientes difíciles : `I have to cope with difficult customers`
 
 ## Teamwork
 
@@ -322,39 +319,38 @@ participar en ...
     = take part in ... (i)
     = participate in ... (f)
     = get involved in ... (implicación - mayor grado)
-    ? : `I took part in the project`
-    ? : `I participated in the project`
-    ? : `I got involved in the project`
+    ? Participé en el proyecto : `I took part in the project` - `...participated`
+    ? Me impliqué en el proyecto : `I got involved in the project`
 
 participación en ...
     = participation in ...
     = involvement in ... (implicación - mayor grado)
-    ? : `My involvement in the project was very important` - `... participation`
+    ? Mi implicación en el proyecto fue muy importante - ...participación : `My involvement in the project was very important` - `... participation`
 
 hacer la parte que le corresponde
     = do his part (lo asignado)
     = do his share (su parte equitativa)
-    ? : `He needs to do his part in the project`
-    ? : `He needs to do his share of the chores`
+    ? Tiene que hacer su parte [asignada] en el proyecto : `He needs to do his part in the project`
+    ? Tiene que hacer su parte [equitativa] de las tareas : `He needs to do his share of the chores`
 
 ## Meetings
 
-organizar una reunión = arrange
-    ? : `I arranged a meeting with my boss`
+poner/organizar una reunión = arrange
+    ? Organicé una reunión con mi jefe : `I arranged a meeting with my boss`
 
 asunto
     = issue (problema)
     = matter (más general)
     = subject (contenido)
-    ? : `The main issue with the proposal is its high cost`
-    ? : `The teacher said that attendance is a matter of responsibility for every student`
-    ? : `The subject of the meeting is the new project`
+    ? El principal problema de la propuesta es su alto coste : `The main issue with the proposal is its high cost`
+    ? El profesor dijo que la asistencia es una cuestión de responsabilidad para cada estudiante : `The teacher said that attendance is a matter of responsibility for every student`
+    ? El tema de la reunión es el nuevo proyecto : `The subject of the meeting is the new project`
 
 comentarios
     = comments
     = suggestions
     = remarks (can sound critical)
-    ? : `He made some comments about the presentation`
+    ? Hizo algunos comentarios sobre la presentación : `He made some comments about the presentation`
 
 situaciones embarazosas = embarrassing situation
 
@@ -365,23 +361,23 @@ ponerse a trabajar = get to work
     ? Después de comer, me pondré a trabajar en el informe que me pediste: `After lunch, I'll get to work on that report you asked for`
 
 Llamar al trabajo para informar de algo = call IN
-    ? : `I called in sick to work today`
+    ? Llamé al trabajo para decir que estaba enfermo hoy : `I called in sick to work today`
 
 hacer/organizar una demostración/exhibición...
     = give a presentation
     = hold a demonstration, competition, event, exhibition...)
-`I gave a presentation on the new project` - `He gave a presentation to the team`
-`The company held a demonstration of their new product`
+    ? Dí/hice una presentación sobre el nuevo proyecto: `I gave a presentation on the new project`
+    ? La empresa hizo una demostración de su nuevo producto: `The company held a demonstration of their new product`
 
 huelga = strike
 ir a la huelga = go on strike
-    ? : `The workers went on strike for better pay`
-    ? : `The workers are on strike`
+    ? Los trabajadores fueron a la huelga por un mejor salario : `The workers went on strike for better pay`
+    ? Los trabajadores están en huelga : `The workers are on strike`
 
 manifestación = demonstration
-    ? : `The workers held a demonstration for better pay`
-    ? : `The workers are demonstrating for better pay`
+    ? Los trabajadores organizaron una manifestación por un mejor salario : `The workers held a demonstration for better pay`
+    ? Los trabajadores están de manifestación por un mejor salario : `The workers are demonstrating for better pay`
 
 presentar una solicitud
     = submit an application
-    ? Presenté una solicitud para cambiar las vacaciones: `I submitted an application to change my holidays`
+    ? Presenté una solicitud para cambiar las vacaciones : `I submitted an application to change my holidays`
