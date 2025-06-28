@@ -45,3 +45,6 @@ tiempo libre = free time
     ? Disfruto de mi tiempo libre : `I enjoy my free time`
 
 tiempo de ocio = leisure time `I spend my leisure time reading`
+
+tengo/estoy de vacaciones = I'm ON holiday
+    ? Estoy de vacaciones el mes que viene : `I'm on holiday next month`

@@ -31,8 +31,6 @@ a la vista = in sight `There are no signs of life in sight`
 
 iluminado = floodlit `The room was floodlit for the event` - `The stage was floodlit for the performance`
 
-puedes echar un vistazo a
-    = can you take a look at `Can you take a look at this document?`
 
 ## Hearing
 

@@ -41,8 +41,6 @@ correctamente = correctly
 
 de repente = suddenly
 
-finalmente = finally
-
 tarde o temprano, en algún momento = eventually
     ? Tarde o temprano, terminaremos el proyecto : `Eventually, we will finish the project`
 
@@ -53,6 +51,17 @@ recientemente = recently
 
 enseguida = quickly
     ? Llamé enseguida a mi amigo : `I called my friend quickly`
+
+## Adverbos of Speed (how fast something happens)
+
+poco a poco en vez de hacerlo de golpe
+    = `Little by little instead of all at once`
+    = `step by step rather than an all-at-once`
+
+gradualmente = gradually
+    ? El proyecto avanzó gradualmente : `The project progressed gradually`
+    ? Los cambios se implementaron gradualmente : `The changes were implemented gradually`
+
 
 ## Adverbs of Frequency (how often something happens)
 

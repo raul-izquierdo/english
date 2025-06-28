@@ -20,6 +20,7 @@ jugar/juguetear = play around (a nada concreto)
 
 concurso = contest
     ? El concurso fue muy competitivo : `The contest was very competitive`
+
 sorteo = draw
     ? El sorteo del torneo se celebró ayer : `The draw for the tournament was held yesterday`
 
@@ -27,11 +28,46 @@ es una gran tarea/empresa = [challenging] undertaking
     ? Emprender un nuevo negocio es una tarea desafiante : `Starting a new business is a challenging undertaking`
 
 
+## Planning
+
+hacer un plan = make a plan
+    ? Hice un plan para ir a la playa : `I made a plan to go to the beach`
+
+tengo pensado hacer...
+    = I plan to do
+    = I'm considering doing
+    ? Tengo pensado ir al concierto la semana que viene : `I plan to go to the concert next week`
+    ? Estoy considerando ir al concierto la semana que viene : `I'm considering going to the concert next week`
+
+pensar con antelación
+    = think ahead
+    = plan ahead
+    ? Necesito pensar con antelación y planificar el futuro : `I need to think ahead and plan for the future`
+    ? Él siempre piensa con antelación al tomar decisiones : `He always thinks ahead when making decisions`
+    ? Necesito planificar con antelación para el viaje : `I need to plan ahead for the trip`
+    ? Él siempre planifica con antelación para sus vacaciones : `He always plans ahead for his vacations`
+        - se refiere más a determinar pasos y detalles específicos
+
+los preparativos/el periodo previo
+    = the lead-up (se puede referir tanto a las tareas previos como al periodo de tiempo previo a algo)
+    ? La emoción creció en el periodo previo a la final : `The excitement built in the lead-up to the final`
+    ? Los preparativos para la fiesta incluyeron mucha cocina y decoración : `The lead-up to the party involved a lot of cooking and decorating` (se refiere a las tareas previas a la fiesta)
+
 ## Before doing an Activity
 
 prepararse = get ready
     ? Necesito prepararme para la reunión : `I need to get ready for the meeting`
     ? Me estoy preparando para el examen : `I’m getting ready for the exam`
+
+enfoques = approaches
+    ? Hay varios enfoques para resolver el problema : `There are several approaches to solving the problem`
+
+poner en marcha = put into operation
+    ? El nuevo sistema se puso en marcha la semana pasada : `The new system was put into operation last week`
+    ? La nueva política se puso en marcha el mes pasado : `The new policy was put into operation last month`
+
+
+## Requirements
 
 exige
     = require
@@ -44,15 +80,6 @@ exige
 recuerda que = keep in mind
     ? Recuerda que la fecha límite es mañana : `Keep in mind that the deadline is tomorrow`
 
-enfoques = approaches
-    ? Hay varios enfoques para resolver el problema : `There are several approaches to solving the problem`
-
-poner en marcha = put into operation
-    ? El nuevo sistema se puso en marcha la semana pasada : `The new system was put into operation last week`
-    ? La nueva política se puso en marcha el mes pasado : `The new policy was put into operation last month`
-
-
-## Requirements
 
 hazlo de manera que quede así = do it so that it looks like this
 
@@ -101,7 +128,12 @@ pasarse (hacer algo en exceso)
     ? No quiero excederme con las celebraciones; deberíamos mantenerlo simple : `I don’t want to overdo it with the celebrations; we should keep it simple`
 
 
-## Effort and Application
+## Effort
+
+me cuesta (hacer algo)
+    = I find it hard/difficult (to do something)
+    ? Me cuesta entender las instrucciones : `I find it hard to understand the instructions`
+    ? Me cuesta conducir por la ciudad : `I find it hard to drive around the city`
 
 emplearse/esforzarse en algo = apply oneself to something
     ? ...dificultando nuestra capacidad de concentrarnos durante mucho tiempo en una sola tarea : `...hindering our ability to apply ourselves for any length of time to one task`
@@ -195,13 +227,22 @@ me gustaría/agradecería alguna sugerencia
     = I would appreciate any suggestions for
     ? Agradecería cualquier sugerencia para mi proyecto : `I would appreciate any suggestions for my project`
 
-
-
+échale un vistazo
+    = take a look at
+    = Check it out (i)
+    ? Échale un vistazo a este documento : `Take a look at this document` - `Check it out`
+    ? ¿Puedes echar un vistazo a este documento? : `Can you take a look at this document?`
 
 ## Encountering Problems
 
 la parte más dura/difícil = the heavy lifting
     ? El trabajo más duro ya está hecho, ahora solo hay que terminar los detalles : `The heavy lifting is done, now we just need to finish the details`
+
+preocupaciones, temores = concerns
+    ? Hay preocupaciones sobre la nueva política : `There are concerns about the new policy`
+
+complicaciones, desafíos = challenges
+    ? El proyecto enfrentó varios desafíos : `The project faced several challenges`
 
 problemas
     = problems (más genérico)
@@ -214,6 +255,10 @@ gran problema
     = major problem (problema mayor - puede haber varios)
     = main problem (problema principal)
 
+tener problemas
+    = to have problem/difficulty/trouble <ing>
+    ? Tengo problemas para dormir : `I have trouble sleeping`
+
 encontrar/meterse en problemas
     = run into (encontrarse - informal)
     ? Me encontré con algunos problemas en el proyecto : `I ran into some problems with the project`
@@ -222,13 +267,6 @@ encontrar/meterse en problemas
     = encounter (f)
     ? Nos encontramos con algunos problemas en el proyecto : `We encountered some problems with the project`
     ? Nos encontramos con algunas dificultades : `We encountered some difficulties`
-
-tener problemas
-    = to have problem/difficulty/trouble <ing>
-    ? Tengo problemas para dormir : `I have trouble sleeping`
-
-preocupaciones, temores = concerns
-    ? Hay preocupaciones sobre la nueva política : `There are concerns about the new policy`
 
 estoy bloqueado (no sé seguir/no entiendo)
     = I’m stuck
@@ -276,8 +314,6 @@ el escollo, obstáculo = the pitfall
 ahí está el problem/la trampa = That's the trap/catch
 ahí está el quid the la cuestión = That's the catch
 
-complicaciones, desafíos = challenges
-    ? El proyecto enfrentó varios desafíos : `The project faced several challenges`
 
 empeorar
     = worsen:ed
@@ -327,6 +363,7 @@ posponer = put off
 ceder, rendirse = give in
     ? Cedí a la petición de mi amigo de salir : `I gave in to my friend's request to go out`
     ? Cedí a la tentación y comí el pastel : `I gave in to temptation and ate the cake`
+
 tirar la toalla = throw in the towel
     ? Después de intentar durante horas arreglar el coche, finalmente tiré la toalla y llamé a un mecánico : `After trying for hours to fix the car, I finally threw in the towel and called a mechanic`
 
@@ -402,7 +439,6 @@ llegó a ser = grew to be
 
 
 salir bien parado = `land on your feet`
-
 
 
 ## Reasons for doing something
@@ -481,13 +517,3 @@ por diversion
 
 para cambiar = for a change
     ? Fui al concierto para cambiar : `I went to the concert for a change`
-
-## Speed
-
-poco a poco en vez de hacerlo de golpe
-    = `Little by little instead of all at once`
-    = `step by step rather than an all-at-once`
-
-gradualmente = gradually
-    ? El proyecto avanzó gradualmente : `The project progressed gradually`
-    ? Los cambios se implementaron gradualmente : `The changes were implemented gradually`

@@ -137,6 +137,11 @@ ir a por algo
     = go after
     ? Él fue tras el trabajo que quería : `He went after the job he wanted`
 
+una búsqueda de algo = a search for
+    ? Fui en busca del mejor restaurante : `I went on a search for the best restaurant`
+    ? Fuimos en busca del tesoro perdido : `We went on a search for the lost treasure`
+    ? Se inició una búsqueda de la persona desaparecida : `A search began for the missing person`
+
 ## Finding
 
 averiguar

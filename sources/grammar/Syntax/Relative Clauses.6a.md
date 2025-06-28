@@ -24,8 +24,14 @@ Defining relative clauses are...
 (el lugar) donde...
     = where
     = in which (f)
-    ? El lugar donde nos conocimos : `The place where we met` - `The place in which we met`
-    ? El lugar donde nací : `The place where I was born` - `The place in which I was born`
+    ? El lugar donde nos conocimos : `The place where we met` - `The place in which we met` - `The place we met in`
+    ? El lugar donde nací : `The place where I was born` - `The place in which I was born` - `The place I was born in`
+
+Cuando hay que añadir _in_ después de _live_?
+    ! No se pone si el verbo se usa para indicar propósito: to live, to work, ...
+    ! Se usa si se ha omitido el *in Which* en una _defining relative clause_. Es decir, si se quita el _which_, el _in_ se pone al final
+    ? Santander es un buen lugar para vivir : `Santander is a good place to live` (propósito)
+    ? Hay muchas ciudades en las que me gustaría vivir : `There are many cities I’d like to live **in**` - `... cities **in which** I’d like to live`
 
 
 ## Non-defining Relative Clauses
