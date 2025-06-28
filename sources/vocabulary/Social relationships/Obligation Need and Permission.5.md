@@ -10,6 +10,10 @@ tengo que/debo... (en presente)
         - con auto-obligación (**debo** ...) `I must visit my grandmother`
         - En cartelería/señales/instrucciones escritas `You must not park here`
         - Orden de una autoridad (jefe, profesor,...) y quiere enfatizar el "es una orden!!!" `You must wear a helmet`
+    ? ¿Tengo que llevar casco? : `Do I have to wear a helmet?`
+    ? Debo visitar a mi abuela : `I must visit my grandmother`
+    ? No debes aparcar aquí : `You must not park here`
+    ? Debes llevar casco : `You must wear a helmet`
     ? Debo llamar a Alex : `I must call Alex` (auto-obligación)
     ? Tengo que llamar a Alex : `I have to remember to call Alex` (obligación externa)
     ? Tenéis que hacer los deberes para el martes : `You have to finish your homework by Tuesday` (podría se _must_ si se quisiera ser más estricto - raro)
@@ -33,16 +37,18 @@ No puedes... (está prohibido)
 
 es obligatorio
     = is mandatory (más neutro)
-    = is compulsory (más formal - forzoso)
     ? La asistencia es obligatoria para todos los estudiantes : `Attendance is mandatory for all students`
+    = is compulsory (más formal - forzoso)
     ? El servicio militar es obligatorio en algunos países : `The army service is compulsory in some countries`
 
 
 ## Need
 
 necesidad
-    = need (más amplio: deseo, me falta...) `I have a need for a new coat`
-    = necessity (más indispensable) `A warm coat is a necessity in winter`
+    = need (más amplio: deseo, me falta...)
+    ? Tengo necesidad de un abrigo nuevo : `I have a need for a new coat`
+    = necessity (más indispensable)
+    ? Un abrigo cálido es una necesidad en invierno : `A warm coat is a necessity in winter`
 
 mayor necesidad/más urgente
     = greater need
@@ -72,9 +78,10 @@ No tenías que, no era necesario... (en pasado)
 
 Puedes/podías...
     = can (i)
+    ? Puedes usar mi coche : `You can use my car`
     = may (n) Sólo en **presente**
+    ? Puedes usar mi coche (más formal) : `You may use my car`
     = be allowed to (f) Tienes permiso para...(debido a una norma/regla)
-    ? Puedes usar mi coche : `You can use my car` - `You may use my car` (más formal)
     ? No podías usar mi coche : `You couldn't use my car`
     ? Puedes tomar una bebida, pero no puedes comer patatas fritas : `You CAN have a drink but you CAN'T have any crisps`
     ? Podías tomar una bebida, pero no podías comer patatas fritas : `You COULD have a drink but you COULDN'T have any crisps`

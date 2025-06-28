@@ -4,193 +4,324 @@
 ## Relationships
 
 relaciones (ordenadas de más normal a más emocional)
-    = relations (más general) `The relations between the two countries` - `In relation to your question...`
-    = links (vínculos) `There are many links between the two countries`
-    = ties (lazos, ataduras) `The ties between the two countries are strong`
-    = connections `I have a lot of connections in the industry`
-    = bonds (uniones) `The bonds between the two countries are strong`
-    = relationships (entre personas y emocional con cosas) `I have a good relationship with my boss`
+    = relations (más general)
+    ? Relaciones entre dos países : `The relations between the two countries`
+    ? En relación a tu pregunta : `In relation to your question...`
+    = links (vínculos)
+    ? Hay muchos vínculos entre los dos países : `There are many links between the two countries`
+    = ties (lazos, ataduras)
+    ? Los lazos entre los dos países son fuertes : `The ties between the two countries are strong`
+    = connections
+    ? Tengo muchas conexiones en la industria : `I have a lot of connections in the industry`
+    = bonds (uniones)
+    ? Las uniones entre los dos países son fuertes : `The bonds between the two countries are strong`
+    = relationships (entre personas y emocional con cosas)
+    ? Tengo buena relación con mi jefe : `I have a good relationship with my boss`
 
 establecer relaciones
-    = form relationships `Forming relationships is important for our well-being`
+    = form relationships
+    ? Formar relaciones es importante para nuestro bienestar : `Forming relationships is important for our well-being`
 
 estar saliendo con alguien
-    = be dating someone `I am dating her` - `He is dating her`
+    = be dating someone
+    ? Estoy saliendo con ella : `I am dating her`
+    ? Él está saliendo con ella : `He is dating her`
 
 tener novia
-    = have a girlfriend `I have a girlfriend` - `He has a girlfriend`
-    = be in a relationship `I am in a relationship with her` - `He is in a relationship with her`
+    = have a girlfriend
+    ? Tengo novia : `I have a girlfriend`
+    ? Él tiene novia : `He has a girlfriend`
+    = be in a relationship
+    ? Estoy en una relación con ella : `I am in a relationship with her`
+    ? Él está en una relación con ella : `He is in a relationship with her`
 
-estar casado = to be married TO `I am married to Paula`- `She is married to a doctor`
-estar divorciado = to be divorced FROM `I am divorced from my ex-husband` - `She is divorced from her husband`
-estar soltero = to be single `I am single and looking for a partner` - `She is single and happy`
+estar casado = to be married TO
+    ? Estoy casado con Paula : `I am married to Paula`
+    ? Ella está casada con un médico : `She is married to a doctor`
+estar divorciado = to be divorced FROM
+    ? Estoy divorciado de mi exmarido : `I am divorced from my ex-husband`
+    ? Ella está divorciada de su marido : `She is divorced from her husband`
+estar soltero = to be single
+    ? Estoy soltero y buscando pareja : `I am single and looking for a partner`
+    ? Ella está soltera y feliz : `She is single and happy`
 
 estar solo
-    = be alone `I enjoy being alone sometimes` - `She felt sad because she was alone on her birthday`
-    = by myself (por mi cuente - matiz de independencia) `I’d rather study by myself than in a noisy group` - `He usually goes hiking by himself on weekends`
-    = on my own (por mi cuenta)  `After moving out, he learned to live on his own` - `You'll have to do it on your own`
+    = be alone
+    ? Disfruto estar solo a veces : `I enjoy being alone sometimes`
+    ? Ella se sintió triste porque estaba sola en su cumpleaños : `She felt sad because she was alone on her birthday`
+    = by myself (por mi cuente - matiz de independencia)
+    ? Prefiero estudiar por mi cuenta que en un grupo ruidoso : `I’d rather study by myself than in a noisy group`
+    ? Él suele ir de excursión solo los fines de semana : `He usually goes hiking by himself on weekends`
+    = on my own (por mi cuenta)
+    ? Después de mudarse, aprendió a vivir solo : `After moving out, he learned to live on his own`
+    ? Tendrás que hacerlo por tu cuenta : `You'll have to do it on your own`
 
-relación de trabajo = working relationship `I only have a working relationship with him`
-relación amorosa = romantic relationship `They are in a romantic relationship` - `She is in a romantic relationship with him`
-relación de amistad = friendship `They have a strong friendship` - `She values her friendships`
+relación de trabajo = working relationship
+    ? Solo tengo una relación de trabajo con él : `I only have a working relationship with him`
+relación amorosa = romantic relationship
+    ? Están en una relación amorosa : `They are in a romantic relationship`
+    ? Ella está en una relación amorosa con él : `She is in a romantic relationship with him`
+relación de amistad = friendship
+    ? Tienen una fuerte amistad : `They have a strong friendship`
+    ? Ella valora sus amistades : `She values her friendships`
 
-amistad = friendship `Friendship is important in life` - `She values her friendships`
+amistad = friendship
+    ? La amistad es importante en la vida : `Friendship is important in life`
+    ? Ella valora sus amistades : `She values her friendships`
 amigo
-    = friend `He is my best friend` - `She is a good friend of mine`
-    = buddy (i) `He is my buddy`
-    = mate (i) `He is my mate`
-    = pal (i) `He is my pal`
+    = friend
+    ? Él es mi mejor amigo : `He is my best friend`
+    ? Ella es una buena amiga mía : `She is a good friend of mine`
+    = buddy (i)
+    ? Él es mi colega : `He is my buddy`
+    = mate (i)
+    ? Él es mi colega : `He is my mate`
+    = pal (i)
+    ? Él es mi colega : `He is my pal`
 
 ¿Sois amigos? = Are you friends?
 
-compañerismo = camaraderie `Camaraderie is important in the workplace`
+compañerismo = camaraderie
+    ? El compañerismo es importante en el trabajo : `Camaraderie is important in the workplace`
 
-tener cariño a = to be fond of <sbody/sthing> `I am fond of my family` - `He is fond of his old armchair; it's so comfortable`
+tener cariño a = to be fond of <sbody/sthing>
+    ? Tengo cariño a mi familia : `I am fond of my family`
+    ? Él le tiene cariño a su viejo sillón; es tan cómodo : `He is fond of his old armchair; it's so comfortable`
 
 cariño
-    = fondness `He has a fondness for animals` - `She has a fondness for her childhood memories`
-    = affection (más profundo) `She has a lot of affection for her family` - `He showed affection for his friends`
-
+    = fondness
+    ? Él tiene cariño por los animales : `He has a fondness for animals`
+    ? Ella tiene cariño por sus recuerdos de la infancia : `She has a fondness for her childhood memories`
+    = affection (más profundo)
+    ? Ella tiene mucho cariño por su familia : `She has a lot of affection for her family`
+    ? Él mostró cariño por sus amigos : `He showed affection for his friends`
 
 alejarse (figuradamente)
-    = drift apart (sin motivo) `We've drifted apart over the years`
-    = drive apart (por motivo: discusión, ...) `The war drove many families apart`
+    = drift apart (sin motivo)
+    ? Nos hemos distanciado con los años : `We've drifted apart over the years`
+    = drive apart (por motivo: discusión, ...)
+    ? La guerra separó a muchas familias : `The war drove many families apart`
 
 perder el contacto
     = fall out of touch
-    ? Perdimos el contacto después del instituto :`We fell out of touch after college`
+    ? Perdimos el contacto después del instituto : `We fell out of touch after college`
 
 
 ## Quality of Relationships
 
-hablarse (y poco más) = to be on speaking terms `After their argument, they weren't on speaking terms for months, but now they are talking again` - `I can't believe we're still on speaking terms after all that happened`
+hablarse (y poco más) = to be on speaking terms
+    ? Después de su discusión, no se hablaron durante meses, pero ahora vuelven a hablar : `After their argument, they weren't on speaking terms for months, but now they are talking again`
+    ? No puedo creer que sigamos hablándonos después de todo lo que pasó : `I can't believe we're still on speaking terms after all that happened`
 
-no hablarse = to be not on speaking terms `After their argument, they weren't on speaking terms for months, but now they are talking again` - `I can't believe we're still not on speaking terms after all that happened`
-no llevarse bien = to not get along `We don't get along very well` - `They don't get along at all`
+no hablarse = to be not on speaking terms
+    ? Después de su discusión, no se hablaron durante meses, pero ahora vuelven a hablar : `After their argument, they weren't on speaking terms for months, but now they are talking again`
+    ? No puedo creer que sigamos sin hablarnos después de todo lo que pasó : `I can't believe we're still not on speaking terms after all that happened`
+no llevarse bien = to not get along
+    ? No nos llevamos muy bien : `We don't get along very well`
+    ? No se llevan nada bien : `They don't get along at all`
 
 llevarse bien
-    = get on with `I get on well with my colleagues` - `I get on with my family`
-    = get along with (equivalente) `I get along well with my colleagues` - `I get along with my family`
+    = get on with
+    ? Me llevo bien con mis compañeros : `I get on well with my colleagues`
+    ? Me llevo bien con mi familia : `I get on with my family`
+    = get along with (equivalente)
+    ? Me llevo bien con mis compañeros : `I get along well with my colleagues`
+    ? Me llevo bien con mi familia : `I get along with my family`
 
 
 discutir
-    = argue `They argued about the project` - `They argued about the money`
-    = fall out with (más fuerte - cese de relación) `They fell out over a misunderstanding` - `He fell out with his friend`
+    = argue
+    ? Discutieron sobre el proyecto : `They argued about the project`
+    ? Discutieron sobre el dinero : `They argued about the money`
+    = fall out with (más fuerte - cese de relación)
+    ? Se pelearon por un malentendido : `They fell out over a misunderstanding`
+    ? Él se peleó con su amigo : `He fell out with his friend`
 
-hacer las paces = make up `They made up after their argument` - `She made up with her friend`
+hacer las paces = make up
+    ? Hicieron las paces después de su discusión : `They made up after their argument`
+    ? Ella hizo las paces con su amiga : `She made up with her friend`
 
-discusión ruidosa, disputa = squabble `They had a squabble over the last piece of cake` - `The children had a squabble over the toy`
+discusión ruidosa, disputa = squabble
+    ? Tuvieron una disputa por el último trozo de pastel : `They had a squabble over the last piece of cake`
+    ? Los niños tuvieron una disputa por el juguete : `The children had a squabble over the toy`
 
-romper relación = break up `They break up after a long relationship` - `He break up with his girlfriend`
+romper relación = break up
+    ? Rompieron después de una larga relación : `They break up after a long relationship`
+    ? Él rompió con su novia : `He break up with his girlfriend`
 
 separar emocionalmente personas (amorosa, amistad, ...)
-    = drive <who> apart `Living in different countries drove the couple apart`
+    = drive <who> apart
+    ? Vivir en diferentes países separó a la pareja : `Living in different countries drove the couple apart`
 
 caer bien (primera impresión)
-    = hit if off `We hit it off immediately` - `They hit it off at the party`
-    = click `We clicked right away` - `They clicked at the party`
+    = hit if off
+    ? Nos caímos bien de inmediato : `We hit it off immediately`
+    ? Se cayeron bien en la fiesta : `They hit it off at the party`
+    = click
+    ? Conectamos enseguida : `We clicked right away`
+    ? Conectaron en la fiesta : `They clicked at the party`
 
 distanciarse (de persona o postura)
-    = to distance <noun> (no especificar porqué) `They distanced themselves when they grew up` - `He distanced himself from the group`
-    = to move to distance <noun> (lo hicieron a posta) `They moved to distance themselves when they grew up`
+    = to distance <noun> (no especificar porqué)
+    ? Se distanciaron cuando crecieron : `They distanced themselves when they grew up`
+    ? Él se distanció del grupo : `He distanced himself from the group`
+    = to move to distance <noun> (lo hicieron a posta)
+    ? Se alejaron a propósito cuando crecieron : `They moved to distance themselves when they grew up`
 
 
 ## Gatherings
 
 reuniones
-    = gatherings (social) `We have family gatherings every week`
-    = meetings (trabajo) `We have meetings every week` - `The meeting was productive`
+    = gatherings (social)
+    ? Tenemos reuniones familiares cada semana : `We have family gatherings every week`
+    = meetings (trabajo)
+    ? Tenemos reuniones cada semana : `We have meetings every week`
+    ? La reunión fue productiva : `The meeting was productive`
 
 reunir
-    = to bring ... together (con propósito) `We brought the whole family together` - `Music has the power to bring people together, regardless of their background`
+    = to bring ... together (con propósito)
+    ? Reunimos a toda la familia : `We brought the whole family together`
+    ? La música tiene el poder de unir a la gente, independientemente de su origen : `Music has the power to bring people together, regardless of their background`
     = to gather (reunir sin más)
-        - `Please gather together in the living room for the meeting`
-        - `We need to gather together all the documents`
+    ? Por favor, reúnanse en la sala de estar para la reunión : `Please gather together in the living room for the meeting`
+    ? Necesitamos reunir todos los documentos : `We need to gather together all the documents`
 
 juntarse, reunirse
-    = to get together (cita aunque sea informal) `We should get together for dinner sometime`
+    = to get together (cita aunque sea informal)
+    ? Deberíamos juntarnos a cenar algún día : `We should get together for dinner sometime`
 
-dar una fiesta = throw a party `He threw a party for his birthday` - `She threw a party for her friends`
+dar una fiesta = throw a party
+    ? Él dio una fiesta por su cumpleaños : `He threw a party for his birthday`
+    ? Ella dio una fiesta para sus amigos : `She threw a party for her friends`
 
 quedar
     = to meet
-    = to meet up with <sbody> (más informal)
     ? He quedado con mi jefe a las 10 : `I'm meeting my boss at 10 AM`
-    ? He quedado con mis amigos el próximo martes: `I'm meeting my friends next Tuesday` - `... meeting up **with** my...`
+    = to meet up with <sbody> (más informal)
+    ? He quedado con mis amigos el próximo martes: `I'm meeting my friends next Tuesday`
+    ? ...quedando con mis amigos el próximo martes : `... meeting up with my friends next Tuesday`
     ? ¿Te apetece quedar conmigo luego? : `Do you fancy meeting up with me later?`
     ? Quedamos con nuestros amigos todos los viernes : `We meet up with our friends every Friday`
 
 regalo
-    = present (regalo envuelto en celebración) `He gave her a present for Christmas`
-    = gift (vale para todo uso) `The book was a nice gift` - `He has a natural gift for singing`
+    = present (regalo envuelto en celebración)
+    ? Le dio un regalo por Navidad : `He gave her a present for Christmas`
+    = gift (vale para todo uso)
+    ? El libro fue un buen regalo : `The book was a nice gift`
+    ? Él tiene un don natural para cantar : `He has a natural gift for singing`
 
 me regalaron
-    = I was given ... as a gift `I was given a book as a gift` - `I was given a new phone for my birthday`
+    = I was given ... as a gift
+    ? Me regalaron un libro : `I was given a book as a gift`
+    ? Me regalaron un teléfono nuevo por mi cumpleaños : `I was given a new phone for my birthday`
         - No existe "regalar" en ingles, se usa "give as a gift/for my birthday"
 
-apartar/separar a alguien del grupo para algo = take someone aside `He took me aside to talk about the project` - `He took her aside to discuss the issue privately`
+apartar/separar a alguien del grupo para algo = take someone aside
+    ? Me apartó para hablar del proyecto : `He took me aside to talk about the project`
+    ? La apartó para hablar en privado del asunto : `He took her aside to discuss the issue privately`
 
 montar un poyo
-    = make a fuss `He made a fuss over the small details` - `She made a fuss over the little things`
-        - No confundir con _make a mess_ que es hacer un lío físico `He made a mess in the kitchen`
+    = make a fuss
+    - No confundir con _make a mess_ que es hacer un lío físico
+    ? Hizo un escándalo por los pequeños detalles : `He made a fuss over the small details`
+    ? Ella hizo un escándalo por las pequeñas cosas : `She made a fuss over the little things`
+    ? Hizo un lío en la cocina : `He made a mess in the kitchen`
 
 romper el hielo
-    = break the ice `To break the ice at the party, John started telling some funny stories`
+    = break the ice
+    ? Para romper el hielo en la fiesta, John empezó a contar historias graciosas : `To break the ice at the party, John started telling some funny stories`
 
 ## Events
 
-se celebran eventos = hold events `We hold events every month` - `The company holds events for its employees`
+se celebran eventos = hold events
+    ? Organizamos eventos cada mes : `We hold events every month`
+    ? La empresa organiza eventos para sus empleados : `The company holds events for its employees`
 
-(el acto) fue bien, sin incidentes = went off `The event went off without a hitch` - `The party went off without a hitch`
+(el acto) fue bien, sin incidentes = went off
+    ? El evento salió bien, sin contratiempos : `The event went off without a hitch`
+    ? La fiesta salió bien, sin contratiempos : `The party went off without a hitch`
 
 asistir a un evento
-    = attend (f) `I will attend the meeting tomorrow` (asistir a un evento)
+    = attend (f)
+    ? Asistiré a la reunión mañana : `I will attend the meeting tomorrow`
         - No confundir con _assist_, que se usa en el sentido de ayudar (`le asistió en el proyecto`)
-    = turn out (se congregó - enfatiza gran número) `A lot of people turned out for the concert`
+    = turn out (se congregó - enfatiza gran número)
+    ? Mucha gente asistió al concierto : `A lot of people turned out for the concert`
 
-el lugar/recinto/sala/espacio = venue `The venue for the concert was amazing` - `The venue for the event was perfect`
+el lugar/recinto/sala/espacio = venue
+    ? El lugar del concierto fue increíble : `The venue for the concert was amazing`
+    ? El lugar del evento fue perfecto : `The venue for the event was perfect`
     - para bodas, conciertos, conferencias, party, etc.
 
 hacer un discurso = make a speech
+    ? Hacer un discurso : `make a speech`
 
 ## Having a Good Time
 
-reírse de alguien = laugh at `I laughed at his joke` - `He laughed at my mistake`
-    = make fun of (más fuerte) `He made fun of my mistake` - `She made fun of his joke`
+reírse de alguien = laugh at
+    ? Me reí de su chiste : `I laughed at his joke`
+    ? Él se rió de mi error : `He laughed at my mistake`
+    = make fun of (más fuerte)
+    ? Él se burló de mi error : `He made fun of my mistake`
+    ? Ella se burló de su chiste : `She made fun of his joke`
 
-risa = laughter `Laughter is the best medicine` - `Her laughter was contagious`
-hacer reír = make <sbody> laugh `He always makes me laugh with his jokes` - `She made everyone laugh with her funny story`
+risa = laughter
+    ? La risa es la mejor medicina : `Laughter is the best medicine`
+    ? Su risa era contagiosa : `Her laughter was contagious`
+hacer reír = make <sbody> laugh
+    ? Siempre me hace reír con sus chistes : `He always makes me laugh with his jokes`
+    ? Hizo reír a todos con su historia divertida : `She made everyone laugh with her funny story`
 
 me rio mucho con él
-    = I laugh a lot with him `I laugh a lot with my brother`
+    = I laugh a lot with him
+    ? Me río mucho con mi hermano : `I laugh a lot with my brother`
 
 reír
-    = laugh `I laugh a lot with my friends` - `I laugh at his jokes`
-        - No confundir con _laugh at_ que es reirse de alguien (en sentido negativo) `I laugh at his jokes`
-    = chuckle (risa ligera) `I chuckle to myself when I remember a funny story`
-    = giggle (reír nerviosamente) `I giggle when I'm nervous`
+    = laugh
+    ? Me río mucho con mis amigos : `I laugh a lot with my friends`
+    ? Me río de sus chistes : `I laugh at his jokes`
+        - No confundir con _laugh at_ que es reirse de alguien (en sentido negativo)
+    ? Me río de sus chistes : `I laugh at his jokes`
+    = chuckle (risa ligera)
+    ? Me río para mis adentros cuando recuerdo una historia graciosa : `I chuckle to myself when I remember a funny story`
+    = giggle (reír nerviosamente)
+    ? Me río nerviosamente cuando estoy nervioso : `I giggle when I'm nervous`
 
 gracioso
-    = funny `The joke was funny`
+    = funny
+    ? El chiste fue gracioso : `The joke was funny`
         - A diferencia de fun, makes you laugh (un chiste, historia, ...)
 
 pasarlo bien
-    = enjoy oneself (f) `I enjoyed myself at the party` - `He enjoyed himself on vacation` - `Did you enjoy yourself?`
-    = have a good time `I had a good time at the party` - `We had a great time on vacation`
+    = enjoy oneself (f)
+    ? Me divertí en la fiesta : `I enjoyed myself at the party`
+    ? Él se divirtió en las vacaciones : `He enjoyed himself on vacation`
+    ? ¿Te divertiste? : `Did you enjoy yourself?`
+    = have a good time
+    ? Me lo pasé bien en la fiesta : `I had a good time at the party`
+    ? Nos lo pasamos genial en las vacaciones : `We had a great time on vacation`
 
-está por ahí pasándoselo bien = `He is out enjoying himself`
+está por ahí pasándoselo bien
+    ? Está por ahí pasándoselo bien : `He is out enjoying himself`
 
 ## Joking and Teasing
 
 pinchar / meterse con alguien / vacilar
-    = wind <sbody> up (I) `Alright, alright, I'm just winding up` - `He was just winding me up`
-    = tease (F) `He teased me about my haircut` - `She teased him about his clothes`
+    = wind <sbody> up (I)
+    ? Vale, vale, solo estoy vacilando : `Alright, alright, I'm just winding up`
+    ? Él solo me estaba vacilando : `He was just winding me up`
+    = tease (F)
+    ? Él se metió conmigo por mi corte de pelo : `He teased me about my haircut`
+    ? Ella se metió con él por su ropa : `She teased him about his clothes`
 
-va en serio? = are you serious? `Are you serious? I can't believe it!`
+va en serio? = are you serious?
+    ? ¿Va en serio? No me lo puedo creer : `Are you serious? I can't believe it!`
 
-estás de broma? = are you joking? (i) `Are you joking? I can't believe it!`
+estás de broma? = are you joking? (i)
+    ? ¿Estás de broma? No me lo puedo creer : `Are you joking? I can't believe it!`
 
 me estás vacilando? = are you kidding me?
+    ? ¿Me estás vacilando? : `Are you kidding me?`
 
 broma/inocentada = prank
     ? Los amigos le hicieron una broma el día de los inocentes : `His friends played a prank on him on April Fool's Day`
@@ -200,11 +331,14 @@ broma/inocentada = prank
 ## Spending Time with Others
 
 visitar
-    = visit (más planificado) `I visited my grandparents last weekend`
-    = come by (más espontáneo, informal, pásate) `I just came by to say hello`
+    = visit (más planificado)
+    ? Visité a mis abuelos el fin de semana pasado : `I visited my grandparents last weekend`
+    = come by (más espontáneo, informal, pásate)
+    ? Solo pasé a saludar : `I just came by to say hello`
 
 pasar el rato
-    = to hang out `I’m hanging out with friends this weekend`
+    = to hang out
+    ? Este fin de semana salgo con amigos : `I’m hanging out with friends this weekend`
 
 pasamos un buen rato = we had a good time
     ? Pasamos un buen rato en la fiesta: `We had a good time at the party`
@@ -212,40 +346,60 @@ pasamos un buen rato = we had a good time
 ## Contacting People
 
 contactar con alguien
-    = get in touch with (i) `I will get in touch with you later`
-    = contact (neutro) `I will contact you later` - `I contacted him yesterday`
+    = get in touch with (i)
+    ? Me pondré en contacto contigo más tarde : `I will get in touch with you later`
+    = contact (neutro)
+    ? Te contactaré más tarde : `I will contact you later`
+    ? Le contacté ayer : `I contacted him yesterday`
 
 mantenerse en contacto
     = keep in touch
     ? Deberíamos mantenernos en contacto : `We should keep in touch`
 
-dirigirse a alguien = address `He addressed the letter to the manager` - `He addressed the audience during the presentation`
-destinatario = addressee `The addressee of the letter is the manager`
+dirigirse a alguien = address
+    ? Dirigió la carta al gerente : `He addressed the letter to the manager`
+    ? Se dirigió al público durante la presentación : `He addressed the audience during the presentation`
+destinatario = addressee
+    ? El destinatario de la carta es el gerente : `The addressee of the letter is the manager`
 
 ## Social Life
 
-vida social = social life `I lead an active social life`
+vida social = social life
+    ? Llevo una vida social activa : `I lead an active social life`
 
 vida
-    = life (singular) `I like to keep my private life private`
-    = lives (plural) `The lives of the rich and famous are often difficult`
+    = life (singular)
+    ? Me gusta mantener mi vida privada en privado : `I like to keep my private life private`
+    = lives (plural)
+    ? Las vidas de los ricos y famosos suelen ser difíciles : `The lives of the rich and famous are often difficult`
 
 ## Popularity
 
-ser popular = be popular `He is popular at school` - `She is popular among her friends`
+ser popular = be popular
+    ? Él es popular en la escuela : `He is popular at school`
+    ? Ella es popular entre sus amigos : `She is popular among her friends`
 
 hacerse popular (moda, dichos, objetos, actividades...)
-    = catch on (moda repentina - informal) `That style of music never really caught on in Europe` - `TikTok quickly caught on with teenagers`
-    = gain popularity (mas gradual) `The initiative gained popularity quickly after receiving media coverage`
+    = catch on (moda repentina - informal)
+    ? Ese estilo de música nunca llegó a ponerse de moda en Europa : `That style of music never really caught on in Europe`
+    ? TikTok se puso de moda rápidamente entre los adolescentes : `TikTok quickly caught on with teenagers`
+    = gain popularity (mas gradual)
+    ? La iniciativa ganó popularidad rápidamente tras recibir cobertura mediática : `The initiative gained popularity quickly after receiving media coverage`
 
 continua siendo uno de los mas populares
     = `It remains one of the most popular`
         - OJO: sin el AS antes the one!!
 
-ponerse de moda otra vez = to make a comeback `The band made a comeback after years of silence` - `The fashion trend made a comeback this year`
+ponerse de moda otra vez = to make a comeback
+    ? La banda volvió a ponerse de moda tras años de silencio : `The band made a comeback after years of silence`
+    ? La tendencia de moda volvió este año : `The fashion trend made a comeback this year`
 
 la moda de (no ropa)
-    = craze `Fidget spinners became a craze among children last year.` - `The new dance craze is sweeping the country`
+    = craze
+    ? Los fidget spinners se convirtieron en una moda entre los niños el año pasado : `Fidget spinners became a craze among children last year.`
+    ? La nueva moda de baile está arrasando en el país : `The new dance craze is sweeping the country`
 
 el boca a boca
-    = [through] word of mouth `The restaurant's success is due to word of mouth` - `The product gained popularity through word of mouth`
+    = [through] word of mouth
+    ? El éxito del restaurante se debe al boca a boca : `The restaurant's success is due to word of mouth`
+    ? El producto ganó popularidad por el boca a boca : `The product gained popularity through word of mouth`
