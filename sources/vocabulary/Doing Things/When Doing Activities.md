@@ -369,7 +369,7 @@ tirar la toalla = throw in the towel
 
 ## Outcome of an Activity
 
-dejar sin hacer = leave undone
+dejar sin hacer/acabar = leave undone/unfinished
     ? Dejó el trabajo sin hacer : `He left the work undone`
 
 tener éxito = succeed

@@ -3,78 +3,113 @@
 
 ## Body Parts
 
-pecho = chest `He has a strong chest`
-papos = cheeks `She has rosy cheeks`
-culo = bottom `He slipped and landed on his bottom`
+pecho = chest
+papos = cheeks
+    ? Papos : `She has rosy cheeks`
+culo = bottom
+    ? Culo : `He slipped and landed on his bottom`
 
 
 ## Body Functions
 
-respirar = breathe `I need to breathe deeply to relax`
-respiración
-    = breathing (el proceso de respirar) `Breathing exercises help reduce stress`
-    = breath (el aire exhalado) `Take a deep breath and relax`
+respirar = breathe
+    ? Respirar : `I need to breathe deeply to relax`
 
-sudar = sweat `I can't remember the last time I sweated`
+respiración
+    = breathing (el proceso de respirar)
+    ? Respiración (el proceso de respirar) : `Breathing exercises help reduce stress`
+    = breath (el aire exhalado)
+    ? Respiración (el aire exhalado) : `Take a deep breath and relax`
+
+sudar = sweat
+    ? Sudar : `I can't remember the last time I sweated`
 
 
 ## Health related Vocabulary
 
-moratón = bruise `I have a bruise on my arm`
+moratón = bruise
+    ? Moratón : `I have a bruise on my arm`
 
-rígido = stiff `I have a stiff neck`
+rígido = stiff
+    ? Rígido : `I have a stiff neck`
 
-puntos de sutura = stitches `I have stitches on my arm`
-herida = wound `I have a wound on my arm`
-cicatriz = scar `I have a scar on my arm`
+puntos de sutura = stitches
+    ? Puntos de sutura : `I have stitches on my arm`
+herida = wound
+    ? Herida : `I have a wound on my arm`
+cicatriz = scar
+    ? Cicatriz : `I have a scar on my arm`
 
-ampolla = blister `I have a blister on my foot`
+ampolla = blister
+    ? Ampolla : `I have a blister on my foot`
 
 
-venda = bandage `I need a bandage for my cut`
+venda = bandage
+    ? Venda : `I need a bandage for my cut`
 
-tirita = plaster `I need a plaster for my cut`
-escayola = plaster [cast] `I need a plaster [cast] for my broken arm`
+tirita = plaster
+    ? Tirita : `I need a plaster for my cut`
+escayola = plaster [cast]
+    ? Escayola : `I need a plaster [cast] for my broken arm`
     - Si, igual que tirita (distinguir por el contexto)
 
-receta médica = prescription `I need a prescription for my medication`
-pastilla = pill `I need a pill for my headache`
+receta médica = prescription
+    ? Receta médica : `I need a prescription for my medication`
+pastilla = pill
+    ? Pastilla : `I need a pill for my headache`
 
-vacuna = vaccine `I need a vaccine for my flu shot`
-vacunado = vaccinated `I am vaccinated against the flu`
+vacuna = vaccine
+    ? Vacuna : `I need a vaccine for my flu shot`
+vacunado = vaccinated
+    ? Vacunado : `I am vaccinated against the flu`
 
 
 receta médica
-    = prescription `I need a prescription for my medication`
+    = prescription
+    ? Receta médica : `I need a prescription for my medication`
         - OJO: _recipe_ es receta de cocina
 
-medicinas = medicines `I need to take my medicines`
-medicamentos = medication `I need to take my medication`
+medicinas = medicines
+    ? Medicinas : `I need to take my medicines`
+medicamentos = medication
+    ? Medicamentos : `I need to take my medication`
 
 
 enfermo
-    = sick (informal - gravedad leve a media) `I am sick`
-    = unwell (neutral) `I am unwell`
-    = ill (formal - gravedad media a alta) `I am ill`
+    = sick (informal - gravedad leve a media)
+    ? Enfermo (informal - gravedad leve a media) : `I am sick`
+    = unwell (neutral)
+    ? Enfermo (neutral) : `I am unwell`
+    = ill (formal - gravedad media a alta)
+    ? Enfermo (formal - gravedad media a alta) : `I am ill`
 
 
-estado físico = physical condition `I have a good physical condition`
+estado físico = physical condition
+    ? Estado físico : `I have a good physical condition`
 
 engordar
-    = put on weight `I put on weight after the holidays`
-    = gain weight `I gained weight after the holidays`
+    = put on weight
+    ? Engordar : `I put on weight after the holidays`
+    = gain weight
+    ? Engordar : `I gained weight after the holidays`
 
-adelgazar = lose weight `I lost weight after going to the gym`
+adelgazar = lose weight
+    ? Adelgazar : `I lost weight after going to the gym`
 
-la pérdida de = loss of `I have a loss of appetite`
+la pérdida de = loss of
+    ? La pérdida de : `I have a loss of appetite`
 
-dolorido = sore `I have a sore throat`
+dolorido = sore
+    ? Dolorido : `I have a sore throat`
 
 débil
-    = weak (más general) `I feel weak after being sick`
+    = weak (más general)
+    ? Débil (más general) : `I feel weak after being sick`
     = faint (para dos situaciones más específicas)
-        - desmayarse/marearse `I felt faint when I saw the blood`
-        - apenas perceptible `The sound was so faint that I could barely hear it`
+        - desmayarse/marearse
+        ? Desmayarse/marearse : `I felt faint when I saw the blood`
+        - apenas perceptible
+        ? Apenas perceptible : `The sound was so faint that I could barely hear it`
 
 
 ## Illnesses
@@ -114,37 +149,51 @@ hemorragia nasal = nosebleed `I have a nosebleed`
 caries = tooth decay `I have tooth decay`
 infección = infection `I have an ear infection`
 
-ojo morado = black eye `I have a black eye`
-dolor de garganta = sore throat `I have a sore throat`
+ojo morado = black eye
+    ? Ojo morado : `I have a black eye`
+dolor de garganta = sore throat
+    ? Dolor de garganta : `I have a sore throat`
 
-moqueo, tener mocos = runny nose `I have a runny nose`
+moqueo, tener mocos = runny nose
+    ? Moqueo, tener mocos : `I have a runny nose`
 
-poner una inyección = give an injection `I need to give an injection`
+poner una inyección = give an injection
+    ? Poner una inyección : `I need to give an injection`
 
-catarro fuerte = heavy cold `I have a heavy cold`
+catarro fuerte = heavy cold
+    ? Catarro fuerte : `I have a heavy cold`
 
-picado por una abeja = stung by a bee `I was stung by a bee`
+picado por una abeja = stung by a bee
+    ? Picado por una abeja : `I was stung by a bee`
 
-hábitos saludables = healthy habits `I have healthy habits`
-hábitos poco saludables = unhealthy habits `I have slightly unhealthy habits`
+hábitos saludables = healthy habits
+    ? Hábitos saludables : `I have healthy habits`
+hábitos poco saludables = unhealthy habits
+    ? Hábitos poco saludables : `I have slightly unhealthy habits`
 
-problemas/situación médica = medical conditions `I have medical conditions`
+problemas/situación médica = medical conditions
+    ? Problemas/situación médica : `I have medical conditions`
 
 ## Damage
 
 hacer daño físico a alguien
-    = hurt <sbody> `I hurt myself when I fell`
+    = hurt <sbody>
+    ? Hacer daño físico a alguien : `I hurt myself when I fell`
         - produce dolor físico
 
 dañar/perjudicar
-    = to harm <sobdy> `I don't want to harm anyone`
+    = to harm <sobdy>
+    ? Dañar/perjudicar : `I don't want to harm anyone`
         - Perjudicar
-    = to do harm to <sbody> (f) `I don't want to do harm to anyone`
+    = to do harm to <sbody> (f)
+    ? Dañar/perjudicar (formal) : `I don't want to do harm to anyone`
     ? Sus intenciones eran buenas, pero sus acciones acabaron haciendo más daño que bien : `His intentions were good, but his actions ended up doing more harm than good`
 
 dañar objetos
-    = to damage (a objetos) `I don't want to damage the environment`
-    = to do damage to (f) `I don't want to do damage to the environment`
+    = to damage (a objetos)
+    ? Dañar objetos : `I don't want to damage the environment`
+    = to do damage to (f)
+    ? Dañar objetos (formal) : `I don't want to do damage to the environment`
 
 traumático
     = traumatic (no traumaticAL)
@@ -153,12 +202,17 @@ traumático
 
 ## Expressions
 
-me corté = I cut myself `I cut myself when I was cooking`
-me caí al suelo = I fell on the floor `I fell on the floor when I tripped`
+me corté = I cut myself
+    ? Me corté : `I cut myself when I was cooking`
+me caí al suelo = I fell on the floor
+    ? Me caí al suelo : `I fell on the floor when I tripped`
 
-me siento mal (ligero) = I feel bad `I feel bad after eating too much`
+me siento mal (ligero) = I feel bad
+    ? Me siento mal (ligero) : `I feel bad after eating too much`
 
-apariencia saludable = healthy-looking `He has a healthy-looking complexion` - `She has a healthy-looking skin`
+apariencia saludable = healthy-looking
+    ? Apariencia saludable : `He has a healthy-looking complexion`
+    ? Apariencia saludable : `She has a healthy-looking skin`
 
 me duele un ojo
     = 'I've got a sore eye'
@@ -167,42 +221,53 @@ me duele un ojo
 está en el hospital
     = to be IN (ingresado)
     = to be AT THE (visita o trabaja allí)
-    ?  Estoy en el hospital visitando a mi tía: `I'm at the hospital visiting my aunt`
+    ? Estoy en el hospital visitando a mi tía: `I'm at the hospital visiting my aunt`
     ? Estoy en el hospital porque me han operado: `I'm in the hospital because I had surgery`
 
-brote, estallido (de un evento) = outbreak `The outbreak of the disease was unexpected`- `There was an outbreak of chaos after the announcement`
+brote, estallido (de un evento) = outbreak
+    ? Brote, estallido (de un evento) : `The outbreak of the disease was unexpected`
+    ? Brote, estallido (de un evento) : `There was an outbreak of chaos after the announcement`
 
 ## Idioms
 
 sentirse indispuesto, no muy bien
-    = feel under the weather (i) `I'm feeling under the weather today, so I'm going to stay home`
+    = feel under the weather (i)
+    ? Sentirse indispuesto, no muy bien : `I'm feeling under the weather today, so I'm going to stay home`
 
 ## Verbs
 
 sentirse mareado
-    = feel dizzy (ligero mareo) `After spinning around quickly, I felt dizzy for a few seconds`
-    = feel faint (siento que voy a desmayarme)`"The sight of blood made him feel faint`
+    = feel dizzy (ligero mareo)
+    ? Sentirse mareado (ligero mareo) : `After spinning around quickly, I felt dizzy for a few seconds`
+    = feel faint (siento que voy a desmayarme)
+    ? Sentirse mareado (siento que voy a desmayarme) : `"The sight of blood made him feel faint`
 
-marearse = get dizzy `I got dizzy when I spun around quickly`
+marearse = get dizzy
+    ? Marearse : `I got dizzy when I spun around quickly`
 
 desmayarse
-    = faint `I fainted when I saw the blood`
-    = pass out `I passed out when I saw the blood`
+    = faint
+    ? Desmayarse : `I fainted when I saw the blood`
+    = pass out
+    ? Desmayarse (pass out) : `I passed out when I saw the blood`
 
-
-
-lesionar, herir = injure `I injured my leg when I fell`
-herida = injury `I have an injury on my leg`
+lesionar, herir = injure
+    ? Lesionar, herir : `I injured my leg when I fell`
+herida = injury
+    ? Herida : `I have an injury on my leg`
 
 aliviar
-    = to ease `The medicine eases the pain` (aliviar el dolor)
+    = to ease
+    ? Aliviar : `The medicine eases the pain` (aliviar el dolor)
 
 
 
 ## Physical Condition
 
-condición física (salud) = physical condition `I have a good physical condition`
-estado físico (entrenado) = fitness `I'm working on my fitness by going to the gym every day`
+condición física (salud) = physical condition
+    ? Condición física (salud) : `I have a good physical condition`
+estado físico (entrenado) = fitness
+    ? Estado físico (entrenado) : `I'm working on my fitness by going to the gym every day`
 
 estoy en forma = `I am in [good] shape` - `I am [physically] fit`
 no estoy en forma = `I am out of shape` - `I am in not fit`
