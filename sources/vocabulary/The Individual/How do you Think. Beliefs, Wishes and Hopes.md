@@ -4,52 +4,83 @@
 
 aferrarse a
     ! los siguientes son muy parecidos, normalmente usar más el primero
-    = (seguir un plan o reglas) stick to `He stuck to his principles` - `I will stick to my plan`
-    = hold on to (no dejar ir objetos o conceptos) `We have to hold on to what we've got...`
-    = cling to (con punto de desesperación/negativo) `She tends to cling to her childhood memories`
+    = (seguir un plan o reglas) stick to
+    ? Se mantuvo fiel a sus principios : `He stuck to his principles`
+    ? Me mantendré fiel a mi plan : `I will stick to my plan`
+    = hold on to (no dejar ir objetos o conceptos)
+    ? Tenemos que aferrarnos a lo que tenemos : `We have to hold on to what we've got...`
+    = cling to (con punto de desesperación/negativo)
+    ? Ella tiende a aferrarse a sus recuerdos de la infancia : `She tends to cling to her childhood memories`
 
 apreciar
-    = to appreciate (agradezco) `I appreciate your help` - `I appreciate your support`
-    = to value (es útil)`I value your opinion` - `I value your friendship`
-    = to cherish (emocional) `I cherish our time together` - `I cherish our memories`
+    = to appreciate (agradezco)
+    ? Agradezco tu ayuda : `I appreciate your help`
+    ? Agradezco tu apoyo : `I appreciate your support`
+    = to value (es útil)
+    ? Valoro tu opinión : `I value your opinion`
+    ? Valoro tu amistad : `I value your friendship`
+    = to cherish (emocional)
+    ? Atesoro nuestro tiempo juntos : `I cherish our time together`
+    ? Atesoro nuestros recuerdos : `I cherish our memories`
 
 al contrario de lo que la gente cree
-    = contrary to popular belief `Contrary to popular belief, the Earth is not flat`
+    = contrary to popular belief
+    ? Al contrario de lo que la gente cree, la Tierra no es plana : `Contrary to popular belief, the Earth is not flat`
 
 personas con las mismas ideas = `like-minded people`
+    ? Personas con las mismas ideas : `like-minded people`
 
 piensan diferente
-    = think differently `He thinks differently about the issue`
-    = have a different opinion `She has a different opinion on the matter`
+    = think differently
+    ? Él piensa diferente sobre el tema : `He thinks differently about the issue`
+    = have a different opinion
+    ? Ella tiene una opinión diferente sobre el asunto : `She has a different opinion on the matter`
 
 ## Faith
 
-cura = priest `The priest gave a sermon on Sunday`
+cura = priest
+    ? El cura dio un sermón el domingo : `The priest gave a sermon on Sunday`
 
-creyente = believer `He is a believer in God` - `She is a believer in the power of positive thinking`
-no creyente = non-believer `He is a non-believer in God` - `She is a non-believer in the power of positive thinking`
-ateo = atheist `He is an atheist`
+creyente = believer
+    ? Él es creyente en Dios : `He is a believer in God`
+    ? Ella es creyente en el poder del pensamiento positivo : `She is a believer in the power of positive thinking`
+no creyente = non-believer
+    ? Él es no creyente en Dios : `He is a non-believer in God`
+    ? Ella es no creyente en el poder del pensamiento positivo : `She is a non-believer in the power of positive thinking`
+ateo = atheist
+    ? Él es ateo : `He is an atheist`
 
-la iglesia católica = the Catholic Church `The Catholic Church has many followers`
+la iglesia católica = the Catholic Church
+    ? La Iglesia Católica tiene muchos seguidores : `The Catholic Church has many followers`
 
 
 ## Aspirations
 
 objetivo
-    = purpose (propósito - no medible) `The purpose of the meeting is to discuss the new project`
-    = aim (medible a largo plazo) `The aim of the project is to increase sales by 20%`
-    = goal (medible a medio/corto) `His goal is to finish the project by December`
-    = target (muchas veces en cifras) `Our sales target for this quarter is 10,000 units`
+    = purpose (propósito - no medible)
+    ? El propósito de la reunión es discutir el nuevo proyecto : `The purpose of the meeting is to discuss the new project`
+    = aim (medible a largo plazo)
+    ? El objetivo del proyecto es aumentar las ventas en un 20% : `The aim of the project is to increase sales by 20%`
+    = goal (medible a medio/corto)
+    ? Su meta es terminar el proyecto para diciembre : `His goal is to finish the project by December`
+    = target (muchas veces en cifras)
+    ? Nuestro objetivo de ventas para este trimestre es de 10,000 unidades : `Our sales target for this quarter is 10,000 units`
 
 pretender
-    = to intend `He intended to go to the party` - `I intend to study abroad next year`
-        - OJO: NO es "to pretend"; eso es _fingir_ `He pretended to be sick`
-    = look to (más formal) `The company looks to expand its operations`
+    = to intend
+    ? Él tenía la intención de ir a la fiesta : `He intended to go to the party`
+    ? Tengo la intención de estudiar en el extranjero el próximo año : `I intend to study abroad next year`
+    = look to (más formal)
+    ? La empresa busca expandir sus operaciones : `The company looks to expand its operations`
+        - OJO: NO es "to pretend"; eso es _fingir_ çHe pretended to be sickç
 
-tener la intención de hacer algo = plan ON <ing> `I plan on going to the party` - `He plans on studying abroad`
+tener la intención de hacer algo = plan ON <ing>
+    ? Planeo ir a la fiesta : `I plan on going to the party`
+    ? Él planea estudiar en el extranjero : `He plans on studying abroad`
 
 no pretendo
-    = don't mean to <base> `I didn't mean to hurt your feelings`
+    = don't mean to <base>
+    ? No quise herir tus sentimientos : `I didn't mean to hurt your feelings`
 
 propósito
     = purpose (el objetivo o función de algo)
@@ -65,7 +96,9 @@ intención
 starting a sentence...
     ! Totalmente intercambiables para el resto del tema
     = I wish ...
+    ? Ojalá... : `I wish ...`
     = if only ... (más dramática)
+    ? Si tan solo... : `If only ...`
 
 deseos
     = wishes (desearía, con poco control de que ocurra)
@@ -130,9 +163,15 @@ ojalá ocurra <algo> en el futuro...
 ## Hopes
 
 esperar
-    = hope (Wishful thinking ) `I hope to see you soon` - `I hope for good news`
-    = expect (Confident belief) `I expect to see you at the meeting` - `I expect good results from the project`
-    = look forward to (esperar con deseo; estoy deseando que) `I look forward to seeing you` - `I look forward to the weekend`
+    = hope (Wishful thinking )
+    ? Espero verte pronto : `I hope to see you soon`
+    ? Espero buenas noticias : `I hope for good news`
+    = expect (Confident belief)
+    ? Espero verte en la reunión : `I expect to see you at the meeting`
+    ? Espero buenos resultados del proyecto : `I expect good results from the project`
+    = look forward to (esperar con deseo; estoy deseando que)
+    ? Estoy deseando verte : `I look forward to seeing you`
+    ? Estoy deseando que llegue el fin de semana : `I look forward to the weekend`
 
 ## Expecting
 
