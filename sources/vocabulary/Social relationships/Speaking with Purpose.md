@@ -45,7 +45,7 @@ afirmar
     = claim
     ? Él afirmó que era inocente : `He claimed that he was innocent`
         - El _declara_ que es inocente; no nos metemos a valorar la veracidad
-        - También se utilizar para "quejarse" çHe claimed that the food was coldç
+        - También se utilizar para "quejarse" `He claimed that the food was cold`
     = state (el más formal)
     ? Él declaró que era inocente : `He stated that he was innocent`
     ? Se quejó the que la comida estaba fría : `He claimed that the food was cold`

@@ -202,7 +202,7 @@ sincero
 
 fiable
     = reliable `The band is reliable and always on time` - `He is a trustworthy person`
-        - No confundir con _trustworthy_ (de confianza) çHe is a trustworthy personç
+        - No confundir con _trustworthy_ (de confianza) `He is a trustworthy person`
 
 paciente = patient
     ? Es una persona paciente : `He is a patient person`

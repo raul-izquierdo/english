@@ -106,7 +106,7 @@ morir
 educar
     = educate (es más lo que hacen los padres)
     ? Educo a mis hijos sobre la importancia de reciclar : `I educate my children about the importance of recycling`
-        - _teach_ (es enseñanza reglada en el colegio) çI teach English to childrenç
+        - _teach_ (es enseñanza reglada en el colegio) `I teach English to children`
 
 criar, educar = bring up
     ? Ellos criaron bien a sus hijos : `They brought up their children well`

@@ -72,7 +72,7 @@ pretender
     ? Tengo la intención de estudiar en el extranjero el próximo año : `I intend to study abroad next year`
     = look to (más formal)
     ? La empresa busca expandir sus operaciones : `The company looks to expand its operations`
-        - OJO: NO es "to pretend"; eso es _fingir_ çHe pretended to be sickç
+        - OJO: NO es "to pretend"; eso es _fingir_ `He pretended to be sick`
 
 tener la intención de hacer algo = plan ON <ing>
     ? Planeo ir a la fiesta : `I plan on going to the party`
