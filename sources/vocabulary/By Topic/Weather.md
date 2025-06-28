@@ -26,6 +26,9 @@ tormenta (viento, lluvia/nieve y normalmente rayos)
 nevada = snowfall
     ? La nevada fue intensa : `The snowfall was heavy`
 
+la nieve se derritió = the snow melted
+    ? La nieve se derritió rápidamente : `The snow melted quickly`
+
 granizo = hail `The hail was heavy`
 
 niebla = fog
