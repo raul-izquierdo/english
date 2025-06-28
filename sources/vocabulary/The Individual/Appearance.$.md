@@ -7,7 +7,7 @@ aspecto, imagen
     = look
     = appearance (f)
     ? Tiene un aspecto juvenil : `She has a youthful look`
-    = Su aspecto era muy informal : `His look was very casual`
+    ? Su aspecto era muy informal : `His look was very casual`
 
 tiene buen aspecto
     = looks good (buen aspecto exterior)
@@ -38,37 +38,55 @@ calvo = bald
 arrugado = wrinkled
     ? Tiene la piel arrugada debido a la edad : `He has wrinkled skin due to age`
 
-pecoso = freckled `He is freckled` - `He has a freckled face`
+pecoso = freckled
+    ? Es pecoso : `He is freckled`
+    ? Tiene la cara pecosa : `He has a freckled face`
 
-bronceado = tanned `She has a tanned skin`
+bronceado = tanned
+    ? Tiene la piel bronceada : `She has a tanned skin`
 
-expresivo = expressive `He has an expressive face`
+expresivo = expressive
+    ? Tiene una cara expresiva : `He has an expressive face`
 
-pálida = pale `She has a pale face`
+pálida = pale
+    ? Tiene la cara pálida : `She has a pale face`
 
 complexion = tez (aspecto de piel)
     ? Se cuida la piel y su tez lo refleja : `She takes good care of her skin, and her complexion reflects that`
 
 gordo
-    = plump (regordete - afectivo) `He is plump and has a round face`
-    = overweight `He is overweight and needs to lose weight`
+    = plump (regordete - afectivo)
+    ? Es regordete y tiene la cara redonda : `He is plump and has a round face`
+    = overweight
+    ? Tiene sobrepeso y necesita perder peso : `He is overweight and needs to lose weight`
     = fat (negativo)
 
 delgado
     = slim (delgado pero en forma)
-    = thin (flaco) `He is thin and needs to eat more`
-    = skinny (delgado pero poco atractivo) `He is skinny and needs to gain weight`
     ? Es delgado pero está en forma : `He is slim but fit`
+    = thin (flaco)
+    ? Es flaco y necesita comer más : `He is thin and needs to eat more`
+    = skinny (delgado pero poco atractivo)
+    ? Es muy delgado y necesita ganar peso : `He is skinny and needs to gain weight`
 
 pelo rizado = curly hair
+    ? Tiene el pelo rizado : `He/She has curly hair`
 pelo liso = straight hair
+    ? Tiene el pelo liso : `He/She has straight hair`
 pelo ondulado = wavy hair
+    ? Tiene el pelo ondulado : `He/She has wavy hair`
 
-pelo suelto = flowing hair `She has flowing hair`
-pelo recogido = tied-up hair `She had her hair tied up`
-recogido con una coleta = tied up IN a ponytail `She had her hair tied up in a ponytail`
+pelo suelto = flowing hair
+    ? Tiene el pelo suelto : `She has flowing hair`
+pelo recogido = tied-up hair
+    ? Llevaba el pelo recogido : `She had her hair tied up`
+recogido con una coleta = tied up IN a ponytail
+    ? Llevaba el pelo recogido en una coleta : `She had her hair tied up in a ponytail`
 
-manchas (en la piel) = spots `She has spots on her skin`
-lunares = moles `He has moles on his face`
+manchas (en la piel) = spots
+    ? Tiene manchas en la piel : `She has spots on her skin`
+lunares = moles
+    ? Tiene lunares en la cara : `He has moles on his face`
 
-ojos claros = light eyes `He has light eyes`
+ojos claros = light eyes
+    ? Tiene los ojos claros : `He has light eyes`

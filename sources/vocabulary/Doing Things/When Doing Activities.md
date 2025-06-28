@@ -369,6 +369,9 @@ tirar la toalla = throw in the towel
 
 ## Outcome of an Activity
 
+dejar sin hacer = leave undone
+    ? Dejó el trabajo sin hacer : `He left the work undone`
+
 tener éxito = succeed
     ? Él tuvo éxito en conseguir el trabajo : `He succeeded in getting the job`
 
