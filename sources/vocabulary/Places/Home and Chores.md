@@ -3,219 +3,222 @@
 ## Definitions
 
 hogar
-    = household (grupo de personas) `The average household size in the UK is 2.4 people`
-    = home (lugar) `The home is where we feel safe and comfortable`
+    = household (grupo de personas)
+    = home (lugar)
+    ? El tamaño medio de los hogares en el Reino Unido es de 2,4 personas : `The average household size in the UK is 2.4 people`
+    ? El hogar es donde nos sentimos seguros y cómodos : `The home is where we feel safe and comfortable`
 
 tarea mundana (poco interesante: fregar, ordenar, sacar al perro...)
-    = chore `Cleaning the house is a daily chore`
-
-rutina (conjunto de chores) = routine `I have a daily routine that I follow every day`
-
-rutina diaria
-    = daily routine `I have a daily routine that I follow every day`
-    = daily chores `I have a lot of daily chores to do this week`
+    = chore
+    ? Limpiar la casa es una tarea diaria : `Cleaning the house is a daily chore`
+    ? Tengo muchas tareas diarias que hacer esta semana : `I have a lot of daily chores to do this week`
 
 tareas domésticas
-    = household chores `I have a lot of household chores to do this week`
+    = household chores
+    ? Tengo muchas tareas domésticas que hacer esta semana : `I have a lot of household chores to do this week`
 
-tarea rutinaria = routine task `Cleaning the house is a routine task`
+rutina (conjunto de chores) = routine
+    ? Tengo una rutina diaria que sigo todos los días : `I have a daily routine that I follow every day`
+    ? Tengo una rutina mañanera que sigo todos los días : `I have a morning routine that I follow every day`
+    ? Limpiar la casa es una tarea rutinaria : `Cleaning the house is a routine task`
 
-rutina mañanera = morning routine `I have a morning routine that I follow every day`
+avería = breakdown
+    ? El coche tuvo una avería de camino al trabajo : `The car had a breakdown on the way to work`
 
-avería = breakdown `The car had a breakdown on the way to work`
-
-cotidiano = everyday `I have an everyday routine that I follow every day`
-    - OJO: no confundir con _every day_ que es _todos los días_
-
-## Chores
-
-hacerse la cama = make the bed `I need to make the bed before I leave`
-hacer la comida = make the food `I need to make the food for dinner`
-hacer la compra = do the shopping `I need to do the shopping this weekend`
-hacer la colada
-    = do the laundry `I need to do the laundry today`
-    = do the washing `I need to do the washing today`
-
-lavar los platos
-    = wash the dishes `I need to wash the dishes after dinner`
-    = do the washing up (i) `I need to do the washing up after dinner`
-
-hacer la limpieza = do the cleaning `I need to do the cleaning this weekend`
+cotidiano = everyday
+    ? Tengo una rutina cotidiana que sigo todos los días : `I have an everyday routine that I follow every day`
 
 ## In a new House
 
 mudarse
-    = move out (marchar) `He moved out of his parents' house`
-    = move in (llegar) `He moved in with his girlfriend`
+    = move out (marchar)
+    = move in (llegar)
+    ? Se mudó de la casa de sus padres : `He moved out of his parents' house`
+    ? Se mudó con su novia : `He moved in with his girlfriend`
 
-entrar a vivir = move into `He moved into a new apartment` - `She moved into a new house`
+entrar a vivir = move into
+    ? Se mudó a un apartamento nuevo : `He moved into a new apartment`
 
-establecerse/vivir = settle down `I want to settle down in a small town`
+establecerse/vivir = settle down
+    ? Quiero establecerme en un pueblo pequeño : `I want to settle down in a small town`
 
 decorar
-    = decorate `I want to decorate my room with new furniture`
-    = deck out (más elaborado y especial) `I want to deck out my room with new furniture`
+    = decorate
+    = deck out (más elaborado y especial)
+    ? Quiero decorar mi habitación con muebles nuevos : `I want to decorate my room with new furniture`
+    ? Quiero adornar mi habitación con muebles nuevos : `I want to deck out my room with new furniture`
 
 ## People in the House
 
-compañero de piso = flatmate `My flatmate is very friendly` - `I share a flat with my flatmate`
-compañero de habitación = roommate `My roommate is very friendly` - `I share a room with my roommate`
+compañero de piso = flatmate
+    ? Comparto piso con mi compañero de piso : `I share a flat with my flatmate`
 
+compañero de habitación = roommate
 
 ## Places in the house
 
-salón = living room `The living room is where we relax and watch TV`
+salón = living room
 
 el pasillo = hallway `The hallway is narrow`
 
-
-el aseo = toilet `The toilet is in the bathroom`
-
+el aseo = toilet
 el techo = ceiling `The ceiling is painted white`
 
 el suelo de la casa
-    = floor `The floor was dirty`
-       - ground es en el exterior `The ground was very muddy`
+    = floor
+    ? El suelo estaba sucio : `The floor was dirty`
+       - _ground_ es sólo en el exterior `The ground was very muddy`
 
 escalera = stairs
-    ? Las escaleras llevan al piso de arriba: `The stairs lead upstairs`
+    ? Las escaleras llevan al piso de arriba : `The stairs lead upstairs`
 
 el piso de arriba = upstairs
-    ? La habitación está arriba: `The bedroom is upstairs`
-    ? La planta de arriba tiene dos baños: `The upstairs has two bathrooms`
+    ? La habitación está arriba : `The bedroom is upstairs`
+    ? La planta de arriba tiene dos baños : `The upstairs has two bathrooms`
 
-el piso de abajo = downstairs `The kitchen is downstairs`
+el piso de abajo = downstairs
+    ? La cocina está en el piso de abajo : `The kitchen is downstairs`
 
 plantas
-    = floors `The building has three floors`
-    = storeys (UK) `The building has three storeys`
-    ? La casa tiene dos plantas y un garaje: `The house has two floors and a garage`
+    = floors
+    = storeys (UK)
+    ? El edificio tiene tres plantas : `The building has three floors` - `..storeys`
+    ? La casa tiene dos plantas y un garaje : `The house has two floors and a garage`
 
-ascensor = lift `The lift is out of order`
+ascensor = lift
     - elevator (US)
+    ? El ascensor está fuera de servicio : `The lift is out of order`
 
-en el quinto piso = on the fifth floor `The apartment is on the fifth floor`
+en el quinto piso = on the fifth floor
+    ? El apartamento está en el quinto piso : `The apartment is on the fifth floor`
 
-## Household Chores
 
-hacer la compra = do the shopping `I need to do the shopping this weekend`
-hacer la colada = do the laundry `I need to do the laundry today`
-hacer la comida = make the food `I need to make the food for dinner`
-hacerse la cama = make the bed `I need to make the bed before I leave`
+## Chores
 
-sacar de paseo = take <sbody> for a walk `I took him for a walk in the park`
+hacerse la cama = make the bed
+
+hacer la compra = do the shopping
+
+sacar de paseo = take <sbody> for a walk
+    ? Lo llevé a pasear por el parque : `I took him for a walk in the park`
 
 mantenimiento
-    = upkeep (casas, jardines) `The upkeep of the building is important`
-    = maintenance (máquinas o sistemas) `We need to schedule maintenance for the factory machines`
+    = upkeep (casas, jardines)
+    = maintenance (máquinas o sistemas)
+    ? El mantenimiento del edificio es importante : `The upkeep of the building is important`
+    ? Necesitamos programar el mantenimiento de las máquinas de la fábrica : `We need to schedule maintenance for the factory machines`
 
-llevar al cole = take to school `I have to take the children to school` - `I need someone to take me to school`
+llevar al cole = take to school
+    ? Tengo que llevar a los niños al colegio : `I have to take the children to school`
+    ? Necesito que alguien me lleve al colegio : `I need someone to take me to school`
 
-recoger a los niños (en el cole) = pick up the kids `I need to pick up the kids from school` - `Can you pick up the kids for me?`
+recoger a los niños (en el cole) = pick up the kids
+    ? Necesito recoger a los niños del colegio : `I need to pick up the kids from school`
+    ? ¿Puedes recoger a los niños por mí? : `Can you pick up the kids for me?`
 
 ## Kitchen Appliances
 
 
-sartén = frying pan `I need a frying pan to cook the eggs`
-cacerola = saucepan `I need a saucepan to boil the pasta`
+sartén = frying pan
+cacerola = saucepan
 
-olla = pot `I need a pot to cook the soup`
-batidora = blender `I need a blender to make the smoothie`
-nevera = fridge `I need to put the food in the fridge`
-lavavajillas = dishwasher `I need to load the dishwasher`
-microondas = microwave `I need to heat the food in the microwave`
-horno = oven `I need to preheat the oven`
-placa = [induction/ceramic] hob `I need to turn on the induction hob`
+olla = pot
+batidora = blender
+nevera = fridge
+lavavajillas = dishwasher
+microondas = microwave
+horno = oven
+placa = [induction/ceramic] hob
 
-freír = fry `I need to fry the eggs`
-cocer, hervir = boil `I need to boil the pasta`
-calentar = heat `I need to heat the food`
-hornear = bake `I need to bake the cake`
-dejar reposar = let it rest `I need to let the dough rest`
+## Cooking
+
+hacer la comida = make the food
+
+freír = fry
+cocer, hervir = boil
+calentar = heat
+hornear = bake
+    ? Necesito hornear el pastel : `I need to bake the cake`
+dejar reposar = let it rest
+    ? Necesito dejar reposar la masa : `I need to let the dough rest`
 
 libro de cocina
-    = cookbook (enseña a cocinar) `This book is a cookery book`
-    = recipe book (recetas) `This book is a recipe book`
+    = cookbook (enseña a cocinar)
+    = recipe book (recetas)
+    ? Este libro es un libro de cocina : `This book is a cookery book`
+    ? Este libro es un libro de recetas : `This book is a recipe book`
 
 ## Furniture
 
-mueble = furniture `The furniture in the living room is new`
+mueble = furniture
     - Sirve tanto para mueble como para muebles en plural
+    ? El mueble de la sala de estar es nuevo : `The furniture in the living room is new`
 
-armario = wardrobe `She has a big wardrobe full of clothes`
+armario = wardrobe
 
-cajón = drawer `He keeps his socks in the top drawer`
+cajón = drawer
+    ? Él guarda sus calcetines en el cajón superior : `He keeps his socks in the top drawer`
 
-mesita de noche = bedside table `She put her book on the bedside table`
+mesita de noche = bedside table
+    ? Ella puso su libro en la mesita de noche : `She put her book on the bedside table`
 
-cajonera = chest of drawers `He has a chest of drawers in his bedroom`
+cajonera = chest of drawers
 
-papelera = bin `The bin is full of paper`
+persianas = blinds
+    ? Las persianas están cerradas para mantener el sol afuera : `The blinds are closed to keep the sun out`
 
-persianas = blinds `The blinds are closed to keep the sun out`
-cortinas = curtains `The curtains are drawn to keep the light out`
+cortinas = curtains
 
 ## Cleaning
 
+
+limpiar = clean
+    ? Necesito limpiar la casa : `I need to clean the house`
+
+hacer la limpieza = do the cleaning
+    ? Necesito hacer la limpieza este fin de semana : `I need to do the cleaning this weekend`
+
+
 limpiar la habitación
-    = clean up `I cleaned up the mess in my room` - `She cleaned up the kitchen after dinner`
+    = clean up
+    ? Recogí el desorden en mi habitación : `I cleaned up the mess in my room`
+    ? Ella limpió la cocina después de la cena : `She cleaned up the kitchen after dinner`
 
-limpiar = clean `I need to clean the house`
+pasar la aspiradora = hoover
+    ? Necesito pasar la aspiradora en la sala de estar : `I need to hoover the living room`
 
-pasar la aspiradora = hoover `I need to hoover the living room`
+limpiar el polvo = dust
+    ? Necesito quitar el polvo de las estanterías : `I need to dust the shelves`
 
-limpiar el polvo = dust `I need to dust the shelves`
+fregar el suelo = mop the floor
+    ? Necesito fregar el suelo de la cocina : `I need to mop the floor in the kitchen`
 
-fregar el suelo = mop the floor `I need to mop the floor in the kitchen`
+hacer la colada
+    = do the laundry
+    = do the washing
 
-limpiar la cocina = clean the kitchen `I need to clean the kitchen`
+lavar los platos
+    = wash the dishes
+    = do the washing **up** (i)
+    ? No he fregado los platos todavía : `I haven't done the washing-up yet`
 
-desorden, lio, jaleo = mess `The room is a mess` - `The office is a mess`
 
-## In the Bedroom
+## Organizing the Bedroom
 
-recoger la ropa del suelo
-    = pick up `I picked up the clothes from the floor`
+recoger la ropa del suelo = pick up
+    ? Recogí la ropa del suelo : `I picked up the clothes from the floor`
 
-recoger la habitación
-    = clear up `I cleared up the mess in my room`
+recoger la habitación = clear up
+    ? Recogí el desorden en mi habitación : `I cleared up the mess in my room`
 
 meter la ropa en
-    = (poner) put `I put the clothes in the wardrobe`
-    = (guardar) put away `She put away the dishes in the cupboard`
-    = (guardar para un futuro) store `I stored the winter clothes in the attic`
+    = (poner) put
+    = (guardar) put away
+    = (guardar para un futuro) store
+    ? Puse la ropa en el armario : `I put the clothes in the wardrobe`
+    ? Ella guardó los platos en el armario : `She put away the dishes in the cupboard`
+    ? Guardé la ropa de invierno en el ático : `I stored the winter clothes in the attic`
 
-
-## Sleeping and Relaxing
-
-dormir
-    = to sleep
-    = to be out like a light (caer dormido rápidamente) `After a long day at work, I'm out like a light as soon as my head hits the pillow`
-    = nod off (cabecear) `I was so tired that I nodded off during the movie`
-
-levantarse de la cama = get out of bed `I get out of bed at 7 o'clock every morning`
-
-recuperar sueño atrasado = catch up on my sleep `I need to catch up on sleep this weekend` - `Peter needs to catch up on his sleep`
-
-relajarse
-    = unwind (quitar stress después de algo) `I am unwinding after a long day`
-    = relax (más general) `I relax by watching TV`
-
-estar acostado/tirado
-    = lie/lay/lain `I lie on the couch when I watch TV` - `The papers are lying all over the place`
-        - Si, es la misma palabra que para _mentir_
-        - Usar _down_ para enfatizar la acción en vez de la posición `He lay down on the bed`
-        - No confundir con verbo _lay_ que es poner algo en una superficie horizontal `He lay the book on the table`
-
-tomar un descanso
-    = take/have a break (descanso corto)
-    = take <period> off (descanso largo)
-    ? Necesito hacer un descanso: `I need to take a break`
-    ? Me voy a coger un semestre libre para viajar : `I’m taking a semester off to travel`
-
-tomarse un tiempo
-    = take time out (descanso largo)
-    ? Es importante tomarse un tiempo para recargar energías: `It's important to take time out to recharge your batteries`
-    ? Ha decidido tomarse un tiempo fuera de su carrera para viajar por el mundo: `He's decided to take some time out from his career to travel the world`
-
-tiempo libre = free time `I like to spend my free time reading` - `I enjoy my free time`
+desorden, lio, jaleo = mess
+    ? La habitación está hecha un lío : `The room is a mess`
+    ? La oficina está desordenada : `The office is a mess`

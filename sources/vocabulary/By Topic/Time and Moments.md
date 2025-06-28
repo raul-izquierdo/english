@@ -52,7 +52,6 @@ hacer tiempo (esperar hasta que llegue la hora de hacer algo)
     = kill time BY <ing>
     ? Hago tiempo leyendo : `I kill time by reading`
 
-tiempo de ocio = leisure time `I spend my leisure time reading`
 
 ganar tiempo = gain time
 
@@ -61,6 +60,10 @@ ahorrar tiempo = save time
 tomarse tiempo para = take time to
     ? Deberías tomarte tiempo para pensarlo : `You should take time to think about it`
 
+tomarse un tiempo
+    = take time out (descanso largo)
+    ? Es importante tomarse un tiempo para recargar energías : `It's important to take time out to recharge your batteries`
+    ? Ha decidido tomarse un tiempo fuera de su carrera para viajar por el mundo : `He's decided to take some time out from his career to travel the world`
 
 ## Periods of the Day
 
