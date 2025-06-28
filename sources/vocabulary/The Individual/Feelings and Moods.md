@@ -18,6 +18,17 @@ mostrar una sonrisa de oreja a oreja = give a broad smile `He gave a broad smile
 
 con cara inexpresiva (no entendía, reconocía, confusa) = give a blank look `He gave a blank look when I asked him the question` - `She gave me a blank look when I told her the news`
 
+abrazar
+    = hug
+    ? Abrazo a mis amigos cuando los veo : `I hug my friends when I see them`
+    = cuddle (abrazar/acariciar)
+    ? Acaricio a mi perro cuando me siento triste : `I cuddle my dog when I feel sad`
+        - Es más íntimo (más cariñoso, más tiempo, más cerca)
+
+acariciar = stroke
+    ? Acarició el gato suavemente : `She stroked the cat gently`
+    ? La acarició con cariño : `He stroked her affectionately`
+
 ## Expressing Feelings
 
 estoy <mood> = I am/feel <mood> `I am down today` - `I feel cheerful today`

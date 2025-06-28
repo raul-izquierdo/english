@@ -66,7 +66,7 @@ dando opinión con duda
     = As far as I know, ...
     = I don't really know, but I imagine...
     = I haven't thought about it before, but perhaps...
-    - Por lo que yo sé, no va a empezar todavía : `As far as I know, he isn't going to start yet`
+    ? Por lo que yo sé, no va a empezar todavía : `As far as I know, he isn't going to start yet`
 
 
 dando opinion con seguridad
@@ -76,22 +76,27 @@ dando opinion con seguridad
     = In my opinion, ...
     = To be honest, I think that...
     = As far as I'm concerned, ...
-    - Para mi, el primer restaurante era mejor : `For me, the first restaurant was better`
-    - Para mi, no fue falta del defensor : `For me, that wasn't a foul by the defender`
-    - Yo diría que la película fue un éxito : `I'd say that the film was a success`
-    - Desde mi punto de vista, la nueva política es una buena idea : `From my point of view, the new policy is a good idea`
+    ? Para mi, el primer restaurante era mejor : `For me, the first restaurant was better`
+    ? Para mi, no fue falta del defensor : `For me, that wasn't a foul by the defender`
+    ? Yo diría que la película fue un éxito : `I'd say that the film was a success`
+    ? Desde mi punto de vista, la nueva política es una buena idea : `From my point of view, the new policy is a good idea`
 
-inclinarse por algo = lean towards `I lean towards the idea of going to the beach` - `I lean towards the red dress`
+inclinarse por algo = lean towards
+    ? Me inclino por la idea de ir a la playa : `I lean towards the idea of going to the beach`
+    ? Me inclino por el vestido rojo : `I lean towards the red dress`
 
-estar a favor de = in favour OF `We were all in FAVOUR OF him doing it`
+estar a favor de = in favour OF
+    ? Todos estuvimos a favor de que él lo hiciera : `We were all in FAVOUR OF him doing it`
 
 otra ventaja/desventaja es que...
     = Another advantage/disadvantage is that...
     = A **further** advantage/criticism of... (f)
 
-ni siquiera creo que ... = I don't even think [that] ... `I don't even think there's a word for it`
+ni siquiera creo que ... = I don't even think [that] ...
+    ? Ni siquiera creo que haya una palabra para eso : `I don't even think there's a word for it`
 
-tu experiencia puede ser diferente = Your mileage may vary `I found the movie boring, but your mileage may vary`
+tu experiencia puede ser diferente = Your mileage may vary
+    ? Encontré la película aburrida, pero tu experiencia puede ser diferente : `I found the movie boring, but your mileage may vary`
 
 
 ## Clarifying Concepts
@@ -149,7 +154,8 @@ estoy de acuerdo en casi todo, excepto en...
     = I agree with you on most things, except for...
 
 reconozco que (f)
-    = I reckon that (i) `I reckon that the new policy is a good idea`
+    = I reckon that (i)
+    ? Reconozco que la nueva política es una buena idea : `I reckon that the new policy is a good idea`
 
 ## Disagreeing
 
@@ -201,18 +207,29 @@ Así que los dos estamos de acuerdo
 ## Agreement and Disagreement
 
 todos estaremos de acuerdo en que
-    = we can all agree that `... the new policy is a good idea`
+    = we can all agree that
+    ? Todos estaremos de acuerdo en que la nueva política es una buena idea : `... the new policy is a good idea`
 
 Yo <expr> ->  Yo también!
-    = Me too `I like chocolate -> Me too`
-    = (en general)  I <expr> -> So do I `I like chocolate -> So do I`
-    = (con auxiliares be/have/can/should/must/will/would) I <aux> -> So <aux> I `I can swim -> So can I` - `I would go -> So would I` - `I'm hungry -> So am I`
+    = Me too
+    ? Me gusta el chocolate : `I like chocolate -> Me too`
+    = (en general)  I <expr> -> So do I
+    ? Me gusta el chocolate : `I like chocolate -> So do I`
+    = (con auxiliares be/have/can/should/must/will/would) I <aux> -> So <aux> I
+    ? Sé nadar : `I can swim -> So can I`
+    ? Iría : `I would go -> So would I`
+    ? Tengo hambre : `I'm hungry -> So am I`
         - RULE: In 'so X I', X must match the auxiliary verb used in the original statement. If it doesn't use an auxiliary (like "I like coffee"), then "do/does/did" is used
 
 Yo no <expr> ->  Yo tampoco!
-    = Me neither `I don't like chocolate -> Me neither`
-    = (en general)  I don't <expr> -> Neither do I `I don't like chocolate -> Neither do I`
-    = (con auxiliares be/have/can/should/must/will/would) I <aux> -> So <aux> I `I can't swim -> Neither can I` - `I wouldn't go -> Neither would I` - `I'm not hungry -> Neither am I`
+    = Me neither
+    ? No me gusta el chocolate : `I don't like chocolate -> Me neither`
+    = (en general)  I don't <expr> -> Neither do I
+    ? No me gusta el chocolate : `I don't like chocolate -> Neither do I`
+    = (con auxiliares be/have/can/should/must/will/would) I <aux> -> So <aux> I
+    ? No sé nadar : `I can't swim -> Neither can I`
+    ? No iría : `I wouldn't go -> Neither would I`
+    ? No tengo hambre : `I'm not hungry -> Neither am I`
         - RULE: La misma que antes, pero pasando de negativo a positivo
 
 discutir sobre...
@@ -228,6 +245,8 @@ discutir sobre...
     ? Hablamos / Tratamos los planes para el fin de semana : `We discussed the plans for the weekend`
 
 acordar que, llegar al acuerdo de
-    = agree ON <sthing> (acuerdo sobre un tema) `We agreed on the terms of the contract`
-    = agree TO <sthing> (acuerdo de hacer algo) `We agreed to meet at 5pm`
+    = agree ON <sthing> (acuerdo sobre un tema)
+    ? Acordamos los términos del contrato : `We agreed on the terms of the contract`
+    = agree TO <sthing> (acuerdo de hacer algo)
+    ? Acordamos vernos a las 5pm : `We agreed to meet at 5pm`
     ? ¿Podemos acordar hacerlo de esta manera? : `Can we agree to do it this way?`

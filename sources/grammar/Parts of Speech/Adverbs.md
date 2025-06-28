@@ -37,6 +37,13 @@ claramente = clearly
 
 correctamente = correctly
 
+con cuidado = carefully
+    ? Ella habló con cuidado para no despertar al bebé : `She spoke carefully so as not to wake the baby`
+
+delicadamente = gently
+
+suavemente = softly
+
 ## Adverbs of Time (when something happens)
 
 de repente = suddenly

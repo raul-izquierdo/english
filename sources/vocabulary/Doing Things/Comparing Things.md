@@ -177,3 +177,8 @@ como si fuera/hubiera...
 
 tantos como = as many as
     ? Hay tantas manzanas como naranjas en la cesta : `There are as many apples as oranges in the basket`
+
+coincide con
+    = matches
+    ? Su opinión coincide con la mía : `His opinion matches mine` (it matches)
+    ? Sus intereses coinciden con los míos : `Her interests match mine` (they match)
