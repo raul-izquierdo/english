@@ -1,15 +1,5 @@
 {
     "cSpell.language": "es,en-GB",
-    "folder-color.pathColors": [
-        {
-            "folderPath": "apuntes_online\\to be finished\\",
-            "color": "foldercolorizer.color_ff0000"
-        },
-        {
-            "folderPath": "apuntes_online\\sources\\vocabulary\\Interacting with People\\",
-            "color": "foldercolorizer.color_0066ff"
-        }
-    ],
     "files.exclude": {
         "**/.git": true,
         "**/.svn": true,
