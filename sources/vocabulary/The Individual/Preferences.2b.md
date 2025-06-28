@@ -3,34 +3,54 @@
 ## Interests
 
 Qué te interesa?
-    = `What are you interested in?` (ahora o en el contexto de la conversación) `What are you interested in doing this weekend?`
-    = `What are your interests?` (más general: qué cosas te interesan)
+    = `What are you interested in?`
+    ? ¿Qué te interesa? : `What are you interested in?`
+    = `What are you interested in doing this weekend?`
+    ? ¿Qué te interesa hacer este fin de semana? : `What are you interested in doing this weekend?`
+    = `What are your interests?`
+    ? ¿Cuáles son tus intereses? : `What are your interests?`
 
 estoy interesado/me gusta (x4)
     ! Ordenados de menos a más intenso
-    = I am interested IN <ing|obj> `I am interested in learning Spanish`
-    = to be a fan OF `I'm a fan of board games`
-    = to be keen ON `I'm keen on board games`
-    = to be INTO `I'm into board games`
+    = I am interested IN <ing|obj>
+    ? Estoy interesado en aprender español : `I am interested in learning Spanish`
+    = to be a fan OF
+    ? Soy fan de los juegos de mesa : `I'm a fan of board games`
+    = to be keen ON
+    ? Me entusiasman los juegos de mesa : `I'm keen on board games`
+    = to be INTO
+    ? Me gustan mucho los juegos de mesa : `I'm into board games`
 
 
 aficionado
-    = a fan (más casual) `He is a fan of science fiction movies`
-    = a <sthing> enthusiast (mayor conocimiento) `He is a fitness enthusiast `
-    = enthusiastic about <sthing> `He is enthusiastic about fitness`
+    = a fan (más casual)
+    ? Es fan de las películas de ciencia ficción : `He is a fan of science fiction movies`
+    = a <sthing> enthusiast (mayor conocimiento)
+    ? Es un entusiasta del fitness : `He is a fitness enthusiast`
+    = enthusiastic about <sthing>
+    ? Es entusiasta del fitness : `He is enthusiastic about fitness`
 
-nunca me ha llamado la atención = `It has never interested me` - `It has never caught my attention`
+nunca me ha llamado la atención
+    ? Nunca me ha interesado : `It has never interested me`
+    ? Nunca me ha llamado la atención : `It has never caught my attention`
 
 me atrae/me llama
-    = it appeals to me `I find it appealing` - `That's what appealed to me`
-    = it attracts me (físico o emocional) `The bright colours attract bees` - `I find it attractive`
+    = it appeals to me
+    ? Me resulta atractivo : `I find it appealing`
+    ? Eso fue lo que me atrajo : `That's what appealed to me`
+    = it attracts me (físico o emocional)
+    ? Los colores brillantes atraen a las abejas : `The bright colours attract bees`
+    ? Me resulta atractivo : `I find it attractive`
 
 me encantaría <hacer X>
-    = I’d be thrilled to <base> `I’d be thrilled to go bungee jumping`
+    = I’d be thrilled to <base>
+    ? Me encantaría hacer puenting : `I’d be thrilled to go bungee jumping`
 
 A X no le atraerá la actividad Y
-    = X would have (great|little|not) interest in Y `I would have little interest in going to a concert`
-    = Y would have (great|little|not) appeal to X `Going to a concert would not appeal to me`
+    = X would have (great|little|not) interest in Y
+    ? No me interesaría mucho ir a un concierto : `I would have little interest in going to a concert`
+    = Y would have (great|little|not) appeal to X
+    ? Ir a un concierto no me atraería : `Going to a concert would not appeal to me`
 
 
 ## Tastes
@@ -44,20 +64,31 @@ Quién te gustaría más... = Who would you most like to...
 
 Me gusta (x3)
     ! Ordenados de menos a más intenso
-    = I like <ing|to base> `I like to play board games` - `I like playing board games`
-    = I enjoy <ing> (no se usa con _to_) `I enjoy playing board games`
-    = I love <ing|to base> `I love to play board games` - `I love playing board games`
+    = I like <ing|to base>
+    ? Me gusta jugar a los juegos de mesa : `I like to play board games`
+    ? Me gusta jugar a los juegos de mesa : `I like playing board games`
+    = I enjoy <ing> (no se usa con _to_)
+    ? Disfruto jugando a los juegos de mesa : `I enjoy playing board games`
+    = I love <ing|to base>
+    ? Me encanta jugar a los juegos de mesa : `I love to play board games`
+    ? Me encanta jugar a los juegos de mesa : `I love playing board games`
 
 
 No me gusta (x4)
     ! Ordenados de menos a más intenso
-	= I'm not too keen ON <ing> `I'm not too keen on spicy food`
-	= I dislike <ing> más intenso y formal `I really dislike the beach`
+	= I'm not too keen ON <ing>
+    ? No me entusiasma la comida picante : `I'm not too keen on spicy food`
+	= I dislike <ing> más intenso y formal
+    ? Realmente no me gusta la playa : `I really dislike the beach`
 	= I hate <ing|to base>...
-	= I can't stand <ing> (no soporto) `I can't stand the noise` - `She can't stand people being late`
+	= I can't stand <ing> (no soporto)
+    ? No soporto el ruido : `I can't stand the noise`
+    ? No soporto que la gente llegue tarde : `She can't stand people being late`
 
-me da asco = disgusts me `The smell of the garbage disgusts me`
-asco = disgust `He felt disgust at the sight of the rotten food`
+me da asco
+    ? El olor de la basura me da asco : `The smell of the garbage disgusts me`
+asco
+    ? Sintió asco al ver la comida podrida : `He felt disgust at the sight of the rotten food`
 
 
 Me gusta más hacer ... que ...
@@ -74,8 +105,8 @@ No me gustaría nada ahora...
     ? No me gustaría nada hacer las tareas de casa ahora : `I wouldn't like to do the house chores right now` - `I'd hate to do housework now`
 
 es lo último que me gustaría hacer
-    = `It is the last thing I'd want to do it now`
-    = `The last thing I'd want to do now is...`
+    ? Es lo último que me gustaría hacer ahora : `It is the last thing I'd want to do it now`
+    ? Lo último que me gustaría hacer ahora es... : `The last thing I'd want to do now is...`
 
 
 ## Tolerating
@@ -83,20 +114,30 @@ es lo último que me gustaría hacer
 No puedo soportar
     = I can't put up WITH <ing>
 		- _can't stand_ es que no me gusta (intenso). Este es que se acabó mi **paciencia**.
-    = can't bear (emocionalmente) `I can't bear to see them suffer`
+    = can't bear (emocionalmente)
+    ? No puedo soportar verlos sufrir : `I can't bear to see them suffer`
     ? No puedo soportar más ese ruido : `I can't put up with the noise anymore`
     ? No puedo soportar más su actitud negativa en el trabajo : `She can't put up with his bad attitude at work`
     ? No soporto la idea de que se vaya : `I can't bear the idea of him leaving`
 
 
 puedo aguantar, no me importa
-    = I don't mind (no me importa - el más común) `I don't mind the noise` - `I don't mind the situation`
-    = I'm okay/fine with (está bien para mí) `I'm okay with the noise` - `I'm fine with the situation`
-    = It doesn't bother me (no me molesta) `It doesn't bother me` - `It doesn't bother me at all`
-    = can put up with (aguantar algo aunque no le guste) `She puts up with his bad habits because she loves him`
+    = I don't mind (no me importa - el más común)
+    ? No me molesta el ruido : `I don't mind the noise`
+    ? No me molesta la situación : `I don't mind the situation`
+    = I'm okay/fine with (está bien para mí)
+    ? Estoy bien con el ruido : `I'm okay with the noise`
+    ? Estoy bien con la situación : `I'm fine with the situation`
+    = It doesn't bother me (no me molesta)
+    ? No me molesta : `It doesn't bother me`
+    ? No me molesta en absoluto : `It doesn't bother me at all`
+    = can put up with (aguantar algo aunque no le guste)
+    ? Ella aguanta sus malos hábitos porque lo ama : `She puts up with his bad habits because she loves him`
 
 tolerar
-    = tolerate `I can tolerate opposing opinions` - `I can't tolerate gluten`
+    = tolerate
+    ? Puedo tolerar opiniones opuestas : `I can tolerate opposing opinions`
+    ? No puedo tolerar el gluten : `I can't tolerate gluten`
 
 ## Cravings
 
@@ -104,6 +145,7 @@ Me apetece <objeto|hacer algo> (x2)
     ! Ordenados de menos a más intenso
     = I'd like/love TO <base> | <obj> (con _love_, sería la versión más intensa)
     = I feel like <ing>  (este sólo vale para hacer algo, no para objetos)
+    ? Me apetece ir a dar un paseo : `I feel like going for a walk`
     = I fancy <ing|obj>
     ? Me apetece un café : `I fancy a coffee` - `I'd love a coffee`
     ? Me apetece ir a dar un paseo : `I fancy going for a walk` - `I'd like to go for a walk` - `I feel like going for a walk`
@@ -112,16 +154,23 @@ Me apetece <objeto|hacer algo> (x2)
 
 
 elegir, optar por
-    = choose (común)  `I will choose the red dress`
-    = select (f) `I will select the red dress`
+    = choose (común)
+    ? Elegiré el vestido rojo : `I will choose the red dress`
+    = select (f)
+    ? Seleccionaré el vestido rojo : `I will select the red dress`
 
 optar, quedarse con
-    = opt FOR <sthing> `I will opt for the red dress`
-    = opt TO <base> `I will opt to go to the cinema`
+    = opt FOR <sthing>
+    ? Optaré por el vestido rojo : `I will opt for the red dress`
+    = opt TO <base>
+    ? Optaré por ir al cine : `I will opt to go to the cinema`
 
 una opción
-    = an option [worth considering] `There are several options available to you`
-    = a choice (elección) `I have a choice to make` - `I have a difficult choice to make`
+    = an option [worth considering]
+    ? Hay varias opciones disponibles para ti : `There are several options available to you`
+    = a choice (elección)
+    ? Tengo que tomar una decisión : `I have a choice to make`
+    ? Tengo que tomar una decisión difícil : `I have a difficult choice to make`
 
 ## Choosing between Objects
 
