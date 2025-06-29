@@ -31,8 +31,8 @@ porque = because
 
 debido a
     = because OF
-    = due to (f) `The flight was delayed due to bad weather`
-    ? El vuelo se retrasó debido a la lluvia : `The flight was delayed because of the rain`
+    = due to (f)
+    ? El vuelo se retrasó debido al mal tiempo : `The flight was delayed due to bad weather` `...because of the bad weather`
 
 para no tener que
     = so [that] <sbody> don't/won't have to
@@ -66,9 +66,12 @@ además
 además de
     = besides (i)
     = On top of (i)
-    = in addition [to] (añadir aspecto adicional) `In addition [to his duties as manager], he also oversees training`
-    = as well as `The job requires strong communication skills as well as technical knowledge`
-    = apart from `Apart from studying, I also work part-time` (más neutral)
+    = in addition [to] (añadir aspecto adicional)
+    ? Además de sus deberes como gerente, también supervisa la formación : `In addition to his duties as manager, he also oversees training`
+    = as well as
+    ? El trabajo requiere habilidades de comunicación y conocimientos técnicos : `The job requires strong communication skills as well as technical knowledge`
+    = apart from
+    ? Aparte de estudiar, también trabajo a tiempo parcial : `Apart from studying, I also work part-time` (más neutral)
     ? Además de ser conocido por su trabajo, también es un gran músico : `Besides being known for his work, he is also a great musician`
 
 también = also
@@ -102,16 +105,18 @@ a pesar de
 a pesar de que = even though
 
 aunque
-    = while (mientras que) `Aunque mucha gente piensa... otros..` - > `While many people think...`
-    = although (a pesar de) `Although it was raining, we went for a walk`
-    = though (i) `Though it was raining, we went for a walk`
-    = even though (más énfasis: incluso a pesar de...) `Even though it was raining, we went for a walk` - `Even though he was tired, he went to the party`
-    = if `She’s kind, if a little shy` - `It was a clever plan, if a risky one`
-
-mientras que
-    = while `While I like the beach, I prefer the mountains` - `While I was studying, he was playing video games`
-    = whereas (más formal) `Whereas I like the beach, I prefer the mountains` - `Whereas I was studying, he was playing video games`
-    = whilst (más formal aún) `Whilst I like the beach, I prefer the mountains`
+    = while (mientras que)
+    = though (i)
+    = even though (más énfasis: incluso a pesar de...)
+    = if
+    ? Aunque mucha gente piensa... otros... : `While many people think...`
+    = although (a pesar de)
+    ? Aunque llovía, salimos a caminar : `Although it was raining, we went for a walk` (a pesar de)
+    ? Aunque llovía, salimos a caminar : `Though it was raining, we went for a walk`
+    ? Aunque llovía, salimos a caminar : `Even though it was raining, we went for a walk`
+    ? Aunque estaba cansado, fue a la fiesta : `Even though he was tired, he went to the party`
+    ? Ella es amable, aunque un poco tímida : `She’s kind, if a little shy`
+    ? Fue un plan inteligente, aunque arriesgado : `It was a clever plan, if a risky one`
 
 pero = but (neutral)
 
@@ -120,27 +125,35 @@ ya que aunque = for although `He was tired, for although he had rested earlier, 
 
 en vez de
     = (substitución de objeto/acción por otro) instead of <ing|obj>
-    = (para preferencias) rather than `I prefer tea rather than coffee`
+    ? Prefirió nadar en vez de correr : `He likes to swim rather than run`
+    ? Prefirió nadar en vez de correr : `He likes swimming rather than running`
+    = (para preferencias) rather than
+    ? Prefiero el té en vez de café : `I prefer tea rather than coffee`
         - En cuanto a usar <base> o <ing>, _rather than_ admite ambos siempre que se use el mismo antes y después de él.
         - Ambas válidas: `He likes to swim rather than run` - `He likes swimming rather than running`
         - Nota, lo anterior es válido porque _like_ es un verbo que admite tanto <base> como <ing>. En definitiva, es el verbo y no _rather than_ el que decide si se usa <base> o <ing>.
     ? Decidió estudiar en vez de ir a la fiesta : `He decided to study instead of going to the party`
 
 fue justo lo contrario
-    = it was quite the opposite `I thought it was going to be difficult, but it was quite the opposite`
+    = it was quite the opposite
+    ? Pensé que iba a ser difícil, pero fue justo lo contrario : `I thought it was going to be difficult, but it was quite the opposite`
 
 
 ## Result and Consequence
 
 por tanto, como consecuencia
     = as a result (neutro)
-    = therefore (f) `The experiment did not yield the expected results; thus, the hypothesis was revised`
-    = thus (formal menos común) `The experiment did not yield the expected results; therefore, the hypothesis was revised`
+    = therefore (f)
+    ? El experimento no dio los resultados esperados; por tanto, la hipótesis fue revisada : `The experiment did not yield the expected results; thus, the hypothesis was revised`
+    = thus (formal menos común)
+    ? El experimento no dio los resultados esperados; por tanto, la hipótesis fue revisada : `The experiment did not yield the expected results; therefore, the hypothesis was revised`
     = consequently (muy formal)
 
 como consecuencia/resultado de
-    = as a result OF `As a RESULT OF the rain, the game was cancelled`
-    = as a consequence OF `As a CONSEQUENCE OF the rain, the game was cancelled`
+    = as a result OF
+    ? Como resultado de la lluvia, el partido fue cancelado : `As a RESULT OF the rain, the game was cancelled`
+    = as a consequence OF
+    ? Como consecuencia de la lluvia, el partido fue cancelado : `As a CONSEQUENCE OF the rain, the game was cancelled`
 
 así que
     = so
@@ -158,15 +171,20 @@ Esto plantea la cuestión de si...
 
 ## Clarification and Explanation
 
-como = as `As she was tired, she went to bed early`
+como = as
+    ? Como estaba cansada, se fue a la cama temprano : `As she was tired, she went to bed early`
 
-ya que = since `Since it’s late, let’s go home`
+ya que = since
+    ? Ya que es tarde, vámonos a casa : `Since it’s late, let’s go home`
 
 
 es decir
-    = that is (f) `The company is expanding its operations; that is, it is opening new offices in Europe`
-    = in other words (más común) `The company is expanding its operations; in other words, it is opening new offices in Europe`
-    = namely (f) `The company is expanding its operations; namely, it is opening new offices in Europe`
+    = that is (f)
+    ? La empresa está expandiendo sus operaciones; es decir, está abriendo nuevas oficinas en Europa : `The company is expanding its operations; that is, it is opening new offices in Europe`
+    = in other words (más común)
+    ? La empresa está expandiendo sus operaciones; en otras palabras, está abriendo nuevas oficinas en Europa : `The company is expanding its operations; in other words, it is opening new offices in Europe`
+    = namely (f)
+    ? La empresa está expandiendo sus operaciones; a saber, está abriendo nuevas oficinas en Europa : `The company is expanding its operations; namely, it is opening new offices in Europe`
 
 en lo que X respecta
     = as far as X is concerned
@@ -174,44 +192,66 @@ en lo que X respecta
     ? En lo que a mi respecta, el proyecto va bien : `As far as I'm concerned, the project is going well`
 
 cuando se trata de X,
-    = when it comes to X `When it comes to learning a language, practice is key`
+    = when it comes to X
+    ? Cuando se trata de aprender un idioma, la práctica es clave : `When it comes to learning a language, practice is key`
 
 Respecto a X, ...
-    = regarding X `Regarding the project, we need to discuss the budget`
-    = with regard to X (f) `With regard to the project, we need to discuss the budget`
+    = regarding X
+    ? Respecto al proyecto, tenemos que hablar del presupuesto : `Regarding the project, we need to discuss the budget`
+    = with regard to X (f)
+    ? Con respecto al proyecto, tenemos que hablar del presupuesto : `With regard to the project, we need to discuss the budget`
 
 En cuanto a X, ...
-    = as for X `As for the project, we need to discuss the budget`
+    = as for X
+    ? En cuanto al proyecto, tenemos que hablar del presupuesto : `As for the project, we need to discuss the budget`
 
 pero en cuanto a...
-    = but as for (más informal) `I like the movie, but as for the ending, I didn't like it` - `"I like pizza, but as for pasta, I'm not a fan`
-    = but regarding (más formal) `I like the movie, but regarding the ending, I didn't like it`
+    = but as for (más informal)
+    ? Me gusta la película, pero en cuanto al final, no me gustó : `I like the movie, but as for the ending, I didn't like it`
+    ? Me gusta la pizza, pero en cuanto a la pasta, no soy fan : `I like pizza, but as for pasta, I'm not a fan`
+    = but regarding (más formal)
+    ? Me gusta la película, pero respecto al final, no me gustó : `I like the movie, but regarding the ending, I didn't like it`
 
-o, mejor dicho, ... = ..., or rather, ... `I like the beach, or rather, I love it`
+o, mejor dicho, ... = ..., or rather, ...
+    ? Me gusta la playa, o mejor dicho, la amo : `I like the beach, or rather, I love it`
 
-después de todo = after all (clarifica) `He seemed uninterested, but after all, he was just shy`
+después de todo = after all (clarifica)
+    ? Parecía desinteresado, pero después de todo, solo era tímido : `He seemed uninterested, but after all, he was just shy`
 
-en gran medida = to a large extent `To a large extent, the project was successful`
+en gran medida = to a large extent
+    ? En gran medida, el proyecto fue exitoso : `To a large extent, the project was successful`
 
 algo relacionado con
-    = something to do with (oral) `I want to talk about something to do with the project` - `I want to talk about something to do with the meeting`
-    = something related to (escrito) `I want to talk about something related to the project` - `I want to talk about something related to the meeting`
+    = something to do with (oral)
+    ? Quiero hablar de algo relacionado con el proyecto : `I want to talk about something to do with the project`
+    ? Quiero hablar de algo relacionado con la reunión : `I want to talk about something to do with the meeting`
+    = something related to (escrito)
+    ? Quiero hablar de algo relacionado con el proyecto : `I want to talk about something related to the project`
+    ? Quiero hablar de algo relacionado con la reunión : `I want to talk about something related to the meeting`
 
 
 ## Selecting
 
 de entre todos
-    = among all `among all the parcels, I took the right one`
+    = among all
+    ? De entre todos los paquetes, cogí el correcto : `among all the parcels, I took the right one`
 
 nada más que / solo..
-    = nothing but `I want nothing but the best for you` - `He does nothing but complain`
-    = no one but (para personas) `I want no one but you` - `He does no one but complain`
+    = nothing but
+    ? No quiero nada más que lo mejor para ti : `I want nothing but the best for you`
+    ? No hace nada más que quejarse : `He does nothing but complain`
+    = no one but (para personas)
+    ? No quiero a nadie más que a ti : `I want no one but you`
+    ? No hace nadie más que quejarse : `He does no one but complain`
 
 cualquier cosa menos X.. (es lo opuesto a X)
-    = anything but `He's anything but stupid`
+    = anything but
+    ? Es cualquier cosa menos estúpido : `He's anything but stupid`
 
 todo excepto X
-    = everything but `I like everything but the soup` - `I like everything but the weather`
+    = everything but
+    ? Me gusta todo excepto la sopa : `I like everything but the soup`
+    ? Me gusta todo excepto el clima : `I like everything but the weather`
 
 ## Summary and Conclusion
 
@@ -221,9 +261,12 @@ considerando todo lo anterior
 
 en resumen
     = **in conclusion** (formal - añade conclusión)
-    = in summary (formal - resumiendo) `In summary, we covered the key findings and proposed next steps`
-    = all in all (informal - como balance) `All in all, it was a productive day`
-    = to sum up (informal - recapitulando) `To sum up, our findings highlight the importance of teamwork`
+    = in summary (formal - resumiendo)
+    ? En resumen, cubrimos los hallazgos clave y propusimos los siguientes pasos : `In summary, we covered the key findings and proposed next steps`
+    = all in all (informal - como balance)
+    ? En conjunto, fue un día productivo : `All in all, it was a productive day`
+    = to sum up (informal - recapitulando)
+    ? Para resumir, nuestros hallazgos destacan la importancia del trabajo en equipo : `To sum up, our findings highlight the importance of teamwork`
 
 de todas formas (a pesar de algo)
     = anyway (i)
