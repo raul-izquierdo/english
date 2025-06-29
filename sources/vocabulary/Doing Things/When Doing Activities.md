@@ -244,6 +244,15 @@ preocupaciones, temores = concerns
 complicaciones, desafíos = challenges
     ? El proyecto enfrentó varios desafíos : `The project faced several challenges`
 
+la trampa/el truco
+    = the trap (más general: dispositivo, plan)
+    = the catch (inconveniente oculto - el truco)
+    ? El trabajo parece perfecto, pero ¿cuál es la trampa? : `This job sounds perfect, but what's the catch?`
+
+el escollo, obstáculo = the pitfall
+    ? El principal escollo del proyecto es su complejidad : `The main pitfall of the project is its complexity`
+    ? El principal escollo del plan es su coste : `The main pitfall of the plan is its cost`
+
 problemas
     = problems (más genérico)
     ? Tuve problemas con mi ordenador : `I had problems with my computer`
@@ -302,14 +311,6 @@ solucionar, arreglar (situación) = sort out
     ? Necesito aclarar mis finanzas : `I need to sort out my finances`
     ? Descubriré cuál fue el problema y trataré de solucionarlo : `I'll figure out what the problem was and I'll try to sort it out`
 
-la trampa/el truco
-    = the trap (más general: dispositivo, plan)
-    = the catch (inconveniente oculto - el truco)
-    ? El trabajo parece perfecto, pero ¿cuál es la trampa? : `This job sounds perfect, but what's the catch?`
-
-el escollo, obstáculo = the pitfall
-    ? El principal escollo del proyecto es su complejidad : `The main pitfall of the project is its complexity`
-    ? El principal escollo del plan es su coste : `The main pitfall of the plan is its cost`
 
 ahí está el problem/la trampa = That's the trap/catch
 ahí está el quid the la cuestión = That's the catch
@@ -374,6 +375,8 @@ dejar sin hacer/acabar = leave undone/unfinished
 
 tener éxito = succeed
     ? Él tuvo éxito en conseguir el trabajo : `He succeeded in getting the job`
+
+hacerlo realidad = make it happen
 
 no salir bien
     = go wrong

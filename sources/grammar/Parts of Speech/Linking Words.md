@@ -168,8 +168,10 @@ es decir
     = in other words (más común) `The company is expanding its operations; in other words, it is opening new offices in Europe`
     = namely (f) `The company is expanding its operations; namely, it is opening new offices in Europe`
 
-en lo que a mi respecta
-    = as far as I'm concerned `As far as I'm concerned, the project is going well`
+en lo que X respecta
+    = as far as X is concerned
+    ? En lo que respecta al proyecto, todo va bien : `As far as the project is concerned, everything is going well`
+    ? En lo que a mi respecta, el proyecto va bien : `As far as I'm concerned, the project is going well`
 
 cuando se trata de X,
     = when it comes to X `When it comes to learning a language, practice is key`

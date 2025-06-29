@@ -377,3 +377,10 @@ ever vs never
     = never (en afirmaciones - nunca)
     ? ¿Has estado alguna vez en París? : `Have you ever been to Paris?`
     ? Nunca he estado en París : `I have never been to Paris`
+
+## Other Time related Expressions
+
+
+El tiempo pasa rápido cuando...
+    = time flies when...
+   ? El tiempo pasa rápido cuando te diviertes : `Time flies when you're having fun`

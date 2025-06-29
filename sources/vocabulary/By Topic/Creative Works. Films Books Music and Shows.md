@@ -137,13 +137,6 @@ puntos fuertes = strengths
 
 puntos débiles = weaknesses
 
-lo que le diferencia, distingue
-    = what makes him different
-    = what sets him apart (más excepcional)
-    ? Lo que le diferencia de los demás es su dedicación : `What makes him different from the others is his dedication`
-    ? Lo que le distingue de los demás es su dedicación : `What sets him apart from the others is ...`
-    ? El diseño único distingue al producto : `The unique design sets the product apart`
-
 lo mejor viene = the best comes
     ? Lo mejor viene al final : `The best comes at the end`
 

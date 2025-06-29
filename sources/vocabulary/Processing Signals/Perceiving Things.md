@@ -72,20 +72,33 @@ escuchar
 
 notar, detectar
     = notice (darse cuenta de algo en general)
+    = spot (ver algo rápidamente o difícil)
     ? Noté un cambio en su comportamiento : `I noticed a change in his behavior`
     ? ¿Notaste la hermosa pintura en la pared? : `Did you notice the beautiful painting on the wall?`
-    = spot (ver algo rápidamente o difícil)
     ? Él detectó el error antes que nadie : `He spotted the error before anyone else`
     ? ¿Puedes encontrar el objeto oculto en esta imagen? : `Can you spot the hidden object in this picture?`
 
-darse cuenta (espontáneo)
-    = realize
+noto que/veo que
+    = I see that (si lo detecto por la vista)
+    = I can tell (si lo detecto de cualquier forma - vista incluida)
+    ? Veo que has desayunado (está recogiendo - tidying up) : `I see you've had breakfast`
+    ? Veo que está cansado (anda despacio) : `I can tell he's tired`
+    ? Noto que está cansado (habla despacio) : `I can tell he's tired`
+    ? Noto que algo va mal : `I can tell something's wrong`
+
+se nota que...
+    = You can tell...
+    ? Se nota que es falso : `You can tell it's fake`
+    ? Se nota que está nervioso : `You can tell he's nervous`
+
+darse cuenta
+    = realize  (espontáneo)
+    = catch on (después de un proceso mental, entender finalmente)
+    = become aware of (percibir algo, tomar conciencia - lo que suele preceder a _realize_)
     ? Me di cuenta de que olvidé mis llaves : `I realized that I forgot my keys`
     ? Ella se dio cuenta de que llegaba tarde a la reunión : `She realized that she was late for the meeting`
-    = catch on (después de un proceso mental, entender finalmente)
     ? Finalmente entendió el chiste : `He finally caught on to the joke`
     ? Me llevó un tiempo entender cómo funcionaba el juego : `It took me a while to catch on to how the game worked`
-    = become aware of (percibir algo, tomar conciencia - lo que suele preceder a realize de algo)
     ? Ella se dio cuenta del silencio y se percató de que todos se habían ido : `She became aware of the silence and realized everyone had left`
 
 llegar a saber/conocer/aprender (gradual)
@@ -122,6 +135,16 @@ recordar
     ? Recuérdame que le llame : `Remind me to call her`
     ? Recuerda llamarla : `Remember to call her` (acuérdate tu misma)
     ? Me recuerda a mi infancia : `It reminds me of my childhood` (una cosa te está recordando a ti)
+
+recuerdo = memory
+    ? Tengo un recuerdo vívido de mi infancia : `I have a vivid memory of my childhood`
+    ? Los recuerdos de la infancia son preciosos : `Childhood memories are precious`
+    ? Tengo recuerdos de que algo de eso pasó : `I have memories of that happening`
+
+es como X como lo que será recordado
+    = it will be remembered as X
+    ? Será recordado como un gran líder : `He will be remembered as a great leader`
+    ? Será recordado como un momento clave en la historia : `It will be remembered as a key moment in history`
 
 
 ## Getting Attention

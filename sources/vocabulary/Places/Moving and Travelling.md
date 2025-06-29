@@ -201,7 +201,11 @@ pasar el dia en = spend the day `I spent the day at the beach` - `We spent the d
 
 escapada a otra ciudad  = city break `I went on a city break to Paris` - `The city break was amazing`
 
-## Movement
+
+
+
+## Leaving
+
 
 partir/marcharse para
     = set off [for <place>] (partir)
@@ -254,10 +258,10 @@ salir rápido
     ? Salió a toda prisa de la casa para coger el autobús : `He rushed out of the house to catch the bus`
     ? Salió con prisa de la casa para coger el autobús : `He hurried out of the house to catch the bus`
 
-andar con determinación/paso firme
-    = stride into/out/across/along/towards
-    ? Entró en la habitación con confianza : `She strode confidently into the room`
-    ? Caminó por la calle con determinación : `He strode down the street with purpose`
+me tengo que ir = I've got to go [right now]
+
+
+## Arriving
 
 llegar a
     = arrive (f)
@@ -286,13 +290,32 @@ acabar en = end up
     ? Él acabó en una ciudad diferente : `He ended up in a different city`
     ? Acabé yendo al concierto solo : `I ended up going to the concert alone`
 
+volver
+    = to return (f) `He returned to his office after lunch`
+        - Incluye a los dos siguientes
+    = to come back (si retorna aquí) `Please come back later, I'm busy now`
+    = to go back (si retorna a un lugar que no es aquí) `I need to go back to the office to get my laptop`
+
+volveré, estaré de vuelta
+    = to be back
+    ? Volveré en unos minutos : `I'll be back in a few minutes`
+
+## Other Movements
+
+dar un paseo = go for a walk
+    ? Están dando un paseo y viendo las tiendas : `They are going for a walk and looking at the shops`
+
+andar con determinación/paso firme
+    = stride into/out/across/along/towards
+    ? Entró en la habitación con confianza : `She strode confidently into the room`
+    ? Caminó por la calle con determinación : `He strode down the street with purpose`
+
 acercarme a
     = get close to
-    = approach (física o figuradamente y con alguna intención)
+    = approach (aproximación física o figurada y con alguna intención)
     ? Se acercó al fuego : `He got close to the fire`
     ? Se acercó al borde del acantilado : `He got close to the edge of the cliff`
     ? Se acercó lentamente a la mesa : `He approached the table slowly`
-    ? Abordó el tema con cautela : `He approached the subject with caution`
 
 alejarse = move away
     ? Se alejó del fuego : `He moved away from the fire`
@@ -320,21 +343,10 @@ me doy la vuelta = I turn around
 acompáñanos = come along
     ? Ven al concierto con nosotros : `Come along to the concert with us`
 
-
 me aparté
     = move aside
     = step aside
     ? Me aparté para que pasara el coche : `I stepped/moved aside to let the car pass`
-
-volver
-    = to return (f) `He returned to his office after lunch`
-        - Incluye a los dos siguientes
-    = to come back (si retorna aquí) `Please come back later, I'm busy now`
-    = to go back (si retorna a un lugar que no es aquí) `I need to go back to the office to get my laptop`
-
-volveré, estaré de vuelta
-    = to be back
-    ? Volveré en unos minutos : `I'll be back in a few minutes`
 
 
 ## Moving Around a City
@@ -496,9 +508,9 @@ dar marcha atrás = reverse
     ? Di marcha atrás en la entrada : `I reversed the car into the driveway`
     ? El coche dio marcha atrás en el garaje : `The car reversed into the garage`
 
-chocar = crash
-    ? Choqué contra el coche : `I crashed into the car`
-    ? El coche chocó contra la pared : `The car crashed into the wall`
+chocar = crash into
+    ? Choqué contra el coche : `I crashed **into** the car`
+    ? El coche chocó contra la pared : `The car crashed **into** the wall`
 rozar = graze
     ? Roce el coche contra la pared : `I grazed the car against the wall`
     ? El coche rozó el árbol : `The car grazed the tree`
@@ -548,3 +560,10 @@ lejano (distancia)
     ? La playa está lejos del centro de la ciudad, lo que la convierte en una escapada perfecta : `The beach is far away from the city centre, making it a perfect getaway`
     ? Vivir en un lugar remoto puede ser un reto debido a la falta de comodidades : `Living in a remote location can be challenging due to the lack of amenities`
     ? Se sentía distante de su familia : `He felt distant from his family`
+
+cerca
+    = near
+    = close to (más cerca)
+
+cercano (que estaba cerca) = nearby
+    ? Fuimos un restaurante cercano : `We went to a nearby restaurant`

@@ -79,7 +79,14 @@ amigo
     = pal (i)
     ? Él es mi colega : `He is my pal`
 
+un grupo de amigos = a group of friends
+    ? Tengo un grupo de amigos con los que salgo los fines de semana : `I have a group of friends I hang out with on weekends`
+
 ¿Sois amigos? = Are you friends?
+
+un desconocido
+    ? He visto a un desconocido merodeando por aquí : `I've seen a stranger hanging around here`
+    ? Un extraño se acercó a mí y me saludó : `A stranger approached me and greeted me`
 
 compañerismo = camaraderie
     ? El compañerismo es importante en el trabajo : `Camaraderie is important in the workplace`
@@ -146,8 +153,14 @@ discusión ruidosa, disputa = squabble
     ? Los niños tuvieron una disputa por el juguete : `The children had a squabble over the toy`
 
 romper relación = break up
-    ? Rompieron después de una larga relación : `They break up after a long relationship`
-    ? Él rompió con su novia : `He break up with his girlfriend`
+    ? Rompieron después de una larga relación : `They broke up after a long relationship`
+    ? Él rompió con su novia : `He broke up with his girlfriend`
+
+dejó a la novia
+    = ended the relationship with ... (f)
+    = break up with ... (n)
+    = dumped ... (i)
+    ? Él la dejó porque no se llevaban bien : `He dumped her because they didn't get along` - `He ended the relationship with her ...` - `He broke up with her ...`
 
 separar emocionalmente personas (amorosa, amistad, ...)
     = drive <who> apart
@@ -155,9 +168,9 @@ separar emocionalmente personas (amorosa, amistad, ...)
 
 caer bien (primera impresión)
     = hit if off
+    = click
     ? Nos caímos bien de inmediato : `We hit it off immediately`
     ? Se cayeron bien en la fiesta : `They hit it off at the party`
-    = click
     ? Conectamos enseguida : `We clicked right away`
     ? Conectaron en la fiesta : `They clicked at the party`
 
@@ -304,7 +317,16 @@ pasarlo bien
 está por ahí pasándoselo bien
     ? Está por ahí pasándoselo bien : `He is out enjoying himself`
 
+
 ## Joking and Teasing
+
+pillar un chiste = to get a joke
+    ? No pillé el chiste : `I didn't get the joke`
+    ? Ella no pilló el chiste : `She didn't get the joke`
+
+detectar/ver un chiste = to spot a joke
+    ? Ella detectó el chiste en su historia : `She spotted the joke in his story`
+    ? No puedes ver un chiste? Te lo estás tomando demasiado en serio : `Can't you spot a joke? You're taking it too seriously`
 
 pinchar / meterse con alguien / vacilar
     = wind <sbody> up (I)

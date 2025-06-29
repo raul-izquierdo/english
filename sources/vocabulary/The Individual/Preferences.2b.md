@@ -141,14 +141,16 @@ tolerar
 
 ## Cravings
 
-Me apetece <objeto|hacer algo> (x2)
-    ! Ordenados de menos a más intenso
-    = I'd like/love TO <base> | <obj> (con _love_, sería la versión más intensa)
-    = I feel like <ing>  (este sólo vale para hacer algo, no para objetos)
+Me apetece <objeto|hacer algo>
+    = I'd like/love (TO <base> | <obj>) (f) (con _love_, sería más intenso)
+    = I feel like <ing>
+        - En UK también se usa para objetos `I feel like a burger`, pero en US queda raro (_me siento como una hamburguesa_)
+    = I fancy <ing|obj> (UK) (i)
     ? Me apetece ir a dar un paseo : `I feel like going for a walk`
-    = I fancy <ing|obj>
     ? Me apetece un café : `I fancy a coffee` - `I'd love a coffee`
     ? Me apetece ir a dar un paseo : `I fancy going for a walk` - `I'd like to go for a walk` - `I feel like going for a walk`
+    ? Me apetece una hamburguesa : `I feel like having a burger` - `I fancy a burger`
+    ? Me apetece comprar algo : `I feel like buying something` - `I fancy buying something`
 
 ## Choosing
 

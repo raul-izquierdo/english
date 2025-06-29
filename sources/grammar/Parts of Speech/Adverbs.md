@@ -111,6 +111,9 @@ totalmente, completamente
     = wholly (f)
     ? Estoy totalmente de acuerdo contigo : `I completely agree with you`
 
+casi no podía ... = I could hardly
+    ? Casi no podía respirar : `I could hardly breathe`
+
 ## Adverbs of Comment (speaker's attitude or opinion)
 
 en realidad = actually

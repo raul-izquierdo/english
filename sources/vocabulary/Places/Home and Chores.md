@@ -130,9 +130,18 @@ microondas = microwave
 horno = oven
 placa = [induction/ceramic] hob
 
+electrodoméstico = appliance
+
 ## Cooking
 
-hacer la comida = make the food
+hacer la comida
+    ! No usar _make the food_
+    = make lunch/dinner/something to eat
+    = cook
+    ? Tengo que hacer la comida : `I have to make something to eat` - `I have to cook`
+    ? Tengo que hacer la cena : `I have to make dinner`
+
+hacer el segundo plato = make the main course
 
 freír = fry
 cocer, hervir = boil

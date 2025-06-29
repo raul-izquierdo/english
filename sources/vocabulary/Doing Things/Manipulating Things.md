@@ -234,6 +234,7 @@ desordenado = disorganized
 
 recoger, poner en su sitio = tidy up
     ? Recogí mi habitación : `I tidied up my room`
+    ? Está recogiendo la mesa de la comida : `She is tidying up the dining table`
     ? Recoge los libros del suelo! : `Tidy up the books on the floor!!`
 
 estar tirado

@@ -86,6 +86,18 @@ fue la peor ... de mi vida
 
 ## Differences
 
+diferenciar
+    = tell apart (percibir diferencias - informal)
+    = differentiate (f)
+    ? No puedo distinguir a los gemelos : `I can't tell the twins apart`
+    ? Puedo distinguir entre los dos colores : `I can differentiate between the two colors`
+
+Puedes ver/notar la diferencia entre...
+    = You can see/tell the difference between...
+        - Ver _see_ vs _tell_ (_see_ si se percibe por la vista, _tell_ si se percibe de cualquier forma)
+    ? No puedo ver la diferencia entre los dos colores : `I can't see the difference between the two colors`
+    ? Puedes notar la diferencia entre el nuevo modelo y el antiguo por el sonido : `You can tell the difference between the new model and the old one by the sound`
+
 No hay diferencia entre mi coche y el tuyo
     ! Nótese que aquí se usa _NO_ en vez de _NOT_
     = `There IS NO DIFFERENCE between my car and yours`
@@ -104,6 +116,13 @@ Hay <poca/no mucha> diferencia entre...
 hay <mucha> diferencia entre mi coche y el tuyo
     = a lot of | a great deal of
     ? Hay mucha diferencia entre mi coche y el tuyo : `There is A GREAT DEAL OF difference between my car and yours`
+
+lo que le diferencia, distingue
+    = what makes him different
+    = what sets him apart (más excepcional)
+    ? Lo que le diferencia de los demás es su dedicación : `What makes him different from the others is his dedication`
+    ? Lo que le distingue de los demás es su dedicación : `What sets him apart from the others is ...`
+    ? El diseño único distingue al producto : `The unique design sets the product apart`
 
 
 ## Otros Comparativos

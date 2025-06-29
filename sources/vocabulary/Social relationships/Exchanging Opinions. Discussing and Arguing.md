@@ -98,6 +98,8 @@ ni siquiera creo que ... = I don't even think [that] ...
 tu experiencia puede ser diferente = Your mileage may vary
     ? Encontré la película aburrida, pero tu experiencia puede ser diferente : `I found the movie boring, but your mileage may vary`
 
+son prueba de que = are evidence OF
+    ? Los resultados son prueba de que la nueva política está funcionando : `The results are evidence of the new policy working`
 
 ## Clarifying Concepts
 
@@ -141,8 +143,11 @@ estoy de acuerdo
 
 esa es una buena observación
     = That's a good point
+
+es muy acertado / lo has clavado
     = You nailed it (has dado en el clavo)
-    = You're spot on (estás en lo cierto)
+    = You're spot on
+    ? Tu análisis del problema fue acertado : `Your analysis of the problem was spot-on`
 
 no hay duda
     = There's no doubt about that
@@ -190,6 +195,15 @@ Pasemos ahora a ...
 ¿Quieres añadir algo más? Tenemos que completar el tiempo
     = Do you want to add anything else? We need to fill the time
 
+abordar/tratar un tema
+    = approach a topic (f) (sacar el tema - comenzar a hablar de él)
+    = address a topic (f) (tratar el tema - analizar, resolver,...)
+        - Tratar el tema pero sólo hablando
+    = to deal with (n)
+        - Además de hablando, suele ser haciendo cosas
+    ? Abordaron el tema de la política económica : `They approached the topic of economic policy`
+    ? Necesitamos tratar los puntos clave de la propuesta antes de la fecha límite : `We need to address the key points in the proposal before the deadline`
+    ? Trató los problemas de uno en uno : `He dealt with the problems one by one`
 
 ## Ending a Discussion
 

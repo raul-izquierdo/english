@@ -33,17 +33,6 @@ tener en cuenta, considerar
     ? Consideraré tu sugerencia, pero necesito más tiempo para pensarlo : `I will consider your suggestion, but I need more time to think about it`
         - examinar, pensar en ello
 
-diferenciar
-    = tell apart (percibir diferencias - informal)
-    ? No puedo distinguir a los gemelos : `I can't tell the twins apart`
-    = distinguish (f)
-    ? Puedo distinguir entre los dos colores : `I can distinguish between the two colors`
-    = differentiate (f)
-    ? Puedo diferenciar entre los dos colores : `I can differentiate between the two colors`
-    ? Puedo diferenciar entre los dos productos : `I can differentiate between the two products`
-    = see the difference
-    ? No puedo ver la diferencia entre los dos colores : `I can't see the difference between the two colors`
-
 como es X
     = what X is like
     ? Puedes ver cómo es el clima en Londres : `You can see what the weather is like in London`
@@ -198,8 +187,8 @@ pensaba que era al revés
 
 acertar
     = to get right (lo hizo bien)
-    ? Acertó la respuesta en el primer intento : `He got the answer right on the first try`
     = to guess right (suponer bien)
+    ? Acertó la respuesta en el primer intento : `He got the answer right on the first try`
     ? Ella supuso bien el resultado del juego : `She guessed right about the outcome of the game`
     = to hit the target (dar en el blanco)
     ? El arquero dio en el blanco con su primera flecha : `The archer hit the target with his first arrow`

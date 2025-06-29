@@ -119,6 +119,16 @@ resumir = to summarize `I need to summarize the main points of the article`
 esquema = outline
 esquematizar = to outline `The teacher outlined the main points of the lesson`
 
+entrega = submission
+    ? Tengo una entrega el martes : `I have a submission on Tuesday`
+
+hacer una entrega
+    = submit (siguiendo procedimiento - formal)
+    = hand in (entrega menos formal - aunque no sea a mano)
+    ? Necesito entregar mi trabajo antes del viernes : `I need to submit my assignment by Friday`
+    ? Necesito entregar mi trabajo antes del viernes : `I need to hand in my assignment by Friday`
+    ? Entregué las llaves perdidas en recepción : `I handed in the lost keys at the reception`
+
 ## Exams
 
 el examen es en <fecha>
@@ -271,13 +281,6 @@ repartir
     ? Los voluntarios repartieron comida a los sin techo : `Volunteers handed out food to the homeless`
     ? El profesor entregó los exámenes a los estudiantes : `The teacher gave out the exams to the students`
     ? Los voluntarios entregaron comida a los sin techo : `Volunteers gave out food to the homeless`
-
-hacer una entrega
-    = submit (siguiendo procedimiento - formal)
-    = hand in (entrega menos formal - aunque no sea a mano)
-    ? Necesito entregar mi trabajo antes del viernes : `I need to submit my assignment by Friday`
-    ? Necesito entregar mi trabajo antes del viernes : `I need to hand in my assignment by Friday`
-    ? Entregué las llaves perdidas en recepción : `I handed in the lost keys at the reception`
 
 enseñar
     = teach (enseñanza reglada)

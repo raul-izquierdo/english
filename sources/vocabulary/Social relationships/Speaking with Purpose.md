@@ -12,19 +12,26 @@ lengua nativa = mother tongue
 
 
 hablar
-    = speak (capacidad de hablar/dirigirse a)
-    ? Él habló con el gerente sobre el problema : `He spoke to the manager about the issue`
-    = talk (conversar)
-    ? Él habló con su amigo sobre el problema : `He talked to his friend about the issue`
+    = speak. Tiene dos usos:
+        - Tener la _capacidad_ de hablar `He can speak three languages` - `Ì can't speak`
+        - "dirigirse a" -> versión _formal_ de _talk_ (con los mismos matices en _to_ y _with_)
+    = talk (conversar). Aunque son intercambiables, los siguientes ejemplos se suponen que tienen algún matiz:
+        - **to** Uno habla y el otro escucha (consejos, instrucciones, ordenes...)
+        - **with** Hablan ambos
     = chat (charlar)
+    ? Él habló con el gerente sobre el problema : `He spoke to the manager about the issue`
+    ? Él habló con su hijo sobre cómo actuar en esas situaciones : `He talked to his son about how to act in those situations`
+    ? Él habló con su amigo sobre el problema : `He talked with his friend about the issue`
     ? Él charló con su amigo tomando café : `He chatted with his friend over coffee`
+    ? Habló con todo el equipo sobre el problema : `He talked with the whole team about the problem`
+    ? Se dirigió a todo el equipo para hablar sobre el nuevo proyecto : `He spoke to the whole team about the new project` (suena más a presentación o dar charla)
 
 decir a alguien
     = tell <sbody> <información/story> (decir a alguien)
-    ? Él me dijo que llegaría a las 5pm : `He told me that he would arrive at 5pm`
     = to say <algo> (en general - no a alguien concreto)
-    ? Él dijo que llegaría a las 5pm : `He said that he would arrive at 5pm`
     = say <words> TO <sbody> (se usa algo más en reported speech)
+    ? Él me dijo que llegaría a las 5pm : `He told me that he would arrive at 5pm`
+    ? Él dijo que llegaría a las 5pm : `He said that he would arrive at 5pm`
     ? Él me dijo hola : `He said hello to me`
 
 responder

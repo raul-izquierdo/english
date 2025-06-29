@@ -192,13 +192,6 @@ vaso = glass
 servilleta = napkin
 cucharilla = teaspoon
 
-me apetece
-    = I fancy (<ing> | a <obj>) (I)
-    = I feel like (<ing> | a <obj>) (N)
-    = I'd like (F)
-    ? Me apetece una hamburguesa : `I feel like a burger` - `I fancy a burger`
-    ? Me apetece comprar algo : `I feel like buying something` - `I fancy buying something`
-
 somos 5 para comer
     = there are 5 of us [for lunch]
         - No decir `We are 5`-> Tenemos 5 años!! :)

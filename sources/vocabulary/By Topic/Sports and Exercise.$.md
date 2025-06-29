@@ -100,7 +100,6 @@ participar en = take part in
 competir = compete
     ? El equipo compitió en el torneo : `The team competed in the tournament`
 
-
 albergar una competición/evento
     = host a competition, event, exhibition...)
     ? Madrid alberga muchos eventos deportivos importantes : `Madrid hosts many important sporting events`
@@ -114,6 +113,15 @@ tener un record
     = to hold a record (logro competitivo)
     ? El atleta tiene el récord del tiempo más rápido : `The athlete holds the record for the fastest time`
 
+conseguir = achieve `He achieved his goal of running a marathon`
+logros = achievements `The team’s achievements are impressive`
+
+
+## During a Match
+
+
+partido = match `The match was very exciting`
+
 golpear (on raqueta, por ejemplo) = hit `He hit the ball with his racket`
 chutar = kick `He kicked the ball into the goal`
 dar un pase = pass `He passed the ball to his teammate`
@@ -121,14 +129,16 @@ dar un pase = pass `He passed the ball to his teammate`
 marcar un gol/puntos = score a goal/points `He scored a goal in the match`
 fallar un gol = miss a goal `He missed the goal in the match`
 
-## Outcome of a Competition
+lesión = injury `The injury was very serious`
+lesionarse = get injured `He got injured in the match`
 
-el resultado = the outcome `The outcome of the match was unexpected`
 
-conseguir = achieve `He achieved his goal of running a marathon`
-logros = achievements `The team’s achievements are impressive`
 
-partido = match `The match was very exciting`
+## Score
+
+ir el primero = to be in the lead `The team is **in** the lead`
+van ganando = they are winning
+van perdiendo = they are losing
 
 Van 3-2
     = It's three two (el guión no se pronuncia)
@@ -139,10 +149,9 @@ van empatados = to be level
     ? Van empatados : `They're level`
 van empatados a <número> = It's <number> all
     ? Van empatados a uno/dos/... : `It's one-all` - `It's two-all`
+
 empate (finalizado)= draw
     ? El partido acabó en empate : `The match ended in a draw`
-
-van perdiendo = they are losing `They are losing 1-0`
 
 ganar
     = beat (a personas: equipo/individuo)
@@ -160,11 +169,13 @@ perder
     ? El equipo perdió el partido 3-0 : `The team lost the match 3-0`
 
 ganador = winner
-campeón = champion (ganador con prestigio/dominio) `The champion was very happy`
+campeón = champion (ganador con prestigio/dominio)
 el segundo = the runner-up `The runner-up was very disappointed`
+el perdedor = the loser
 
-lesión = injury `The injury was very serious`
-lesionarse = get injured `He got injured in the match`
+el resultado = the outcome `The outcome of the match was unexpected`
+
+
 
 ## Expressions
 

@@ -142,6 +142,12 @@ me duele x
     = My x hurts [when ...] (dolor puntual) `My head hurts`
     = My x ache (dolor continuo) `My muscles ache after exercising` - `...were aching after...`
 
+vomité = I vomited
+    ? Vomité después de comer el pescado: `I vomited after eating the fish`
+
+tengo ganas de vomitar = I feel like vomiting
+    ? Tengo ganas de vomitar por el olor del pescado: `I feel like vomiting because of the smell of the fish`
+    ? Me dieron ganas de vomitar al oler el pescado: `I felt like vomiting after smelling the fish`
 
 ## Collocations
 
