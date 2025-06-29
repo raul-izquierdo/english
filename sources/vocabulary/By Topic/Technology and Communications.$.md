@@ -1,4 +1,4 @@
-# Technology and Communications (v1)
+# Technology and Communications
 
 ## News
 
@@ -47,6 +47,11 @@ los medios de comunicación = the media `The media are covering the event`
 
 según ...= according to
     ? Según el periódico, la noticia es cierta : `According to the newspaper, the news is true`
+
+salir en los medios
+    = to appear in the media
+    ? El artista salió en los medios por su nueva canción : `The artist appeared in the media for his new song`
+    ? La noticia salió en los medios : `The news appeared in the media`
 
 ## Telephone
 

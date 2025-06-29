@@ -21,9 +21,6 @@ jugar/juguetear = play around (a nada concreto)
 concurso = contest
     ? El concurso fue muy competitivo : `The contest was very competitive`
 
-sorteo = draw
-    ? El sorteo del torneo se celebró ayer : `The draw for the tournament was held yesterday`
-
 es una gran tarea/empresa = [challenging] undertaking
     ? Emprender un nuevo negocio es una tarea desafiante : `Starting a new business is a challenging undertaking`
 

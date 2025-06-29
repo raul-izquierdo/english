@@ -228,6 +228,7 @@ un rato
     = a while
     ? Pasamos un rato juntos : `We spent a while together`
 
+Hay poco tiempo para hacerlo = There's little time to do it
 
 el evento duró...
     = the event lasted

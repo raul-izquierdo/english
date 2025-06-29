@@ -240,7 +240,29 @@ vergüenza = shame
     ? Una sensación de vergüenza lo invadió tras su error : `A feeling of shame washed over him after his mistake`
 
 culpa = guilt
-    ? Sintió culpa por olvidar su promesa : `She felt guilt for forgetting her promise`
+
+
+lo siento (pedir disculpas)
+    = to be sorry (i) (pedir disculpas)
+    - sorry **for** something the speaker did `He said He was sorry for shouting`
+    - sorry **about** a general situation `I'm sorry about the noise`
+    ? Siento llegar tarde : `I'm sorry for being late`
+    ? Lo siento por lo que pasó : `I'm sorry about what happened`
+    ? Lo siento por tu pérdida : `I'm sorry about your loss`
+    ? Lo siento por el accidente : `I'm sorry about the accident`
+
+pedir disculpas
+    = to apologize (f) (pedir disculpas)
+    = to say sorry (i) (pedir disculpas)
+    ? Me disculpo por mi comportamiento : `I apologize for my behavior`
+    ? Le dije que lo sentía por lo que pasó : `I said sorry for what happened`
+
+estar arrepentido (sentir arrepentimiento - expresar sentimiento)
+    = to be regret <sthing>/<ing> (f) Poco común en oral
+    ? Estoy arrepentido : `I regret it`
+    ? Está arrepentido de su decisión : `He regrets his decision`
+    ? Estoy arrepentido de no haber ido a la fiesta : `I regret not going to the party`
+    ? Estoy arrepentido de haber perdido tanto tiempo : `I regret having wasted so much time`
 
 
 ## Confusion

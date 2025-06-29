@@ -142,6 +142,12 @@ una búsqueda de algo = a search for
     ? Fuimos en busca del tesoro perdido : `We went on a search for the lost treasure`
     ? Se inició una búsqueda de la persona desaparecida : `A search began for the missing person`
 
+investigar
+    = investigate (formal)
+    = look into (informal)
+    ? La policía está investigando el caso : `The police are investigating the case`
+    ? Estoy investigando las causas del problema : `I'm looking into the causes of the problem`
+
 ## Finding
 
 averiguar

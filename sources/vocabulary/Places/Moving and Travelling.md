@@ -343,11 +343,16 @@ me doy la vuelta = I turn around
 acompáñanos = come along
     ? Ven al concierto con nosotros : `Come along to the concert with us`
 
+perseguir = to chase
+    ? El perro persiguió al gato : `The dog chased the cat`
+
 me aparté
     = move aside
     = step aside
     ? Me aparté para que pasara el coche : `I stepped/moved aside to let the car pass`
 
+de camino a ... = on the way to ...
+    ? De camino al trabajo, paré a comprar café : `On the way to work, I stopped to buy coffee`
 
 ## Moving Around a City
 
@@ -493,6 +498,11 @@ aparcamiento
 bajar la ventanilla = roll down the window
 maletero = trunk
     ? Puse el equipaje en el maletero : `I put the luggage in the trunk`
+
+llevar a alguien en coche
+    = give someone a lift to
+    ? Llevé a mi amigo al aeropuerto : `I gave my friend a lift to the airport`
+    ? ¿Puedes llevarme mañana al trabajo? : `Can you give me a lift to work tomorrow?`
 
 dejar a alguien
     = drop off

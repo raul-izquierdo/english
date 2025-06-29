@@ -62,7 +62,8 @@ salón = living room
 el pasillo = hallway `The hallway is narrow`
 
 el aseo = toilet
-el techo = ceiling `The ceiling is painted white`
+el techo (de estancia) = ceiling `We need to paint the living room ceiling`
+tejado = roof
 
 el suelo de la casa
     = floor

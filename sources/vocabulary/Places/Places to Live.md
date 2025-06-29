@@ -11,8 +11,10 @@ region, area, zona
     = area (of a region)
     = zone (of the area)
     ? Cantabria es una región en el norte de España : `Cantabria is a region in northern Spain`
-    ? La zona es conocida por sus hermosos paisajes : `The area is known for its beautiful landscapes`
+    ? El área de Potes es conocida por sus hermosos paisajes : `The area of Potes is known for its beautiful landscapes`
     ? La zona es famosa por sus playas : `The zone is famous for its beaches`
+
+comunidad autónoma = region
 
 ciudad = city
     ? Torrelavega es una ciudad en Cantabria : `Torrelavega is a city in Cantabria`

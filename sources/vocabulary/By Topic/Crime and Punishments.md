@@ -134,7 +134,7 @@ sospechoso = suspect
 indicios = evidence (nótese que es siempre en singular)
     ? La policía encontró indicios de que el sospechoso estaba en la escena del crimen : `The police found evidence that the suspect was at the scene of the crime`
 
-pistas = clues
+pistas = clues (evidencias)
 
 una llamada de auxilio = a call for help
     ? Alguien hizo una llamada de auxilio : `Someone made a call for help`
@@ -150,6 +150,8 @@ juicio = trial
     ? El juicio se celebrará el martes : `The trial will be held on Tuesday`
 juez = judge
 jurado = jury
+
+juzgado = court
 
 acusar = accuse [<sbody>] OF <ing/sthing>
     ? Fué acusado de robar el dinero : `He was accused of stealing the money`

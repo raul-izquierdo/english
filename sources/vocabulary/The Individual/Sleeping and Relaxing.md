@@ -16,6 +16,13 @@ levantarse de la cama = get out of bed
 recuperar sueño atrasado = catch up on my sleep
     ? Necesito recuperar el sueño perdido este fin de semana : `I need to catch up on sleep this weekend`
 
+
+soñar
+    = to dream **about** (soñar mientras se duerme)
+    = to dream **of** (desear algo)
+    ? Soñé con un tio feo que me perseguía : `I dreamed **about** an ugly guy chasing me`
+    ? Sueño con tener una casa enorme : `I dream **of** having a big house`
+
 ## Relaxing
 
 

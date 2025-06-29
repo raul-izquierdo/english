@@ -232,8 +232,15 @@ algo relacionado con
 
 ## Selecting
 
-de entre todos
-    = among all
+entre (candidatos, opciones, etc.)
+    = between (si los elementos se enumeran)
+        = among (si se elige de entre un colectivo)
+        ? La elección está entre coche, la bicicleta y el patinete : `The choice is between the car, the bike, and the scooter`
+        ? El premio fue distribuido entre los ganadores : `The prize was distributed among the winners`
+        ? Él era un líder popular entre el personal : `He was a popular leader among the staff`
+        ? Encontramos la llave escondida entre la ropa sucia : `We found the key hidden somewhere among the dirty clothes`
+
+de entre todos = among all
     ? De entre todos los paquetes, cogí el correcto : `among all the parcels, I took the right one`
 
 nada más que / solo..

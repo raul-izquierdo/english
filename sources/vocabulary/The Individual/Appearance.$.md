@@ -16,6 +16,9 @@ tiene buen aspecto
     ? Está guapa con ese vestido : `She looks good in that dress`
     ? Tiene mejor aspecto después de las vacaciones (salud) : `She looks well after her vacation`
 
+le gusta cuidar su aspecto
+    = takes care of her appearance
+
 no tiene buen aspecto (estético)
     ? No tiene buen aspecto : `She doesn't look well`
     ? No es como mejor está : `She is not looking her best`

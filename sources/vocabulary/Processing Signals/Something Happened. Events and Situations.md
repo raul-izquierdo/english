@@ -116,6 +116,21 @@ con un poco de suerte, ocurrirá ...
     = hopefully
     ? Con un poco de suerte, lloverá mañana : `Hopefully, it will rain tomorrow`
 
+## At Random
+
+sorteo = draw
+    ? El sorteo del torneo se celebró ayer : `The draw for the tournament was held yesterday`
+
+lotería = lottery
+    ? Compré un billete de lotería :`I bought a lottery ticket`
+
+elegir alguien al azar
+    = select someone at random
+    ? Se elegirá alguien al azar para participar en el concurso : `Someone will be selected at random to participate in the contest`
+
+ser premiado en un sorteo
+    = be prized in a draw
+    ? Fue premiado en un sorteo de la lotería : `He was prized in a lottery draw`
 
 ## Expressions
 

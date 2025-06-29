@@ -63,10 +63,21 @@ mantenerse por sí mismo = pay his own way
     ? Él se mantiene por sí mismo : `He pays his own way`
 
 vivir de algo
-    = live off (depender de algo)
-    ? Él vive de sus padres : `He lives off his parents`
-    ? Ellos viven de la tierra : `They live off the land`
+    = live off (indica dependencia de algo)
+    = live on (indica fuente de ingresos - autosuficiencia)
+    ? Él vive de sus padres : `He lives off his parents` (dependencia)
+    ? Ellos viven de la tierra : `They live off the land` (dependencia)
     ? Vivieron de las raciones que encontraron : `They lived off the rations they found`
+    ? Ella vive de una pequeña pensión : `She lives on a small pension`
+    ? Él vive de su salario : `He lives on his salary`
+    ? Él vive de las ayudas del gobierno : `He lives off government benefits` (dependencia)
+
+ganarse la vida
+    = make a living (natural)
+    = earn a living (f)
+    ? Él se gana la vida como músico : `He makes a living as a musician`
+    ? Me gano la vida como profesor : `I earn a living as a teacher`
+
 
 Lo pago de mi bolsillo
     = I’m paying for it myself
@@ -141,12 +152,6 @@ salario
         - En realidad, la diferencia anterior no importa y se suelen usar indistintamente
     ? Su salario es de £35,000 al año, pagado mensualmente : `Her salary is £35,000 per year, paid monthly`
     ? Sus salarios semanales varían dependiendo de cuántas horas trabaja : `His weekly wages vary depending on how many hours he works`
-
-ganarse la vida
-    = make a living (natural)
-    = earn a living (f)
-    ? Él se gana la vida como músico : `He makes a living as a musician`
-    ? Me gano la vida como profesor : `I earn a living as a teacher`
 
 sustento = livelihood
     ? Mi trabajo es mi sustento : `My job is my livelihood`

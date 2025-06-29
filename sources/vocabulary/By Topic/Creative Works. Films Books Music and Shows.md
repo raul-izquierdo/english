@@ -5,6 +5,10 @@
 obras (libros, películas, etc)
     = [creative] works (de arte, literatura, música, etc) `The works of Shakespeare are famous`
 
+capítulo
+    = chapter
+    = episode (para series de TV)
+
 secuela = sequel
 
 salir (al mercado)

@@ -229,8 +229,8 @@ Creo que no deberías... (caso especial para 'creer + deber')
 
 consejos
     = adviCe (NUNCA en plural)
-    ? Tengo un consejo para ti : `I have a piece of advice for you`
     = tips (trucos informal)
+    ? Tengo un consejo para ti : `I have a piece of advice for you`
     ? Sus consejos fueron muy útiles : `His advice was very helpful`
     ? Su consejo fue muy útil : `His advice was very helpful` (igual que la anterior!!!)
 

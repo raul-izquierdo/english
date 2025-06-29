@@ -259,7 +259,7 @@ filete = steak
 
 salsa = sauce
 
-puré de verduras = vegetable puree
+puré de ... = soup of ... (igual que sopa)
 puré de patatas = mashed potatoes
 
 pasteles = pastries

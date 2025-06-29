@@ -134,10 +134,10 @@ dependiendo de, ...
 ventaja - desventaja
     ! <->
     = downside - upside (desventaja - se suele usar si se están comparando con las _upsides_) (I)
-    ? La ventaja de vivir en la ciudad son todas las actividades culturales, pero la desventaja es el ruido : `The upside of living in the city is all the cultural activities, but the downside is the noise`
     = drawback - benefit (inconveniente - sin comparar con nada) (N)
-    ? El principal inconveniente del software es su complejidad : `The main drawback of the software is its complexity`
     = disadvantage - advantage (el más general: incluye a los anteriores) (F)
+    ? La ventaja de vivir en la ciudad son todas las actividades culturales, pero la desventaja es el ruido : `The upside of living in the city is all the cultural activities, but the downside is the noise`
+    ? El principal inconveniente del software es su complejidad : `The main drawback of the software is its complexity`
 
 
 ## Doubts

@@ -59,6 +59,11 @@ beca
 promoción de estudiantes = intake
     ? La promoción del año pasado fue muy buena : `Last year's intake was very good`
 
+trimestre = term
+    ? El trimestre empieza en septiembre : `The term starts in September`
+semestre = semester
+    ? El semestre empieza en septiembre : `The semester starts in September`
+
 ## Roles
 
 profesor de universidad (yo) = [senior] lecturer
@@ -75,7 +80,14 @@ friki
     = nerd (negativo o neutral)
     = geek (no tiene connotación negativa)
 
+alumno
+    = student (general)
+    = pupil (niños - UK)
+
 alumno repetidor = repeater
+
+Soy estudiante de ingeniería = `I am an engineering student`
+
 
 ## Subjects and Topics
 
@@ -292,8 +304,8 @@ enseñar
 dar una charla = give a talk
 
 pistas (ayudas) = hints
+    - No confundir con _clue_, que es _evidencia_/_pista_ en un caso de investigación
     ? El profesor nos dio algunas pistas para ayudarnos a resolver el problema : `The teacher gave us some hints to help us solve the problem`
-
 
 
 ## Attendance

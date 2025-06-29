@@ -317,6 +317,8 @@ pasarlo bien
 está por ahí pasándoselo bien
     ? Está por ahí pasándoselo bien : `He is out enjoying himself`
 
+estar en mi salsa = to be in one's element
+    ? Me siento en mi salsa cuando estoy con amigos : `I feel in my element when I'm with friends`
 
 ## Joking and Teasing
 

@@ -88,6 +88,9 @@ inclinarse por algo = lean towards
 estar a favor de = in favour OF
     ? Todos estuvimos a favor de que él lo hiciera : `We were all in FAVOUR OF him doing it`
 
+estar en contra de = to be against <sthing> / <sbody> <ing>
+    ? Estoy en contra de que él lo haga : `I'm against him doing it`
+
 otra ventaja/desventaja es que...
     = Another advantage/disadvantage is that...
     = A **further** advantage/criticism of... (f)
@@ -209,7 +212,9 @@ abordar/tratar un tema
 
 me mantengo en mi opinión
     = I stand by my opinion
-    = I stick to my guns
+    = I stick to my guns (me mantengo en mis trece)
+    ? Mi jefe nunca cambia de opinión. Se mantiene en sus trece, incluso cuando está equivocado : `My boss never changes his mind. He sticks to his guns, even when he's wrong`
+    ? A pesar de eso que dices, me mantengo en mis trece : `Despite what you say, I'm sticking to my guns` ... `I stand by my opinion`
 
 cada uno tenemos nuestra opinión
     = We can agree to disagree
