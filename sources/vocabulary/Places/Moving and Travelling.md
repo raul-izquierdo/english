@@ -466,8 +466,6 @@ metro
 parada de metro = underground/tube station
     ? La estación de metro estaba llena : `The tube station was crowded`
 
-parada de taxis = taxi rank
-    ? La parada de taxis estaba ocupada : `The taxi rank was busy`
 parada de autobús = bus stop
     ? La parada de autobús estaba llena : `The bus stop was crowded`
     ? La parada de autobús es peligrosa : `The bus stop is dangerous`
@@ -486,6 +484,19 @@ precio del billete/tarifa = fare
     ? El billete de autobús es muy barato : `The bus fare is very cheap`
 precio de billete de avión = air fare
     ? El billete de avión es caro : `The air fare is expensive`
+
+## Taxi
+
+parada de taxis = taxi rank
+    ? La parada de taxis estaba vacía : `The taxi rank was empty`
+
+llamar a un taxi/uber = call a taxi/uber
+
+coger un taxi/uber = get a taxi/uber
+    ? Cogí un taxi para ir al aeropuerto : `I got a taxi to the airport`
+
+ir en taxi = go by taxi/uber
+    ? Voy en taxi al trabajo : `I go to work by taxi`
 
 ## Driving
 
