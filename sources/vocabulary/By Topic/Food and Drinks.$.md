@@ -209,6 +209,7 @@ tomaré X (pedir a camarero en mesa)
 pedimos X
     = we ordered X
     ? Pedimos el filete : `We ordered the steak`
+    ? Pedimos un libro en Amazon : `We ordered a book on Amazon`
 
 plato acompañado de = accompanied by
     ? El plato estaba acompañado con ensalada : `The dish is accompanied by a salad`

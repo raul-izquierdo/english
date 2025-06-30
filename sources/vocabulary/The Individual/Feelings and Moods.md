@@ -184,24 +184,28 @@ sentirse mal por
 
 enfadado = angry
     ? Estaba enfadado cuando descubrí la verdad : `I was angry when I found out the truth`
+
 enfadar
     = to anger
-    ? El ruido de la obra enfadó a los vecinos : `The noise from the construction site angered the neighbors`
     = to make <sbody> angry
+    ? El ruido de la obra enfadó a los vecinos : `The noise from the construction site angered the neighbors`
     ? El ruido de la obra hizo que los vecinos se enfadaran : `The noise from the construction site made the neighbors angry`
 
 molestar/molesto
     = to bother (incomodar)
-    ? El ruido de la obra molestó a los vecinos : `The noise from the construction site bothered the neighbors`
     = to annoy (pelín más molesto que bother)
-    ? El ruido de la obra molestó mucho a los vecinos : `The noise from the construction site annoyed the neighbors`
-    ? ...hizo que los vecinos se molestaran : `... made the neighbors annoyed`
     = to irritate (el más intenso)
+    ? El ruido de la obra molestó mucho a los vecinos : `The noise from the construction site annoyed the neighbors`
+    ? El ruido de la obra molestó a los vecinos : `The noise from the construction site bothered the neighbors`
+    ? ...hizo que los vecinos se molestaran : `... made the neighbors annoyed`
     ? El ruido de la obra irritó a los vecinos : `The noise from the construction site irritated the neighbors`
+
+cabrear = piss <sbody> off
+    ? Me cabrea cuando la gente no respeta las normas : `It pisses me off when people don't follow the rules`
+    ? Me cabrea que me interrumpan mientras hablo : `It pisses me off when I'm interrupted while speaking`
 
 ira / enfado = anger
     ? Apretó los puños, la cara roja de ira : `He clenched his fists, his face red with anger`
-
 
 incómodo = awkward (incómodo)
     ? La situación era incómoda : `The situation was awkward`
@@ -211,6 +215,7 @@ frustración = frustration
 
 harto = fed up
     ? Estoy harto del ruido constante : `I'm fed up with the constant noise`
+
 
 Ya está bien = `That's enough!`
 

@@ -242,6 +242,20 @@ estar tirado
     ? Los libros están por todo el suelo : `The books are all over the floor`
     ? Los papeles están tirados por todo el escritorio : `The papers are all over the desk`
 
+juntos = together
+    ? Los muebles están juntos en el centro de la habitación : `The furniture is together in the center of the room`
+
+separados = apart
+    ? Los muebles se han puesto separados : `The furniture has been placed/put apart`
+    ? Cuando estábamos juntos, hablábamos sobre nuestros hijos. Cuando estábamos separados, hablábamos sobre nuestras esposas : `"When we were together, we'd talk about our children. When we were apart, we'd talk about our wives."`
+    ? Los dos puntos están separados por varios metros : `The two points are several metres **apart**`
+    ? Mis padres viven separados : `My parents live apart now`
+
+separar
+    = separate (f)
+        - OJO: no usar _set apart_ -> destacar/reservar
+    ? Necesito separar los documentos importantes de los que no lo son : `I need to separate the important documents from the unimportant ones`
+
 
 ## Broken Things
 

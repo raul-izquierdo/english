@@ -1,6 +1,6 @@
 # Environment and Nature
 
-## Terms
+## Expressions
 
 en todo el mundo, a nivel mundial = worldwide
     ? Se usa la tecnología en todo el mundo : `The technology is used worldwide`
@@ -15,7 +15,7 @@ conservación = conservation
 
 consumo responsable = responsible consumption
 
-
+... si queremos que nuestros hijos **puedan** heredar un mundo mejor = If we want our children **to be able** to inherit a better world
 
 ## In Nature
 

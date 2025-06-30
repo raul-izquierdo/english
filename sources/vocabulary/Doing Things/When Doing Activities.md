@@ -163,6 +163,11 @@ Correr riesgos = take risks
     ? Él asume riesgos en sus negocios : `He takes risks in his business ventures`
     ? Ella asume riesgos en su vida personal : `She takes risks in her personal life`
 
+presenta/ser un riesgo
+    = are a risk
+    = poses a risk (f)
+    ? Los patinetes eléctricos presentan un riesgo para los peatones : `Electric scooters pose a risk to pedestrians` - `...are a risk to pedestrians`
+
 
 ## Using Aids
 
@@ -444,7 +449,10 @@ llegó a ser = grew to be
 salir bien parado = `land on your feet`
 
 
-## Reasons for doing something
+## Reasons for Doing something
+
+motivos = reasons
+    ? Entre otros motivos, están los economicos : `Among other reasons, there are economic ones`
 
 Hice <acción X> por <motivo Y>
     = "for". Cuando hago X para obtener Y
@@ -520,3 +528,5 @@ por diversion
 
 para cambiar = for a change
     ? Fui al concierto para cambiar : `I went to the concert for a change`
+
+para probar lo que vales = to prove your worth

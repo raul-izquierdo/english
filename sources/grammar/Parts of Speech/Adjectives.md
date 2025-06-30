@@ -50,6 +50,10 @@ humorístico = humorous `The comedian was humorous`
 humor = humor
     ? Su sentido del humor es contagioso : `His sense of humor is contagious`
 
+previsible
+    = predictable
+    = too obvious (demasiado obvio)
+    ? El final de la película era previsible : `The ending of the movie was predictable` - `too obvious`
 
 ## Describing Quality or Condition
 
@@ -74,7 +78,11 @@ justo = fair
 está bien, ok = it's fine
     ? Está bien si no quieres ir : `It's fine if you don't want to go`
 
-importante = significant (importante, relevante)
+importante
+     = significant (importante, relevante)
+
+grave = serious
+    ? La situación es grave : `The situation is serious`
 
 excepcional
     = exceptional

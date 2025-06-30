@@ -35,6 +35,11 @@ bloque de pisos = block of flats
     ? El bloque de pisos es muy moderno : `The block of flats is very modern`
 edificio = building
     ? El edificio es muy alto : `The building is very tall`
+vivienda
+    = dwelling (el genérico de piso, casa, ...
+    = housing (la vivienda - incontable)
+    ? La segunda vivienda es muy cómoda : `The second dwelling is very comfortable`
+    ? El problema de la vivienda es grave : `The housing problem is serious`
 
 adosado = terraced house
     ? Hay muchas casas adosadas en la zona : `There are many terraced houses in the area`

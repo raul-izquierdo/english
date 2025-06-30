@@ -287,6 +287,10 @@ confianza
     ? Confío en mis amigos para guardar mis secretos : `I trust my friends to keep my secrets`
     ? Él confía en su equipo : `He has trust in his team`
 
+hay falta de confianza = there is a lack of confidence
+    ? Hay una falta de confianza en el sistema : `There is a lack of confidence in the system`
+    ? Hay falta de confianza entre ellos : `There is a lack of trust between them`
+
 me siento con confianza/seguro = to be/feel confident
     ? Me siento seguro con el examen :  `I feel confident about the exam`
     ? No estoy suficientemente seguro para hablar en público : `I don't feel confident enough to speak in public`
@@ -365,6 +369,28 @@ me acostumbré a...
     ? No me puedo acostumbrar al calor : `I can't get used to the heat`
 
 
+## Endurance and Deprivation
+
+llevar/pasarse x tiempo sin (presente - aún se sigue sin)
+    ! Se usa para indicar escasez o que se pasó mal
+    ! Se solapa mucho con el Presente Perfecto, que sería la versión neutra/no dramática
+    = They have gone <period> **without** <ing> ->  `They have gone two days without smoking`
+    ? Llevan dos días sin comer : `They have gone two days without eating` (`They have been without eating for two days` es descriptiva sin más - no implica que se pasó mal)
+    ? Llevan dos horas contando chistes : `They have been telling jokes for two hours` (aquí no hay drama)
+    ? Llevo dos días sin fumar : `I've gone two days without smoking` (drama) - `I've been without smoking for two days` (descriptivo)
+    ? Llevo dos días sin dormir : `I've gone two days without sleeping` (drama) - `I've been without sleeping for two days` (neutro)
+
+
+se pasaron/estuvieron <periodo> sin ... (pasado)
+    ! Se usa para indicar escasez o que se pasa mal
+    ! Se solapa mucho con el Pasado, que sería la versión neutra/no dramática
+    = went **without**
+        - went <period> without <ing>  `They went two days without eating`
+        - went without <ing> **for** <period>  `They went without eating for two days`
+    ? Se pasaron sin comida dos días: `They went without food for two days` - (`They were without...` descripción neutra)
+    ? Estuvieron dos días sin dormir: `They went 2 days without sleeping` - (`They were...` descripción neutra)
+    ? Estuvieron contando chistes durante horas : `They **were** telling jokes for hours` (usar pasado -> no se pasó mal)
+
 ## Common Expressions
 
 me gusta la tranquilidad = I like peace and quiet
@@ -378,3 +404,10 @@ no es lo mio = not my cup of tea
 
 necesito organizar mi vida
     ? Necesito organizar mi vida : `I need to sort myself out`
+
+No puedo evitar...
+    = I can't help <ing>
+    ? No puedo evitar distraerme : `I can't help getting distracted`
+    ? No puedo evitarlo : `I can't help it`
+    ? No puedo evitar sentirme nervioso antes de hablar en público : `I can't help feeling nervous before speaking in public`
+    ? No puedo evitar reírme de sus chistes : `I can't help laughing **at** his jokes`

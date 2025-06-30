@@ -6,6 +6,8 @@
 establecer el contexto = set the context
     ? Hay que establecer el contexto de la situación : `We need to set the context of the situation`
 
+tema polémico = controversial topic
+
 ## General Agreement
 
 Existe un consenso en que...
@@ -106,6 +108,11 @@ son prueba de que = are evidence OF
 
 ## Clarifying Concepts
 
+desde un punto de vista x = from x a point of view
+    ? Desde un punto de vista práctico, la solución es efectiva : `From a practical point of view, the solution is effective`
+    ? Desde un punto de vista ético, ... : `From an ethical point of view, ...`
+    ? Desde un punto de vista estético, ... : `From an aesthetic point of view, ...`
+
 dejar claro = to make it clear
     ? Quiero dejar claro que apoyo la decisión: `I want to make it clear that I support the decision`
 
@@ -198,15 +205,19 @@ Pasemos ahora a ...
 ¿Quieres añadir algo más? Tenemos que completar el tiempo
     = Do you want to add anything else? We need to fill the time
 
-abordar/tratar un tema
-    = approach a topic (f) (sacar el tema - comenzar a hablar de él)
-    = address a topic (f) (tratar el tema - analizar, resolver,...)
+sacar un tema/abordar
+    = approach a topic (f)
+    ? Abordaron el tema de la política económica : `They approached the topic of economic policy`
+
+tratar un tema
+    = address a topic (f) (abordar)
         - Tratar el tema pero sólo hablando
     = to deal with (n)
         - Además de hablando, suele ser haciendo cosas
-    ? Abordaron el tema de la política económica : `They approached the topic of economic policy`
+    = to cover (incluir el tema)
     ? Necesitamos tratar los puntos clave de la propuesta antes de la fecha límite : `We need to address the key points in the proposal before the deadline`
     ? Trató los problemas de uno en uno : `He dealt with the problems one by one`
+    ? Incluyó dicho tema en su presentación : `He covered that topic in his presentation`
 
 ## Ending a Discussion
 

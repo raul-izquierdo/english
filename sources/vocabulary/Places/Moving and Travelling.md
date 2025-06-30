@@ -202,6 +202,42 @@ pasar el dia en = spend the day `I spent the day at the beach` - `We spent the d
 escapada a otra ciudad  = city break `I went on a city break to Paris` - `The city break was amazing`
 
 
+## Entering and Exiting
+
+entrar en
+    = go into//in
+        - go **into** <lugar> `He went into the room`
+        - go **in** (entrar sin decir lugar) `He went in`
+    = get in (i) (vehicles/small enclosed spaces)
+    = enter (f) (incluye el "into"; no se añade) `He entered the room`
+    = come in (invitación a entrar - `Ven, entra`)
+    ? Entré en la habitación y me senté : `I went into the room and sat down`
+    ? Entré en el taxi y me senté : `I got in the taxi and sat down`
+    ? Entró en su casa : `He entered his house`
+    ? Vamos, entra : `Come in`
+    ? Entra tú y cierra la puerta : `You go in and close the door`
+
+salir (movimiento hacia afuera)
+    = go out (opuesto a _go in/into_)
+        - También tiene el significado de salir por ahí a dar una vuelta  `I went out for a walk`
+        - En muchos casos, _leave_ es más común (ver _irse_):
+        - Salí de la habitación : `I left the room` ya que `...went out of` enfatizaría el hecho de salir físicamente
+        - Así que _go out_ queda más para salir a dar una vuelta
+    = get out of (vehicles/small enclosed spaces) (i)
+    = exit (para dar instrucciones y cosas formales)
+    ? Sal de la habitación y cierra la puerta : `Go out of the room and close the door` - `Leave the room and close the door`
+    ? Salí [por ahí] con mis amigos : `I went out with my friends`
+    ? Salí del coche : `I got out of the car`
+    ? Después del evento, por favor salga por la puerta lateral : `After the event, please exit through the side door`
+
+
+salir rápido
+    = race out (salir corriendo -  el más rápido)
+    = rush out (salir a toda prisa)
+    = hurry out (con prisa - el menos rápido)
+    ? Salió corriendo a por las ofertas : `He raced out to grab the offers`
+    ? Salió a toda prisa de la casa para coger el autobús : `He rushed out of the house to catch the bus`
+    ? Salió con prisa de la casa para coger el autobús : `He hurried out of the house to catch the bus`
 
 
 ## Leaving
@@ -226,61 +262,54 @@ dirigirse a <lugar>
         ? Los excursionistas se dirigieron hacia el humo que vieron a lo lejos : `The hikers headed for the smoke they saw in the distance`
         ? Él se dirigió hacia el centro de la ciudad : `He headed for the city centre`
 
+acercarse
+    = head over to <place> (ir a sitio cercano)
+    = get close to (ponerse cerca de algo)
+    ? Me voy a acercar a la tienda de la esquina : `I'm just going to head over to the corner shop for some milk`
+    ? Se acercó al fuego : `He got close to the fire`
+    ? Se acercó al borde del acantilado : `He got close to the edge of the cliff`
+
 irse
-    = go away (se fue/está ausente)
+    = leave (irse de un lugar - neutral)
+        - leave **for** (salir hacia un lugar)
     = go off (salida espontánea)
+    = go away (irse lejos, estar ausente)
+    ? Se fue de la oficina a las 5 pm : `He left the office at 5 pm` (abandonó)
+    ? Se fue de la habitación sin despedirse : `He left the room without saying goodbye`
     ? Simplemente se fue sin decir nada : `He just went off without saying anything`
     ? Me voy el fin de semana : `I’m going away for the weekend`
     ? Me voy por una semana : `I’m going away for a week`
     ? Se fue a buscar ayuda : `He went off to find help`
-
-
-salir (movimiento)
-    = go out (salir por ahí) `I went out for a walk`
-    = get out of (salir de un lugar confinado) (i)
-    = leave (abandonar un lugar - neutral)
-        - leave **for** (salir hacia un lugar)
-    = exit (para dar instrucciones y cosas formales)
-    ? Salí [por ahí] con mis amigos : `I went out with my friends`
-    ? Salí del coche : `I got out of the car`
-    ? Salió de la oficina a las 5 pm : `He left the office at 5 pm` (abandonó)
-    ? Salió de la habitación sin despedirse : `He left the room without saying goodbye`
-    ? Salí de la casa : `He left the house` - `I got out of the house` (expresa confinamiento)
     ? Me fui de la fiesta temprano : `I left the party early`
     ? Se va al trabajo a las 9 en punto : `He leaves **for** work at 9 o'clock`
-    ? Después del evento, por favor salga por la puerta lateral : `After the event, please exit through the side door`
+    ? Se fue de la casa : `He left the house`
 
-salir rápido
-    = race out (salir corriendo -  el más rápido)
-    = rush out (salir a toda prisa)
-    = hurry out (con prisa - el menos rápido)
-    ? Salió corriendo a por las ofertas : `He raced out to grab the offers`
-    ? Salió a toda prisa de la casa para coger el autobús : `He rushed out of the house to catch the bus`
-    ? Salió con prisa de la casa para coger el autobús : `He hurried out of the house to catch the bus`
 
 me tengo que ir = I've got to go [right now]
+
 
 
 ## Arriving
 
 llegar a
+    = get to <place> (i)
     = arrive (f)
         - arrive IN <pais/ciudad/área grande>
         - arrive AT <lugar específico>
         - arrive FOR <event>
-    = get to <place> (i)
-    ? Llegué a España la semana pasada : `I arrived **in** Spain last week`
-    ? El libro llegó a las librerías : `The book arrived **in** bookshops`
-    ? Llegué al hotel tarde por la noche : `I arrived **at** the hotel late at night`
-    ? Llegué al aeropuerto temprano : `I arrived **at** the airport early`
-    ? Llegó puntualmente a la reunión : `He arrived punctually **for** the meeting`
-    ? ¿Has llegado ya al hotel? : `Have you got to the hotel yet?`
-    ? Llegué al aeropuerto temprano : `I got to the airport early`
+    ? Llegué a España la semana pasada : `I arrived **in** Spain last week` - `I got to Spain last week`
+    ? El libro llegó a las librerías : `The book arrived **in** bookshops` - `The book got to the bookshops`
+    ? Llegué al hotel tarde por la noche : `I arrived **at** the hotel late at night` - `I got to the hotel late at night`
+    ? Llegué al aeropuerto temprano : `I arrived **at** the airport early` - `I got to the airport early`
+    ? Llegó puntualmente a la reunión : `He arrived punctually **for** the meeting` - `He got to the meeting on time`
+    ? ¿Has llegado ya al hotel? : `Have you got to the hotel yet?` - `Have you arrived at the hotel yet?`
+    ? Llegué al aeropuerto temprano : `I got to the airport early` - `I arrived at the airport early`
 
 presentarse en <lugar>
     = show up (apareció - informal)
     = turn up (conlleva sorpresa o tardanza: se presentó)
     ? Mucha gente se presentó al concierto : `A lot of people showed up for the concert`
+    ? No se calmó hasta que la policía apareció : `He didn't calm down until the police showed up`
     ? Él se presentó tarde a la fiesta : `He showed up late for the party`
     ? Mucha gente se presentó al concierto : `A lot of people turned up for the concert`
     ? Él se presentó tarde a la fiesta : `He turned up late for the party`
@@ -310,12 +339,6 @@ andar con determinación/paso firme
     ? Entró en la habitación con confianza : `She strode confidently into the room`
     ? Caminó por la calle con determinación : `He strode down the street with purpose`
 
-acercarme a
-    = get close to
-    = approach (aproximación física o figurada y con alguna intención)
-    ? Se acercó al fuego : `He got close to the fire`
-    ? Se acercó al borde del acantilado : `He got close to the edge of the cliff`
-    ? Se acercó lentamente a la mesa : `He approached the table slowly`
 
 alejarse = move away
     ? Se alejó del fuego : `He moved away from the fire`
@@ -353,6 +376,7 @@ me aparté
 
 de camino a ... = on the way to ...
     ? De camino al trabajo, paré a comprar café : `On the way to work, I stopped to buy coffee`
+
 
 ## Moving Around a City
 

@@ -205,6 +205,15 @@ premio
 
 ## Advices
 
+
+consejos
+    ! Advice offers guidance about what to do. A recommendation suggest something as being suitable
+    = adviCe (NUNCA en plural)
+    = tips (trucos informal)
+    ? Tengo un consejo para ti : `I have a piece of advice for you`
+    ? Sus consejos fueron muy útiles : `His advice was very helpful`
+    ? Su consejo fue muy útil : `His advice was very helpful` (igual que la anterior!!!)
+
 deberías ...
     = You should ... (suave and polite)
     ? Deberías hacer más ejercicio : `You should exercise more`
@@ -227,13 +236,6 @@ Creo que no deberías... (caso especial para 'creer + deber')
     = I don't think you should...
     ? Creo que no deberías comer tanto azúcar : `I don't think you should eat so much sugar`
 
-consejos
-    = adviCe (NUNCA en plural)
-    = tips (trucos informal)
-    ? Tengo un consejo para ti : `I have a piece of advice for you`
-    ? Sus consejos fueron muy útiles : `His advice was very helpful`
-    ? Su consejo fue muy útil : `His advice was very helpful` (igual que la anterior!!!)
-
 aconsejar
     = adviSe [<sbody>] AGAINST <ing>
     ? Le aconsejé que no invirtiera en acciones : `I advised him against investing in stocks`
@@ -255,6 +257,12 @@ seguir un consejo = follow advice
     ? Siempre sigo su consejo : `I always follow his advice`
 
 ## Recommending
+
+recomendación
+    ! Advice offers guidance about what to do. A recommendation suggest something as being suitable
+    = recommendation
+    ? La recomendación del médico fue clara : `The doctor's recommendation was clear`
+    ? La recomendación del libro fue muy positiva : `The book's recommendation was very positive`
 
 seguro que si ... no te arrepentirás
     = I'm sure if you ..., you won't regret it (i)

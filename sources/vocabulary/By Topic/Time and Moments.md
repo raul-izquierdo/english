@@ -32,7 +32,8 @@ dedicar/pasar tiempo
 perder el tiempo = las mismas variantes que _spend_ pero con _waste_
 
 pasar el rato
-    = hung out
+    = hung out (i)
+    = spend time with
     ? Estuve con mis amigos anoche : `I hung out with my friends last night`
     ? Me encontré con una persona interesante en la fiesta y pasamos un rato juntos; realmente nos llevamos muy bien : `I came across an interesting person at the party and we hung out for a bit; we actually get along really well`
 

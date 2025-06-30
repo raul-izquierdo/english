@@ -209,12 +209,12 @@ dar una fiesta = throw a party
 
 quedar
     = to meet
-    ? He quedado con mi jefe a las 10 : `I'm meeting my boss at 10 AM`
     = to meet up with <sbody> (más informal)
-    ? He quedado con mis amigos el próximo martes: `I'm meeting my friends next Tuesday`
-    ? ...quedando con mis amigos el próximo martes : `... meeting up with my friends next Tuesday`
+    ? He quedado con mi jefe a las 10 : `I'm meeting my boss at 10 AM`
+    ? He quedado con mis amigos el próximo martes: `I'm meeting my friends next Tuesday` - `I'm meeting up with my friends...`
     ? ¿Te apetece quedar conmigo luego? : `Do you fancy meeting up with me later?`
     ? Quedamos con nuestros amigos todos los viernes : `We meet up with our friends every Friday`
+    ? El fin de semana quedé con unos amigos y pasamos un rato juntos : `Last weekend I met up with some friends and we hung out together` - `... spent some time together`
 
 regalo
     = present (regalo envuelto en celebración)
@@ -291,10 +291,12 @@ me rio mucho con él
 
 reír
     = laugh
+        - **at** <something> (reirse **de** algo) `He laughed at the joke`
+        - **with** <sbody> (reirse **con** alguien) `I laugh with my friends`
+        - **at** <sbody> (reirse **de** alguien - implica burla) `I laugh at him`
     ? Me río mucho con mis amigos : `I laugh a lot with my friends`
     ? Me río de sus chistes : `I laugh at his jokes`
-        - No confundir con _laugh at_ que es reirse de alguien (en sentido negativo)
-    ? Me río de sus chistes : `I laugh at his jokes`
+    ? Se rieron de él cuando se cayó : `They laughed at him when he fell over`
     = chuckle (risa ligera)
     ? Me río para mis adentros cuando recuerdo una historia graciosa : `I chuckle to myself when I remember a funny story`
     = giggle (reír nerviosamente)

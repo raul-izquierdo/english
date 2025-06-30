@@ -165,7 +165,7 @@ hang up = colgar `He hung up the phone`
 head for <dirección> = (partir/salir en dirección a...) Responde a "Which way are you going?" `The hikers headed for the smoke they saw in the distance`
 head off to <place> = Salir para `We are heading off to the beach for the weekend`
 head to <place> = (partir/salir a sitio concreto) Responde a "Where are you going?" `I'm heading to the supermarket`
-
+head over to = acercarse a un sitio `I'm just going to head over to the corner shop for some milk`
 
 ## Hit
 

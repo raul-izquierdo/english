@@ -103,7 +103,6 @@ casi hay/no hay por poco
     ? Eso no es suficiente tiempo para acabar el proyecto!! : `That’s not quite enough time to finish the project`
 
 
-
 escasez, falta de...
     = shortage of (escasez de algún suministro))
     = lack of (más general)

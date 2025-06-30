@@ -12,15 +12,17 @@ para que <sbody> pueda...
     = so that
     ? Le di instrucciones para que supiera qué hacer : `I gave him instructions so that he would know what to do`
     ? Ahorró dinero para poder comprar un coche : `He saved money so that he could buy a car` (para que él...)
+    ? Esto es un atajo para no tener que escribir tanto : `This is a shortcut to avoid having to write so much`
 
 por = for
     ? Está trabajando por el bien de su familia : `He’s working for the good of his family`
 
-ya que... (motivo conocido o obvio)
+ya que.../ dado que (motivo conocido o obvio)
     = since (más formal)
     = as (más formal)
     ? No hay garantía ya que el clima es malo : `There's no garantee since the weather is bad` - `... as the weather`
     ? Ya que estás aquí, empecemos la reunión : `Since you’re here, let’s start the meeting`  - `As you're here...`
+    ? Dado que no voy a ir, llévale tú el libro : `Since I'm not going, take the book yourself` - `As I'm not going...`
 
 como forma de, a modo de
     = as a way of
@@ -79,6 +81,10 @@ también = also
 
 incluso = even
     ? Incluso los expertos pueden cometer errores : `Even experts can make mistakes`
+
+sólo para que lo sepas
+    = just so you know (i)
+    ? Sólo para que lo sepas, la reunión ha sido cancelada : `Just so you know, the meeting has been cancelled`
 
 ## Contrast Linkers
 
@@ -232,16 +238,20 @@ algo relacionado con
 
 ## Selecting
 
+de [entre] todos ellos (para seleccionar) = of all
+    ? De entre todos los paquetes, cogí el correcto : `Of all the parcels, I took the right one`
+    ? Es el mejor de todos los estudiantes : `He is the best of all the students`
+
 entre (candidatos, opciones, etc.)
     = between (si los elementos se enumeran)
-        = among (si se elige de entre un colectivo)
-        ? La elección está entre coche, la bicicleta y el patinete : `The choice is between the car, the bike, and the scooter`
-        ? El premio fue distribuido entre los ganadores : `The prize was distributed among the winners`
-        ? Él era un líder popular entre el personal : `He was a popular leader among the staff`
-        ? Encontramos la llave escondida entre la ropa sucia : `We found the key hidden somewhere among the dirty clothes`
+    = among (si se elige de entre un colectivo)
+    ? La elección está entre coche, la bicicleta y el patinete : `The choice is between the car, the bike, and the scooter`
+    ? El premio fue distribuido entre los ganadores : `The prize was distributed among the winners`
+    ? Él era un líder popular entre el personal : `He was a popular leader among the staff`
+    ? Encontramos la llave escondida entre la ropa sucia : `We found the key hidden somewhere among the dirty clothes`
+    ? La elección está entre todos los miembros del equipo : `The choice is among all the team members`
+    ? Él estuvo entre todos los seguidores, animando en voz alta : `He stood among all the supporters, cheering loudly`
 
-de entre todos = among all
-    ? De entre todos los paquetes, cogí el correcto : `among all the parcels, I took the right one`
 
 nada más que / solo..
     = nothing but

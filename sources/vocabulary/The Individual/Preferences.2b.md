@@ -34,6 +34,9 @@ nunca me ha llamado la atención
     ? Nunca me ha interesado : `It has never interested me`
     ? Nunca me ha llamado la atención : `It has never caught my attention`
 
+no me llama mucho, no es lo mio
+    = It's not really my thing
+
 me atrae/me llama
     = it appeals to me
     ? Me resulta atractivo : `I find it appealing`
@@ -41,6 +44,8 @@ me atrae/me llama
     = it attracts me (físico o emocional)
     ? Los colores brillantes atraen a las abejas : `The bright colours attract bees`
     ? Me resulta atractivo : `I find it attractive`
+    ? No sé por qué no me llama : `I don't know why it doesn't appeal to me`
+    ? Me llama bastante la idea de viajar : `The idea of travelling appeals to me quite a bit`
 
 me encantaría <hacer X>
     = I’d be thrilled to <base>
@@ -62,6 +67,16 @@ A X no le atraerá la actividad Y
 Quién te gustaría más... = Who would you most like to...
     ? ¿Quién te gustaría más ver en un concierto? : `Who would you most like to see in concert?`
 
+¿Te gusta ...? _No mucho_
+    = not really
+    = not much
+
+está bien, pero
+    = It's okay/fine/all right, but...
+    ? Está bien, pero no es mi favorito : `It's fine, but it's not my favorite`
+
+
+
 Me gusta (x3)
     ! Ordenados de menos a más intenso
     = I like <ing|to base>
@@ -77,19 +92,20 @@ Me gusta (x3)
 No me gusta (x4)
     ! Ordenados de menos a más intenso
 	= I'm not too keen ON <ing>
-    ? No me entusiasma la comida picante : `I'm not too keen on spicy food`
 	= I dislike <ing> más intenso y formal
-    ? Realmente no me gusta la playa : `I really dislike the beach`
 	= I hate <ing|to base>...
 	= I can't stand <ing> (no soporto)
+    ? No me entusiasma la comida picante : `I'm not too keen on spicy food`
+    ? Realmente no me gusta la playa : `I really dislike the beach`
     ? No soporto el ruido : `I can't stand the noise`
     ? No soporto que la gente llegue tarde : `She can't stand people being late`
+
+
 
 me da asco
     ? El olor de la basura me da asco : `The smell of the garbage disgusts me`
 asco
     ? Sintió asco al ver la comida podrida : `He felt disgust at the sight of the rotten food`
-
 
 Me gusta más hacer ... que ...
     = I like <ing> better than <ing>
@@ -151,6 +167,13 @@ Me apetece <objeto|hacer algo>
     ? Me apetece ir a dar un paseo : `I fancy going for a walk` - `I'd like to go for a walk` - `I feel like going for a walk`
     ? Me apetece una hamburguesa : `I feel like having a burger` - `I fancy a burger`
     ? Me apetece comprar algo : `I feel like buying something` - `I fancy buying something`
+
+No me apetece <objeto|hacer algo>
+    = I don't feel like <ing>
+    = I don't fancy <ing|obj> (UK) (i)
+    ? No me apetece : `I don't feel like it` - `I don't fancy it`
+    ? No me apetece ir al cine : `I don't fancy going to the cinema` - `I don't feel like going to the cinema`
+    ? No me apetece un café : `I don't feel like a coffee` - `I don't fancy a coffee`
 
 ## Choosing
 
