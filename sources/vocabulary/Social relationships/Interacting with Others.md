@@ -206,11 +206,3 @@ desanimar/echar para atrás/disuadir
     ? Esto echaría para atrás a algunas personas de trabajos relacionados con animales : `This would put some people off animal-related work`
     = discourage (de manera activa)
     ? Ella le desanimó de dejar su trabajo : `She discouraged him from quitting his job`
-
-## Ownership
-
-¿De quien es...?
-    = Who does <ob> belong to? `Who does this book belong to?`
-    = Whose <ob> <to be> ...? `Whose book is this?`
-    ? ¿De quién es este jersey? : `Who does this jumper belong to?` - `Whose jumper is this?`
-    ? ¿De quién son estas zapatillas que se quedaron en el campo de fútbol ayer? : `Who do these trainers that were left on the football pitch yesterday belong to?` - `Whose trainers were left on the football pitch yesterday?`

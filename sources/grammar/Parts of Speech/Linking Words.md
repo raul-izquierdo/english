@@ -325,3 +325,21 @@ quizás
     = maybe (i)
     = perhaps (f)
     ? Quizás deberíamos considerar otras opciones: `Maybe we should consider other options`
+
+## Whether vs If
+
+TL;DR -> resumen rápido
+    = usar _if_ en las condicionales `If ... then ...`
+        = usar _whether_ en todo lo demás
+            - O es lo correcto
+            - O es intercambiable con _if_
+        ? El **si** acepta la oferta aún no se sabe : `**Whether** he accepts the offer is still unknown`
+        ? No estoy seguro de si quedarme [o irme] : `I'm not sure **whether** to stay [or go]`
+        ? Avísame si vas a estar allí : `Let me know **whether** you'll be there`
+        ? Tenemos que decidir si compramos un coche nuevo o no : `We need to decide **whether or not** to buy a new car` - `..decide **whether** we buy a new car **or not**`
+        ? Hablamos sobre si debería aceptar el trabajo : `We talked about **whether** he should take the job`
+
+When to use **whether** and not **if** (sólo por repaso)
+    = para expresar alternativas `I don’t know whether to go [or stay/or not/lambda]`
+    = antes de _to <verb>_ `He couldn’t decide whether to resign`
+    = con _sobre si_ `There was a debate about whether we should continue` Nunca _about if_
