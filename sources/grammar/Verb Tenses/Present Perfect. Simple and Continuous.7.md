@@ -1,7 +1,7 @@
 # Present Perfect Simple and Continuous
 
 
-## '_I have <done>_' vs '_I have been <doing>_'
+## [I have <done>] vs [I have been <doing>]
 
 
 Compare (I)
@@ -25,7 +25,7 @@ Compare (III)
 
 Elegir 'I have <done>' vs 'I have been <doing>'
     ? Cuando da igual en qué momento se hizo del pasado : I have <done>
-    ? Cuando ha ocurrido y puede repetirse porque el periodo mencionado (o implícito) no ha acabado : I have <done>
+    ? Cuando ya ha acabado, pero puede repetirse porque el periodo mencionado (o implícito) no ha acabado : I have <done>
     ? Para enfatizar duración de una acción que aún sigue o acaba de terminar : I have been <doing>
 
 Translate
@@ -36,7 +36,7 @@ Translate
 
 Exceptions:
     = Con _study_, _live_ and _work_ ambos significan lo mismo: que sigue en el presente
-    ? `We have lived in this house ever since we got married` (viven ahora?) : sí, igual que con la siguiente
+    ? `We have lived in this house ever since we got married` (viven ahora?) : sí
     ? `We have been living in this house ever since we got married` (viven ahora?) : sí, igual que con la anterior
-    ? `I have worked here for ten years` (trabaja ahora?) : sí, igual que con la siguiente
+    ? `I have worked here for ten years` (trabaja ahora?) : sí
     ? `I have been working here for ten years` (trabaja ahora?) : sí, igual que con la anterior

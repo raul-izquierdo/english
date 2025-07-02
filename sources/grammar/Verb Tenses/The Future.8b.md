@@ -32,7 +32,7 @@ Translate (III)
 Translate (IV)
     ? Para entonces, ya habré terminado de cenar : `I will have finished dinner by then`
     ? El 21 de mayo habré estado viviendo aquí durante 10 años : `On 21 May I'll have been living here for 10 years`
-    ? Por favor cocina la cena esta noche. Habré estado cuidando a los niños todo el día : `Please cook dinner tonight. I'll have been taking care of the kids all day`
+    ? Por favor, cocina la cena esta noche. Habré estado cuidando a los niños todo el día : `Please cook dinner tonight. I'll have been taking care of the kids all day`
     = I will...
         - Decisiones espontáneas
         - Ofertas espontáneas
@@ -52,7 +52,7 @@ Exceptions:
     ? `Next year, I will have been living in the UK for 15 years` (viven ahora?) : igual que la anterior
 
 
-## Uso del Presente
+## Uso del Presente para acciones en el Futuro
 
 Translate (I)
     ? La película empieza a las 9: `The film starts at 9 o'clock` (está programada; es la hora habitual)
@@ -65,7 +65,7 @@ Translate (II)
     ? Volarán a Nueva York la próxima semana: `They’re flying to New York next week`
     ? Llámame en cuanto llegues: `Give me a call as soon as you arrive` (arrive -> llegues)
     ? Cuando estés almorzando, yo todavía estaré en la cama: `When you are having lunch, I'll still be in bed` (are -> estés)
-    ? No puedes salir hasta que hayas ordenado tu habitación: `You can't go out until have tidied your room` (have -> hayas)
+    ? No puedes salir hasta que hayas ordenado tu habitación: `You can't go out until you have tidied your room` (have -> hayas)
    = present
         - Eventos programados
         - Subjuntivo español: llegues, estés, hayas,... (siempre con time linkers: when, as soon as, until, before, after...)
