@@ -35,7 +35,7 @@ Qué tal...
         - (... te fue con) `How did it go with...`
         ? ¿Cómo te fue con el nuevo colega? : `How did it go with the new colleague`
 
-dale recuerdos a ... = give my regards to ...
+dale recuerdos a ... = give him my regards / give my regards to him
 
 (alguien te pide perdón y tu contestas) `No pasa nada`
     = no worries

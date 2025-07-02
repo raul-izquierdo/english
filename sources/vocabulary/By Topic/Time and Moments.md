@@ -187,6 +187,7 @@ El <dia> a las <hora>
     = ON <day> AT <hour>
     ? El lunes a las 7 pm estaré en la reunión : `On Monday at 7 pm, I will be at the meeting`
 
+
 nunca sabes lo que te depara el futuro = `You never know what the future holds for you`
 
 
@@ -274,6 +275,9 @@ a tiempo
     ? Espero que el paquete llegue a tiempo para mi cumpleaños : `I hope the package arrives **in** time for my birthday`
 
 A la hora acordada = at the agreed time `The meeting started at the agreed time`
+
+para <tal> dia (o antes) = by <day>
+    ? Necesito el informe para el viernes : `I need the report by Friday`
 
 finalmente, al final = IN the end
     - No confundir con _at the end_ que es al final de algo

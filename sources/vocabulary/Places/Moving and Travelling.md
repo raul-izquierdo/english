@@ -366,6 +366,10 @@ me doy la vuelta = I turn around
 acompáñanos = come along
     ? Ven al concierto con nosotros : `Come along to the concert with us`
 
+llevar a alguien a un sitio = take someone out
+    ? Le saqué a comer el martes : `I took him out to eat on Tuesday`
+    ? Lo llevé a dar un paseo por la ciudad : `I took him out for a walk around the city`
+
 perseguir = to chase
     ? El perro persiguió al gato : `The dog chased the cat`
 

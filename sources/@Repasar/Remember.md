@@ -1,6 +1,19 @@
 # Remember
 
 
+
+## Conditionals
+
+Conditionals
+    ? Si hubiera conducido con más cuidado, no habría tenido el accidente : `If he had driven more carefully, he wouldn’t have had the accident`
+    ? Si me hubiera llamado, podría haberla ayudado : `If she had called me, I could have helped her` OJO: no _maight_ (no es _quizás la hubiera..._)
+    ? Si mi padre llega a casa a tiempo, vamos al cine : `If my dad gets home in time, we (are going/will go) to the cinema` - OJO: `... we go to...` no estaría bien, porque indicaría que es una rutina, y no un plan
+    ? Si hubieras escuchado mi consejo, quizá no estarías en esta situación : `If you had listened to my advice, you MIGHT not be in this situation` OJO: no es _would_ (es _quizás_)
+    = Si **hubiera ocurrido** A en el pasado, **hubiera ocurrido** B en el pasado
+        - Nótese que, aunque ambos son **hubiera ocurrido**, el del _if_ es _had_ y el 2º es _have_
+        - If **had** ... (would/could/might) **have** <done> `If I had studied harder, I would have passed the exam`
+
+
 ## Expressions
 
 Sigue siendo uno de los más populares

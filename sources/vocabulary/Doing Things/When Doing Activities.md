@@ -375,6 +375,8 @@ tirar la toalla = throw in the towel
 dejar sin hacer/acabar = leave undone/unfinished
     ? Dejó el trabajo sin hacer : `He left the work undone`
 
+éxito = success
+    ? El proyecto fue un éxito : `The project was a success`
 tener éxito = succeed
     ? Él tuvo éxito en conseguir el trabajo : `He succeeded in getting the job`
 

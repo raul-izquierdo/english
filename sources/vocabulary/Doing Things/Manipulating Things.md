@@ -151,10 +151,12 @@ se eleva sobre
     ? La montaña se eleva sobre el valle :`The mountain towers over the valley`
 
 sacar (algo de un lugar)
-    = take out
     = extract
+    = take out (más general)
+        - Puede ser sacar algo de un sitio o llevar a alguien a un sitio
     ? Sacó la cartera para pagar la comida : `He took out his wallet to pay for the meal`
     ? El dentista extrajo el diente : `The dentist extracted the tooth`
+    ? Le saqué a comer el martes : `I took him out to eat on Tuesday`
 
 posar algo en un lugar horizontal
     = lay/laid/laid
