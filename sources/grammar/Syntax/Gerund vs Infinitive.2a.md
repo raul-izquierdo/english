@@ -19,38 +19,38 @@ After adjectives... ¿<ing> o <to base>?
 
 verbs which admit both: <ing> and <to base>?
     = (preferences) like, love, hate, prefer
-    = begin, start, continue
+    = (process) begin, start, continue
     = intend
 
 ## Verbs that Change their Meaning
 
 remember / forget. Diferencia entre...
-    = <ing> (tengo recuerdos de)
-    = TO <base> (imperativo: recuerda)
-    ? I **remember coming** here : Recuerdo venir aquí
-    ? **Remember to come** here : Recuerda venir aquí
+    = <ing> (tengo recuerdos de...)
+    = to <base> (recuerda...)
+    ? Recuerdo venir aquí : I **remember coming** here
+    ? Recuerda venir aquí : **Remember to come** here
 
 mean. Diferencia entre...
-    = <ing> (significar)
     = to <base> (pretendía, tenia la intención de...)
-    ? I **meant to** phone the electrician, but I forgot : Tenía la intención de llamar al electricista, pero se me pasó
-    ? Dieting usually **means giving** up eating things : Hacer dieta normalmente significa dejar de comer cosas
+    = <ing> (significar)
+    ? Tenía la intención de llamar al electricista, pero se me pasó : I **meant to** phone the electrician, but I forgot
+    ? Hacer dieta normalmente significa dejar de comer cosas : Dieting usually **means giving** up eating things
 
 
 need. Diferencia entre...
     = need TO <base> (es el normal)
     = needs <ing> (atajo del anterior) <ing> -> _needs TO BE <past>_
-    ? This house **needs to** be painted : uso normal del verbo
-    ? This house **needs painting** : atajo de la anterior
+        ? Esta casa necesita ser pintada : This house **needs to** be painted
+        ? Atajo de la anterior (mismo significado): This house **needs painting**
 
 stop. Diferencia entre...
     = <ing> (para siempre)
     = TO <base> (paró para hacer algo)
-    ? He **stopped smoking** : Paró **de** fumar
-    ? He **stopped to smoke** : Paró **para** fumar
+    ? Paró **de** fumar : He **stopped smoking**
+    ? Paró **para** fumar : He **stopped to smoke**
 
 try. Diferencia entre...
     = <ing> (prueba a, intenta...)
-    = TO <base> (hacer un esfuerzo para...)
-    ? **Try resting** for a while; you might feel better then : Prueba a descansar un rato (a ver qué pasa)
-    ? Alan **tried to stop** the thief as he ran away : Alan intentó detener...
+        = TO <base> (hacer un esfuerzo para...)
+        ? Prueba a descansar un rato (a ver qué pasa) : **Try resting** for a while; you might feel better then
+        ? Alan intentó detener... : Alan **tried to stop** the thief as he ran away

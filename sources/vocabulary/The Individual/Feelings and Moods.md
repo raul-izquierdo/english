@@ -219,6 +219,10 @@ harto = fed up
 
 Ya está bien = `That's enough!`
 
+Quizás te molesta que yo haga...
+    = It might bother you that I **do**... Presente!!!
+    ? Puede que te moleste que yo haga ruido : `It might bother you that I **make** noise` (usar **presente** para _haga_)
+
 ## Disappointment & Shame
 
 

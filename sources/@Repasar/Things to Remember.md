@@ -14,6 +14,15 @@ Conditionals
         - If **had** ... (would/could/might) **have** <done> `If I had studied harder, I would have passed the exam`
 
 
+## Gerund vs Infinitive
+
+verbs which admit both: <ing> and <to base>?
+    = (preferences) prefer, like, love, hate
+    = (process) begin, start, continue
+    = intend
+
+
+
 ## Expressions
 
 Sigue siendo uno de los más populares
