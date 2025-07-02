@@ -35,6 +35,11 @@ Qué tal...
         - (... te fue con) `How did it go with...`
         ? ¿Cómo te fue con el nuevo colega? : `How did it go with the new colleague`
 
+
+nos conocimos = we met
+    ? Este es el lugar donde nos conocimos : `This is the place where we met`
+    ? Nos conocimos en un evento : `We met at an event`
+
 dale recuerdos a ... = give him my regards / give my regards to him
 
 (alguien te pide perdón y tu contestas) `No pasa nada`

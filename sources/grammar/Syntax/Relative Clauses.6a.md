@@ -18,18 +18,18 @@ Defining relative clauses are...
     ? Este documental explora las razones por las que las aves migran : `This documentary explores the reasons [WHY] birds migrate`
     ? La razón por la que llamo es para pedirte la dirección de Paula : `The reason [WHY] I'm phoning is to ask you for Paula's address`
     ? El camarero que nos atendió está allí : `The waiter WHO/THAT served us is there`
-    ? Estoy disfrutando el libro que me prestaste : `I'm enjoying the book [which] you lent me`
+    ? Estoy disfrutando el libro que me prestaste : `I'm enjoying the book [which|that] you lent me`
     ? Los programadores que trabajan muchas horas están bien pagados : `Programmers who work long hours are well paid`
 
 (el lugar) donde...
     = where
     = in which (f)
-    ? El lugar donde nos conocimos : `The place where we met` - `The place in which we met` - `The place we met in`
-    ? El lugar donde nací : `The place where I was born` - `The place in which I was born` - `The place I was born in`
+    ? El lugar donde nos conocimos : `The place we met` - `The place [where|in which] we met`
+    ? El lugar donde nací : `The place I was born` - `The place [where|which] I was born`
 
-Cuando hay que añadir _in_ después de _live_?
-    ! No se pone si el verbo se usa para indicar propósito: to live, to work, ...
-    ! Se usa si se ha omitido el *in Which* en una _defining relative clause_. Es decir, si se quita el _which_, el _in_ se pone al final
+Cuando hay que añadir [in] después de [live]?
+    = No se pone si el verbo se usa para indicar propósito: to live, to work, ...
+    = Se usa si se ha omitido el *in Which* en una _defining relative clause_. Es decir, si se quita el _which_, el _in_ se pone al final
     ? Santander es un buen lugar para vivir : `Santander is a good place to live` (propósito)
     ? Hay muchas ciudades en las que me gustaría vivir : `There are many cities I’d like to live **in**` - `... cities **in which** I’d like to live`
 
@@ -39,11 +39,11 @@ Cuando hay que añadir _in_ después de _live_?
 Non-defining relative clauses are...
     = frase que añade información adicional a otra, pero que no es esencial para entender el significado de la frase principal
     - Van entre comas
-    - Se pueden quitar y la frase principal sigue teniendo sentido
-    - `My friend, who is a doctor, lives in Madrid`
-    - No se pueden omitir ninguno ni sustituir por _that_
-    - Para referirse a la main clause, usar _which_ (lo cual), pero no _what_ `No one phoned him on his birthday, WHICH made him quite sad`
-    ? Nadie le llamó en su cumpleaños, lo cual le puso bastante triste : `No one phoned him on his birthday, WHICH made him quite sad`
-    ? Los programadores, que trabajan muchas horas, están bien pagados : `Programmers, who work long hours, are well paid`
-    ? Mi hermana, que vive en Rye, tiene dos hijos : `My sister, who lives in Rye, has two sons`
-    ? Esta es la nueva biblioteca, donde pasé muchas tardes estudiando : `This is the new library, where I spent many afternoons studying`
+    - Se puede quitar dicha frase y la frase principal sigue teniendo sentido
+    - `My friend [, ***who*** is a doctor,] lives in Madrid`
+    - No se pueden omitir los _who/which/where..._ en dicha frase ni sustituirlos por _that_
+    - Para referirse a la main clause, usar _which_ (lo cual), pero no _what_ `No one phoned him on his birthday, **which** made him quite sad`
+    ? Nadie le llamó en su cumpleaños, lo cual le puso bastante triste : `No one phoned him on his birthday, **which** made him quite sad`
+    ? Los programadores, que trabajan muchas horas, están bien pagados : `Programmers, **who** work long hours, are well paid`
+    ? Mi hermana, que vive en Rye, tiene dos hijos : `My sister, **who** lives in Rye, has two sons`
+    ? Esta es la nueva biblioteca, donde pasé muchas tardes estudiando : `This is the new library, **where** I spent many afternoons studying`

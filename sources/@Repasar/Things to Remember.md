@@ -21,6 +21,17 @@ verbs which admit both: <ing> and <to base>?
     = (process) begin, start, continue
     = intend
 
+## Relative Clauses
+
+relative clauses
+    ? Mayo es el mes en el que más turistas visitan la isla : `May is the month [WHEN] most tourists visit the island`
+
+Cuando hay que añadir [in] después de [live]?
+    = No se pone si el verbo se usa para indicar propósito: to live, to work, ...
+    = Se usa si se ha omitido el *in Which* en una _defining relative clause_. Es decir, si se quita el _which_, el _in_ se pone al final
+    ? Santander es un buen lugar para vivir : `Santander is a good place to live` (propósito)
+    ? Hay muchas ciudades en las que me gustaría vivir : `There are many cities I’d like to live **in**` - `... cities **in which** I’d like to live`
+
 
 
 ## Expressions

@@ -171,6 +171,8 @@ que le gusta comer = foody `I'm a foody; I love trying new foods`
 carta = menu
 camarero = waiter
 el servicio = service `The service was excellent`
+atender = to serve
+    ? El camarero que nos atendió fue muy servicial : `The waiter who served us was very helpful`
 
 cocinero
     = chef (profesional)
