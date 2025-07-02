@@ -7,7 +7,7 @@ Translate (I)
     ! El por qué de cada solución se explica en las expresiones que tienen los nombres de los tiempos verbales
     ? Fui al cine a las 5 en punto : `I WENT to the cinema at 5 o'clock`
     ? Viví en Santander durante 18 años : `I LIVED in Santander for 18 years`
-    ? Jugaba al fútbol cuando era niño : `I played football when i was a child`
+    ? Jugaba al fútbol cuando era niño : `I played football when I was a child`
     ? Él la besó, se despidió y cerró la puerta : `He KISSED her, SAID goodbye and CLOSED the door`
 
 Translate (II)
@@ -24,7 +24,7 @@ Translate (III)
 
 Translate (IV)
     ? Ella se sentía mal desde la hora de la comida : `She had been feeling unwell since lunchtime`
-    ? Estaba enfermo porque había estado durmiendo fuera : `I was sick because I HAD BEEN SLEEPING outside`
+    ? Yo estaba enfermo porque había estado durmiendo fuera : `I was sick because I HAD BEEN SLEEPING outside`
     ? Shakespeare escribió más de 30 obras : `Shakespeare wrote over 30 plays [during his lifetime]`
 
 
@@ -32,7 +32,7 @@ Past Simple (`I went`) is used when...
     = talking about actions done in the past that are finished
         - Se hizo de forma puntual `I went to the cinema at 5 o'clock`
         - Se hizo durante un periodo `I lived in Santander for 18 years` - `Shakespeare wrote over 30 plays [during his lifetime]`
-        - Se hizo varias veces `I played football when I was a child`
+        - Se hizo varias veces `I played football when I was a child` (jugaba)
 
 Past Continuous (`I was going`) is used when...
     = talking about actions that were in progress at a specific time in the past

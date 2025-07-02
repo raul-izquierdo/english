@@ -47,12 +47,34 @@ cumbre, cima
 orilla = shore
     ? El barco quedó varado en la orilla : `The boat was stranded on the shore`
 
+
+## Fire
+
+incendio = fire (igual que fuego)
+
+quemar = to burn
+
 encender fuego
     = light a fire (controlado)
     = set fire to <sthing> (prender fuego a algo, incendiar algo)
     ? Encenderé la chimenea : `I'll light the fireplace`
     ? Encenderé una hogera : `I will light a bonfire`
     ? El pirómano prendió fuego al edificio : `The arsonist set fire to the building`
+
+apagar cosas con fuego (incendio, cigarros, velas, ...)
+    ! Alguien apaga algo
+    = put out (i) (para todos)
+    = extinguish (f) (para incendios)
+    ? Los bomberos apagaron rápidamente el incendio : `The firefighters quickly put out the fire` - `... extinguished`
+    ? Apaguó su cigarro : `He put out his cigarette` (no _extinguished_)
+
+apagarse solas cosas con fuego (luz, fuego, velas, ...)
+    ! Se apaga solo, no lo apaga alguien
+    = go out (i) (para todos)
+    ? La luz se apagó durante la tormenta : `The lights went out during the storm`
+    ? La vela se apagó : `The candle went out`
+    ? El fuego se apagó : `The fire went out`
+
 
 ## People
 

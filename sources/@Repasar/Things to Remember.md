@@ -32,6 +32,18 @@ Cuando hay que añadir [in] después de [live]?
     ? Santander es un buen lugar para vivir : `Santander is a good place to live` (propósito)
     ? Hay muchas ciudades en las que me gustaría vivir : `There are many cities I’d like to live **in**` - `... cities **in which** I’d like to live`
 
+## Reported Speech
+
+translate
+    ? He told her `You are really ugly` : `He told her that she was really ugly`
+    ? He said `I like fish` : `He said he liked fish` - `He said he likes fish` (se puede dejar en presente si sigue siendo cierto)
+    ? He said `We were trying to help him` : `He said they HAD BEEN trying to help him` (past continuous -> past perfect continuous)
+
+## Past Tenses
+
+translate
+    ? Ella se sentía mal desde la hora de la comida : `She had been feeling unwell since lunchtime`
+    ? Yo estaba enfermo porque había estado durmiendo fuera : `I was sick because I HAD BEEN SLEEPING outside`
 
 
 ## Expressions

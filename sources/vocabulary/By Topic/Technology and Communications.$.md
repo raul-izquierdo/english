@@ -142,6 +142,12 @@ auriculares
     = headphones
     = earphones (los de insertar en oreja)
 
+encender/apagar (aparatos electrónicos)
+    ! Son totalmente intercambiables, pero se ponen el origen de cada uno por curiosidad
+    = switch on/off (apretar botón/switch)
+    = turn on/off (girar un dial - como mi radio pequeña)
+    ? ¿Puedes encender la tele? : `Can you switch on the TV?`
+
 dejar algo encendido = leave something on
     ? No olvides apagar la tele; la dejé encendida : `Don't forget to turn off the TV; I left it on`
     ? Dejé el ordenador encendido : `I left the computer on`

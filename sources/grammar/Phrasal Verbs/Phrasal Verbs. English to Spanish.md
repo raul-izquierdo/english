@@ -135,7 +135,9 @@ give up = rendirse/abandonar `He gave up on his dreams` - `He gave himself up` -
 go after = ir a por `He went after the thief` - `He went after the job he wanted`
 go off = irse `She went off to the store to buy some milk`
     = (comida) estropearse `The milk has gone off`
-go out = (salir por ahí) `He went out for a walk` - `He went out with his friends`
+go out
+    = (salir por ahí) `He went out for a walk` - `He went out with his friends`
+    = apagarse (luz, fuego - por si mismo) `The fire went out` - `The lights went out during the storm`
 go over = go round
 go round = ir a, pasarse por `He went round to his friend's house` - `He went round to the office`
 
@@ -262,6 +264,8 @@ put on
     = ocasionar `That puts a lot of stress on him`
     = dar un (show - informal) `The company put on a great show for the employees`
     = poner música `He put on some music to relax`
+put out
+    = apagar (fuego, luz, etc.) `The firefighters put out the fire`
 put up
     = elevar/levantar (objeto o cantidad) `They've put up the rent again` - `Put up the flag` - `He put up a 'For Sale' sign`
         - Es la versión informal de _increase_ y _raise_.
