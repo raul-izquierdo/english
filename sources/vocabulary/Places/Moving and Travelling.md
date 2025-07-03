@@ -17,8 +17,8 @@ ir de vacaciones = go on holiday
     ? Fui de vacaciones a la playa : `I went on holiday to the beach`
 
 estar/haber estado
-    = been **to** (visitado/ido - ya no está allí)
-        - Se usa el **to** porque es como si se preguntara si se ha ido
+    = been **to** (visitado/ida y vuelta - ya no está allí)
+        - Se usa el **to** porque aquí _been_ hay que traducirlo como _has ido_
     = to be **in** (significa estar ahora)
     ? Ha estado en la iglesia : `He’s been to church`
     ? Ella ha estado en el museo : `She's been to the museum`
