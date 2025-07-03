@@ -4,68 +4,60 @@
 
 Qué te interesa?
     = `What are you interested in?`
-    ? ¿Qué te interesa? : `What are you interested in?`
+    ? ¿En qué estas interesado? : `What are you interested in?`
     = `What are you interested in doing this weekend?`
-    ? ¿Qué te interesa hacer este fin de semana? : `What are you interested in doing this weekend?`
+    ? ¿Qué te interesa hacer este fin de semana? : `What are you interested **in doing** this weekend?`
     = `What are your interests?`
     ? ¿Cuáles son tus intereses? : `What are your interests?`
 
-estoy interesado/me gusta (x4)
-    ! Ordenados de menos a más intenso
+me atrae/me llama
+    = it appeals to me
+    - OJO: No es _attracts_ -> eso es atracción física o emocional `The bright colours attract bees`
+    ? Me resulta atractivo : `I find it appealing`
+    ? El footbol no me llama : `Football doesn't appeal to me`
+    ? Eso fue lo que me atrajo : `That's what appealed to me`
+    ? No sé por qué no me atrae : `I don't know why it doesn't appeal to me`
+    ? Me llama bastante la idea de viajar : `The idea of travelling appeals to me quite a bit`
+
+
+estoy interesado/me gusta
     = I am interested IN <ing|obj>
+    = I [quite] like <ing|obj>
     ? Estoy interesado en aprender español : `I am interested in learning Spanish`
+    ? Me interesa algo el futbol : `I quite like football`
+
+Tengo (mucho/poco/nada) interés en ... = have (great|little|not) interest in ...
+    ? Tengo poco interés en ir a un concierto : `I have little interest in going to a concert`
+
+aficionado
+    ! Ordenados de menos a más intenso
     = to be a fan OF
     ? Soy fan de los juegos de mesa : `I'm a fan of board games`
+    ? Es fan de las películas de ciencia ficción : `He is a fan of science fiction movies`
     = to be keen ON
     ? Me entusiasman los juegos de mesa : `I'm keen on board games`
     = to be INTO
     ? Me gustan mucho los juegos de mesa : `I'm into board games`
 
-
-aficionado
-    = a fan (más casual)
-    ? Es fan de las películas de ciencia ficción : `He is a fan of science fiction movies`
-    = a <sthing> enthusiast (mayor conocimiento)
-    ? Es un entusiasta del fitness : `He is a fitness enthusiast`
-    = enthusiastic about <sthing>
-    ? Es entusiasta del fitness : `He is enthusiastic about fitness`
-
 nunca me ha llamado la atención
-    ? Nunca me ha interesado : `It has never interested me`
     ? Nunca me ha llamado la atención : `It has never caught my attention`
 
-no me llama mucho, no es lo mio
+no es lo mio
     = It's not really my thing
-
-me atrae/me llama
-    = it appeals to me
-    ? Me resulta atractivo : `I find it appealing`
-    ? Eso fue lo que me atrajo : `That's what appealed to me`
-    = it attracts me (físico o emocional)
-    ? Los colores brillantes atraen a las abejas : `The bright colours attract bees`
-    ? Me resulta atractivo : `I find it attractive`
-    ? No sé por qué no me llama : `I don't know why it doesn't appeal to me`
-    ? Me llama bastante la idea de viajar : `The idea of travelling appeals to me quite a bit`
 
 me encantaría <hacer X>
     = I’d be thrilled to <base>
     ? Me encantaría hacer puenting : `I’d be thrilled to go bungee jumping`
-
-A X no le atraerá la actividad Y
-    = X would have (great|little|not) interest in Y
-    ? No me interesaría mucho ir a un concierto : `I would have little interest in going to a concert`
-    = Y would have (great|little|not) appeal to X
-    ? Ir a un concierto no me atraería : `Going to a concert would not appeal to me`
 
 
 ## Tastes
 
 ¿Qué es lo que más te gusta de...?
     = What do you like most/best about...
-    ? Qué es lo que más te gusta de esta ciudad : `What do you like most about this city?`
+    ? Qué es lo que más te gusta de esta ciudad : `What do you **like most** about this city?`
 
 Quién te gustaría más... = Who would you most like to...
-    ? ¿Quién te gustaría más ver en un concierto? : `Who would you most like to see in concert?`
+    ? ¿Quién te gustaría más ver en un concierto? : `Who would you **most like** to see in concert?`
 
 ¿Te gusta ...? _No mucho_
     = not really
@@ -77,7 +69,7 @@ está bien, pero
 
 
 
-Me gusta (x3)
+Me gusta
     ! Ordenados de menos a más intenso
     = I like <ing|to base>
     ? Me gusta jugar a los juegos de mesa : `I like to play board games`
@@ -89,7 +81,7 @@ Me gusta (x3)
     ? Me encanta jugar a los juegos de mesa : `I love playing board games`
 
 
-No me gusta (x4)
+No me gusta
     ! Ordenados de menos a más intenso
 	= I'm not too keen ON <ing>
 	= I dislike <ing> más intenso y formal
@@ -137,7 +129,7 @@ No puedo soportar
     ? No soporto la idea de que se vaya : `I can't bear the idea of him leaving`
 
 
-puedo aguantar, no me importa
+no me importa (puedo aguantar)
     = I don't mind (no me importa - el más común)
     ? No me molesta el ruido : `I don't mind the noise`
     ? No me molesta la situación : `I don't mind the situation`
@@ -178,17 +170,17 @@ No me apetece <objeto|hacer algo>
 ## Choosing
 
 
-elegir, optar por
+elegir
     = choose (común)
     ? Elegiré el vestido rojo : `I will choose the red dress`
-    = select (f)
-    ? Seleccionaré el vestido rojo : `I will select the red dress`
-
-optar, quedarse con
-    = opt FOR <sthing>
-    ? Optaré por el vestido rojo : `I will opt for the red dress`
-    = opt TO <base>
+    = opt
+        - FOR <sthing> `I will opt for the red dress`
+        - TO <base> `I will opt to go to the cinema`
+    ? Me quedo con el vestido rojo : `I will opt for the red dress`
     ? Optaré por ir al cine : `I will opt to go to the cinema`
+
+seleccionar (elegir el mejor para algo) = select
+    ? Seleccionamos los mejores vinos para la cena : `We carefully selected the finest wines for the dinner`
 
 una opción
     = an option [worth considering]
@@ -199,80 +191,78 @@ una opción
 
 ## Choosing between Objects
 
-Prefiero [en general] <obj> en vez de <obj>
-	= I [much] prefer <obj> to <obj>
-    ? Prefiero el café al té : `I prefer coffee to tea` - `I much prefer coffee to tea`
-
-Preferiría [ahora] <obj> en vez de <obj>
-    = I WOULD prefer <obj> to <obj>
-    ? Preferiría el café al té : `I would prefer coffee to tea`
+Prefiero <obj> en vez de <obj>
+	= (en general) I [much] prefer <obj> to <obj>
+    = (en este momento) I WOULD prefer <obj> to <obj>
+    ? Prefiero el café al té (en general): `I prefer coffee to tea` - `I much prefer coffee to tea`
+    ? Prefiero el café al té (en este momento): `I would prefer coffee to tea`
     ? Preferiría un vaso de agua a una taza de té, por favor : `I'd prefer a glass of water to a cup of tea, please`
 
 ## Choosing between Actions
 
-Prefiero [en general] HACER <action> en vez de <action> (x2)
-    ! En ambas, el segundo _verbo_ puede omitirse si se entiende por el contexto
-    = I prefer <ing> TO <ing>
-    = I prefer TO <base> RATHER THAN <base>
-        - Nótese que el TO vale para ambas bases
-    ? [En general] Prefiero jugar al baloncesto a verlo : `I prefer playING basketball TO watchING it` - `I prefer TO PLAY basketball rather than WATCH it`
-    ? [En general] Prefiero beber cerveza a hacerla : `I prefer DRINKING beer to MAKING it` `I prefer TO DRINK beer rather than MAKE it`
-    ? [En general] Prefiero beber cerveza que vino : `I prefer DRINKING beer to wine` - `I prefer TO DRINK beer rather than wine`
 
-Preferiría [ahora] HACER <action> en vez de HACER <action> (x2)
-    ! En ambas, el segundo _verbo_ puede omitirse si se entiende por el contexto
-    = I WOULD prefer TO <base> rather than <base>
-        - Nótese que el TO sólo se pone **en el primer verbo**
-    = I WOULD rather <base> than <base>
-        ? [Ahora,] Prefiero jugar al baloncesto en vez de verlo : `I'd prefer to play basketball rather than watch it` - `I'd rather play basketball than watch it`
-        ? [Ahora,] Prefiero beber cerveza en vez de hacerla : `I’d prefer TO DRINK beer rather than [drink] tea` - `I’d rather DRINK beer than [drink] tea`
-        ? [Ahora,] Prefiero no beber en este momento : `I’d rather NOT DRINK at the moment`
+Translate
+    ? [En general] Prefiero jugar al baloncesto a verlo : `I prefer **playing** basketball **TO watching** it` - `I prefer **to play** basketball **rather than watch** it`
+    ? [En general] Prefiero beber cerveza a hacerla : `I prefer **drinking** beer **to making** it` - `I prefer **to drink** beer **rather than make** it`
+    ? [En general] Prefiero beber cerveza que vino : `I prefer **drinking** beer **to** wine` - `I prefer **to drink** beer **rather than** wine`
+
+Translate
+    ! Es lo mismo añadiendo _would_
+    ? [Ahora,] Prefiero jugar al baloncesto en vez de verlo : `I'd prefer **to play** basketball **rather than watch** it` - `I'd **rather** play basketball **than** watch it`
+    ? [Ahora,] Prefiero beber cerveza en vez de té : `I’d prefer TO DRINK beer rather than [drink] tea` - `I’d rather DRINK beer than [drink] tea`
+    ? [Ahora,] Prefiero no beber en este momento : `I’d rather NOT DRINK at the moment`
+
+Prefiero HACER <action> en vez de <action>
+    ! En todas, el segundo _verbo_ puede omitirse si se entiende por el contexto
+    = [Preferencia general] Nótese que el segundo verbo _no lleva TO_
+        - I prefer TO <base> RATHER THAN <base> `I prefer **to sing rather than dance**`
+        - I prefer <ing> TO <ing> `I prefer **singing to dancing**`
+    = [Preferencia en este momento]
+        -  I WOULD prefer TO <base> rather than <base> `I'**d** prefer **to sing rather than dance**`
+        -  I WOULD rather <base> than <base> `I'd **rather sing than dance**`
 
 
-## Preferir que se haga algo en el PRESENTE o FUTURO
+## Preferir que se haga/no se hubiera hecho algo
 
-(sbody) preferiría [no] hacer <action> (el que lo prefiere es el mismo que tendría que hacerlo)
-    ! Usar el Presente
-    = <sbody> would rather/sooner [not] <base> (sin TO)
-    = <sbody> would prefer [not] TO <base> (con TO)
+Translate (I)
     ? Preferiría [no] ir a la boda : `I'd prefer [not] TO go to the wedding` - `I'd rather [not] go to the wedding`
     ? Tu preferirías [no] ir a la boda : `You'd prefer [not] TO go to the wedding` - `You'd rather [not] go to the wedding`
     ? Mis padres preferírian [no] ir a la boda : `My parents would prefer [not] TO go to the wedding` - `My parents would rather [not] go to the wedding`
 
-(sbody1) preferiría que (sbody2) [no] hiciera <action> (el que lo prefiere NO es el mismo que tendría que hacerlo)
-    ! Si, los que usan el Pasado Simple están bien aunque lo que se desea hacer es en el Presente/Futuro
-    = <s1> would rather/prefer [that] <s2> <past>
-        - Sí, son intercambiables _rather_ y _prefer_. Peeero, aunque el _that_ es opcional, en la práctica nunca se pone con _rather_ y siempre con _prefer_.
-        - `I would rather WE went to a restaurant` - `I would prefer THAT WE WENT to a restaurant`
-    = <s1> would prefer <me/him/them...> TO <base> `He would prefer ME TO go to the restaurant`
+Translate (II)
     ? Preferiría que fueras a la boda : `I'd rather/prefer you went to the wedding` - `I'd prefer YOU TO go to the wedding`
     ? Preferiría que NO fueras a la boda : `I'd rather/prefer you didn't go...` - `I'd prefer YOU NOT TO go...`
     ? Mis padres preferirían que fuera a la boda : `My parents would rather/prefer I went to the wedding` - `My parents would prefer ME TO go to the wedding`
     ? Mis padres preferirían que NO fuera a la boda : `My parents would rather/prefer I didn't go...` - `My parents would prefer ME NOT TO go...`
 
 
-## Preferiría que [no] se hubiera hecho algo en el PASADO
-
-(sbody) preferiría [no] HABER HECHO <action> (el que lo prefiere es el mismo que tendría que [no]haberlo hecho)
-    ! Idéntico al caso de un sólo sujeto anterior, pero usando "have done" en vez del Presente "do"
-    = <sbody> would rather [not] HAVE <done> (sin TO)
-    = <sbody> would prefer [not] TO HAVE <done> (con TO)
+Translate (III)
     ? Preferiría [no] haber ido a la boda : `I'd prefer [not] TO HAVE gone to the wedding` - `I'd rather [not] HAVE gone to the wedding`
     ? Tu preferirías [no] haber ido a la boda : `You'd prefer [not] TO HAVE gone to the wedding` - `You'd rather [not] HAVE gone to the wedding`
     ? Mis padres preferirían [no] haber ido a la boda : `My parents would prefer [not] TO HAVE gone to the wedding` - `My parents would rather [not] HAVE gone to the wedding`
 
-(sbody1) preferiría que <sbody2> [no] hubiera hecho <action> (el que lo prefiere NO es el mismo que el que tendría que [no]haberlo hecho)
-    ! Idéntico al caso de dos sujetos anterior, pero usando "had done/Have done" en vez del Pasado "did"
-    = <s1> would rather/prefer [that] <s2> HAD <done>
-        - Sí, son intercambiables _rather_ y _prefer_. Peeero, aunque el _that_ es opcional, en la práctica nunca se pone con _rather_ y siempre con _prefer_.
-        - `I would rather WE had gone to a restaurant` - `I would prefer THAT WE had gone to a restaurant`
-    = <s1> would prefer <me/him/them...> TO HAVE <done> `He would prefer ME TO HAVE GONE to the restaurant`
-        - OJO: que este es "Have gone" en vez de "Had gone"
-        - Es decir, este es el único que tiene la misma estructura tanto con uno como con dos sujetos
+Translate (IV)
     ? Preferiría que hubieras ido a la boda : `I'd rather you had gone to the wedding` - `I'd prefer YOU TO HAVE GONE to the wedding`
     ? Preferiría que NO hubieras ido a la boda : `I'd rather you hadn't gone to the wedding` - `I'd prefer YOU NOT TO HAVE GONE to the wedding`
     ? Mis padres preferirían que hubiera ido a la boda : `My parents would rather I had gone to the wedding` - `My parents would prefer ME TO HAVE GONE to the wedding`
     ? Mis padres preferirían que NO hubiera ido a la boda : `My parents would rather I hadn't gone to the wedding` - `My parents would prefer ME NOT TO HAVE GONE to the wedding`
+
+
+Summary. Preferir que se haga algo en el PRESENTE o FUTURO
+    = (sbody) preferiría [no] hacer <action> (el que lo prefiere es el mismo que tendría que hacerlo)
+        - <sbody> would prefer [not] TO <base> (con TO) `I'd **prefer TO sing**`
+        - <sbody> would rather/sooner [not] <base> (sin TO) `I'd **rather sing**`
+    = (sbody1) preferiría que (sbody2) [no] hiciera <action> (el que lo prefiere NO es el mismo que tendría que hacerlo)
+        - <s1> would prefer <me/him/them...> TO <base> `I would **prefer HIM TO sing**`
+        - <s1> would rather/prefer [that] <s2> <past> `I would **prefer THAT HE SANG**` - `I would **rather HE sang**`
+
+Summary. Preferir que no se hubiera hecho algo en el PASADO
+    = (sbody) preferiría [no] HABER HECHO <action> (el que lo prefiere es el mismo que tendría que [no]haberlo hecho)
+        - <sbody> would prefer [not] TO HAVE <done> (con TO) `I'd **prefer TO HAVE sung**`
+        - <sbody> would rather [not] HAVE <done> (sin TO) `I'd **rather have sung**`
+    = (sbody1) preferiría que <sbody2> [no] hubiera hecho <action> (el que lo prefiere NO es el mismo que el que tendría que [no]haberlo hecho)
+        -  <s1> would prefer <me/him/them...> TO HAVE <done> `I would **prefer HIM TO HAVE sung**` (sí, no es _had_)
+        -  <s1> would rather/prefer [that] <s2> HAD <done> `I would **prefer THAT HE HAD sung**` - `I would rather HE had sung`
 
 
 ## Offering Options

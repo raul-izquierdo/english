@@ -101,6 +101,7 @@ pensar en
     ? Se me acaba de ocurrir una idea brillante! : `I just thought of a brilliant idea!`
     ? Se te ocurre alguna forma mejor de hacerlo : `Can you think of a better way to do this?`
     ? ¿Qué piensas de mi nuevo peinado? : `What do you think of my new haircut?`
+    ? Cuando hablo de juegos de mesa, todo el mundo piensa en Monopoly : `When I talk about board games, everyone thinks of Monopoly`
 
 
 [no] merece la pena
