@@ -132,7 +132,7 @@ dependiendo de, ...
 
 
 ventaja - desventaja
-    ! <->
+    ! <🠢
     = downside - upside (desventaja - se suele usar si se están comparando con las _upsides_) (I)
     = drawback - benefit (inconveniente - sin comparar con nada) (N)
     = disadvantage - advantage (el más general: incluye a los anteriores) (F)
@@ -213,9 +213,11 @@ decidirme = make up my mind
     ? No puedo decidir qué hacer este fin de semana : `I can’t make up my mind about what to do this weekend`
     ? ¿Te has decidido ya? : `Have you made up your mind yet?`
 
-tomar decisiones = make decisions
+tomar una decisión = make a decision
+    ? Necesito tomar una decisión pronto : `I need to make a decision soon`
+    ? Tomé una decisión difícil : `I made a difficult decision`
 
-estar frente a una decision = be faced with a decision
+estar frente a una decisión = be faced with a decision
     ? Me enfrenté a una decisión difícil : `I was faced with a difficult decision`
 
 ## Supposing

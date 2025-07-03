@@ -196,7 +196,7 @@ cucharilla = teaspoon
 
 somos 5 para comer
     = there are 5 of us [for lunch]
-        - No decir `We are 5`-> Tenemos 5 años!! :)
+        - No decir `We are 5`🠢 Tenemos 5 años!! :)
     ? Somos 5 para comer: `There are 5 of us for lunch`
 
 quiero un ... (pedir en caja McDonalds)

@@ -39,7 +39,7 @@ mean. Diferencia entre...
 
 need. Diferencia entre...
     = need TO <base> (es el normal)
-    = needs <ing> (atajo del anterior) <ing> -> _needs TO BE <past>_
+    = needs <ing> (atajo del anterior) <ing> 🠢 _needs TO BE <past>_
         ? Esta casa necesita ser pintada : This house **needs to** be painted
         ? Atajo de la anterior (mismo significado): This house **needs painting**
 

@@ -6,7 +6,7 @@
 momento
     ! Tampoco hay que volverse muy loco con estas diferencias, ya que muchas veces se pueden usar indistintamente
     = moment (puntual, memorable)
-    = time (con duración -> momentoS, etapa, época)
+    = time (con duración 🠢 momentoS, etapa, época)
     ? En ese momento, me di cuenta de la verdad : `At that moment, I realized the truth`
     ? Fue un momento hermoso : `It was a beautiful moment`
     ? Fue una época difícil para mí : `It was a difficult time for me`
@@ -117,9 +117,12 @@ en los último años = in recent years
 en los últimos X años = in the last X years
     ? No lo he visto en los últimos 5 años : `I haven't seen him in the last 5 years`
 
-en mucho tiempo = in a long time
+en mucho tiempo (desde hace mucho) = **in** a long time
     ? No lo he visto en mucho tiempo : `I haven't seen him in a long time`
     ? No he ido al gimnasio en mucho tiempo : `I haven't been to the gym in a long time`
+
+durante mucho tiempo = **for** a long time
+    ? Ha estado trabajando aquí durante mucho tiempo : `He's been working here **for** a long time`
 
 hasta hace poco... = until [quite] recently
     ? Hasta hace poco, no sabía la verdad : `Until recently, I didn't know the truth`
@@ -169,6 +172,7 @@ estar al borde de (en el límite de)
     ? La empresa está al borde de la bancarrota : `The company is on the verge of bankruptcy`
     ? Ella estaba al borde de las lágrimas : `She was on the verge of tears`
 
+pronto (dentro de poco tiempo) = soon
 
 dentro de X años
     = in X years
@@ -208,7 +212,7 @@ durante X años
     ? La alarma sonó [varias veces] durante la reunión : `The alarm went off over the course of the meeting`
     ? La alarma sonó [constantemente] durante la reunión : `The alarm sounded throughout the meeting`
     ? Durante el día, estamos expuestos a diversas formas de publicidad : `During the day, we are exposed to various forms of advertising` - `Over the course of the day, ...`
-    ? Él cambió mucho durante el verano : `He changed a lot over the summer` (cambio gradual -> over)
+    ? Él cambió mucho durante el verano : `He changed a lot over the summer` (cambio gradual 🠢 over)
 
 todo el dia = all day (sin THE)
     ? Trabajé todo el día : `I worked all day`
@@ -306,6 +310,8 @@ más tarde/después
     ? Comí y, después de eso, me eché una siesta : `I had lunch, and after that, I took a nap`
     ? Se sintió exhausta durante la carrera, pero mucho mejor después : `She felt exhausted during the race, but much better afterward`
     ? Acabé el trabajo y, después de eso, fui a dar un paseo : `I finished my work, and after that, I went for a walk`
+
+después de un rato = after a while
 
 para <date>
     = by <date>

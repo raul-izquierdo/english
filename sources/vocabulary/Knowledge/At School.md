@@ -131,6 +131,13 @@ resumir = to summarize `I need to summarize the main points of the article`
 esquema = outline
 esquematizar = to outline `The teacher outlined the main points of the lesson`
 
+
+repasar
+    = revise
+    = go over
+    ? Necesito repasar para el examen : `I need to revise for the exam`
+    ? Vamos a repasar los puntos clave de la lección/plan : `Let's go over the key points of the lesson/plan`
+
 entrega = submission
     ? Tengo una entrega el martes : `I have a submission on Tuesday`
 
@@ -140,6 +147,7 @@ hacer una entrega
     ? Necesito entregar mi trabajo antes del viernes : `I need to submit my assignment by Friday`
     ? Necesito entregar mi trabajo antes del viernes : `I need to hand in my assignment by Friday`
     ? Entregué las llaves perdidas en recepción : `I handed in the lost keys at the reception`
+
 
 ## Exams
 
@@ -227,7 +235,7 @@ el examen fue difícil = the exam was hard
 
 nota (calificación)
     = mark (notas/puntos de un examen/trabajo concreto)
-    = grade (calificación global de un curso/carrera)
+    = grade (calificación - global de un curso/carrera)
     ? Sacó buena nota en el examen : `He got a good mark in the exam`
     ? Las calificaciones fueron más que respetables : `The grades were more than respectable`
 

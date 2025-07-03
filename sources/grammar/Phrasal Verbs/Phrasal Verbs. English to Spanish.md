@@ -138,7 +138,9 @@ go off = irse `She went off to the store to buy some milk`
 go out
     = (salir por ahí) `He went out for a walk` - `He went out with his friends`
     = apagarse (luz, fuego - por si mismo) `The fire went out` - `The lights went out during the storm`
-go over = go round
+go over
+    = go round
+    = repasar (plan, apuntes, ...)
 go round = ir a, pasarse por `He went round to his friend's house` - `He went round to the office`
 
 ## Grow

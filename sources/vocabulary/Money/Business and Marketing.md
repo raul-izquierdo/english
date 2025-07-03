@@ -100,6 +100,6 @@ revuelo, desorden = scramble
 
 emprendedor (el que monta un negocio)
     = entrepreneur `He is an entrepreneur`
-        - No confundir con _enterprising_ -> con iniciativa (aunque no monte negocio)
+        - No confundir con _enterprising_ 🠢 con iniciativa (aunque no monte negocio)
 
 contables = accountants

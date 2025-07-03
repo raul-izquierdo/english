@@ -22,19 +22,19 @@ reporting verbs
 ## Tenses Transformations
 
 changing tenses
-    = Present x -> Past x `I like fish` -> `He said he liked fish`/`He said he likes fish` (if still true)
+    = Present x 🠢 Past x `I like fish` 🠢 `He said he liked fish`/`He said he likes fish` (if still true)
         - Exception: if the actions still is true, present can be used
         - Es decir: usar past no indica nada sobre si la acción sigue siendo cierta o no. Usar presente sí
-    = Past simple -> Past perfect  `I **saw** Ben in town` -> `He said he **had seen** Ben in town`
-    = Past continuous -> Past perfect continuous `We **were trying** to help him` -> `He said they **had been trying** to help him`
+    = Past simple 🠢 Past perfect  `I **saw** Ben in town` 🠢 `He said he **had seen** Ben in town`
+    = Past continuous 🠢 Past perfect continuous `We **were trying** to help him` 🠢 `He said they **had been trying** to help him`
     = Past perfect (simple y continuous) no cambian `**Had** done \ **Had** been doing`
-    ? He said `I work in an office` : `He said he WORKED in an office` (present simple -> past simple)
+    ? He said `I work in an office` : `He said he WORKED in an office` (present simple 🠢 past simple)
     ? He said `I like fish` : `He said he liked fish` - `He said he likes fish` (se puede dejar en presente si sigue siendo cierto)
-    ? He said `We aren't going away on holiday` : `He said they WEREN'T GOING away on holiday` (present continuous -> past continuous)
-    ? He said `I've known him for a long time` : `He said he HAD KNOWN him for a long time` (present perfect -> past perfect)
-    ? He said `He has been playing tennis` : `He said he HAD BEEN playing tennis` (present perfect continuous -> past perfect continuous)
-    ? He said `I saw Ben in town` : `He said he HAD SEEN Ben in town` (past simple -> past perfect)
-    ? He said `We were trying to help him` : `He said they HAD BEEN trying to help him` (past continuous -> past perfect continuous)
+    ? He said `We aren't going away on holiday` : `He said they WEREN'T GOING away on holiday` (present continuous 🠢 past continuous)
+    ? He said `I've known him for a long time` : `He said he HAD KNOWN him for a long time` (present perfect 🠢 past perfect)
+    ? He said `He has been playing tennis` : `He said he HAD BEEN playing tennis` (present perfect continuous 🠢 past perfect continuous)
+    ? He said `I saw Ben in town` : `He said he HAD SEEN Ben in town` (past simple 🠢 past perfect)
+    ? He said `We were trying to help him` : `He said they HAD BEEN trying to help him` (past continuous 🠢 past perfect continuous)
     ? He said `I had finished my homework` : `He said he had ...` (no cambia)
     ? He said `He had never spoken about it before` : `He said he had...`(no cambia)
     ? He said `He had been waiting for an hour` : `He said head been waiting...` (no cambia)
@@ -42,7 +42,7 @@ changing tenses
 ## Articles Transformations
 
 articles
-    = this, that, these, those -> **the**
+    = this, that, these, those 🠢 **the**
     ? He said **me** `That book you lent me is really boring` : `He said THE book I had lent him was really boring`
     ? He said `These shoes are really comfortable` : `He said THE shoes were really comfortable`
 
@@ -50,14 +50,14 @@ articles
 
 
 Modal verbs
-    = will -> **would**
-    = can -> **could**
-    = may -> **might**
+    = will 🠢 **would**
+    = can 🠢 **could**
+    = may 🠢 **might**
     = No cambian: _would, could, might, should, ought to_
     = must
-        - (para órdenes) **had to** `You must be home by twelve`-> `He said I **had to** be home by twelve`
-        - (para deducciones) permanece el _must_ `You must be tired` -> `He said I **must** be tired`
-    = mustn't -> **wasn't allowed to**/**couldn't** `You mustn't do it` -> `He said they couldn't do it`
+        - (para órdenes) **had to** `You must be home by twelve`🠢 `He said I **had to** be home by twelve`
+        - (para deducciones) permanece el _must_ `You must be tired` 🠢 `He said I **must** be tired`
+    = mustn't 🠢 **wasn't allowed to**/**couldn't** `You mustn't do it` 🠢 `He said they couldn't do it`
         - Puede permanecer **`mustn't`** si la prohibición sigue vigente
     ?  He said `I'll let Tim know` : `He said he **would** let Tim know`
     ?  He said `I can speak German` : `He said he **could** speak German`
@@ -75,7 +75,7 @@ Modal verbs
 reported speech in questions
     ! El orden es el de las afirmaciones aunque se esté reportando una pregunta
     ! Se aplican todas las reglas anteriores (tiempos verbales,  modal verbs...)
-    = do, does, did -> se quitan
+    = do, does, did 🠢 se quitan
     = Si no hay (_what_, _where_, _when_, _who_, _why_ o _how_) se añade **whether/if**
     ? He asked me `What do you want to do?` : `He asked me what I wanted to do`
     ? She asked me `Where have you been` : `She asked me where I had been`

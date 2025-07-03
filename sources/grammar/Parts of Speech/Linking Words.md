@@ -270,6 +270,12 @@ todo excepto X
     ? Me gusta todo excepto la sopa : `I like everything but the soup`
     ? Me gusta todo excepto el clima : `I like everything but the weather`
 
+ese en concreto
+    = that specific one (f)
+    = that one in particular
+    ? Ese libro en concreto es muy interesante : `That book in particular is very interesting`
+    ? Ese libro específico es muy interesante : `That specific book is very interesting`
+
 ## Summary and Conclusion
 
 considerando todo lo anterior
@@ -328,7 +334,7 @@ quizás
 
 ## Whether vs If
 
-TL;DR -> resumen rápido
+TL;DR 🠢 resumen rápido
     = usar _if_ en las condicionales `If ... then ...`
         = usar _whether_ en todo lo demás
             - O es lo correcto

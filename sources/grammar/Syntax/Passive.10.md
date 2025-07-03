@@ -43,30 +43,30 @@ Explanation Ia. Enfátizar [qué] se hace _(sin verbos modales)_
     ! Supóngase en activo: "... <verb> ..." `He <writes> a letter`
     = El <verb> siempre se pasará a <done> (si no lo está ya)
     = Se añade delante <to be> en la **misma** forma verbal que tenía el <verb>:
-        - <present> -> is/are `He **writes** a letter` -> `A letter **IS** written by him` (presente simple)
-        - <past> -> was/were `He **wrote** a letter` -> `A letter **WAS** written by him` (pasado simple)
-        - will do -> will **be** done `He **will write** a letter` -> `A letter **WILL BE** written by him`
-        - have done ->  have **been** done `He **has written** a letter` -> `A letter **HAS BEEN** written by him`
-        - had done -> had **been** done `He **had written** a letter` -> `A letter **HAD BEEN** written by him`
-        - will have done -> will have **been** done `He **will have written** a letter` -> `A letter **WILL HAVE BEEN** written by him`
-        - is doing -> is **being** done `He **is writing** a letter` -> `A letter **IS BEING** written by him`
-        - were doing -> were **being** done `He **was writing** a letter` -> `A letter **WAS BEING** written by him`
+        - <present> 🠢 is/are `He **writes** a letter` 🠢 `A letter **IS** written by him` (presente simple)
+        - <past> 🠢 was/were `He **wrote** a letter` 🠢 `A letter **WAS** written by him` (pasado simple)
+        - will do 🠢 will **be** done `He **will write** a letter` 🠢 `A letter **WILL BE** written by him`
+        - have done 🠢  have **been** done `He **has written** a letter` 🠢 `A letter **HAS BEEN** written by him`
+        - had done 🠢 had **been** done `He **had written** a letter` 🠢 `A letter **HAD BEEN** written by him`
+        - will have done 🠢 will have **been** done `He **will have written** a letter` 🠢 `A letter **WILL HAVE BEEN** written by him`
+        - is doing 🠢 is **being** done `He **is writing** a letter` 🠢 `A letter **IS BEING** written by him`
+        - were doing 🠢 were **being** done `He **was writing** a letter` 🠢 `A letter **WAS BEING** written by him`
     = Remember
-        - have/had done -> have/had **been** done
-        - is/was **doing** -> is/was **being** done
+        - have/had done 🠢 have/had **been** done
+        - is/was **doing** 🠢 is/was **being** done
     = Los tiempos continuos no mencionados antes (_have **been doing**_, _had **been doing**_, _will **be doing**_) no se pasan a pasivo porque no quedan bien
-        - En su lugar, se pasan primero a su forma simple: `will be doing` -> `will do`
-        - `He will be doing an exercise` -> `He will do an exercise` -> `An exercise will be done by him`
-        - `They have been doing an exercise` -> `They have done an exercise` -> `An exercise has been done by them`
-        - `She had been reading a book` -> `She had read a book` -> `A book had been read by her`
+        - En su lugar, se pasan primero a su forma simple: `will be doing` 🠢 `will do`
+        - `He will be doing an exercise` 🠢 `He will do an exercise` 🠢 `An exercise will be done by him`
+        - `They have been doing an exercise` 🠢 `They have done an exercise` 🠢 `An exercise has been done by them`
+        - `She had been reading a book` 🠢 `She had read a book` 🠢 `A book had been read by her`
 
 Explanation Ib. Enfátizar [qué] se hace _(con verbos modales)_
     ! Supóngase en activo: "... (can/must/should/may/could/would...) <verb> ..." `He may <write> a letter`
     ! El modal se mantiene igual
     = El <verb> se pasa a <done> (si no lo está ya)
     = Se añade entre el modal y el <done>...
-        - **be** (en presente) `He **may write** a letter` -> `A letter **may be written** by him`
-        - **have been** (en pasado) `He **may have written** a letter` -> `A letter **may have been written** by him`
+        - **be** (en presente) `He **may write** a letter` 🠢 `A letter **may be written** by him`
+        - **have been** (en pasado) `He **may have written** a letter` 🠢 `A letter **may have been written** by him`
 
 
 ## Use II. A [algo] se le hace [algo]
@@ -89,16 +89,16 @@ Put into the passive (III)
     ? Recuerdo que me animaron a tomar clases de piano : `I remember having been encouraged to take piano lessons`
 
 Use II. A [algo] se le hace [algo]
-    ! `The software is going TO BE INSTALLED next week` -> El sw no hace nada; se le hace algo
+    ! `The software is going TO BE INSTALLED next week` 🠢 El sw no hace nada; se le hace algo
     ! Contexto:
     ! En las frases en las que se usará esta estructura, normalmente tendrán dos verbos (recordar "Gerund vs Infinitive.xmind")
     ! El segundo verbo tiene que ir en infinitivo o gerundio, dependiendo del primer verbo:
     ! - `I plan TO GO to Santander` - `I enjoy GOING to Santander`
     ! Si el segundo verbo...
-    ! - es _TO <base>_ `I plan TO GO to Santander` -> leer "Passive Infinitive"
-    ! - es _ING_ `I enjoy GOING to Santander` -> leer "Passive Gerund"
+    ! - es _TO <base>_ `I plan TO GO to Santander` 🠢 leer "Passive Infinitive"
+    ! - es _ING_ `I enjoy GOING to Santander` 🠢 leer "Passive Gerund"
     ! _NOTE_: Verbs like like, love, prefer, etc. can take either gerund or infinitive, but in passive constructions, the gerund is more natural
-    = TL;DR de los dos siguientes -> añadir **be**/**have** en la misma forma que el 2º verbo:
+    = TL;DR de los dos siguientes 🠢 añadir **be**/**have** en la misma forma que el 2º verbo:
         - En Presente: `(to be/being) <done>` - `He plans **to be paid** in cash` (plans TO) - `He enjoys **being paid** in cash` (enjoy <ing>)
         - En Pasado: `(to have/having) been <done>` - `He expected **to have been paid** in cash` (expected TO) - `He denied **having been paid** in cash` (denied <ing>)
     = Passive Infinitive

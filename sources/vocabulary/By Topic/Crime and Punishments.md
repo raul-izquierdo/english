@@ -81,7 +81,7 @@ atracar (robo con uso/amenaza de violencia)
     = to rob
         - OJO: Solo se usar para decir a **quién** se robo (lugares o personas) pero no para decir **qué objeto** se robó
         - ✔️ `He robbed a bank` (lugar) `He robbed a person` (persona)
-        - ❌ `He robbed a car` (no indicar lo que se robó) -> `He stole a car`
+        - ❌ `He robbed a car` (no indicar lo que se robó) 🠢 `He stole a car`
     ? Robó un banco : `He robbed a bank`
     ? Robó a una persona : `He robbed a person`
 atracador = robber

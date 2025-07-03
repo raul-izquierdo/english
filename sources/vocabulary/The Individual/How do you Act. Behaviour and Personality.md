@@ -374,7 +374,7 @@ me acostumbré a...
 llevar/pasarse x tiempo sin (presente - aún se sigue sin)
     ! Se usa para indicar escasez o que se pasó mal
     ! Se solapa mucho con el Presente Perfecto, que sería la versión neutra/no dramática
-    = They have gone <period> **without** <ing> ->  `They have gone two days without smoking`
+    = They have gone <period> **without** <ing> 🠢  `They have gone two days without smoking`
     ? Llevan dos días sin comer : `They have gone two days without eating` (`They have been without eating for two days` es descriptiva sin más - no implica que se pasó mal)
     ? Llevan dos horas contando chistes : `They have been telling jokes for two hours` (aquí no hay drama)
     ? Llevo dos días sin fumar : `I've gone two days without smoking` (drama) - `I've been without smoking for two days` (descriptivo)
@@ -389,7 +389,7 @@ se pasaron/estuvieron <periodo> sin ... (pasado)
         - went without <ing> **for** <period>  `They went without eating for two days`
     ? Se pasaron sin comida dos días: `They went without food for two days` - (`They were without...` descripción neutra)
     ? Estuvieron dos días sin dormir: `They went 2 days without sleeping` - (`They were...` descripción neutra)
-    ? Estuvieron contando chistes durante horas : `They **were** telling jokes for hours` (usar pasado -> no se pasó mal)
+    ? Estuvieron contando chistes durante horas : `They **were** telling jokes for hours` (usar pasado 🠢 no se pasó mal)
 
 ## Common Expressions
 

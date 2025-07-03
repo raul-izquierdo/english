@@ -7,7 +7,7 @@ Objective of an Essay
 
 Formality?
     = formal
-        - pasivo -> **no primera persona**
+        - pasivo 🠢 **no primera persona**
         - no contracciones
 
 ## Structure

@@ -5,19 +5,12 @@
 naturalmente = Naturally
 
 igualmente
-    = alike (apariencia o comportamiento parecido)
+    = <verb> alike (apariencia o comportamiento parecido)
     = equally (de igual manera)
     ? Los dos hermanos se parecen : `The two brothers look alike`
     ? Piensan igual en la mayoría de los temas : `They think alike on most issues`
     ? Me gustan ambas opciones por igual : `I like both options equally`
     ? Los dos equipos jugaron de manera equitativa durante el torneo : `The two teams played equally throughout the tournament`
-
-rápidamente
-    = quickly (lo hizo rápido)
-    = promptly (sin retraso)
-    ? Terminó el proyecto rápidamente : `He finished the project quickly`
-    ? Terminó el proyecto sin retraso : `He promptly finished the project`
-
 
 adecuadamente = properly
     ? Acabó el proyecto adecuadamente : `He properly finished the project`
@@ -26,8 +19,13 @@ de forma pensada, reflexivamente
     = thoughtfully
     ? Consideró cuidadosamente las opciones antes de tomar una decisión. : `He thoughtfully considered the options before making a decision`
 
-suavemente = gently
-    ? Puso suavemente al bebé en la cuna : `He gently placed the baby in the crib`
+delicadamente = gently
+    ? Puso delicadamente al bebé en la cuna : `He gently placed the baby in the crib`
+
+suavemente = softly
+
+con cuidado = carefully
+    ? Ella habló con cuidado para no despertar al bebé : `She spoke carefully so as not to wake the baby`
 
 sin tener cuidado = carelessly
 
@@ -37,12 +35,8 @@ claramente = clearly
 
 correctamente = correctly
 
-con cuidado = carefully
-    ? Ella habló con cuidado para no despertar al bebé : `She spoke carefully so as not to wake the baby`
 
-delicadamente = gently
 
-suavemente = softly
 
 ## Adverbs of Time (when something happens)
 
@@ -56,14 +50,29 @@ tarde o temprano, en algún momento = eventually
 
 recientemente = recently
 
-enseguida = quickly
-    ? Llamé enseguida a mi amigo : `I called my friend quickly`
+enseguida = immediately
+    ? Llamé enseguida a mi amigo : `I called my friend immediately`
 
 ## Adverbos of Speed (how fast something happens)
 
-poco a poco en vez de hacerlo de golpe
-    = `Little by little instead of all at once`
-    = `step by step rather than an all-at-once`
+
+rápidamente
+    = quickly (lo hizo rápido)
+    ? Terminó el proyecto rápidamente : `He finished the project quickly`
+
+sin retraso, diligentemente
+    = promptly (sin retraso - diligentemente)
+    ? Terminó el proyecto sin retraso : `He promptly finished the project`
+
+paso a paso...
+    = Step by step
+
+poco a poco ...
+    = Little by little
+    ? Echa la harina poco a poco : `Add the flour little by little`
+
+... en vez de hacerlo de golpe = rather than all at once
+    ? Echa el aceite poco a poco en vez de hacerlo de golpe : `Add the oil little by little rather than all at once`
 
 gradualmente = gradually
     ? El proyecto avanzó gradualmente : `The project progressed gradually`
@@ -78,7 +87,7 @@ por lo general = generally
 normalmente
     = usually (generalmente - hábito, rutina)
     = often (a menudo - algo ocurre muchas veces)
-    ? Normalmente desayuno cereales, pero a veces tengo tostadas (rutina) : `I usually have cereal for breakfast, but sometimes I have toast`
+    ? Normalmente desayuno cereales, pero a veces como tostadas (rutina) : `I usually have cereal for breakfast, but sometimes I have toast`
     ? A menudo llueve en otoño : `It often rains in autumn`
 
 raramente = rarely
@@ -111,12 +120,19 @@ totalmente, completamente
     = wholly (f)
     ? Estoy totalmente de acuerdo contigo : `I completely agree with you`
 
-casi no podía ... = I could hardly
-    ? Casi no podía respirar : `I could hardly breathe`
+casi no podía ... = I could barely/hardly ...
+    ? Casi no podía respirar : `I could barely breathe`
+    ? Casi no puedo pagar : `I can barely afford it`
 
 ## Adverbs of Comment (speaker's attitude or opinion)
 
-en realidad = actually
+en realidad
+    ! A veces se solapan, otras no
+    = in fact (de hecho... 🠢 añadiendo detalle)
+    = actually (al contrario... 🠢 añade corrección o sorpresa)
+    ? Es un buen cantante. En realidad, ganó un concurso nacional : `He’s a good singer. In fact, he won a national contest` (añadiendo detalle)
+    ? Entonces, ¿eres estudiante? No, soy médico en realidad : `So, you're a student? No, I'm a doctor, actually` (al contrario)
+    ? No pensé que disfrutaría de la fiesta, pero en realidad fue divertida : `I didn't think I'd enjoy the party, but it was **actually** quite fun` (sorpresa)
 
 preocupantemente = worryingly
 
@@ -126,7 +142,10 @@ asombrosamente = amazingly
 
 lamentablemente = regrettably
 
-sin duda, indudablemente = undoubtedly
+sin duda, indudablemente
+    = Without any doubt (f)
+    = Absolutely (n)
+    = For sure (i)
 
 comprensiblemente = understandably
 

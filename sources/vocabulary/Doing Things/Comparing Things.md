@@ -20,7 +20,7 @@ más que, el que más
     = Algunas palabras admiten tanto er/est como more/most
         - clever, common, friendly, narrow, quiet, simple, stupid...
     = Otras simplemente tienen sus propias palabras
-        - `good->better->best, bad->worse->worst, far->farther->farthest, little->less->least`
+        - `good🠢better🠢best, bad🠢worse🠢worst, far🠢farther🠢farthest, little🠢less🠢least`
     ? late : `later` - `the latest`
     ? thin : `thinner` - `the thinnest`
     ? slow : `slower` - `the slowest`

@@ -129,8 +129,8 @@ tienes la capacidad de ...?
     = Do you have what it takes (i)
     = Do you have the required skills for ...?
     = Do you possess the necessary qualifications to ...? (f)
-    ? ¿Puedes trabajar horas extra? -> Puedo trabajar horas extra : `Are you able to work overtime?` -> `I am able to work overtime`
-    ? ¿Puedes manejar la presión? -> Puedo manejar la presión : `Can you handle the pressure?` -> `I can handle the pressure`
+    ? ¿Puedes trabajar horas extra? 🠢 Puedo trabajar horas extra : `Are you able to work overtime?` 🠢 `I am able to work overtime`
+    ? ¿Puedes manejar la presión? 🠢 Puedo manejar la presión : `Can you handle the pressure?` 🠢 `I can handle the pressure`
     ? ¿Tienes lo que se necesita para ser gerente? : `Do you have what it takes to be a manager?`
 
 se necesita/requiere = it takes

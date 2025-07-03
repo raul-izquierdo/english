@@ -7,7 +7,7 @@ Objective of a Letter of Application
 
 Formality?
     = formal
-        - pasivo -> **no primera persona**
+        - pasivo 🠢 **no primera persona**
         - no contracciones
 
 ## Structure

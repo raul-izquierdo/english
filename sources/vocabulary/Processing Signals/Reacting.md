@@ -37,7 +37,7 @@ poner en práctica, implementar (una medida)
     ? La empresa adoptó una nueva política para mejorar la eficiencia : `The company adopted a new policy to improve efficiency`
 
 supone, implica...
-    ! OJO: no es _imply_ -> significa _dar a entender_
+    ! OJO: no es _imply_ 🠢 significa _dar a entender_
     = involve (involucra) Más común que _entail_
     = entail (conlleva)
     ? Hacer dieta implica renunciar a cosas : `Dieting involves giving up things`

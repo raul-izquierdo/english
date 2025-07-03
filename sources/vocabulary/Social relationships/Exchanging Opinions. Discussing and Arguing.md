@@ -240,32 +240,32 @@ todos estaremos de acuerdo en que
     = we can all agree that
     ? Todos estaremos de acuerdo en que la nueva política es una buena idea : `... the new policy is a good idea`
 
-Yo <expr> ->  Yo también!
+Yo <expr> 🠢  Yo también!
     = Me too
-    ? Me gusta el chocolate : `I like chocolate -> Me too`
-    = (en general)  I <expr> -> So do I
-    ? Me gusta el chocolate : `I like chocolate -> So do I`
-    = (con auxiliares be/have/can/should/must/will/would) I <aux> -> So <aux> I
-    ? Sé nadar : `I can swim -> So can I`
-    ? Iría : `I would go -> So would I`
-    ? Tengo hambre : `I'm hungry -> So am I`
+    ? Me gusta el chocolate : `I like chocolate 🠢 Me too`
+    = (en general)  I <expr> 🠢 So do I
+    ? Me gusta el chocolate : `I like chocolate 🠢 So do I`
+    = (con auxiliares be/have/can/should/must/will/would) I <aux> 🠢 So <aux> I
+    ? Sé nadar : `I can swim 🠢 So can I`
+    ? Iría : `I would go 🠢 So would I`
+    ? Tengo hambre : `I'm hungry 🠢 So am I`
         - RULE: In 'so X I', X must match the auxiliary verb used in the original statement. If it doesn't use an auxiliary (like "I like coffee"), then "do/does/did" is used
 
-Yo no <expr> ->  Yo tampoco!
+Yo no <expr> 🠢  Yo tampoco!
     = Me neither
-    ? No me gusta el chocolate : `I don't like chocolate -> Me neither`
-    = (en general)  I don't <expr> -> Neither do I
-    ? No me gusta el chocolate : `I don't like chocolate -> Neither do I`
-    = (con auxiliares be/have/can/should/must/will/would) I <aux> -> So <aux> I
-    ? No sé nadar : `I can't swim -> Neither can I`
-    ? No iría : `I wouldn't go -> Neither would I`
-    ? No tengo hambre : `I'm not hungry -> Neither am I`
+    ? No me gusta el chocolate : `I don't like chocolate 🠢 Me neither`
+    = (en general)  I don't <expr> 🠢 Neither do I
+    ? No me gusta el chocolate : `I don't like chocolate 🠢 Neither do I`
+    = (con auxiliares be/have/can/should/must/will/would) I <aux> 🠢 So <aux> I
+    ? No sé nadar : `I can't swim 🠢 Neither can I`
+    ? No iría : `I wouldn't go 🠢 Neither would I`
+    ? No tengo hambre : `I'm not hungry 🠢 Neither am I`
         - RULE: La misma que antes, pero pasando de negativo a positivo
 
 discutir sobre...
     = discuss (hablar/tratar un tema, no necesariamente en desacuerdo)
         - OJO: que no es el discutir español
-    = argue (es es el discutir español -> normalmente en desacuerdo)
+    = argue (es es el discutir español 🠢 normalmente en desacuerdo)
     = debate (plantear vistas opuestas, normalmente en foro público)
     ? Discutieron sobre el mejor modo de resolver el problema: `They argued about the best way to solve the problem`
     ? El comité tratará la nueva política: `The committee will discuss the new policy`

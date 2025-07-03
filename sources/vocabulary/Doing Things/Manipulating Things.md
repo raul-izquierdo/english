@@ -255,7 +255,7 @@ separados = apart
 
 separar
     = separate (f)
-        - OJO: no usar _set apart_ -> destacar/reservar
+        - OJO: no usar _set apart_ 🠢 destacar/reservar
     ? Necesito separar los documentos importantes de los que no lo son : `I need to separate the important documents from the unimportant ones`
 
 

@@ -14,7 +14,7 @@ lengua nativa = mother tongue
 hablar
     = speak. Tiene dos usos:
         - Tener la _capacidad_ de hablar `He can speak three languages` - `Ì can't speak`
-        - "dirigirse a" -> versión _formal_ de _talk_ (con los mismos matices en _to_ y _with_)
+        - "dirigirse a" 🠢 versión _formal_ de _talk_ (con los mismos matices en _to_ y _with_)
     = talk (conversar). Aunque son intercambiables, los siguientes ejemplos se suponen que tienen algún matiz:
         - **to** Uno habla y el otro escucha (consejos, instrucciones, ordenes...)
         - **with** Hablan ambos

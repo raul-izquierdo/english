@@ -63,9 +63,9 @@ Translate (I)
 
 Translate (II)
     ? Volarán a Nueva York la próxima semana: `They’re flying to New York next week`
-    ? Llámame en cuanto llegues: `Give me a call as soon as you arrive` (arrive -> llegues)
-    ? Cuando estés almorzando, yo todavía estaré en la cama: `When you are having lunch, I'll still be in bed` (are -> estés)
-    ? No puedes salir hasta que hayas ordenado tu habitación: `You can't go out until you have tidied your room` (have -> hayas)
+    ? Llámame en cuanto llegues: `Give me a call as soon as you arrive` (arrive 🠢 llegues)
+    ? Cuando estés almorzando, yo todavía estaré en la cama: `When you are having lunch, I'll still be in bed` (are 🠢 estés)
+    ? No puedes salir hasta que hayas ordenado tu habitación: `You can't go out until you have tidied your room` (have 🠢 hayas)
    = present
         - Eventos programados
         - Subjuntivo español: llegues, estés, hayas,... (siempre con time linkers: when, as soon as, until, before, after...)

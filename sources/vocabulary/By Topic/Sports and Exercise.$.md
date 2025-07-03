@@ -33,7 +33,7 @@ andar en bicicleta
     ? Fui a montar en bicicleta por el campo el fin de semana pasado : `I went cycling in the countryside last weekend`
 
 hacer <deporte>
-    = to play (jugar a: deportes con pelotas o competitivos -> tennis, football, golf...)
+    = to play (jugar a: deportes con pelotas o competitivos 🠢 tennis, football, golf...)
     = to go (hacer: implican movimiento y acaban en _ing_) (swimming, running, hiking)
     = to do (el resto: do athletics, do gymnastics, do yoga, do karate, do exercise...)
     ? Juego al tenis todos los fines de semana : `I play tennis every weekend`

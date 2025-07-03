@@ -157,8 +157,8 @@ tranquilizar
     ? Le aseguré que el vuelo sería seguro : `I reassured her that the flight would be safe`
     = calm down (calmarse)
     ? Él se calmó después de la discusión : `He calmed down after the argument`
-        - Comparar
     ? Trató de tranquilizar a su amigo diciéndole que la araña se había ido, esperando que eso le ayudara a calmarse : `He tried to reassure his friend that the spider was gone, hoping it would help him calm down`
+    ? Después de un rato, me calmé : `After a while, I calmed down`
 
 ## Rejecting
 
