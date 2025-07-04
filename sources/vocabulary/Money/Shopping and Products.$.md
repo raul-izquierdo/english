@@ -12,7 +12,7 @@ comprar
     ? Necesito coger algunas cosas para comer: `I need to pick up some groceries`
 
 ir de tiendas = go shopping
-    ? Me encanta ir de compras los fines de semana : `I love to go shopping on weekends`
+    ? Me encanta ir de compras los fines de semana : `I love to go shopping at weekends`
 
 recoger = pick up
     ? Necesito recoger mi ropa de la tintorería : `I need to pick up my clothes from the dry cleaner`

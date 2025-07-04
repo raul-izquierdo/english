@@ -14,20 +14,19 @@ cumplir la ley = obey the law
 incumplir la ley = break the law [by <ing>]
     ? Incumplió la ley al robar : `He broke the law by stealing`
 
-esto no es justo = `This is not fair!`
 
 ## Crimes and Criminals
 
 delito, crimen (no se diferencia) = [minor|major] crime
     ? La tasa de criminalidad en la ciudad es alta : `The crime rate in the city is high`
-    ? Fue arrestado por cometer un delito : `He was arrested for committing a crime`
 
 infracción
     = offence (delitos menores: altercado, infracción de tráfico, etc.)
         - Técnicamente, los delitos también son ofensas
-    ? Fue multado por cometer una infracción : `He was fined for committing an offense`
+    ? Fue multado por cometer una infracción : `He was fined for committing an offence`
 
 cometer un delito = commit a crime
+    ? Fue arrestado por cometer un delito : `He was arrested for committing a crime`
 
 delincuente
     = criminal
@@ -35,14 +34,25 @@ delincuente
 
 delincuente reincidente = repeat offender
 
-## Crimes against Property
+robar
+    ! En español usamos _robar_ para algo que en inglés se separa en función de si se va a aplicar a un objeto, una persona o un lugar
+    ! Luego habrá un apartado para cada uno
+    = (hurto) to steal <obj>
+    = (atraco) to rob <person/place>
 
-robar, hurtar (robo sin violencia ni allanamiento) = to steal
+## Crimes against Property. Hurtar - Stealing
+
+robar/hurtar (robo sin violencia ni allanamiento)
+    = to steal <obj>
+        - OJO: No se puede usar para personas o lugares (eso es _atraco_), sino solo para objetos
+        - ✔️ `He stole a car` (objeto) ❌ `He stole a person` (persona) ❌ `He stole a bank` (lugar)
     ? Fue arrestado por robar un coche : `He was arrested for stealing a car`
+
 ladrón = thief
+
 robo, hurto = theft
     ? Se ha producido un robo de varias bicicletas en el campus universitario : `There has been a theft of several bicycles from the university campus`
-    ? Se ha informado de un robo significativo de mercancías : `The company reported a significant amount of stock theft`
+    ? Se ha informado de un robo significativo de mercancías : `The company reported a significant theft of goods`
 
 robar en tienda = to shoplift `He shoplifted a pair of shoes`
 ladrón de tiendas = shoplifter
@@ -60,7 +70,7 @@ vandalismo (daño de propiedad) = vandalism
 vándalo = vandal
 
 robo de identidad = identity theft `Identity theft is a serious crime`
-conducir borracho = drink-driving `Drink-driving is a serious offense`
+conducir borracho = drink-driving `Drink-driving is a serious offence`
 piratería online = internet piracy `Internet piracy is a growing problem`
 pirata online = internet pirate
 
@@ -71,21 +81,21 @@ contrabando, tráfico de
 
 estafa = scam `It's a scam!!`
 
-## Crimes against a Person
+## Crimes against a Person. Atracar -Robbery
 
-me han robado...
-    ? Me han robado : `I was robbed` - `I was pickpocketed`
-    ? Me han robado la cartera : `My wallet was stolen` - `My phone was stolen`
-
-atracar (robo con uso/amenaza de violencia)
-    = to rob
+atracar (robar con uso/amenaza de violencia)
+    ! En español también decimos _me han robado_ para referirnos a atracos, pero en inglés no se usa así
+    = to rob <person/place>
         - OJO: Solo se usar para decir a **quién** se robo (lugares o personas) pero no para decir **qué objeto** se robó
         - ✔️ `He robbed a bank` (lugar) `He robbed a person` (persona)
         - ❌ `He robbed a car` (no indicar lo que se robó) 🠢 `He stole a car`
-    ? Robó un banco : `He robbed a bank`
-    ? Robó a una persona : `He robbed a person`
+    ? Robó/atracó un banco : `He robbed a bank`
+    ? Robó/atracó a una persona : `He robbed a person`
+    ? Me han robado/atracado : `I was robbed`
+
 atracador = robber
     ? El atracador fue atrapado por la policía : `The robber was caught by the police`
+    ? El atracador fue condenado a diez años de prisión : `The robber was sentenced to ten years in prison`
 atraco = robbery
     ? El guardia de seguridad resultó herido durante el atraco : `The security guard was injured during the robbery`
 
@@ -105,14 +115,17 @@ agresor = attacker
 
 maltrato = abuse (physical/emotional)
 
-asesinato (muerte con intención)= murder
+homicidio (matar a alguien, no necesariamente con intención) = homicide
+    ? El homicidio es un delito grave : `Homicide is a serious crime`
+asesinato (homicidio con intención) = murder
     ? El sospechoso fue acusado de asesinato : `The suspect was charged with murder`
+homicidio involuntario = manslaughter (NO manslaughtering)
+    ? Es homicidio involuntario si no hay intención de matar : `It's manslaughter if there is no intention to kill`
+
 asesino = Murderer
 
-homicidio (muerte sin intención)= manslaughter/homicide
-
 secuestro = kidnapping
-    ? El niño fue rescatado después de haber estado en secuestro durante una semana : `The child was rescued after being held in kidnapping for a week`
+    ? El niño fue rescatado después de haber estado en secuestro durante una semana : `The child was rescued after being kidnapped for a week`
 secuestrador = kidnapper
 
 acoso = harassment
@@ -127,7 +140,8 @@ la policía = the police (are)
 un policía = a police officer
 
 vigilancia = surveillance
-    ? La policía está bajo vigilancia por el FBI : `The police are under surveillance by the FBI`
+    = to be watched
+    ? La policía está bajo vigilancia por el FBI : `The police are under surveillance by the FBI`- `The police are being watched by the FBI`
 detener = to arrest
 sospechoso = suspect
 
@@ -142,12 +156,11 @@ una llamada de auxilio = a call for help
     ? El departamento de bomberos respondió a una llamada de auxilio : `The fire department responded to a call for help`
 
 testigo = witness
-    ? El testigo declaró en el juicio : `The witness testified in court`
 
 ## Trial
 
 juicio = trial
-    ? El juicio se celebrará el martes : `The trial will be held on Tuesday`
+    ? El juicio se **celebrará** el martes : `The trial will be held on Tuesday`
 juez = judge
 jurado = jury
 
@@ -161,7 +174,10 @@ jurar
     = vow (más formal)
     ? Juro decir la verdad : `I swear to tell the truth`
 
-fingir = pretend:ed
+testificar = testify
+    ? El testigo testificó en el juicio : `The witness testified in the trial`
+
+fingir = pretend:ed **to**
     ? Fingió estar enfermo para evitar ir a la escuela : `He pretended to be sick to avoid going to school`
 
 cuestionar algo = question something
@@ -175,29 +191,40 @@ admitir/reconocer que
     ? Él admitió que había robado el dinero : `He admitted stealing the money` - `He admitted that he had stolen the money`
     ? Finalmente reconoció haber robado el dinero: `He finally owned up to stealing the money`
 
-condenado a prisión
-    ! OJO: no es "to condemn"!! Eso se usa para condenas _morales_ `He condemned the actions of the government` - `He condemned the violence`
-    = sentenced to prison
-    = received a [duration] prison sentence
-    = to give <sbody> a sentence of
-    ? Fue sentenciado a prisión : `He was sentenced to prison`
-    ? Recibió una sentencia de cinco años : `He received a five-year prison sentence`
-    ? El juez le impuso una sentencia de diez años de prisión : `The judge gave him a sentence of 10 years in prison`
 
 culpable = guilty
-    ? Fue declarado culpable de robo : `He was found guilty of theft`
-
-sentenciado = sentenced
-condenado = convicted
-    ? Fue condenado por robo : `He was convicted of robbery`
+    ? Fue **declarado** culpable de robo : `He was found guilty of theft`
 
 absolver = acquit `The jury acquitted him of all charges` - `The jury acquitted him of murder`
 poner en libertad = release `He was released from prison` - `He was released on bail`
 
-## Punishments
-
 bajo fianza = on bail
     ? Fue liberado bajo fianza : `He was released on bail`
+
+## Punishments
+
+condenado por <crime> = convicted of <crime>
+    ! OJO: no es "to condemn"!! Eso se usa para condenas _morales_ `He condemned the actions of the government` - `He condemned the violence`
+    ? Fue condenado por robo : `He was convicted of robbery`
+
+fué sentenciado/condenado a <punishment>
+    = sentenced to
+    ? Fue sentenciado a prisión : `He was sentenced to prison`
+
+recibió una condena de x años en prision
+    = received a [duration] prison sentence
+    ? Recibió una sentencia de cinco años : `He received a five-year prison sentence`
+
+condenar a alguien a ...
+    = to give <sbody> a sentence of
+    ? El juez le impuso una sentencia de diez años de prisión : `The judge gave him a sentence of 10 years in prison`
+
+ser multado = be fined
+imponer una multa = impose a fine
+pagar una multa = pay a fine
+
+imponer una restricción = impose a restriction
+
 
 acceso prohibido = banned
     ? Se le prohibió el acceso al país/club : `He was banned from entering the country/club`
@@ -209,12 +236,6 @@ se le ordenó = be ordered (puede ser como parte de sentencia o por otro medio l
 hacer servicios comunitario = to do community service
     ? Fue sentenciado a 100 horas de servicios comunitarios : `He was sentenced to 100 hours of community service`
 
-imponer una multa = impose a fine
-ser multado = be fined
-pagar una multa = pay a fine
-
-imponer una restricción = impose a restriction
-
 encerrar en prisión
     = imprison (f)
     = put in prison
@@ -225,30 +246,32 @@ cadena perpetua = life imprisonment
 expulsado = kicked out
     ? Fue expulsado del club : `He was kicked out of the club`
 
+esto no es justo = `This is not fair!`
+
 salir impune / salirse con la suya = get away with
     ? Salió impune del crimen :`He got away with the crime`
     ? Se salió con la suya haciendo trampa en el examen. : `He got away with cheating on the exam`
 
 ## Escape
 
-fuga = escape
-    ? El prisionero logró escapar con éxito. : `The prisoner made a successful escape`
-huida = getaway
-    ? La policía está buscando el coche de fuga : `The police are searching for the getaway car`
-    ? El robo terminó con una fuga : `The robbery ended with a getaway`
 
 escapar, huir
-    = escape (fugarse de una confinamiento; real o figurado)
-    = get away from (alejarse/librarse de seguimiento/zafarse - real o figuradamente)
-    = run away. Dos usos:
+    = **escape** (fugarse de una **confinamiento**; real o figurado)
+    = **get away from** (alejarse/librarse de seguimiento/zafarse - real o figuradamente)
+    = **run away**. Dos usos:
         - salió corriendo, literalmente `He ran away from the police`
         - irse si permiso `He ran away from home/school`
+    ? El prisionero logró escapar con éxito. : `The prisoner made a successful escape`
     ? Estaba esposado pero se las arregló para escapar de la policía : `He was in handcuffs but still managed to escape from the police`
     ? Vio a la policía y rápidamente se escapó de ellos : `He saw the police and quickly got away from them` (librarse)
     ? Después de un breve forcejeo, se escapó del policía : `After a brief struggle, he got away from the police officer` (zafarse)
     ? Se escapó corriendo de la policía : `He ran away from the police`
     ? El adolescente se escapó de casa: `The teenager ran away from home`
     ? Necesito alejarme del trabajo por unos días: `I need to get away from work for a few days` (figuradamente)
+
+huida = getaway
+    ? La policía está buscando el coche de fuga : `The police are searching for the getaway car`
+    ? El robo terminó con una fuga : `The robbery ended with a getaway`
 
 liberarse
     = break free `I want to break freeeeee🎶`
@@ -260,9 +283,9 @@ fugado
     ? El fugado fue atrapado por la policía : `The fugitive was caught by the police`
     ? Era una fugada que abandonó su hogar a los dieciséis años. : `She was a runaway who left home at sixteen`
 
-en fuga, prófugo = on the run
-    ? El fugitivo está en fuga : `The killer is on the run`
+estar en fuga = on the run
+    ? El asesino está en fuga : `The murderer is on the run`
 
-anda suelto = at large
+anda suelto = to be at large
     ? El fugitivo anda suelto : `The fugitive is at large`
     ? El lobo sigue suelto en la aldea : `The wolf is still at large in the village`

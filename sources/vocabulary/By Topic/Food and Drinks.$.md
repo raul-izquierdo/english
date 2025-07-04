@@ -10,12 +10,25 @@ comida
 
 merienda = snack
 cena = dinner
-postre = dessert
-aperitivo = appetizer
 
 desayunar/comer/.../cenar = have breakfast/.../dinner
 
+aperitivo = appetizer
+primer plato = starter
+segundo plato/plato principal = main course
+postre = dessert
+
 tentempié (chips, fruit, biscuits, small sandwich) = snack
+
+comida casera = homemade food
+comida basura = junk food
+comida a domicilio = takeaway food
+
+comida de tres platos = three-course meal
+    - Formado por _starter_, _main course_ y _dessert_
+
+la comida se ha estropeado = go off
+    ? La comida se ha estropeado, tenemos que tirarla : `The food has gone off, we need to throw it away`
 
 ## Places
 
@@ -26,28 +39,20 @@ puesto de comida = food stall
 panadería = bakery
 pastelería = pastry shop
 
-## Types of Meals
-
-comida casera = homemade food
-comida basura = junk food
-comida a domicilio = takeaway food
-
-comida de tres platos = three-course meal
-    - Formado por _starter_, _main course_ y _dessert_
+salir a comer
+    = go out **for** lunch/dinner
+    ? Vamos a salir a comer esta noche : `We're going out for dinner tonight`
+    ? En mi cumpleaños, salimos a comer a un restaurante : `On my birthday, we went out for lunch at a restaurant`
 
 comer en casa = eat in
-    ? Me gusta comer en casa los fines de semana : `I like to eat in on weekends`
+    ? Me gusta comer en casa los fines de semana : `I like to eat in at weekends`
     ? Me gusta comer en casa con mi familia : `I like to eat in with my family`
 
-comer fuera de casa
+comer fuera [de casa]
     = eat out (en un restaurante)
     = eat outdoors (al aire libre - picnic)
-    ? Me gusta comer fuera de casa los fines de semana : `I like to eat out on weekends`
-    ? Me gusta comer al aire libre los fines de semana : `I like to eat outdoors on weekends`
-
-la comida se ha estropeado
-    = go off
-    ? La comida se ha estropeado, tenemos que tirarla : `The food has gone off, we need to throw it away`
+    ? Me gusta comer fuera de casa los fines de semana : `I like to eat out at weekends`
+    ? Me gusta comer al aire libre los fines de semana : `I like to eat outdoors at weekends`
 
 ## Food Adjectives
 
@@ -126,7 +131,6 @@ comer x
 
 masticar = chew
 tragar = swallow
-engullir, devorar = bolt down
 
 comer en exceso = overeat
     ? Suelo comer en exceso cuando estoy estresado : `I tend to overeat when I'm stressed`
@@ -141,9 +145,9 @@ sobremesa
 
 ## Diets
 
-suelo comer X
+tengo tendencia a comer X
     = I tend to eat X
-    ? Suelo comer pasta : `I tend to eat pasta`
+    ? Tengo tendencia a comer pasta : `I tend to eat pasta`
 
 estar/seguir dieta...
     = to follow a diet (dieta habitual)
@@ -157,16 +161,17 @@ estar/seguir dieta...
 dieta equilibrada = balanced diet
     ? Intento mantener una dieta equilibrada : `I try to maintain a balanced diet`
 
-dieta basada en X = X-based food
+dieta basada en X = <X> based food
     ? Prefiero una dieta basada en plantas : `I prefer plant-based food`
     ? Prefiero una dieta basada en carne : `I prefer meat-based food`
 
-fuera de voluntad = willpower
+fuerza de voluntad = willpower
     ? Necesito más fuerza de voluntad para seguir mi dieta : `I need more willpower to stick to my diet`
 
-que le gusta comer = foody `I'm a foody; I love trying new foods`
+persona a la que le gusta comer = foody `I'm a foody; I love trying new foods`
 
 ## In a Restaurant
+
 
 carta = menu
 camarero = waiter
@@ -177,6 +182,7 @@ atender = to serve
 cocinero
     = chef (profesional)
     = cook (el que cocina)
+        - OJO: no es _cooker_ -> hornillo
 
 hacer la comida
     = make the meal `The cook made the meal`
@@ -260,12 +266,10 @@ coles de Bruselas = Brussels sprouts
 
 filete = steak
 
-salsa = sauce
-
 puré de ... = soup of ... (igual que sopa)
 puré de patatas = mashed potatoes
 
 pasteles = pastries
     - En singular, "pastry" es la misma palabra que repostería (se diferencia por el contexto)
 
-pastelería/respostería = pastry
+respostería = pastry

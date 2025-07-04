@@ -87,7 +87,7 @@ propósito
     ? El propósito de la reunión es discutir el nuevo proyecto : `The purpose of the meeting is to discuss the new project`
 
 intención
-    = intention (lo que pretendes hacer - el plan)
+    = intention to (lo que pretendes hacer - el plan)
     ? Mi intención es ayudarte : `My intention is to help you`
     ? No tengo intención de ofenderte : `I have no intention of offending you`
 

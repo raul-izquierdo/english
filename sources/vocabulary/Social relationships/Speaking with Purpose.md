@@ -221,7 +221,7 @@ deberías ...
     = must (sin TO) Recomendación encarecida
     ? Tienes que ver esta película : `You must see this movie`
     ? No deberías estar aquí : `You shouldn't be here`
-    ? Deberías estudiar más los fines de semana : `You should study more on weekends`
+    ? Deberías estudiar más los fines de semana : `You should study more at weekends`
     ? Deberías haber estudiado más : `You should have studied more`
     ? Es una gran película, tienes que verla : `It's a great movie, you must see it` (más fuerte que _should_)
     ? Mejor que lleves un paraguas. Parece que va a llover : `You’d better take an umbrella — it looks like rain`

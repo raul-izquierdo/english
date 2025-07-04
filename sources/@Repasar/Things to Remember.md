@@ -58,6 +58,8 @@ to be fair
     = IN (ser justo al hacer algo)
     = WHILE (ser justo cuando hace algo)
 
+intention = to `A murderer has the intention to kill`
+
 ## Verbs and To
 
 (verb) [to?] me ... Witch of them use "to me" and which don't?

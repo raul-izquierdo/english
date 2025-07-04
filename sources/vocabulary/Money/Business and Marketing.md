@@ -39,6 +39,9 @@ venta de minorista = retail
 
 ## Products
 
+mercacias
+    = goods `The company sells a wide range of goods`
+
 producto tiene <atributo>
     = product is <atributo>
         - No se usa "to have" en estos casos en los que se habla de un atributo del producto

@@ -51,7 +51,7 @@ estar solo
     ? Ella se sintió triste porque estaba sola en su cumpleaños : `She felt sad because she was alone on her birthday`
     = by myself (por mi cuente - matiz de independencia)
     ? Prefiero estudiar por mi cuenta que en un grupo ruidoso : `I’d rather study by myself than in a noisy group`
-    ? Él suele ir de excursión solo los fines de semana : `He usually goes hiking by himself on weekends`
+    ? Él suele ir de excursión solo los fines de semana : `He usually goes hiking by himself at weekends`
     = on my own (por mi cuenta)
     ? Después de mudarse, aprendió a vivir solo : `After moving out, he learned to live on his own`
     ? Tendrás que hacerlo por tu cuenta : `You'll have to do it on your own`
@@ -80,7 +80,7 @@ amigo
     ? Él es mi colega : `He is my pal`
 
 un grupo de amigos = a group of friends
-    ? Tengo un grupo de amigos con los que salgo los fines de semana : `I have a group of friends I hang out with on weekends`
+    ? Tengo un grupo de amigos con los que salgo los fines de semana : `I have a group of friends I hang out with at weekends`
 
 ¿Sois amigos? = Are you friends?
 

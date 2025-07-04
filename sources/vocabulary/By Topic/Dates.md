@@ -3,14 +3,11 @@
 
 ## Asking and Responding
 
-¿Qué fecha es hoy?
-    = `What's today's date?`
-    = `What's the date?`
-
 ¿Qué dia [de la semana] es hoy?
-    = `What day is [it] today?`
-    = `What day of the week is [it] today?`
+    ? ¿Qué dia es hoy? -> Martes: `What day is [it] today?`
 
+¿Qué fecha es hoy?
+    ? ¿Qué dia es hoy? -> 24 de julio: `What's the date?` - `What's today's date?`
 
 ## How it is Written
 
@@ -28,7 +25,7 @@ Como se lee/dice
     ? Mi cumpleaños es el 24 de julio de 1972 : `My birthday is THE twenty-fourth OF July, nineteen seventy-two`
 
 hoy es 24 (sin decir el mes)
-    = `Today is the 24th`
+    = `Today is **the** 24th`
 
 
 ## Ordinals
@@ -59,7 +56,7 @@ Es 1972
     - OJO: no se dice "one thousand nine hundred seventy-two"
     - Los años entre xx00  y xx09 se leen como un solo número completo (si no, 2005 suena igual que 25 - twenty five)
     ? Es 2000 : `It's two thousand`
-    ? Es 2005 : `It's two thousand and five`
+    ? Es 2005 : `It's two thousand **and** five`
     ? Es 1900 : `It's nineteen hundred`
 
 

@@ -1,5 +1,16 @@
-# Things to Review
+# Things to Repeat
 
+## Full Chapters to Repeat
+
+Grammar
+    = Passive
+    = Reported Speech
+    = Present Perfect Simple and Continuous
+    = Adverbs
+    = Linking Words
+    = Preferences
+    = Crime and Punishments
+    = Food and Drinks
 
 
 ## Conditionals
@@ -79,3 +90,26 @@ test
     ? Le conocí el día de que nació : `I met him on the day he was born` (día específico)
     ? Ven a la puesta de sol/ocaso : `Come at sunset`
     ? Ven el fin de semana : `Come **at** the weekend` (periodo vacacional)
+
+
+## Crime and Punishments
+
+Robo de objetos (hurtos)
+    = theft (sin allanamiento)
+    = burglary (con allanamiento)
+    ? El ladrón, al robar, realiza un robo : `The **thief**, when **stealing**, commits a **theft**`
+    ? El allanador, al entrar en una propiedad ajena, comete un allanamiento : `The **burglar**, when **breaking into** a property, commits a **burglary**`
+
+Robo a personas/lugares (atraco)
+    ! No puede ser `I was stolen`/`The bank was stolen` porque steal es solo para objetos `Mi car was stolen`
+    = 'I was robbed' (robo en general sin violencia)
+    = mugging (robo en concreto en la calle con violencia a un particular)
+    ? Me ha atracado un atracador que ha cometido un atraco : `I was **robbed** by a **robber** that committed a **robbery**` - `I was pickpocketed...`
+    ? Detuvieron al atracador del banco cuando estaba atracando el banco : `The bank robber was arrested while he was robbing the bank` - `The bank robber was arrested while robbing the bank`
+    ? Fui atracado en la calle cuando el atracador cometió un atraco : `I was **mugged** in the street when the **mugger** committed a **mugging**`
+
+
+## Food
+
+translate:
+    ? En mi cumpleaños, salimos a comer a un restaurante : `On my birthday, we went out for lunch at a restaurant`
