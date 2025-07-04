@@ -126,13 +126,6 @@ casi no podía ... = I could barely/hardly ...
 
 ## Adverbs of Comment (speaker's attitude or opinion)
 
-en realidad
-    ! A veces se solapan, otras no
-    = in fact (de hecho... 🠢 añadiendo detalle)
-    = actually (al contrario... 🠢 añade corrección o sorpresa)
-    ? Es un buen cantante. En realidad, ganó un concurso nacional : `He’s a good singer. In fact, he won a national contest` (añadiendo detalle)
-    ? Entonces, ¿eres estudiante? No, soy médico en realidad : `So, you're a student? No, I'm a doctor, actually` (al contrario)
-    ? No pensé que disfrutaría de la fiesta, pero en realidad fue divertida : `I didn't think I'd enjoy the party, but it was **actually** quite fun` (sorpresa)
 
 preocupantemente = worryingly
 

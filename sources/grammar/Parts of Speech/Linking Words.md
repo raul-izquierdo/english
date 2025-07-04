@@ -205,6 +205,13 @@ algo relacionado con
     = something related to (escrito)
     ? Quiero hablar de algo relacionado con el proyecto : `I want to talk about something to do with the project`
 
+en realidad
+    ! A veces se solapan, otras no
+    = in fact (de hecho... 🠢 añadiendo detalle)
+    = actually (al contrario... 🠢 añade corrección o sorpresa)
+    ? Es un buen cantante. En realidad, ganó un concurso nacional : `He’s a good singer. In fact, he won a national contest` (añadiendo detalle)
+    ? Entonces, ¿eres estudiante? No, soy médico en realidad : `So, you're a student? No, I'm a doctor, actually` (al contrario)
+    ? No pensé que disfrutaría de la fiesta, pero en realidad fue divertida : `I didn't think I'd enjoy the party, but it was **actually** quite fun` (sorpresa)
 
 ## Selecting
 

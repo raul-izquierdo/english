@@ -78,3 +78,4 @@ test
     ? Ven en el puente : `Come at the long weekend` (periodo vacacional)
     ? Le conocí el día de que nació : `I met him on the day he was born` (día específico)
     ? Ven a la puesta de sol/ocaso : `Come at sunset`
+    ? Ven el fin de semana : `Come **at** the weekend` (periodo vacacional)

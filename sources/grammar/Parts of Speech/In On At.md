@@ -57,9 +57,10 @@ test
 
 ## With Locations
 
-dentro de un lugar = **in**
+dentro de un espacio cerrado (casas, pisos, habitaciones) = **in**
     ? Vive en un precioso piso : `He lives in a beautiful flat`
     ? El paraguas está en la oficina : `The umbrella is in the office`
+    ? El está en la cocina : `He is in the kitchen`
 
 encima de un lugar = **on**
     ? Está en la mesa : `He is on the table`
@@ -92,3 +93,4 @@ test
     ? Estaba en el tren cuando me di cuenta de que debería estar [ahora] en un taxi : `I was **on** the train when I realised I should be **in** a taxi`
     ? Están en la oficina: `They are in the office` (inside a place) - `They are at the office` (ambos válidos: dentro de o en un lugar específico)
     ? Leí la definición en el diccionario : `I read the definition in the dictionary`
+    ? Está en el salón : `He is in the living room`
