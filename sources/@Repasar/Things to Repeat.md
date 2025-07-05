@@ -233,3 +233,31 @@ granizo = hail `The hail was heavy`
 viento fuerte = strong wind `There's a strong wind today`
 
 mar gruesa = rough sea `The sea is rough today`
+
+## Creative Works
+
+obra de teatro = play
+    ? Fui al teatro a ver una obra: `I went to the theatre to see a play`
+    ? Fui a ver una obra de teatro anoche : `I went to see a play last night`
+
+evento deportivo = sporting event
+
+desfile de moda = fashion show
+pasarela = runway
+
+estar expuesto = to be on display
+    ? La pintura está expuesta en el museo : `The painting is on display at the museum`
+
+hubo una función de = a performance
+    ? Fuiste al teatro? Hubo una función ayer : `Did you go to the theatre? There was a performance yesterday`
+
+no había mucha gente = `There weren't many people`
+
+histórica = historical
+
+hacer/interpretar un papel
+    = play the role of `He plays the role of a detective`
+
+hacer una gran actuación = **give** a great performance
+    ! No es _do a performance_
+    ? El actor dio una gran actuación : `The actor gave a great performance`

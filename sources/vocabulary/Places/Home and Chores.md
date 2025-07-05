@@ -60,10 +60,12 @@ compañero de habitación = roommate
 salón = living room
 
 el pasillo = hallway `The hallway is narrow`
-
+entrada/recibidor = hall
+    ? El hall de entrada es amplio : `The entrance hall is spacious`
 el aseo = toilet
 el techo (de estancia) = ceiling `We need to paint the living room ceiling`
 tejado = roof
+
 
 el suelo de la casa
     = floor

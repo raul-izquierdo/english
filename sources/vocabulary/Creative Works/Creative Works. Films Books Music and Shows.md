@@ -83,7 +83,7 @@ de gira = on tour
 
 teatro = theatre
 
-## Audience
+## People
 
 público, espectadores = audience
 
@@ -199,7 +199,7 @@ canción de una colección = track
 en concierto = in concert
     ? Vi a la banda en concierto anoche : `I saw the band in concert last night`
 
-practicar un instrumento/deporte = practiSe
+practicar (instrumento, materia) = practiSe
     - No confundir con _practiCe_ (noun - la práctica) `I need more practice`
     ? Practico con la guitarra todos los días : `I practise the guitar every day`
     ? Necesito practicar mi inglés : `I need to practise my English`
