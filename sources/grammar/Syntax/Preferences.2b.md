@@ -250,19 +250,19 @@ Translate (IV)
 
 Summary. Preferir que se haga algo en el PRESENTE o FUTURO
     = (sbody) preferiría [no] hacer <action> (el que lo prefiere es el mismo que tendría que hacerlo)
-        - <sbody> would prefer [not] TO <base> (con TO) `I'd **prefer TO sing**`
-        - <sbody> would rather/sooner [not] <base> (sin TO) `I'd **rather sing**`
+        - <sbody> would rather/sooner [not] <base> (sin TO) `I'd **rather eat**`
+        - <sbody> would prefer [not] TO <base> (con TO) `I'd **prefer TO eat**`
     = (sbody1) preferiría que (sbody2) [no] hiciera <action> (el que lo prefiere NO es el mismo que tendría que hacerlo)
-        - <s1> would prefer <me/him/them...> TO <base> `I would **prefer HIM TO sing**`
-        - <s1> would rather/prefer [that] <s2> <past> `I would **prefer THAT HE SANG**` - `I would **rather HE sang**`
+        - <s1> would rather/prefer [that] <s2> <past> `I'd **rather HE ate**` - `I'd **prefer THAT HE ATE**`
+        - <s1> would prefer <me/him/them...> TO <base> `I'd **prefer HIM TO eat**`
 
 Summary. Preferir que no se hubiera hecho algo en el PASADO
     = (sbody) preferiría [no] HABER HECHO <action> (el que lo prefiere es el mismo que tendría que [no]haberlo hecho)
-        - <sbody> would prefer [not] TO HAVE <done> (con TO) `I'd **prefer TO HAVE sung**`
-        - <sbody> would rather [not] HAVE <done> (sin TO) `I'd **rather have sung**`
+        - <sbody> would rather [not] HAVE <done> (sin TO) `I'd **rather have eaten**`
+        - <sbody> would prefer [not] TO HAVE <done> (con TO) `I'd **prefer TO HAVE eaten**`
     = (sbody1) preferiría que <sbody2> [no] hubiera hecho <action> (el que lo prefiere NO es el mismo que el que tendría que [no]haberlo hecho)
-        -  <s1> would prefer <me/him/them...> TO HAVE <done> `I would **prefer HIM TO HAVE sung**` (sí, no es _had_)
-        -  <s1> would rather/prefer [that] <s2> HAD <done> `I would **prefer THAT HE HAD sung**` - `I would rather HE had sung`
+        -  <s1> would rather/prefer [that] <s2> HAD <done> `I'd rather HE had eaten` - `I'd **prefer THAT HE HAD eaten**`
+        -  <s1> would prefer <me/him/them...> TO HAVE <done> `I'd **prefer HIM TO HAVE eaten**` (sí, no es _had_)
 
 
 ## Offering Options
