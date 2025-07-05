@@ -331,14 +331,17 @@ volveré, estaré de vuelta
 
 ## Other Movements
 
-dar un paseo = go for a walk
-    ? Están dando un paseo y viendo las tiendas : `They are going for a walk and looking at the shops`
+dar un paseo
+    = taking a walk
+       - walking (es simplemente andando, no necesariamente _dando_ un paseo_)
+    = go for a walk (intercambiable)
+    ? Veo tres personas dando un paseo : `I see three people taking a walk` - `...going for a walk`
+    ? Están dando un paseo y viendo las tiendas : `They are going for a walk and looking at the shops` - `They are taking a walk ...`
 
-andar con determinación/paso firme
-    = stride into/out/across/along/towards
-    ? Entró en la habitación con confianza : `She strode confidently into the room`
-    ? Caminó por la calle con determinación : `He strode down the street with purpose`
-
+salir a pasear
+    = go for a walk (sí, además de para _dar un paseo_)
+    ? Van a dar un paseo : `They are going for a walk`
+    ? Salí a pasear por el parque : `I went for a walk in the park`
 
 alejarse = move away
     ? Se alejó del fuego : `He moved away from the fire`
@@ -366,7 +369,10 @@ me doy la vuelta = I turn around
 acompáñanos = come along
     ? Ven al concierto con nosotros : `Come along to the concert with us`
 
-llevar a alguien a un sitio = take someone out
+llevar a alguien a un sitio
+    = take someone out
+        - **for** <sthing> (para algo) `I took him out for a drink`
+        - **to** <place> (a lugar) `I took him out to the restaurant`
     ? Le saqué a comer el martes : `I took him out to eat on Tuesday`
     ? Lo llevé a dar un paseo por la ciudad : `I took him out for a walk around the city`
 

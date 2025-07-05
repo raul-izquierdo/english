@@ -7,86 +7,62 @@ cantidad
     = amount (incontable)
     = number (contable)
     = quantity (ambos, pero es más técnico, así que se usan más las anteriores) (f)
-    = Roberto y Elsa son unos capullos
     ? La cantidad de agua es insuficiente:  `The amount of water is insufficient`
     ? La cantidad de estudiantes está aumentando: `The number of students is increasing`
 
+## Quantities
 
-## Describing Quantities
 
+(contables) muy pocos, pocos, [bastantes], muchos, muchísimos, demasiados
+    = very few, few, **quite a few**, many, a large number of, too many
 
-muy pocos, pocos, bastantes, muchos, muchísimos, demasiados (contables)
-    = very few, few, quite a few, many, a large number of, too many
+(incontables) muy poco, poco, [bastante], mucho, muchísimo, demasiado
+    = very little, little, **quite a bit of**, much, a large amount of, too much
 
-muy poco, poco, bastante, mucho, muchísimo, demasiado (incontables)
-    = very little, little, quite a bit of, much, a large amount of, too much
+Fijarse: [few] vs [quite a few]
+    = _few_ es negativo, _quite a few_ es positivo
+    ? `There are few people at the party`¿Cuánta gente hay? : hay poca gente
+    ? `There are quite a few people at the party`¿Cuánta gente hay? : hay bastante gente
 
-con mucho...
-    = with a great deal of (incontables - formal)
-    = with a lot of (ambos - informal)
-    ? Con mucho esfuerzo, podemos terminar el proyecto a tiempo : `With a great deal of effort, we can finish the project on time` - `... a lot of effort...`
-
-little/few vs a little/a few
+[little/few] vs [a little/a few]
     = sin la _a_ : pesimista
     = con la _a_ : optimista
     ? `There is little hope of success` ¿Cuánta esperanza hay? : poca esperanza
     ? `There is a little hope of success` ¿Cuánta esperanza hay? : algo de esperanza
 
-few vs quite a few
-    = _few_ es negativo, _quite a few_ es positivo
-    ? `There are few people at the party`¿Cuánta gente hay? : hay poca gente
-    ? `There are quite a few people at the party`¿Cuánta gente hay? : hay bastante gente
-
+para matizar [too many/much]
+    = De más a menos: far, way, rather, a little, a bit
+    ? Hay muchísimo azúcar : `There is far too much sugar` - `...way too much`
+    ? Es un poco demasiado azúcar : `There is a little too much sugar`
+    ? Hay un pelín demasiado azúcar : `There is bit too much sugar`
 
 (a lot of) vs (lots of)
     = Ambos valen para contable e incontables. Son intercambiables
         - Ambos son informales, pero _lots of_ es aún más informal que _a lot of_.
         - Para formal, usar _a large number of_ o _a large amount of_.
-        ? Hay muchos libros en la estantería : `There are a lot of books on the shelf` - `...lots of books`
-        ? Hay mucho dinero : `There is a lot of money` - `...lots of money`
+    ? Hay muchos libros en la estantería : `There are a lot of books on the shelf` - `...lots of books`
+    ? Hay mucho dinero : `There is a lot of money` - `...lots of money`
 
-una gran cantidad de
-    = a great deal of (incontables - formal)
+una gran cantidad de (incontable)
+    = a great deal of (f)
     ? Hay una gran cantidad de trabajo por hacer : `There is a great deal of work to do`
+    ? Con mucho esfuerzo, podemos terminar el proyecto a tiempo : `With a great deal of effort, we can finish the project on time` - `... a lot of effort...`
 
 un número importante de = a significant number of
 
 una cantidad importante de = a significant amount of (incontables - formal)
     ? Hay una cantidad importante de trabajo por hacer : `There is a significant amount of work to do`
 
-una cantidad considerable de = considerable (cuantioso)
-    ? Hay una cantidad considerable de trabajo por hacer : `There is a considerable amount of work to do`
-
-
-
 ## Quantities relative to a Target
 
 superar en número = outnumber
     ? El número de visitantes superó el número de asientos disponibles en el teatro : `The number of visitors outnumbered the available seats in the theatre`
 
-demasiado (exceso)
-    = too much/many (incontables/contables)
-    ? Hay demasiado azúcar en esta tarta: `There is too much sugar in this cake`
-    ? Hay demasiadas personas en la habitación: `There are too many people in the room`
-
-para enfatizar el exceso
-    = De más a menos: far, way, rather, a little, a bit
-    ? Hay muchísimo azúcar : `There is far too much sugar` - `...way too much`
-    ? Es un poco demasiado azúcar : `There is a little too much sugar`
-    ? Hay un pelín demasiado azúcar : `There is bit too much sugar`
-
-demasiado poco
-    = too few/little (contables/incontables)
-    = not enough (para ambos)
-    ? Hay muy pocas personas en la habitación: `There are too few people in the room`
-    ? Hay muy poco azúcar en esta tarta: `There is too little sugar in this cake`
-
-suficiente[mente]
+es suficiente[mente]
     = <adjective> enough `tall enough`
     = enough <object> [TO <base>]
     ? No eres suficientemente alto : `You are not tall enough`
     ? No lo has hecho con suficiente cuidado : `You haven't done it carefully enough`
-    ? ¿Estás suficientemente cansado? : `You are tired enough?`
     ? No hay suficiente comida : `There is not enough food`
     ? No tengo suficiente tiempo para verte hoy : `I don't have enough time to see you today`
 
@@ -101,7 +77,6 @@ casi hay/no hay por poco
     ? Ya casi hay suficiente comida: `There is almost enough food`
     ? Esto es casi suficiente dinero para comprar los billetes: `This is almost enough money to buy the tickets`
     ? Eso no es suficiente tiempo para acabar el proyecto!! : `That’s not quite enough time to finish the project`
-
 
 escasez, falta de...
     = shortage of (escasez de algún suministro))
@@ -125,43 +100,43 @@ grande
     ? Él era un hombre grande : `He was a large man`
     ? Él era un gran hombre (importante): `He was a great man`
 
-enorme
-    = huge
+enorme = huge
 
 
 ## Distribution
-
-todo el mundo
-    = everyone/everybody IS/HAS (singular)
-    ? Todo el mundo tiene derecho a votar : `Everybody has a right to vote`
-
-una mayoría/minoría de
-    = most of (i)
-    = a majority of (f)
-    ? La mayoría votó a favor de la nueva ley : `A majority voted for the new law` - `Most of the people...`
-    ? La mayoría de los estudiantes suspendieron el examen : `A majority of the students failed the exam` - `Most of the students...`
-
-una minoría de
-    = a minority of (f)
-    = only a few (n)
-    ? Una minoría votó en contra de la nueva ley : `A minority voted against the new law` - `Only a few people...`
 
 todos nosotros/vosotros
     = all of us/you
     ? Todos nosotros estamos invitados a la fiesta : `All of us are invited to the party`
     ? Todos vosotros tenéis derecho a votar : `All of you have a right to vote`
 
-todos los
-    = all
+todos los ... = all ...
     ? Todas las personas tienen derecho a votar : `All people have a right to vote`
 
-todo/todos ... = every
-    ? Voy al gimnasio todos los días : `I go to the gym every day`
-    ? Todo alumno debe asistir a clase : `Every student must attend class`
-    ? Todo estudiante recibirá un certificado : `Every/Each student will receive a certificate` (aquí se solapa con _each_)
+todo el mundo
+    = everyone/everybody IS/HAS (singular)
+    ? Todo el mundo tiene derecho a votar : `Everybody has a right to vote`
 
-cada = each
+every vs each
+    = each (cada uno...)
+    = every (todo/todos los...)
+    ? Cada alumno tiene su propio móvil : `Each student has their own phone`
+    ? Todo alumno tiene un móvil : `Every student has a phone`
     ? Cada alumno recibirá un regalo diferente : `Each child got a different gift`
+    ? Todo estudiante recibirá un certificado : `Every/each student will receive...` (intercambiables - se puede interpretar de ambas maneras)
+    ? Voy al gimnasio todos los días : `I go to the gym every day` (grupo -> dias de la semana)
+
+una mayoría/minoría de
+    = most of (i)
+    = the/a majority of (f)
+    ? La mayoría votó a favor de la nueva ley : `The majority voted for the new law` - `Most of the people...`
+    ? La mayoría de los estudiantes suspendieron el examen : `The majority of the students failed the exam` - `Most of the students...`
+
+una minoría de
+    = a minority of (f)
+    = only a few (n)
+    ? Una minoría votó en contra de la nueva ley : `A minority voted against the new law` - `Only a few people...`
+
 
 ## Existence
 
@@ -218,10 +193,10 @@ reducir a
     = reduced by half, by a quarter, by a third...
     ? El precio se redujo a la mitad :  `The price was halved` - `The price was cut by half` - `...reduced by half`
 
-reducir el consumo (hábito) = cut down on
-    ? Necesito reducir mis gastos este mes : `I need to cut down on my spending this month`
+reducir el consumo (hábito) = cut down **on**
+    ? Necesito reducir mis gastos este mes : `I need to cut down **on** my spending this month`
 
-eliminar = cut out
+eliminar (hábito) = cut out
     ? Decidí eliminar la comida basura de mi dieta : `I decided to cut out junk food from my diet`
 
 aumentar/impulsar/estimular
@@ -250,14 +225,13 @@ alrededor de...
 
 ## Totals
 
-asciende a ... (totaliza)
+asciende a ...
     = amounts to (f)
+    = reaches (n)
     = comes to (i)
     = run into (cantidad alta o inesperada) (i)
     ? El coste asciende a $1000 : `The cost amounts to $1000`
     ? El importe total a pagar es $500 : `The total amount to be paid is $500`
     ? La cuenta asciende a $50 : `The bill comes to $50`
     ? El coste suele ascender a miles de libras!! : `The cost will often run into thousands of pounds`
-
-alcanza, llega a (nivel) = reaches
     ? El coste alcanza los $500 : `The cost reaches $500`

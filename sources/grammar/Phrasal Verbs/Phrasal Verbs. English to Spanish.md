@@ -340,7 +340,7 @@ take on
     = asumir una responsabilidad `He took on the project` - `He took on the challenge`
 take out
     = sacar `He took out his wallet to pay for the meal` - `I will take out time to travel`
-    = llevar a alguien a un sitio `I took her out to dinner` - `I took him out for a walk`
+    = llevar a alguien a un sitio `I took her out to a restaurant` - `I took him out for a walk`
 take over = hacerse cargo `He took over the family business` - `He took over the project after the manager left`
 take part in = participar `He takes part in the local marathon every year`
 take place = tener lugar `The meeting took place in the conference room` - `The event took place last week`
