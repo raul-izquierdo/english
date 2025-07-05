@@ -39,16 +39,17 @@ aficionado
     = to be INTO
     ? Me gustan mucho los juegos de mesa : `I'm into board games`
 
+no sé mucho del tema
+    = I don't know [very] much about it/the subject
+
+estar al día de algo = to be up **on** <sthing>
+    ? No estoy muy al dia del tema  : `I'm not very up **on** it/the subject`
+
 nunca me ha llamado la atención
     ? Nunca me ha llamado la atención : `It has never caught my attention`
 
 no es lo mio
     = It's not really my thing
-
-me encantaría <hacer X>
-    = I’d be thrilled to <base>
-    ? Me encantaría hacer puenting : `I’d be thrilled to go bungee jumping`
-
 
 ## Tastes
 
@@ -249,7 +250,7 @@ Translate (IV)
 
 
 Summary. Preferir que se haga algo en el PRESENTE o FUTURO
-    = (sbody) preferiría [no] hacer <action> (el que lo prefiere es el mismo que tendría que hacerlo)
+    = (sbody) preferiría [no] hacer <action> (el que lo prefiere es el mismo que tendría que hacerlo)spero buenas noticias
         - <sbody> would rather/sooner [not] <base> (sin TO) `I'd **rather eat**`
         - <sbody> would prefer [not] TO <base> (con TO) `I'd **prefer TO eat**`
     = (sbody1) preferiría que (sbody2) [no] hiciera <action> (el que lo prefiere NO es el mismo que tendría que hacerlo)

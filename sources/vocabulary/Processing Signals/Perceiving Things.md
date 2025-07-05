@@ -130,8 +130,8 @@ transmite, comunica, indica = convey
 
 recordar
     = remember (uno mismo recuerda)
-    ? Recuerdo mi primer día de escuela : `I remember my first day at school`
     = remind (uno recuerda a otro)
+    ? Recuerdo mi primer día de escuela : `I remember my first day at school`
     ? Recuérdame que le llame : `Remind me to call her`
     ? Recuerda llamarla : `Remember to call her` (acuérdate tu misma)
     ? Me recuerda a mi infancia : `It reminds me of my childhood` (una cosa te está recordando a ti)

@@ -42,6 +42,8 @@ venta de minorista = retail
 mercacias
     = goods `The company sells a wide range of goods`
 
+novedades = novelties
+
 producto tiene <atributo>
     = product is <atributo>
         - No se usa "to have" en estos casos en los que se habla de un atributo del producto
