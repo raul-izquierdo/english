@@ -221,3 +221,15 @@ un rato
 
 lo que más tiempo me llevó fue ...
     = What took me the **longest** was... (no poner _the most_)
+
+## Weather
+
+fenómeno meteorológico = weather phenomenon
+
+nevada = [heavy] snowfall
+
+granizo = hail `The hail was heavy`
+
+viento fuerte = strong wind `There's a strong wind today`
+
+mar gruesa = rough sea `The sea is rough today`

@@ -69,7 +69,6 @@ calabobos = drizzle
     ? Está lloviznando hoy : `It’s drizzling today`
 lluvia ligera = light rain `There's light rain today`
 fuerte lluvia = heavy rain
-lluvia torrencial = torrential rain
 
 chubascos (lluvia intermitente) = showers (ligera o fuerte, pero intermitente)
     ? Hoy hay chubascos : `It’s showery today`
@@ -80,12 +79,10 @@ viento fuerte = strong wind `There's a strong wind today`
 galerna = gale-force wind
 
 mar tranquilo = calm sea `The sea is calm today`
-mar picada = choppy sea `The sea is choppy today`
 mar gruesa = rough sea `The sea is rough today`
 
 brisa suave = gentle breeze
 brisa fresca = fresh breeze
-brisa fuerte = stiff breeze
 
 ## Changing Weather
 
