@@ -10,7 +10,7 @@ momento
     ? En ese momento, me di cuenta de la verdad : `At that moment, I realized the truth`
     ? Fue un momento hermoso : `It was a beautiful moment`
     ? Fue una época difícil para mí : `It was a difficult time for me`
-    ? En ese momento, yo vivía en Londres : `At that time, I was living in London`
+    ? En ese momento, yo vivía en Londres : `At that time, I was living in London` (se refiere a _esa época_)
     ? El momento ideal es en la mañana : `The ideal time is in the morning` (la mañana es una duración, no un momento puntual) )
     ? El momento perfecto es a las 10:00 : `The perfect moment is at 10:00` (la hora es un momento puntual, no una duración)
 
@@ -26,17 +26,13 @@ es un buen momento = it's a good time
 dedicar/pasar tiempo
     = spend time ON <thing>
     = spend time IN <place>
+    = hung out (i)
     ? Paso tiempo en mis aficiones cada semana : `I spend time on my hobbies every week`
     ? Paso tiempo en las montañas : `I spend time in the mountains`
-
-perder el tiempo = las mismas variantes que _spend_ pero con _waste_
-
-pasar el rato
-    = hung out (i)
-    = spend time with
     ? Estuve con mis amigos anoche : `I hung out with my friends last night`
     ? Me encontré con una persona interesante en la fiesta y pasamos un rato juntos; realmente nos llevamos muy bien : `I came across an interesting person at the party and we hung out for a bit; we actually get along really well`
 
+perder el tiempo = las mismas variantes que _spend_ pero con **waste**
 
 perder la noción del tiempo = lose track of time
     ? Pierdo la noción del tiempo cuando leo : `I lose track of time when I'm reading`
@@ -58,13 +54,12 @@ ganar tiempo = gain time
 
 ahorrar tiempo = save time
 
-tomarse tiempo para = take time to
-    ? Deberías tomarte tiempo para pensarlo : `You should take time to think about it`
-
-tomarse un tiempo
+tomarse tiempo para
+    = take time to
     = take time out (descanso largo)
-    ? Es importante tomarse un tiempo para recargar energías : `It's important to take time out to recharge your batteries`
-    ? Ha decidido tomarse un tiempo fuera de su carrera para viajar por el mundo : `He's decided to take some time out from his career to travel the world`
+    ? Deberías tomarte tiempo para pensarlo : `You should take time to think about it`
+    ? Es importante tomarse un tiempo para recargar energías : `It's important to take time **out** to recharge your batteries`
+    ? Ha decidido tomarse un tiempo fuera de su carrera para viajar por el mundo : `He's decided to take some time **out** from his career to travel the world`
 
 ## Periods of the Day
 
@@ -113,6 +108,7 @@ no hace mucho que... = not long ago
     ? No hace mucho que lo vi : `I saw him not long ago`
 
 en los último años = in recent years
+    - _in the last years_ sería si estamos hablando de los _últimos años_ de algo `In the last years of his career...`
 
 en los últimos X años = in the last X years
     ? No lo he visto en los últimos 5 años : `I haven't seen him in the last 5 years`
@@ -138,8 +134,8 @@ desde la última vez que
     ? Han cambiado muchas cosas desde la última vez que lo vi : `A lot has changed since I last saw him`
     ? ¿Has sabido de ella desde la última vez que llamó? : `Have you heard from her since she last called?`
 
-desde hace <time> = for
-	? Lo conozco desde hace 20 años : `I've known him FOR twenty years`
+desde hace <time> = for (lo tratan como un _durante_ -> ver abajo)
+	? Lo conozco desde hace 20 años : `I've known him FOR twenty years` (en realidad lo cambian a _lo he conocido durante 20 años_)
 
 
 ## Travelling Back in Time
@@ -226,7 +222,7 @@ todos los días = every day
     ? Voy al gimnasio todos los días : `I go to the gym every day`
 
 todo el tiempo/rato
-    = [pretty much] all the time
+    = [pretty much] all **the** time (aquí si se pone el _the_)
     = constantly
     ? Está con el móvil todo el tiempo : `He’s on his phone all the time` - `... constantly` - `He’s constantly on his phone`
 
@@ -255,7 +251,7 @@ tardar/le lleva <x> tiempo = take
     ? Me lleva una hora llegar al trabajo : lo mismo
 
 lo que más tiempo me llevó fue ...
-    = What took me the longest was...
+    = What took me the **longest** was... (no poner _the most_)
 
 el tiempo que requiere = the time it takes
 
@@ -279,15 +275,6 @@ a tiempo
     ? Espero que el paquete llegue a tiempo para mi cumpleaños : `I hope the package arrives **in** time for my birthday`
 
 A la hora acordada = at the agreed time `The meeting started at the agreed time`
-
-para <tal> dia (o antes) = by <day>
-    ? Necesito el informe para el viernes : `I need the report by Friday`
-
-finalmente, al final = IN the end
-    - No confundir con _at the end_ que es al final de algo
-    - OJO: No usar _finally_ para _finalmente_, ya que se usar para el último paso de algo
-    ? Al final, fue una gran experiencia : `In the end, it was a great experience`
-    ? Finalmente, no fue tan desagradable como pensaba : `In the end, it wasn't as unpleasant as I thought` (**no** Finally!!!)
 
 Por fin, al fin (algo llevó tiempo/varios intentos)
     = AT last
@@ -322,7 +309,7 @@ para <date>
 
 
 Para cuando
-    ! Nótese la diferencia con _when_ mediante estos dos ejemplos
+    ! Nótese la diferencia con **when** mediante estos los dos primeros ejemplos
     = By the time `By the time I got home, it was too late` - `By the time I finish this project, I’ll be exhausted`
     ? Te habré pagado el billete para cuando lleguemos al concierto : `I will pay you for my ticket by the time we go to the concert` (te habré pagado antes del concierto)
     ? Te pagaré el billete cuando lleguemos al concierto : `I will pay you for my ticket when we go to the concert` (te pagaré en ese momento, no antes)
@@ -340,7 +327,7 @@ a la vez que, mientras... (al mismo tiempo)
 al final ...
     = AT the end (al final de; en la parte final de algo)
     = IN the end (el resultado de un proceso es...)
-    = Finally (el último paso es...)
+    = Finally (el último paso de algo es...)
     ? Al final, me decidí por el azul: `In the end, I decided to go with the blue one` (resultado del proceso de decisión)
     ? Al final, fue una gran experiencia: `In the end, it was a great experience` (resultado de un proceso)
     ? Al final del día, fue una gran experiencia: `At the end of the day, it was a great experience`
@@ -354,8 +341,6 @@ al final ...
 víspera = eve
     ? La víspera del evento estuvo llena de emoción : `The eve of the event was filled with excitement`
     ? La Nochebuena es un momento especial para muchas familias : `Christmas Eve is a special time for many families`
-
-al dia siguiente = the next day
 
 pasado mañana
     = the day after tomorrow

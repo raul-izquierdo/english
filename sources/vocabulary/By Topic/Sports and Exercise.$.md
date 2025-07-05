@@ -32,17 +32,14 @@ andar en bicicleta
     ? No me gusta montar en bicicleta : `I don’t like cycling`
     ? Fui a montar en bicicleta por el campo el fin de semana pasado : `I went cycling in the countryside last weekend`
 
-hacer <deporte>
+practicar/jugar a <deporte-X>
+    ! Usar los siguientes verbos tanto para _practicar_ que para _jugar a_
     = to play (jugar a: deportes con pelotas o competitivos 🠢 tennis, football, golf...)
     = to go (hacer: implican movimiento y acaban en _ing_) (swimming, running, hiking)
     = to do (el resto: do athletics, do gymnastics, do yoga, do karate, do exercise...)
     ? Juego al tenis todos los fines de semana : `I play tennis every weekend`
     ? Fui a correr ayer : `I went running yesterday`
     ? No hago ejercicio todos los días : `I don’t exercise every day`
-
-
-practicar un deporte
-    = Usar la expresión anterior **hacer**: play, do, go...
     ? Practicaba balonmano cuando era joven : `I used to play handball when I was young`
     ? Practico Karate cada semana : `I do karate every week`
 
@@ -84,9 +81,10 @@ en el agua
     ? Nado en el agua : `I swim **in** the water`
 
 flotar = float:ed `The boat floated on the water`
-hundirse = sink:saunk:sunk `The ship sank in the storm`
-zambullirse = plunge `He plunged into the water`
+tirarse al agua/zambullirse = plunge into the water `He plunged into the water`
+tirar a alguien al agua = throw someone into the water `He threw his friend into the water`
 bucear = dive `He dived into the pool`
+hundirse = sink:saunk:sunk `The ship sank in the storm`
 ahogarse = drown `He drowned in the river`
 
 ## Verbs
@@ -100,14 +98,17 @@ participar en = take part in
 competir = compete
     ? El equipo compitió en el torneo : `The team competed in the tournament`
 
+
+celebrar/organizar una competición
+    = hold a competition (f)
+    = put on (_montar_ una competition, event, exhibition...) (i)
+    ? El club celebrará su competición anual de tenis el próximo mes : `The local club will hold their annual tennis competition next month`
+    ? Montaron una competición fantástica para los niños : `They put on a fantastic competition for the kids`
+    ? La empresa organizó una demostración de su nuevo producto : `The company held a demonstration of their new product`
+
 albergar una competición/evento
     = host a competition, event, exhibition...)
     ? Madrid alberga muchos eventos deportivos importantes : `Madrid hosts many important sporting events`
-    ? La empresa organizó una demostración de su nuevo producto : `The company held a demonstration of their new product`
-
-hacer/organizar una competición
-    = put on (competition, event, exhibition...)
-    ? El club organizó una competición de tenis : `The club put on a tennis competition`
 
 tener un record
     = to hold a record (logro competitivo)
@@ -136,19 +137,22 @@ lesionarse = get injured `He got injured in the match`
 
 ## Score
 
-ir el primero = to be in the lead `The team is **in** the lead`
+ir el primero = to be in the lead / to be leading `The team is **in** the lead` - `The team is leading`
 van ganando = they are winning
 van perdiendo = they are losing
 
-Van 3-2
-    = It's three two (el guión no se pronuncia)
-    = They are winning three two
-Van 3-0 = It's three nil (el cero se dice _nil_) `The final score was three-nil`
-
-van empatados = to be level
-    ? Van empatados : `They're level`
-van empatados a <número> = It's <number> all
+Van <marcador>
+    = van x-y -> `It's x-y` / `They are winning x y`
+        - El cero se dice _nil_ (en fútbol) o _zero_ (en otros deportes)
+    = van empatados a <número> -> `It's <number> all`
+    = van empatados -> `They're level`
+    ? Van 3-2 : `It's three two` (el guión no se pronuncia) - `They are winning three two`
+    ? Van 3-0 : `It's three nil`
+    ? El resultado final fue 3 - 0: `The final score was three-nil`
     ? Van empatados a uno/dos/... : `It's one-all` - `It's two-all`
+    ? Van empatados : `They're level`
+    ? Acabaron empatados : `They finished level`
+    ? Acabaron empatados a uno/dos/... : `It finished one-all` - `It finished two-all`
 
 empate (finalizado)= draw
     ? El partido acabó en empate : `The match ended in a draw`
@@ -173,7 +177,8 @@ campeón = champion (ganador con prestigio/dominio)
 el segundo = the runner-up `The runner-up was very disappointed`
 el perdedor = the loser
 
-el resultado = the outcome `The outcome of the match was unexpected`
+el resultado = the outcome
+    ? El resultado del partido fue inesperado : `The outcome of the match was unexpected`
 
 
 
@@ -183,8 +188,8 @@ hay muchas/varias actividades disponibles = `There is a wide range of activities
 
 ¿Cuántos jugadores forman un equipo de ...? = `How many players are there in a ...?`
 
-no practico ningún deporte = `I don't do any sport`
-practico algo de deporte = `I do a bit of sport`
+hago algo de deporte = `I do a bit of sport`
+no practico/hago ningún deporte = `I don't do any sport`
 
 no hago tanto ejercicio como debería
     ? ... pero estoy intentando cambiar eso : `I don't exercise as much as I should, but I'm trying to change that`

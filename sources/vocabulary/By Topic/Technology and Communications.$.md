@@ -33,9 +33,6 @@ dar noticias = give news
     ? Tengo que darte una noticia : `I have to give you some news`
     ? Tengo noticias para ti : `I have news for you`
 
-dar buenas noticias = give good news
-dar malas noticias = break bad news
-
 información falsa
     = misinformation (por error) `There was misinformation about the project deadline`
     = disinformation (a propósito) `There was disinformation about the project deadline`
@@ -57,7 +54,7 @@ salir en los medios
 
 linea fija = landline `I prefer to use a landline for important calls`
 
-llamar por teléfono = call
+llamar por teléfono = call/phone
     ? Llamo a mis amigos todos los días : `I call my friends every day`
     ? Te llamo para decirte que no puedo ir a la reunión : `I'm calling you to tell you that I can't come to the meeting`
 
@@ -99,10 +96,12 @@ echan una película ...
 telediario = the news `I watch the news every day`
 documental = documentary `I like watching documentaries`
 
-serie de TV = TV series
+serie de TV = TV series (sí, siempre en plural)
 
 
 ## Internet
+
+internet = **THE** Internet (mayúsculas!!!)
 
 recibir emails
     = to receive emails
@@ -120,7 +119,7 @@ navegar por Internet
 
 buscar en Internet
     = to search the Internet [for] (~mirar en internet)
-    = to look up on the Internet <sthing> (buscar algo específico)
+    = to look up [**on** the Internet <sthing>] (buscar algo específico)
     ? Necesito buscar en Internet información para mi ensayo : `I need to search the Internet for information for my essay`
     ? Simplemente buscaré la dirección en Internet : `I'll just look up the address on the Internet`
 
