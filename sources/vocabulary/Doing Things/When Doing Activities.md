@@ -158,13 +158,9 @@ poner en riesgo = put **at** risk
     ? La decisión puso el proyecto en riesgo : `The decision put the project at risk`
     ? La decisión puso la empresa en riesgo : `The decision put the company at risk`
 
-Asumir un riesgo = take a risk
+Correr/asumir un riesgo = take a risk
     ? Se arriesgó invirtiendo en la bolsa : `He took a risk by investing in the stock market`
-    ? Ella se arriesgó al montar su propio negocio : `She took a risk by starting her own business`
-
-Correr riesgos = take risks
     ? Él asume riesgos en sus negocios : `He takes risks in his business ventures`
-    ? Ella asume riesgos en su vida personal : `She takes risks in her personal life`
 
 presenta/ser un riesgo
     = are a risk
