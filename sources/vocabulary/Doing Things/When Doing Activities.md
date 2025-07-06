@@ -3,7 +3,7 @@
 ## Common Expressions
 
 Translate:
-    ? Miraré/averiguaré cuál es el problema e intentaré solucionarlo. Después, realizaré el paso final : `I'll figure out what the problem is and I'll try to sort it out. After that, I'll carry out the final step`
+    ? Miraré/averiguaré cuál es el problema e intentaré solucionarlo. Después, llevaré a cabo el paso final : `I'll figure out what the problem is and I'll try to sort it out. After that, I'll carry out the final step`
 
 hasta que alguien haga algo
     = until someone takes action
@@ -74,8 +74,6 @@ exige
     ? El trabajo exige mucha experiencia : `The job demands a lot of experience`
     ? El trabajo exige mucho de tu tiempo : `The job places great demands on your time`
 
-recuerda que = keep in mind
-    ? Recuerda que la fecha límite es mañana : `Keep in mind that the deadline is tomorrow`
 
 
 hazlo de manera que quede así = do it so that it looks like this
@@ -86,10 +84,10 @@ llevar a cabo, hacer
     = carry out
     ? La empresa realizó una encuesta para recopilar opiniones : `The company carried out a survey to gather feedback`
 
-hacer progresos en = make progress in
-    ? Estamos avanzando en el proyecto : `We are making progress in the project`
+hacer progresos en = make progress **in**
+    ? Estamos avanzando en el proyecto : `We are making progress **in** the project`
 
-hacerlo en partes = break it down
+dividirlo en partes = break it down
     ? Necesito dividirlo en tareas más pequeñas : `I need to break it down into smaller tasks`
     ? Necesito dividirlo en partes más pequeñas : `I need to break it down into smaller pieces`
 
@@ -107,8 +105,13 @@ ocurrirse algo = come up with something
 ponerlo en práctica = put it into practice
     ? Puse mi plan en práctica : `I put my plan into practice`
 
-superar una situación = get over
+superar (algo)
+    ! Se solapan bastante, pero _overcome_ parace que cubre más
+    = get over (illness, emotions, surprises)
+    = overcome (dificulties, obstacles...)
     ? Necesito superar mi miedo a volar : `I need to get over my fear of flying`
+    ? Espero que te recuperes pronto de tu resfriado : `I hope you get over your cold soon`
+    ? El país superó la crisis con apoyo internacional : `The country overcame the crisis with international support`
 
 arreglárselas
     = get by (apañárselas)
@@ -133,7 +136,7 @@ me cuesta (hacer algo)
     ? Me cuesta conducir por la ciudad : `I find it hard to drive around the city`
 
 emplearse/esforzarse en algo = apply oneself to something
-    ? ...dificultando nuestra capacidad de concentrarnos durante mucho tiempo en una sola tarea : `...hindering our ability to apply ourselves for any length of time to one task`
+    ? ...dificultando nuestra capacidad de aplicarnos durante mucho tiempo en una sola tarea : `...hindering our ability to apply ourselves for any length of time to one task`
 
 hacer un esfuerzo = make an effort
     ? Necesito hacer un esfuerzo para estudiar más : `I need to make an effort to study more`
@@ -151,7 +154,7 @@ arriesgar
     = to risk
     ? Arriesga su reputación al hacer eso : `He risks his reputation by doing that`
 
-poner en riesgo = put at risk
+poner en riesgo = put **at** risk
     ? La decisión puso el proyecto en riesgo : `The decision put the project at risk`
     ? La decisión puso la empresa en riesgo : `The decision put the company at risk`
 
@@ -181,10 +184,12 @@ un buen uso de, una buena forma de usar = a good use of
 me vendría bien
     = would do me good (seguro que me vendría bien)
     = could do me good (me _podría_ venir bien)
+    = it would be handy
     ? Unas vacaciones me vendrían bien : `A vacation would do me good`
     ? Un descanso me vendría bien : `A break would do me good`
     ? Unas vacaciones me podrían venir bien : `A vacation could do me good`
     ? Un descanso me podría venir bien : `A break could do me good`
+    ? Ese palo me vendría bien : `That stick would be handy`
 
 no me vendría mal, no me haría ningún daño = wouldn't do me any harm
     ? Unas vacaciones no me harían ningún daño : `A vacation wouldn't do me any harm`
@@ -197,7 +202,7 @@ Una utilidad que tiene ... = One use of ...
 ## Asking for Help
 
 recurrir a = turn to
-    ? Cuando tengo un problema, recurro a mis amigos para pedir ayuda : `When I have a problem, I turn to my friends for help`
+    ? Cuando tengo un problema, recurro a internet : `When I have a problem, I turn to the internet`
 
 contar con = rely on
     ? Puedes contar conmigo para ayudarte : `You can rely on me to help you`
@@ -225,7 +230,7 @@ pedir ayuda
     = request help (más formal)
     ? Solicité ayuda con mi tarea : `I requested help with my homework`
 
-me gustaría/agradecería alguna sugerencia
+agradecería alguna sugerencia
     = I would appreciate any suggestions for
     ? Agradecería cualquier sugerencia para mi proyecto : `I would appreciate any suggestions for my project`
 
@@ -288,7 +293,7 @@ el escollo, obstáculo = the pitfall
 encontrar/meterse en problemas
     = run into (encontrarse - informal)
     ? Me encontré con algunos problemas en el proyecto : `I ran into some problems with the project`
-    = get into (meterse - informal)
+    = get **into** (meterse - informal)
     ? Si no pagas tus facturas, tendrás problemas con el banco : `If you don't pay your bills, you'll get into problems with the bank`
     = encounter (f)
     ? Nos encontramos con algunos problemas en el proyecto : `We encountered some problems with the project`
@@ -303,24 +308,21 @@ estoy bloqueado (no sé seguir/no entiendo)
     ? Estoy en un punto muerto con este proyecto : `I’m at a standstill with this project`
     ? Estoy en un punto muerto con esta tarea : `I’m at a standstill with this task`
 
-estoy intrigado de por qué no funcionó = `I’m intrigued as to why it didn’t work`
-
-dificultad = difficulty
-    ? Tuve dificultad para entender las instrucciones : `I had difficulty understanding the instructions`
-    ? Tuve dificultad para completar la tarea : `I had difficulty completing the task`
+estoy intrigado de por qué no funcionó = `I’m intrigued **as** to why it didn’t work`
 
 dificultar
-    = hinder
+    ! Bastanten intercambiables
+    = hinder (dificultar el progreso de algo - más general)
+    = hamper (dificultar el movimiento físico o figurado - estorbar algo)
     ? La falta de recursos puede dificultar el desarrollo de nuevos proyectos : `Lack of resources can hinder the development of new projects`
-    = hamper (dificultad física)
     ? La lluvia dificultó nuestros planes de picnic : `The rain hampered our plans for a picnic`
     ? El tráfico dificultó mi llegada : `The traffic hampered my arrival`
 
 costar hacer algo, pelearse con ello
     = to struggle to do something
+    = to have a hard time doing <sthing>
     ? Me costó entender las instrucciones : `I struggled to understand the instructions`
     ? Me costó con el problema de matemáticas : `I struggled with the math problem`
-    = to have a hard time doing <sthing>
     ? Me costó encontrar el sitio : `I had a hard time finding the place`
 
 solucionar, arreglar (situación) = sort out
@@ -372,18 +374,18 @@ dejar de
     = give up (abandonar, dejar de esforzarse, rendirse)
     ? Dejó de tocar el piano porque era demasiado difícil : `He gave up playing the piano because it was too difficult`
     = stop (parar, el más genérico)
+    = throw **in** the towel
     ? Por favor, deja de hacer ruido : `Please stop making noise`
     ? Ella dejó de correr cuando empezó a llover : `She stopped running when it started raining`
+    ? Después de intentar durante horas arreglar el coche, finalmente tiré la toalla y llamé a un mecánico : `After trying for hours to fix the car, I finally threw **in** the towel and called a mechanic` - `... gave up...`
 
 posponer = put off
     ? Pospuse ir al dentista durante meses : `I put off going to the dentist for months`
 
-ceder, rendirse = give in
+ceder
+    = give in
     ? Cedí a la petición de mi amigo de salir : `I gave in to my friend's request to go out`
     ? Cedí a la tentación y comí el pastel : `I gave in to temptation and ate the cake`
-
-tirar la toalla = throw in the towel
-    ? Después de intentar durante horas arreglar el coche, finalmente tiré la toalla y llamé a un mecánico : `After trying for hours to fix the car, I finally threw in the towel and called a mechanic`
 
 ## Outcome of an Activity
 
@@ -459,10 +461,6 @@ llevar a, provocar, causar
     = bring about (i)
     ? La falta de sueño puede provocar problemas de salud : `Lack of sleep can bring about health problems`
 
-llegó a ser = grew to be
-    ? Llegó a ser un gran líder : `He grew to be a great leader`
-
-
 salir bien parado = `land on your feet`
 
 
@@ -472,11 +470,15 @@ motivos = reasons
     ? Entre otros motivos, están los economicos : `Among other reasons, there are economic ones`
 
 Hice <acción X> por <motivo Y>
-    = "for". Cuando hago X para obtener Y
+    ! Hay varios casos que no se cumple lo siguiente, pero para tener algo
+    = "for" -> por obtener Y
+    = "out of" -> debido a Y
     ? Lo hice por placer : `I did it for pleasure`
-    = "out of": Cuando hago X debido a Y
     ? Lo hice por necesidad : `I did it out of necessity`
-        - Hay varios casos que no cumplen lo anterior, pero para tener algo
+
+Hice <acción> para...
+    = **to** <base>
+    ? Lo hice para aprender : `I did it to learn`
 
 para no... = so as not to
     ? Fuí al concierto para no aburrirme : `I went to the concert so as not to be bored`
@@ -488,7 +490,7 @@ para no tener que ...
         ? ^ : `I went to the concert to avoid boredom`
 
 para entretenerse
-    = for entertainment
+    = for entertainment (se interpreta como _por_ entretenerse)
     ? Él escucha música para entretenerse : `He listens to music for entertainment`
      = to entertain <who>
     ? Miro películas para entretenerme : `I watch films to entertain myself`

@@ -136,6 +136,9 @@ recordar
     ? Recuerda llamarla : `Remember to call her` (acuérdate tu misma)
     ? Me recuerda a mi infancia : `It reminds me of my childhood` (una cosa te está recordando a ti)
 
+recuerda/ten cuenta = keep in mind
+    ? Recuerda que la fecha límite es mañana : `Keep in mind that the deadline is tomorrow`
+
 recuerdo = memory
     ? Tengo un recuerdo vívido de mi infancia : `I have a vivid memory of my childhood`
     ? Los recuerdos de la infancia son preciosos : `Childhood memories are precious`

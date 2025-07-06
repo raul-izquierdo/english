@@ -35,7 +35,7 @@ claramente = clearly
 
 correctamente = correctly
 
-
+satisfactoriamente = satisfactorily
 
 
 ## Adverbs of Time (when something happens)

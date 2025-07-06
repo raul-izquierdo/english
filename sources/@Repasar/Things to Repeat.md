@@ -26,6 +26,7 @@ Not Needed (the challenging content is here)
     = Dates
     = Crime and Punishments
     = Manipulating Things
+    = When Doing Activities
 
 ## Conditionals
 
@@ -383,3 +384,80 @@ caer
 desmontar = take apart
     ? Desmontó la máquina para arreglarla : `He took apart the machine to fix it`
     ? Desmontó el puzzle para ver cómo estaba hecho : `She took apart the puzzle to see how it was made`
+
+## When Doing Activities
+
+Translate:
+    ? Miraré/averiguaré cuál es el problema e intentaré solucionarlo. Después, llevaré a cabo el paso final : `I'll figure out what the problem is and I'll try to sort it out. After that, I'll carry out the final step`
+
+hasta que alguien haga algo
+    = until someone takes action
+    ? Hasta que alguien tome medidas, nada cambiará : `Until someone takes action, nothing will change`
+
+mucho que hacer = plenty to do
+    ? Tengo mucho que hacer en el trabajo : `I have plenty to do at work`
+
+## When Doing Activities
+
+hazlo de manera que quede así = do it so that it looks like this
+
+dividirlo en partes = break it down
+    ? Necesito dividirlo en partes más pequeñas : `I need to break it down into smaller pieces`
+
+ocurrirse algo = come up with something
+
+poner en riesgo = put **at** risk
+
+Asumir un riesgo = take a risk
+
+Una utilidad que tiene ... = One use of ...
+
+
+recurrir a = turn to
+    ? Cuando tengo un problema, recurro a internet : `When I have a problem, I turn to the internet`
+
+agradecería alguna sugerencia
+    = I would appreciate any suggestions for
+
+la trampa/el truco
+    = the trap (más general: dispositivo, plan)
+    = the catch (inconveniente oculto - el truco)
+    ? El trabajo parece perfecto, pero ¿cuál es la trampa? : `This job sounds perfect, but what's the catch?`
+
+encontrar/meterse en problemas
+    = run into (encontrarse - informal)
+    = get **into** (meterse - informal)
+    = encounter (f)
+
+estoy intrigado de por qué no funcionó = `I’m intrigued **as** to why it didn’t work`
+
+dificultar
+    ! Bastanten intercambiables
+    = hinder (dificultar el progreso de algo - más general)
+    = hamper (dificultar el movimiento físico o figurado - estorbar algo)
+    ? La falta de recursos puede dificultar el desarrollo de nuevos proyectos : `Lack of resources can hinder the development of new projects`
+    ? La lluvia dificultó nuestros planes de picnic : `The rain hampered our plans for a picnic`
+    ? El tráfico dificultó mi llegada : `The traffic hampered my arrival`
+
+solucionar, arreglar (situación) = sort out
+
+finalizar algo (lo acaba alguien)
+    = finish (de forma adecuada)
+    = bring to an end (más formal)
+    = put an end to (parar algo problemático)
+
+algo acaba (acaba solo)
+    = end (acabó por si mismo)
+    = came to an end (con más emoción que _end_)
+
+fue bien\mal = it went well/badly
+
+cumplir con los plazos = meet deadlines
+    ? Necesitamos cumplir con los plazos : `We need to meet the deadlines`
+
+resultó, acabó siendo
+    = turn out TO <base> (cierta sorpresa)
+    = ended up being <ing> (no indica expectativas)
+
+para mantenerse en forma = to stay fit
+    ? Voy al gimnasio para mantenerme en forma : `I go to the gym to stay fit`
