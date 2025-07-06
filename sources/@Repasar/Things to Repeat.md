@@ -30,6 +30,7 @@ Not Needed (the challenging content is here)
     = Acquiring Knowledge
     = At School
     = Writing and Text
+    = Business and Marketing
 
 ## Conditionals
 
@@ -582,3 +583,37 @@ La exigencia en la educación ha disminuido en los últimos años
 texto de relleno, paja
     = waffle (sin añadir _text_ detrás)
     = superfluous text (f)
+
+## Business and Marketing
+
+la competencia (otros vendedores)
+    = competitors `It poses a threat to competitors`
+    = (rival/competing) companies `It poses a threat to rival companies`
+
+competencia
+    = competition
+    ? Es bueno que haya competencia en el mercado : `It is good to have competition in the market`
+
+producto tiene <atributo>
+    = product is <atributo>
+        - No se usa "to have" en estos casos en los que se habla de un atributo del producto
+    ? La chaqueta tenía un precio razonable : `The jacket was a reasonable price`
+    ? Tiene un color rojo muy bonito : `It's a very beautiful red`
+
+(producto) dirigido a ...
+    = aimed at
+    = directed at
+    ? El producto está dirigido a jóvenes : `The product is aimed at young people` - `...directed at`
+
+esto es tanto para X como para Y
+    = this is for both X and Y
+    ?  Esto es tanto para los estudiantes como para los profesores : `This is for both students and teachers`
+
+oferta y demanda = supply and demand
+
+satisfacer la demanda = meet the demand
+
+satisfacer al cliente = meet the customer needs
+
+revuelo, desorden = scramble
+    ? Las noticias causaron un revuelo en el mercado : `The news caused a scramble in the market`

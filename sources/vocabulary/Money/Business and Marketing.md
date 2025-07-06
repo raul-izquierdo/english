@@ -30,7 +30,11 @@ la competencia (otros vendedores)
     = competitors `It poses a threat to competitors`
     = (rival/competing) companies `It poses a threat to rival companies`
 
-ser pionero, marcar el camino = leading the way `The company is leading the way in innovation`
+competencia
+    = competition
+    ? Es bueno que haya competencia en el mercado : `It is good to have competition in the market`
+
+marcar el camino = lead the way `The company is leading the way in innovation`
 
 estaba en sus inicios = it was in its infancy `The technology was in its infancy`
 
@@ -39,7 +43,7 @@ venta de minorista = retail
 
 ## Products
 
-mercacias
+mercancías
     = goods `The company sells a wide range of goods`
 
 novedades = novelties
@@ -48,7 +52,7 @@ producto tiene <atributo>
     = product is <atributo>
         - No se usa "to have" en estos casos en los que se habla de un atributo del producto
     ? La chaqueta tenía un precio razonable : `The jacket was a reasonable price`
-    ? El coche tiene transmisión automática : `The car is automatic transmission`
+    ? Tiene un color rojo muy bonito : `It's a very beautiful red`
 
 tienen/comparten características
     = to share
@@ -94,8 +98,8 @@ satisfacer la demanda = meet the demand
 
 satisfacer al cliente = meet the customer needs
 
-el comercio = trade
-    ? El comercio es importante para la economía : `The trade is important for the economy`
+el comercio = commerce
+    ? El comercio es importante para la economía : `Commerce is important for the economy`
 
 revuelo, desorden = scramble
     ? Las noticias causaron un revuelo en el mercado : `The news caused a scramble in the market`
