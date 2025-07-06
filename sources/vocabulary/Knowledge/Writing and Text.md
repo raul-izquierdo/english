@@ -62,8 +62,18 @@ comillas (" ')
     = double quotes
     ? No te olvides de las comillas : `Don't leave out the quotes`
 
+puntos suspensivos '...' = ellipsis
 
-punto y seguido = full stop
+punto = dot
+
+punto y seguido
+    = full stop
+    = period ($)
+    ? Los puntos suspensivos son tres puntos : `Ellipsis are three dots`
+    ? Las frases terminan con un punto llamado punto final : `Sentences end with a dot called full stop`
+
+punto y aparte = new paragraph
+    ? Al final de esa frase, pon un punto y aparte : `At the end of that sentence, start a new paragraph`
 
 símbolo de admiración '!' = exclamation mark
 interrogante '?' = question mark
@@ -74,7 +84,6 @@ llaves '{}' = braces
 guión '-' = hyphen
 guion bajo '_' = underscore
 
-puntos suspensivos '...' = ellipsis
 apóstrofe '\'' = apostrophe
 
 barra '/'

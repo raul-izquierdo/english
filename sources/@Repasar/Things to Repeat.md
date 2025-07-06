@@ -15,7 +15,7 @@ Mandatory to Repeat (and extract the challenging content)
 
 Optional (content not extracted)
     = Sports and Exercise
-    = Critizing
+    = Criticizing
 
 Not Needed (the challenging content is here)
     = Technology and Communications
@@ -29,6 +29,7 @@ Not Needed (the challenging content is here)
     = When Doing Activities
     = Acquiring Knowledge
     = At School
+    = Writing and Text
 
 ## Conditionals
 
@@ -574,3 +575,10 @@ dar una lección/tema = cover `today we will cover lesson 7`
 
 La exigencia en la educación ha disminuido en los últimos años
     ? La exigencia en la educación ha disminuido en los últimos años : `The demand in education has decreased in recent years`
+
+## Writing and Text
+
+
+texto de relleno, paja
+    = waffle (sin añadir _text_ detrás)
+    = superfluous text (f)
