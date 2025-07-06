@@ -37,6 +37,8 @@ correctamente = correctly
 
 satisfactoriamente = satisfactorily
 
+gratuitamente, gratis = freely
+    ? La información se distribuyó gratuitamente : `The information was distributed freely`
 
 ## Adverbs of Time (when something happens)
 

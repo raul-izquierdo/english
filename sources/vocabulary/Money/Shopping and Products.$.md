@@ -34,7 +34,7 @@ comprar en la tienda = buy in-store `I prefer to buy in-store`
 pagar = pay for
     ? Pagué la comida : `I paid for the meal`
     ? Me ofrecí a pagar las clases : `I offered to pay for lessons`
-pagar con tarjeta = pay by card
+pagar con tarjeta = pay with card
 pagar en efectivo = pay in cash
 
 pagar en la caja
@@ -58,9 +58,9 @@ envolver = wrap
 ## Returns
 
 devolver algo
-    = return (f)
     = give <sthing> back (devolver algo a persona - informal)
     = take <sthing> back (descambiar en tienda)
+    = return (f)
     ? Necesito devolver este libro a la biblioteca : `I need to return this book to the library`
     ? Necesito devolver este libro a mi amigo : `I need to give this book back to my friend`
     ? Él devolvió el ordenador a DELL : `He took the computer back to DELL`
@@ -106,7 +106,7 @@ vendedor ambulante = street vendor `The street vendor sells food on the street`
 centro comercial (varias tiendas) = shopping centre `The shopping centre has many shops and restaurants`
 tipo Corte Inglés (una tienda con varias secciones) = department store `The department store has many products`
 
-pasillos (entre productos, asientos...) = aisles `The supermarket has many aisles` - `She walked down the aisle to her seat`
+pasillos (entre productos, asientos...) = aisles \aiels\ `The supermarket has many aisles` - `She walked down the aisle to her seat`
 
 tienda
     = shop
@@ -137,7 +137,7 @@ groceries = lo que se compra en un supermercado (sea comida o no)
 estar en buena condición = be in good condition
 estar en mal estado = be in poor condition
 
-probarlo/evaluarlo (producto/actividad/método)
+evaluarlo/probarlo (producto/actividad/método)
     = try out
         ? Voy a probar esta nueva cafetera para ver si hace buen café : `I'm going to try out this new coffee machine to see if it makes good coffee`
         ? ¿Has probado la nueva pared de escalada del gimnasio? : `Have you tried out the new climbing wall at the gym?`
@@ -162,10 +162,12 @@ disponible, disponibles
 
 en venta
     = be **for** sale (que algo se vende)
-        - OJO: _be ON sale_ indica que, además, está en oferta
+        - OJO: _be ON sale_ indica que está en oferta
     = go on sale (para indicar cuando algo se pone a la venta)
     ? La casa está en venta : `The house is for sale`
     ? El nuevo iPhone sale a la venta la próxima semana : `The new iPhone goes on sale next week`
+
+ofertas = offers `The supermarket has many offers this week`
 
 estar en oferta
     = be on offer
@@ -174,7 +176,8 @@ estar en oferta
         - OJO: _be FOR sale_ indica que algo está disponible (no necesariamente en oferta)
     ? El producto está en oferta esta semana : `The product is on offer this week` - `... is on sale this week`
 
-ofertas = offers `The supermarket has many offers this week`
+rebajas = sales
+    ? Lo compré en las rebajas : `I bought it in the sales`
 
 
 se pueden encontrar todos en = are all to be found in
@@ -212,7 +215,7 @@ gratuitamente
 
 gangas = bargains `I love finding bargains in the sales`
 
-vale la pena
+merece la pena
     = is worth the money/every penny (justificar que sea caro) `The new phone is worth the money`
 
 el precio superaba
@@ -224,11 +227,9 @@ me ofrecieron un descuento
     = offer a discount
     ? Me ofrecieron un 20% de descuento en el coche nuevo : `I was offered a 20% discount on the new car`
 
-relación calidad-precio = value for money
+es buena/mala relación calidad-precio = is good/bad value for money
     ? El nuevo móvil tiene muy buena relación calidad-precio : `The new phone is good value for money`
 
-rebajas = sales
-    ? Lo compré en las rebajas : `I bought it in the sales`
 
 barato
     = inexpensive (formal y positivo)
@@ -251,13 +252,11 @@ capricho = treat `I bought a new phone as a treat for myself`
 
 calidad mala
     = poor/low quality `The product is of poor quality`
-    = disappointing
     = awful
 
 calidad aceptable
     = basic quality
     = acceptable
-    = adequate
     = decent
 
 buena calidad

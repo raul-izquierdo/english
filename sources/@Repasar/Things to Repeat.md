@@ -32,6 +32,7 @@ Not Needed (the challenging content is here)
     = Writing and Text
     = Business and Marketing
     = Money
+    = Shopping and Products
 
 ## Conditionals
 
@@ -675,3 +676,73 @@ cobrar = get paid
 
 fuente de ingresos = source of income
     ? Mi principal fuente de ingresos es mi trabajo : `My main source of income is my job`
+
+## Shopping and Products
+
+factura
+    = bill (para consumidores)
+    = invoice (entre negocios)
+    ? Necesito la factura para mis registros : `I need the bill for my records`
+
+devolver algo
+    = give <sthing> back (devolver algo a persona - informal)
+    = take <sthing> back (descambiar en tienda)
+    = return (f)
+    ? Necesito devolver este libro a la biblioteca : `I need to return this book to the library`
+    ? Necesito devolver este libro a mi amigo : `I need to give this book back to my friend`
+    ? Él devolvió el ordenador a DELL : `He took the computer back to DELL`
+    ? Devolví el vestido a la tienda porque no me quedaba bien : `I took the dress back to the store because it didn't fit`
+
+persona que va de compras (puede que compre o no)
+    = shoppers `Shoppers are looking for the best deals`
+
+clientes
+    = customers (de productos: tiendas, entradas...)
+    = clients (de servicios: abogados, consultoras...)
+    = buyers (compradores)
+
+dependiente = shop assistant `The shop assistant helped me find the right size`
+vendedor ambulante = street vendor `The street vendor sells food on the street`
+
+estar en mal estado = be in poor condition
+
+evaluarlo/probarlo (producto/actividad/método)
+    = try out
+        ? Voy a probar esta nueva cafetera para ver si hace buen café : `I'm going to try out this new coffee machine to see if it makes good coffee`
+        ? ¿Has probado la nueva pared de escalada del gimnasio? : `Have you tried out the new climbing wall at the gym?`
+        ? Vamos a probar un enfoque diferente para resolver este problema : `We're going to try out a different approach to solving this problem`
+
+disponible, disponibles
+    = available
+    = on offer
+        - ojo, que "on offer" también se puede usar para indicar que algo está en oferta
+    ? El nuevo producto estará disponible el próximo mes : `The new product will be available next month`- `...will be on offer next month`
+    ? La empresa tiene nuevos planes de ayuda disponibles : `The company has new support schemes on offer`
+
+en venta
+    = be **for** sale (que algo se vende)
+        - OJO: _be ON sale_ indica que está en oferta
+    = go on sale (para indicar cuando algo se pone a la venta)
+    ? La casa está en venta : `The house is for sale`
+    ? El nuevo iPhone sale a la venta la próxima semana : `The new iPhone goes on sale next week`
+
+ofertas = offers `The supermarket has many offers this week`
+
+estar en oferta
+    = be on offer
+        - ojo, que "on offer" también se puede usar para indicar que algo está disponible (aunque no esté en oferta)
+    = be **on** sale
+        - OJO: _be FOR sale_ indica que algo está disponible (no necesariamente en oferta)
+    ? El producto está en oferta esta semana : `The product is on offer this week` - `... is on sale this week`
+
+rebajas = sales  `I bought it in the sales`
+
+merece la pena
+    = is worth the money/every penny (justificar que sea caro) `The new phone is worth the money`
+
+es buena/mala relación calidad-precio = is good/bad value for money
+
+capricho = treat `I bought a new phone as a treat for myself`
+
+excelente calidad
+    = outstanding quality `The product is of outstanding quality`

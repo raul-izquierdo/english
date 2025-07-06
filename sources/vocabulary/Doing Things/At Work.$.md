@@ -1,6 +1,6 @@
 # At Work
 
-## People and Positions
+## Positions
 
 trabajo
     = work (actividad o lugar)
@@ -24,6 +24,8 @@ trabajo de/soy ..
     ? Soy ingeniero : `I’m an engineer`
     ? Él trabaja como profesor : `He works as a teacher`
 
+## Occupations
+
 director = director
 gerente = manager
 jefe = boss
@@ -33,17 +35,6 @@ el personal/plantilla = staff
     ? La plantilla está formada por unos 20 empleados : `The staff consists of approximately 20 employees.`
 subordinados = subordinates
 
-ascender en un sistema = work his way up
-    ? Él fue ascendiendo en la empresa : `He worked his way up the company`
-    ? El plástico ascendió en la cadena alimentaria : `The plastics worked its way up in the food chain`
-
-compañeros de trabajo
-    = workmates (relación más amigable)
-    = colleague (colega - más neutral)
-
-juntarse con compañeros (para tomar el cafe)
-    = get together with colleagues
-
 equipo/cuadrilla/tripulación = crew
 
 electricista = electrician
@@ -51,6 +42,8 @@ político = politician
 científico = scientist
 
 ama de casa = housewife
+administrativo = admin[nistrative] assistant
+    ? Ella trabaja como administrativa : `She works as an admin assistant`
 
 ## Career
 
@@ -385,3 +378,14 @@ manifestación = demonstration
 presentar una solicitud
     = submit an application
     ? Presenté una solicitud para cambiar las vacaciones : `I submitted an application to change my holidays`
+
+ascender en un sistema = work his way up
+    ? Él fue ascendiendo en la empresa : `He worked his way up the company`
+    ? El plástico ascendió en la cadena alimentaria : `The plastics worked its way up in the food chain`
+
+compañeros de trabajo
+    = workmates (relación más amigable)
+    = colleague (colega - más neutral)
+
+juntarse con compañeros (para tomar el cafe)
+    = get together with colleagues
