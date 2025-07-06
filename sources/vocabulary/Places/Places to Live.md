@@ -47,7 +47,7 @@ chalet = detached house
     ? El chalet es muy espacioso : `The chalet is very spacious`
 urbanización = residential area
     ? La urbanización es tranquila y apacible : `The residential area is quiet and peaceful`
-    - _housing state_ sería más preciso, pero tienen un punto negativo
+    - _housing estate_ sería más preciso, pero tienen un punto negativo
 
 zona comercial = commercial area
     ? La zona comercial es animada y concurrida : `The commercial area is busy and lively`
@@ -175,6 +175,9 @@ impresionante, asombroso
     ? La vista desde la cima de la montaña era impresionante : `The view from the top of the mountain was stunning`
     ? Es asombroso lo rápido que aprendió a tocar el piano : `It's amazing how quickly he learned to play the piano`
 
+bullicioso = bustling
+    ? La ciudad es bulliciosa por la noche : `The city is bustling at night`
+    ? El mercado estaba lleno de gente y actividad : `The market was full of people and activity`
 
 ## Services and Facilities
 

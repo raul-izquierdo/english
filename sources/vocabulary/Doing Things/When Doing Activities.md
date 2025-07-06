@@ -237,6 +237,36 @@ me gustaría/agradecería alguna sugerencia
 
 ## Encountering Problems
 
+problemas
+    ! En mi caso, muchas veces uso _problems_ cuando debería usar _trouble_
+    = problems (concretos - tengo el problema A, B, C...)
+    = **trouble** <ing> (genéricos - **tengo problemas con/para**)
+        - Nótese que _trouble_ es en **singular**
+    = difficulties <with sthing> (versión formal de _trouble_)
+        - A diferencia de _trouble_, no suele ir seguido de un verbo
+        - `I'm having difficulties at work` - `He experienced difficulties during the operation`
+    = issues (asuntos/temas que pueden causar preocupación o discusión)
+        - `We need to address the issues raised in the meeting` - `There are several issues we need to resolve`
+    ? Tengo problemas para dormir : `I have **trouble** sleeping` (no usar _difficulties_ seguido de un verbo)
+    ? Tengo un problema con la impresora : `I have a **problem** with the printer` (uno concreto)
+    ? Estamos teniendo problemas financieros : `We’re having financial difficulties`
+    ? Necesitamos discutir algunos problemas/temas sobre el proyecto : `We need to discuss some issues about the project`
+    ? Tiene varios problemas de salud : `He has several health issues`
+    ? Tiene varios problemas con ella : `He has several issues with her`
+
+estoy teniendo <problemas> (ahora mismo)
+    = **I'm having** trouble/problems/difficulties
+    ? Estoy teniendo problemas para distinguir "divertido" y "entretenido" : `I'm having **trouble** telling "fun" and "amusing" apart` (_difficulties_ sería poco natural)
+    ? Estamos teniendo problemas financieros : `We’re having financial trouble`
+
+tengo problemas (en general)
+    = **I have** trouble/problems/difficulties
+
+gran problema
+    = great problem (grande)
+    = major problem (problema mayor - puede haber varios)
+    = main problem (problema principal)
+
 la parte más dura/difícil = the heavy lifting
     ? El trabajo más duro ya está hecho, ahora solo hay que terminar los detalles : `The heavy lifting is done, now we just need to finish the details`
 
@@ -254,21 +284,6 @@ la trampa/el truco
 el escollo, obstáculo = the pitfall
     ? El principal escollo del proyecto es su complejidad : `The main pitfall of the project is its complexity`
     ? El principal escollo del plan es su coste : `The main pitfall of the plan is its cost`
-
-problemas
-    = problems (más genérico)
-    ? Tuve problemas con mi ordenador : `I had problems with my computer`
-    = issues (más específicos)
-    ? Tuve problemas con el software : `I had issues with the software`
-
-gran problema
-    = great problem (grande)
-    = major problem (problema mayor - puede haber varios)
-    = main problem (problema principal)
-
-tener problemas
-    = to have problem/difficulty/trouble <ing>
-    ? Tengo problemas para dormir : `I have trouble sleeping`
 
 encontrar/meterse en problemas
     = run into (encontrarse - informal)
@@ -341,9 +356,9 @@ finalizar algo (lo acaba alguien)
 
 algo acaba (acaba solo)
     = end (acabó por si mismo)
+    = came to an end (con más emoción que _end_)
     ? La reunión terminó a las 5pm : `The meeting ended at 5pm`
     ? El verano está terminando pronto : `Summer is ending soon`
-    = came to an end (con más emoción que _end_)
     ? Su viaje juntos llegó a su fin : `Their journey together came to an end`
     ? Las vacaciones de verano llegaron a su fin demasiado rápido : `The summer holidays came to an end too quickly`
 

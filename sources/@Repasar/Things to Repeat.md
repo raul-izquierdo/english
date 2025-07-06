@@ -16,6 +16,7 @@ Mandatory to Repeat
 Optional
     = Sports and Exercise
     = Time and Moments
+    = Critizing
 
 ## Conditionals
 
@@ -261,3 +262,16 @@ hacer/interpretar un papel
 hacer una gran actuación = **give** a great performance
     ! No es _do a performance_
     ? El actor dio una gran actuación : `The actor gave a great performance`
+
+## At Work
+
+Translate
+    ? La plantilla está formada por unos 20 empleados : `The staff consists **of** approximately 20 employees.`
+
+estar de baja = be on <reason> leave `He is on sick leave` - `He is on maternity leave`
+
+trabajar horas extras = work overtime `I often work overtime to finish my projects` - `I worked overtime last week`
+
+tomar el control/dirigir = take over (suele implicar sustituir a alguien)
+    ? ¿Puedes conducir tú un rato? : `Could you take over driving for a bit?`
+    ? Dirigiré el proyecto : `I will take over the project`

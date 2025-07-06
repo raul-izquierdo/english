@@ -290,22 +290,31 @@ me rio mucho con él
     ? Me río mucho con mi hermano : `I laugh a lot with my brother`
 
 reír
-    = laugh
+    = [makes me] laugh
         - **at** <something> (reirse **de** algo) `He laughed at the joke`
         - **with** <sbody> (reirse **con** alguien) `I laugh with my friends`
         - **at** <sbody> (reirse **de** alguien - implica burla) `I laugh at him`
     ? Me río mucho con mis amigos : `I laugh a lot with my friends`
     ? Me río de sus chistes : `I laugh at his jokes`
     ? Se rieron de él cuando se cayó : `They laughed at him when he fell over`
+    ? Él siempre me hace reir : `He always makes me laugh`
     = chuckle (risa ligera)
     ? Me río para mis adentros cuando recuerdo una historia graciosa : `I chuckle to myself when I remember a funny story`
     = giggle (reír nerviosamente)
     ? Me río nerviosamente cuando estoy nervioso : `I giggle when I'm nervous`
 
-gracioso
-    = funny
+divertido
+    = fun (enjoyable - no es que haga reir) `Solving puzzles is fun`
+        - No confundir con _funny_ que es _gracioso_ (hacer reir)
+    ? Ver futbol es divertido : `Watching football is fun`
+    ? Salir con amigos es divertido : `Going out with friends is fun`
+
+gracioso (makes you laugh)
+    = amusing (aunque no tanto como para reírse a carcajadas)
+    = funny (más que amusing)
     ? El chiste fue gracioso : `The joke was funny`
-        - A diferencia de fun, makes you laugh (un chiste, historia, ...)
+    ? La película fue divertida, pero no para reírse a carcajadas : `The movie was amusing, but not laugh-out-loud funny`
+    ? John es muy gracioso, siempre me hace reír : `John is very funny, he always makes me laugh`
 
 pasarlo bien
     = enjoy oneself (f)

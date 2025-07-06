@@ -337,11 +337,11 @@ take into account = tener en cuenta `He took into account the weather when plann
 take off = despegar `The plane took off on time` - `He took off his shoes before entering the house`
 take on
     = contratar `He took on a new employee`
-    = asumir una responsabilidad `He took on the project` - `He took on the challenge`
+    = asumir una responsabilidad/papel `He took on the challenge` - `He took on the role of project manager`
 take out
     = sacar `He took out his wallet to pay for the meal` - `I will take out time to travel`
     = llevar a alguien a un sitio `I took her out to a restaurant` - `I took him out for a walk`
-take over = hacerse cargo `He took over the family business` - `He took over the project after the manager left`
+take over = hacerse cargo `He took over the project after the manager left` - `Could you take over driving for a bit?`
 take part in = participar `He takes part in the local marathon every year`
 take place = tener lugar `The meeting took place in the conference room` - `The event took place last week`
 take to = empezar a gustar `He has taken to jogging every morning` - `He really took to his new neighbor`

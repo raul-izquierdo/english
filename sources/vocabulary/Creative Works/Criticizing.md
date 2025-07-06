@@ -67,14 +67,17 @@ la película/libro se desarrolla en
 
 cuenta la historia de = tells the story of
 
-presenta/incluye = features
+incluye/presenta = features
     ? La película presenta un elenco de estrellas : `The film features a star-studded cast`
     ? El documental presenta entrevistas con expertos : `The documentary features interviews with experts`
 
-retrata, muestra, presenta = portrays
+retrata, representa = portrays
     ? La película retrata las luchas de un joven : `The movie portrays the struggles of a young man`
     ? El actor retrató al villano con gran intensidad : `The actor portrayed the villain with great intensity`
     ? El artista retrata la escena con colores vivos : `The artist portrays the scene with vivid colours`
+    ? Los medios de comunicación a menudo presentan a los adolescentes como irresponsables : `The media often portrays teenagers as irresponsible`
+    ? La pintura representa una bulliciosa escena de mercado : `The painting portrays a bustling market scene`
+    ?  Intentó presentarse a sí mismo como una víctima: `He tried to portray himself as a victim`
 
 se basa en = is based on
     ? La película está basada en una historia real : `The film is based on a true story`
@@ -96,8 +99,9 @@ peripecias
     = misadventures (desventuras - cosas que salen mal)
     ? La película cuenta las peripecias de un niño : `The film tells the adventures of a boy`
 
-dificultades, desafíos = challenges
-
+desafíos = challenges
+dificultades = difficulties
+luchas = struggles
 
 ## Good Critics
 
@@ -105,11 +109,6 @@ es obligatorio verlo/leerlo
     = it's a must-read (libros) `The book is a must-read`
     = it's a must-see (otros) `The film is a must-see`
 
-divertido
-    = fun `The party was fun`
-        - No confundir con funny (gracioso)
-    = amusing (entretenido)
-    ? La película fue divertida, pero no para reírse a carcajadas : `The movie was amusing, but not laugh-out-loud funny`
 
 entretenido = entertaining
     ? La película fue entretenida : `The film was entertaining`
@@ -124,8 +123,8 @@ me gustó, disfruté
     = I loved (el mayor) `I loved the film`
 
 estar enganchado a series
-    = be hooked on (i) `I'm hooked on this series` - `I'm hooked on this show`
-    = engaged in (más formal) `I'm engaged in this series` - `I'm engaged in this show`
+    = be hooked **on** (i) `I'm hooked on this series` - `I'm hooked on this show`
+    = engaged **in** (más formal) `I'm engaged in this series` - `I'm engaged in this show`
 
 que engancha = gripping
 
@@ -146,7 +145,10 @@ apropiado = suitable
 del montón = average
     ? La película es del montón : `The film was average`
 
-predecible = predictable
+previsible
+    = predictable
+    = too obvious (demasiado obvio)
+    ? El final de la película era previsible : `The ending of the movie was predictable` - `too obvious`
 
 aceptable
     = acceptable

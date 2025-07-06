@@ -86,16 +86,16 @@ fue la peor ... de mi vida
 
 ## Differences
 
-diferenciar
+diferenciar, ver la diferencia
     = tell apart (percibir diferencias - informal)
-    = differentiate (f)
-    ? No puedo distinguir a los gemelos : `I can't tell the twins apart`
-    ? Puedo distinguir entre los dos colores : `I can differentiate between the two colors`
-
-Puedes ver/notar la diferencia entre...
+        - tell <x> and <y> **apart**
     = You can see/tell the difference between...
         - Ver _see_ vs _tell_ (_see_ si se percibe por la vista, _tell_ si se percibe de cualquier forma)
-    ? No puedo ver la diferencia entre los dos colores : `I can't see the difference between the two colors`
+    = differentiate (f)
+    ? No puedo distinguir a los gemelos : `I can't tell the twins apart`
+    ? Puedo distinguir entre los dos colores : `I can differentiate between the two colours` - `...tell the two colours apart` - `...see the difference between the two colours`
+    ? Tengo problemas para distinguir "divertido" y "entretenido" : `I'm having trouble telling "fun" and "amusing" apart` - `I struggle to tell the difference between ...`
+    ? No puedo ver la diferencia entre los dos colores : `I can't see the difference between the two colours`
     ? Puedes notar la diferencia entre el nuevo modelo y el antiguo por el sonido : `You can tell the difference between the new model and the old one by the sound`
 
 No hay diferencia entre mi coche y el tuyo

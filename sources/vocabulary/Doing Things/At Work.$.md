@@ -83,6 +83,7 @@ edificio de oficinas = office block
 obra = building site `The building site is located in the city centre`
 
 polígono industrial = industrial estate
+    - No confundir **estate** (finca, patrimonio) con **state** (estar en un estado; patrón _state_, país)
 
 almacén = warehouse
 
@@ -133,7 +134,7 @@ tienes la capacidad de ...?
     ? ¿Puedes manejar la presión? 🠢 Puedo manejar la presión : `Can you handle the pressure?` 🠢 `I can handle the pressure`
     ? ¿Tienes lo que se necesita para ser gerente? : `Do you have what it takes to be a manager?`
 
-se necesita/requiere = it takes
+requiere (tiempo, esfuerzo...)= it takes
     ? Se necesita tiempo para aprender un nuevo idioma : `It takes time to learn a new language`
     ? Se necesita esfuerzo para tener éxito : `It takes effort to succeed`
 
@@ -188,7 +189,7 @@ acabar contrato
 
 dimitir
     = quit (i) `He quit his job` - `He quit the company`
-    = resign from (f) `He resigned from his job` - `He resigned from the company`
+    = resign **from** (f) `He resigned from his job` - `He resigned from the company`
 
 dejar el trabajo/la compañía = leave the job/company (menos drástico)
 
@@ -201,7 +202,7 @@ cambiar de trabajo = change jobs
 
 cambio a mejor = change for the better
 
-estar de baja = be on sick leave `He is on sick leave` - `He is on maternity leave`
+estar de baja = be on <reason> leave `He is on sick leave` - `He is on maternity leave`
 
 
 ## Adjectives for Employees
@@ -230,7 +231,7 @@ agotador
     = exhausting
 
 
-## Schedule
+## Time
 
 horario = schedule `My schedule is very busy this week`
 
@@ -266,8 +267,7 @@ asumir/aceptar una tarea/responsabilidad = take on
     ? Ella se encargó de la organización del evento : `She took on the organization of the event`
     ? Me encargué de la gestión del proyecto : `I took on the responsibility of managing the project`
 
-
-asumir responsabilidades = take responsibility for
+asumir responsabilidades (de un problema, situación)= take responsibility **for**
     ? Tienes que asumir la responsabilidad de tus acciones : `You need to take responsibility for your actions`
 
 asumir un papel = take on a role `He took on the role of project manager`
@@ -275,13 +275,13 @@ asumir un papel = take on a role `He took on the role of project manager`
 hacerse cargo de = take charge of
     ? Me haré cargo del equipo/proyecto : `I will take charge of the team/project`
 
-pasar a dirigir/controlar = take over (suele implicar sustituir a alguien)
-    ? Dirigiré proyecto : `I will take over the project`
+tomar el control/dirigir = take over (suele implicar sustituir a alguien)
     ? ¿Puedes conducir tú un rato? : `Could you take over driving for a bit?`
+    ? Dirigiré el proyecto : `I will take over the project`
 
 obligaciones
     = obligations (genérico de las siguientes)
-    = duties (tareas)
+    = duties (deberes/obligaciones)
     = responsibilities (responsabilidades)
     = commitments (compromisos normalmente voluntarios)
     ? Mis obligaciones incluyen gestionar el equipo : `My obligations include managing the team`
@@ -352,7 +352,7 @@ comentarios
     = remarks (can sound critical)
     ? Hizo algunos comentarios sobre la presentación : `He made some comments about the presentation`
 
-situaciones embarazosas = embarrassing situation
+situacion embarazosa = embarrassing situation
 
 
 ## Work Related Activities
@@ -360,8 +360,12 @@ situaciones embarazosas = embarrassing situation
 ponerse a trabajar = get to work
     ? Después de comer, me pondré a trabajar en el informe que me pediste: `After lunch, I'll get to work on that report you asked for`
 
-Llamar al trabajo para informar de algo = call IN
-    ? Llamé al trabajo para decir que estaba enfermo hoy : `I called in sick to work today`
+Llamar para informar de algo
+    = call IN <de qué informar>
+    - Traducir el _in_ como -> _para decir que_ junto con algo más específico del motivo (estás, llegarás...)
+    ? Llamé al trabajo _para decir que estaba enfermo_ para trabajar hoy : `I called in sick to work today`
+    ? No olvides llamar _para decir que estás bien_ cuando llegues : `Don't forget to call in well when you arrive`
+    ? Tuvo que llamar _para decir que llegaría tarde_ por el tráfico : `He had to call in late because of the traffic`
 
 hacer/organizar una demostración/exhibición...
     = give a presentation

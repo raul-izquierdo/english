@@ -51,10 +51,6 @@ humorístico = humorous `The comedian was humorous`
 humor = humor
     ? Su sentido del humor es contagioso : `His sense of humor is contagious`
 
-previsible
-    = predictable
-    = too obvious (demasiado obvio)
-    ? El final de la película era previsible : `The ending of the movie was predictable` - `too obvious`
 
 ## Describing Quality or Condition
 

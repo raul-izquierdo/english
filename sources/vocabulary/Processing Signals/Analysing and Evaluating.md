@@ -313,6 +313,8 @@ es verdad hasta cierto punto
     = it's true to a certain extent
     ? Es cierto hasta cierto punto que el proyecto va retrasado : `It's true to a certain extent that the project is behind schedule`
 
+hay una pizca/punto de verdad en eso = `There's a grain of truth in that`
+
 mentira piadosa = white lie
     ? Él dijo una mentira piadosa para no herir sus sentimientos : `He told a white lie to avoid hurting her feelings`
 pequeña mentira = petty lie
