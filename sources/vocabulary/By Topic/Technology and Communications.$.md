@@ -119,9 +119,9 @@ navegar por Internet
 
 buscar en Internet
     = to search the Internet [for] (~mirar en internet)
-    = to look up [**on** the Internet <sthing>] (buscar algo específico)
-    ? Necesito buscar en Internet información para mi ensayo : `I need to search the Internet for information for my essay`
-    ? Simplemente buscaré la dirección en Internet : `I'll just look up the address on the Internet`
+    = to look **up** [**on** the Internet <sthing>] (buscar algo específico)
+    ? Necesito buscar en Internet información para mi ensayo : `I need to search the Internet for information **for** my essay`
+    ? Simplemente buscaré la dirección en Internet : `I'll just look **up** the address on the Internet`
 
 Búscalo en Google = `Google it`
 

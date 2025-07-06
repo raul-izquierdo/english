@@ -189,11 +189,6 @@ en lo que X respecta (limitándonos a X)
     ? En lo que respecta al proyecto, todo va bien : `As far as the project is concerned, everything is going well` - `As for the project...`
     ? En lo que a mi respecta, el proyecto va bien : `As far as I'm concerned, the project is going well` - `As for me, ...`
 
-o, mejor dicho, ...
-    ! JAMAS _better said_ No existe!!!
-    = ..., or rather, ...
-    ? Me gusta la playa, o mejor dicho, la amo : `I like the beach, or rather, I love it`
-
 después de todo = after all (clarifica)
     ? Parecía desinteresado, pero después de todo, solo era tímido : `He seemed uninterested, but after all, he was just shy`
 

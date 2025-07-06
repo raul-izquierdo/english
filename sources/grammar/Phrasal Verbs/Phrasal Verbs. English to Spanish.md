@@ -46,6 +46,7 @@ cheer up = animar `I tried to cheer him up by telling him a joke` - `He cheered 
 come about = sucedió/tuvo lugar/se originó `The meeting came about after a long discussion` - `The changes came about as a result of the new policy`
 come across = encontrarse/toparse con (cosas, situaciones - no problemas ni personas) `I came across an old book at the library`
 come along = acompáñanos `Come along to the concert!! It's free`
+come into = heredar
 come out = salir [a la vista] `The sun came out after the rain` - `The book came out last month` - `The truth will come out eventually`
 come over = ir a casa de alguien `Why don't you come over for a cup of tea?`
 come round = +/-come over
@@ -93,7 +94,7 @@ figure out = averiguar/resolver algo (pensándolo) `I need to figure out the ans
 
 ## Find
 
-find out = averiguar/descubrir (con distintos medios, no sólo pensado) `He found out the truth`
+find out = averiguar/descubrir (usando medios, no pensando sin más) `He found out the truth`
 
 ## Get
 

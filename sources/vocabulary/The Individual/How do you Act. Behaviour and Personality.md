@@ -41,6 +41,8 @@ desordenado
 
 ## Describing Behaviors in the Present
 
+costumbre = habit
+
 suelo/normalmente... (en el presente)
     ! No usar nunca _I use to_. Sólo se usa la forma _I useD to_, y es para HB en el pasado (nunca en el presente)
     = <sbody> <adverb> <base> (usually, normally, often, sometimes, always, never...)

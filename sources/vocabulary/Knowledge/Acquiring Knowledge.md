@@ -22,8 +22,8 @@ estudiar = study
     ? No tengo sitio para estudiar : `I don't have a place to study`
 
 concentrarse = concentrate ON
-    ? Necesito concentrarme en mis estudios : `I need to concentrate on my studies`
-    ? Ella se concentró en su trabajo para terminarlo a tiempo : `She concentrated on her work to finish it on time`
+    - _focus_ es más _centrarse_ en algo
+    ? No puedo concentrarme con todo este ruido : `I can't concentrate with all this noise`
 
 centrarse = focus ON
     ? Necesito centrarme en mis estudios : `I need to focus on my studies`
@@ -34,12 +34,12 @@ absorto = engrossed
 
 ## Understanding
 
-Asimilar/entender algo
+Asimilar algo
     = take in
     ? Asimiló la información rápidamente : `He took in the information quickly`
     ? No pudo asimilar las malas noticias : `He couldn't take in the bad news`
 
-entender/pillar algo
+pillar algo, entenderlo
     = grasp
     = get (informal)
     ? No pillo lo que estás diciendo : `I don't grasp what you're saying` - `I don't get...`
@@ -48,9 +48,11 @@ entender/pillar algo
 procesar algo
     ! OJO: no es **to process** (eso es asimilarlo **emocionalmente**)
     = get my head around it
-    = make sense of (por confuso, extraño..)
     ? Necesito tiempo para asimilar este ejercicio : `I need time to get my head around this exercise`
     ? Estoy intentando entender este concepto : `I'm trying to get my head around this concept`
+
+darle sentido, entenderlo
+    = make sense of (por confuso, extraño..)
     ? ¿Puedes entender estas instrucciones? : `Can you make sense of these instructions?`
     ? Es difícil entender por qué dejó su trabajo de repente : `It's hard to make sense of why he suddenly quit his job`
 
@@ -102,10 +104,10 @@ sirve para
     ? Esto es para dibujar : `This is for drawing`
     ? Esto está pensado para ayudarte a entender mejor el tema : `This is meant to help you understand the topic better`
 
-luego te digo para qué sirve
-    = what that is for
-    = what the purpose of x is
-    = what that is used for
+luego te digo para qué sirve <x>
+    = what <x> is used for
+    = what <x> is for
+    = what the purpose of <x> is
     ? Luego te digo para qué es eso : `I'll tell you later what that's for`
     ? Luego te digo cuál es el propósito de eso : `I'll tell your later what the purpose of that is`
     ? Luego te digo para qué se usa eso : `I'll tell you later what that's used for`
@@ -114,17 +116,17 @@ luego te digo para qué sirve
 ## Searching
 
 buscar
-    = to look for <sthing>
+    = to look **for** <sthing>
+    = look **up** (en source - dictionary, online)
     = search (casi registrar)
     = to seek (se usa en contextos abstractos)
-    = look up (en source - dictionary, online)
     ? Estoy buscando mis llaves : `I’m looking for my keys`
     ? Él buscó un nuevo trabajo después de graduarse : `He looked for a new job after graduating`
+    ? Busqué la definición de la palabra en el diccionario : `I looked up the definition of the word in the dictionary`
     ? Busqué por toda la casa mis llaves : `I searched the entire house for my keys`
     ? Busqué en internet los mejores precios : `I searched online for the best prices`
     ? Ellos están buscando justicia : `They are seeking justice`
     ? Él está buscando la felicidad : `He is seeking happiness`
-    ? Busqué la definición de la palabra en el diccionario : `I looked up the definition of the word in the dictionary`
 
 buscar en internet
     = to search online (búsqueda en general)
@@ -133,11 +135,7 @@ buscar en internet
     ? No sabía la capital de Australia, así que tuve que buscarla en internet : `I didn't know the capital of Australia, so I had to look it up online`
     ? ¿Podrías buscar en internet la ortografía de 'accommodation'? : `Could you look up online the spelling of 'accommodation'?`
 
-ir a por algo
-    = go after
-    ? Él fue tras el trabajo que quería : `He went after the job he wanted`
-
-una búsqueda de algo = a search for
+en búsqueda de ... = a search **for**
     ? Fui en busca del mejor restaurante : `I went on a search for the best restaurant`
     ? Fuimos en busca del tesoro perdido : `We went on a search for the lost treasure`
     ? Se inició una búsqueda de la persona desaparecida : `A search began for the missing person`
@@ -193,9 +191,8 @@ un estudio sugiere ...
     = a piece of research suggests that...
     ? Un estudio sugiere que las personas que hacen ejercicio son más felices : `A study suggests that people who exercise are happier`
 
-un estudio reciente muestra que
+los resultados de un estudio reciente muestra que
     = the findings of one recent study shows that
-    ? Los resultados de un estudio reciente muestran que la gente es más feliz cuando pasa tiempo con amigos : `The findings of one recent study show that people are happier when they spend time with friends`
 
 ## Common Knowledge
 

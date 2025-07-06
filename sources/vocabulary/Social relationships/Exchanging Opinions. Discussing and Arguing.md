@@ -131,6 +131,16 @@ dicho de otra manera, ...
     ? Los beneficios de la compañía han disminuido ligeramente. Dicho de otra manera, no estamos ganando tanto como el año pasado : `The company's profits have decreased slightly. To put it another way, we're not making as much money as last year`
     ? A ver, dicho de otra manera, creo que es más importante la salud que el dinero : `Let me put it another way, I think health is more important than money`
 
+o, mejor dicho, ...
+    ! JAMAS _better said_ No existe!!!
+    = ..., or rather, ...
+    = or, to put it better, ...
+    ? Me gusta la playa, o mejor dicho, la amo : `I like the beach, or rather, I love it`
+
+es x, más bien
+    = it's X, rather
+    ? Es rojo... bueno, es naranja más bien : `It's red, well, it's orange rather`
+
 para que quede claro = `Just to be clear, ...`
     ? Solo para que quede claro, ... : `Just to be clear, ...`
 

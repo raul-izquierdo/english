@@ -27,7 +27,8 @@ Not Needed (the challenging content is here)
     = Crime and Punishments
     = Manipulating Things
     = When Doing Activities
-    = When Doing Activities
+    = Acquiring Knowledge
+
 
 ## Conditionals
 
@@ -398,8 +399,6 @@ hasta que alguien haga algo
 mucho que hacer = plenty to do
     ? Tengo mucho que hacer en el trabajo : `I have plenty to do at work`
 
-## When Doing Activities
-
 hazlo de manera que quede así = do it so that it looks like this
 
 dividirlo en partes = break it down
@@ -462,3 +461,72 @@ resultó, acabó siendo
 
 para mantenerse en forma = to stay fit
     ? Voy al gimnasio para mantenerme en forma : `I go to the gym to stay fit`
+
+
+## Acquiring Knowledge
+
+conocimiento
+    = knowledge ABOUT (conocimientos generales/superficiales)
+    = knowledge OF (más profundos)
+    ? Tiene algunos conocimientos sobre temas medioambientales : `He has some knowledge about environmental issues`
+    ? Tiene amplios conocimientos de música clásica : `He has extensive knowledge of classical music`
+
+concentrarse = concentrate ON
+    - _focus_ es más _centrarse_ en algo
+    ? No puedo concentrarme con todo este ruido : `I can't concentrate with all this noise`
+
+absorto = engrossed
+    ? Estaba absorto en el libro : `He was engrossed in the book`
+
+Asimilar algo
+    = take in
+    ? Asimiló la información rápidamente : `He took in the information quickly`
+    ? No pudo asimilar las malas noticias : `He couldn't take in the bad news`
+
+procesar algo
+    ! OJO: no es **to process** (eso es asimilarlo **emocionalmente**)
+    = get my head around it
+    ? Necesito tiempo para asimilar este ejercicio : `I need time to get my head around this exercise`
+    ? Estoy intentando entender este concepto : `I'm trying to get my head around this concept`
+
+encontrar el sentido, entenderlo
+    ? ¿Puedes entender estas instrucciones? : `Can you make sense of these instructions?`
+    = make sense of (por confuso, extraño..)
+    ? Es difícil entender por qué dejó su trabajo de repente : `It's hard to make sense of why he suddenly quit his job`
+
+buscar
+    = to look **for** <sthing>
+    = look **up** (en source - dictionary, online)
+    = search (casi registrar)
+    = to seek (se usa en contextos abstractos)
+    ? Estoy buscando mis llaves : `I’m looking for my keys`
+    ? Él buscó un nuevo trabajo después de graduarse : `He looked for a new job after graduating`
+    ? Busqué la definición de la palabra en el diccionario : `I looked up the definition of the word in the dictionary`
+    ? Busqué por toda la casa mis llaves : `I searched the entire house for my keys`
+    ? Busqué en internet los mejores precios : `I searched online for the best prices`
+    ? Ellos están buscando justicia : `They are seeking justice`
+    ? Él está buscando la felicidad : `He is seeking happiness`
+
+buscar en internet
+    = to search online (búsqueda en general)
+    = to look <thing> up (buscar algo concreto)
+    ? Necesito buscar en internet las mejores ofertas en vuelos a España : `I need to search online for the best deals on flights to Spain`
+    ? No sabía la capital de Australia, así que tuve que buscarla en internet : `I didn't know the capital of Australia, so I had to look it up online`
+    ? ¿Podrías buscar en internet la ortografía de 'accommodation'? : `Could you look up online the spelling of 'accommodation'?`
+
+averiguar
+    = find out (buscar en fuente externa)
+    = figure out (pensarlo yo)
+    ? Necesito averiguar la respuesta a esta pregunta : `I need to find out the answer to this question`
+    ? Necesito descifrar la respuesta a esta pregunta : `I need to figure out the answer to this question`
+    ? Averiguaré cuál fue el problema e intentaré solucionarlo : `I'll figure out what the problem was and I'll try to sort it out`
+
+encontrar
+    = find (cosas)
+    = meet (people)
+    ? Encontré mis llaves : `I found my keys`
+    ? Me encontré con mi amigo en el parque : `I met my friend at the park`
+
+encontrarse/toparse con
+    = run into (personas o problemas)
+    = come across (cosas, situaciones)
