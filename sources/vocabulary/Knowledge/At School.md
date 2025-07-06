@@ -14,29 +14,33 @@ taller = workshop
 institución = institution
 organización = organization
 
-clases particulares/extraescolares
-    = extracurricular classes
-    = private classes (se refiere a un formato personalizado/reducido)
-    ? Él toma clases extraescolares de pintura : `He takes extracurricular classes in painting`
+clases particulares = private classes (se refiere a un formato personalizado/reducido)
     ? Estoy tomando clases particulares para mejorar mi inglés : `I’m taking private lessons to improve my English`
+
+clases extraescolares
+    = extracurricular classes
+    ? Elsa toma clases extraescolares de pintura : `Elsa takes extracurricular classes in painting`
 
 ## Courses and Qualifications
 
-curso de = course in <subject>
-    ? Estoy haciendo un curso de historia : `I am taking a course in history`
+curso de <subject> = course **in** <subject>
+    ? Estoy haciendo un curso de historia : `I am taking a course **in** history`
 
 apuntarse a ...
     = sign up for ... (i) `I signed up for a course in photography`
     = enrol in ... (f) `I enrolled in a photography course`
 
-estar haciendo un curso de...
-    = taking
+estar haciendo un curso
+    = taking a course
     = attending (enfatiza el ir en persona) `I am attending a course in photography`
     ? Estoy haciendo un curso de fotografía : `I am taking a course in photography`
 
 
 título universitario/grado en = degree
     - No confundir con _grade_: calificación
+
+abandonar la carrera = drop out OF
+    ? Dejó la carrera porque no le gustaba : `He dropped out of his degree because he didn't like it`
 
 tener un título en = have a degree IN
 
@@ -58,6 +62,7 @@ beca
 
 promoción de estudiantes = intake
     ? La promoción del año pasado fue muy buena : `Last year's intake was very good`
+    ? La última promoción de becarios de nuestra empresa es muy cualificada : `Our company’s latest intake of interns is highly skilled`
 
 trimestre = term
     ? El trimestre empieza en septiembre : `The term starts in September`
@@ -67,9 +72,10 @@ semestre = semester
 ## Roles
 
 profesor de universidad (yo) = [senior] lecturer
-    ? Soy profesor titular en la universidad : `I am a senior lecturer at the university`
+    ? Soy profesor en la universidad : `I am a lecturer at the university`
 profesor de colegio/instituto = teacher
-director de la escuela = head teacher
+director de la escuela = headteacher
+    - **No _director_**
 
 bedel = janitor
 
@@ -97,16 +103,20 @@ tema, capítulo
     = subject (tema general/materia: Maths, Biology...)
     = unit/chapter (capítulo)
     = topic (más específico)
-    = lesson (lo que se da en una sesión)
     ? El tema del artículo es el cambio climático : `The subject of the article is climate change`
     ? La unidad del libro trata sobre Álgebra : `The unit of the book is about Algebra`
     ? El tema de hoy son las ecuaciones lineales : `Today’s topic is linear equations`
     ? Estuvimos discutiendo varios temas, desde fútbol hasta política : `We were discussing various topics, from football to politics`
-    ? En la lección de hoy, continuaremos trabajando con ecuaciones lineales : `In today's lesson, we’ll continue working on linear equations`
-
-lección (lo que se da en una sesión) = lesson
 
 clase (aula) = classroom, room (aula)
+
+clase (sesión de enseñanza)
+    = lesson
+    = class (unos dicen que sí y otros que sólo _lesson_ es correcto)
+    ? La clase de hoy duró 20 minutos : `Today's lesson lasted 20 minutes`
+
+clase (grupo de alumnos) = class
+    ? En mi clase sólo hay 20 alumnos : `There are only 20 students in my class`
 
 semestre = semester `I’m taking a semester off to travel`
 
@@ -335,16 +345,13 @@ faltar a clase/exam
     ? Falté a clase ayer porque estaba enfermo : `I missed class yesterday because I was sick`
 
 alumno ausente
-    = absent
+    = absent student
     ? El alumno ausente se perdió el examen : `The absent student missed the exam`
     ? ¿Cuántos alumnos han faltado hoy? : `How many students were absent today?`
     ? ¿Cuántos alumnos no vinieron a clase hoy? : `How many students didn't come to class today?`
 
-abandonar la carrera/...
-    = drop out OF
-    ? Dejó la carrera porque no le gustaba : `He dropped out of his degree because he didn't like it`
 
-## Starting a Class
+## Starting a Lesson
 
 comencemos con ...
     = let's start with (I) ...
@@ -357,7 +364,7 @@ dar una lección/tema = cover `today we will cover lesson 7`
 en la clase de hoy, veremos
     = in today’s class/session we will cover... `In today’s session, we will cover lesson 8 from the book`
 
-## During the Class
+## During the Lesson
 
 atender, prestar atención = pay attention to
     ? Necesitas prestar atención en clase : `You need to pay attention in class`
@@ -372,10 +379,6 @@ distraer = to distract
 
 
 ## Other Expressions
-
-los nuevos/admitidos (estudiantes, trabajadores...) = intake
-    ? La promoción de estudiantes de este año es muy prometedora. : `This year's intake of students is very promising.`
-    ? La última promoción de becarios de nuestra empresa es muy cualificada : `Our company’s latest intake of interns is highly skilled`
 
 la calidad ha disminuido
     ? La calidad de la educación ha disminuido : `The quality of education has decreased`

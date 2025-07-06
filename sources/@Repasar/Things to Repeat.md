@@ -28,7 +28,7 @@ Not Needed (the challenging content is here)
     = Manipulating Things
     = When Doing Activities
     = Acquiring Knowledge
-
+    = At School
 
 ## Conditionals
 
@@ -530,3 +530,47 @@ encontrar
 encontrarse/toparse con
     = run into (personas o problemas)
     = come across (cosas, situaciones)
+
+## At School
+
+apuntarse a ...
+    = sign up for ... (i) `I signed up for a course in photography`
+    = enrol in ... (f) `I enrolled in a photography course`
+
+estar haciendo un curso
+    = taking a course
+    = attending (enfatiza el ir en persona) `I am attending a course in photography`
+    ? Estoy haciendo un curso de fotografía : `I am taking a course in photography`
+
+tengo un curso/cursillo de (ya lo he acabado) = I've done a course **in**
+    ? He hecho un curso de fotografía : `I've done a course **in** photography`
+
+director de la escuela = headteacher
+    - **No _director_**
+
+repasar
+    = revise
+    = go over
+    ? Necesito repasar para el examen : `I need to revise for the exam`
+    ? Vamos a repasar los puntos clave de la lección/plan : `Let's go over the key points of the lesson/plan`
+
+hacer un examen (los alumnos lo hacen)
+    = take an exam (los alumnos)
+    = sit an exam (los alumnos - británico)
+    ? Hice un examen la semana pasada - Hice un examen la semana pasada : `I took an exam last week` - `I sat an exam last week`
+
+descuido, omisión = oversight
+
+poner una nota (el profesor) = give a mark/grade
+
+ir/asistir a clase
+    = attend [the] class
+        - Se usa el _the_ si se refiere a una clase en concreto (la de matemáticas de las ocho)
+        - OJO: asistir no es _assist_; eso es ayudar (dar asistencia)
+    ? Asisto a clase todos los días : `I attend class every day`
+    ? No asistimos a la primera clase : `We didn't attend the first class`
+
+dar una lección/tema = cover `today we will cover lesson 7`
+
+La exigencia en la educación ha disminuido en los últimos años
+    ? La exigencia en la educación ha disminuido en los últimos años : `The demand in education has decreased in recent years`
