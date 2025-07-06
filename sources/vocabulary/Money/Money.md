@@ -47,8 +47,10 @@ gastos = expenses
 
 sobrepasar tu presupuesto
     = go over budget
-        - lo contrario sería "stay within budget" `We need to stay within budget`
+    = exceed your budget
     ? Es un ordenador barato, así que no vas a sobrepasar tu presupuesto : `It's cheap computer, so you won't go over budget`
+
+mantenerse en el presupuesto = stay within budget" `We need to stay within budget`
 
 sin gastarse una fortuna = without breaking the bank
         ? Compré un teléfono nuevo sin gastarme una fortuna : `I bought a new phone without breaking the bank`
@@ -62,34 +64,36 @@ invertir
 mantenerse por sí mismo = pay his own way
     ? Él se mantiene por sí mismo : `He pays his own way`
 
-vivir de algo
-    = live off (indica dependencia de algo)
-    = live on (indica fuente de ingresos - autosuficiencia)
+vivir (a costa de/  de recursos)
+    = live off (vivir a costa de - indica dependencia de algo)
+    = live on (vivir de [fuente de ingresos/comida/recursos])
     ? Él vive de sus padres : `He lives off his parents` (dependencia)
     ? Ellos viven de la tierra : `They live off the land` (dependencia)
-    ? Vivieron de las raciones que encontraron : `They lived off the rations they found`
-    ? Ella vive de una pequeña pensión : `She lives on a small pension`
-    ? Él vive de su salario : `He lives on his salary`
+    ? Vivieron de las raciones que encontraron : `They lived off the rations they found` (comida)
+    ? Ella vive de una pequeña pensión : `She lives on a small pension` (ingresos)
+    ? Él vive de su salario : `He lives on his salary` (ingresos)
     ? Él vive de las ayudas del gobierno : `He lives off government benefits` (dependencia)
+    ? Me gustaría vivir de jugar al futbolín : `I'd like to ***make a living from*** playing table football` (aquí no es "Live on/off"!!)
 
-ganarse la vida
+vivir de <actividad>, ganarse la vida con <actividad>
     = make a living (natural)
     = earn a living (f)
     ? Él se gana la vida como músico : `He makes a living as a musician`
     ? Me gano la vida como profesor : `I earn a living as a teacher`
-
+    ? Me gustaría vivir de jugar al futbolín : `I'd like to ***make a living from*** playing table football` (aquí sí)
 
 Lo pago de mi bolsillo
     = I’m paying for it myself
     ? Estoy pagando el viaje de mi bolsillo : `I’m paying for the trip myself`
 
-rico, adinerado = wealthy
+rico, adinerado
+    = rich person
+    = wealthy man (f)
 
 clase media = middle class
     ? Soy de clase media : `I'm middle class`
 
-saldar una deuda
-    = pay off
+saldar/pagar una deuda = pay off
     ? Pagué mi préstamo estudiantil : `I paid off my student loan`
 
 cuota
@@ -111,8 +115,8 @@ costar un ojo de la cara
 ## Getting Money
 
 ganar dinero
-    = earn money (trabajando)
-        - OJO: jamás usar _gain_ con money
+    ! OJO: Nunca usar **gain** con money (sí con time, weight, experience, etc.)
+    = earn money (trabajando - salario, sueldo)
     = win money (lotería, juegos de azar)
     = make money (hacer dinero)
     = get money (conseguir dinero)
@@ -126,16 +130,12 @@ heredar
     ? Ella heredó una fortuna de su padre : `She inherited a fortune from her father`
     ? Él recibió mucho dinero cuando murió su tío : `He came into a lot of money when his uncle died`
 
-donación = donation
+hacer una donación = make a donation
 donante = donor
 receptor de donación = recipient of the donation
 
 
 ## Salary
-
-ganar dinero = earn
-    - OJO: Nunca usar **gain** con money (sí con time, weight, experience, etc.)
-    ? Él gana un buen salario : `He earns a good salary`
 
 cobrar = get paid
     ? Me pagan al final del mes : `I get paid at the end of the month`

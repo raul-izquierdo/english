@@ -22,6 +22,8 @@ empresa
 negocio = business
     ? El negocio de la energía verde está creciendo significativamente en todo el mundo : `The green energy business is growing significantly worldwide`
 
+hombre de negocios = businessman
+
 montar una empresa = set up a company
 
 inaugurar (un negocio) = open
@@ -40,6 +42,7 @@ estaba en sus inicios = it was in its infancy `The technology was in its infancy
 
 venta de minorista = retail
     ? Trabaja en venta de minorista : `He works in retail`
+
 
 ## Products
 
