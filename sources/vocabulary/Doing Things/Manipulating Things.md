@@ -69,7 +69,7 @@ acortar = shorten:ed
     ? La reunión se acortó una hora : `The meeting was shortened by an hour`
     ? Los días se acortan en invierno : `The days shorten in winter`
 
-agrandar = enlarge:ed
+ampliar = enlarge:ed
     ? La empresa amplió su espacio de oficinas : `The company enlarged its office space`
     ? La imagen fue ampliada para la exposición : `The picture was enlarged for the exhibition`
 
@@ -279,10 +279,6 @@ desgastar = wear out
     ? Los zapatos se desgastaron tras un año de uso : `The shoes wore out after a year of use`
     ? La alfombra se desgastó tras años de pisadas : `The carpet wore out after years of foot traffic`
 
-desgarrar = tear apart
-    ? El perro desgarró el juguete : `The dog tore apart the toy`
-    ? La discusión desgarró a la familia : `The argument tore the family apart`
-
 desmontar = take apart
     ? Desmontó la máquina para arreglarla : `He took apart the machine to fix it`
     ? Desmontó el puzzle para ver cómo estaba hecho : `She took apart the puzzle to see how it was made`
@@ -290,12 +286,15 @@ desmontar = take apart
 estropear, dañar
     = spoil (estropear, pudrir)
     = damage (dañar)
-    ? La comida se estropeó en la nevera : `The food spoiled in the fridge`
     ? La tormenta dañó el tejado : `The storm damaged the roof`
     ? El coche resultó dañado en el accidente : `The car was damaged in the accident`
 
-estropear, arruinar = ruin
+arruinar = ruin
     ? La lluvia arruinó el picnic : `The rain ruined the picnic`
 
 arrancar, tirar rápido = tear off
     ? Arrancó la etiqueta de la botella : `He tore off the label from the bottle`
+
+desgarrar = tear apart
+    ? El perro desgarró el juguete : `The dog tore apart the toy`
+    ? La discusión desgarró a la familia : `The argument tore the family apart`

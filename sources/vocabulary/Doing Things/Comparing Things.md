@@ -36,7 +36,7 @@ más que, el que más
     ? true : `truer` - `the truest` - `more true` - `the most true`
 
 
-menos que, el que menos
+menos <text>, el que menos <text>
     = (incontable) less/least
     = (contable) fewer/fewest
     ? time : `less time` - `the least time`
@@ -64,17 +64,17 @@ es (mucho más) ... que... (¿mucho?)
     = The <superlative> IN <group>
     ? Roberto es el más gracioso de la clase : `Roberto is the funniest IN the class`
 
-Alex es el más rápido y John es el más listo
+Alex es el nadador más rápido y John es el más listo
     = `Alex is the FASTER swimmer and John is the MORE CLEVER one`
         - De entre ellos dos. No se usa el superlativo en este caso
     = `Alex is the FASTEST swimmer and John is the MOST CLEVER one`
         - De entre todos los del grupo, no sólo entre ellos
 
-is the biggest ... (¿con diferencia?)
+es el ... con diferencia
 	= by far, easily
 	? Tu coche es el más rápido que he visto con diferencia : `Your car is BY FAR/Easily the fastest car I've ever seen`
 
-is the biggest ... (¿por poco?)
+es el ... por poco
 	= by a bit, barely, by a small margin
 	? Es el más grande por poco : `It's the biggest by a bit` - `It is barely the biggest`
 
@@ -105,7 +105,7 @@ No hay diferencia entre mi coche y el tuyo
         - Nota: pluralizado, pero también válido
 
 Hay diferencia entre tu coche y el mio
-    = `There is a difference between your car and mine`
+    = `There is **a** difference between your car and mine`
         - No está indicando que haya sólo _una_ diferencia (aunque también se podría interpretar así)
 
 Hay <poca/no mucha> diferencia entre...
@@ -180,7 +180,7 @@ No es un ... tan ...
 mi hijo es de la misma edad que el tuyo
     = `My son is THE SAME AGE AS yours`
 
-mas o menos = sort of
+algo así = sort of
     ? El proyecto está más o menos terminado : `The project is sort of finished`
     ? ¿Sois amigos? Más o menos. Nos llevamos bien, pero no somos muy cercanos. : `Are you friends? Sort of. We get along, but we're not very close`
 
@@ -194,8 +194,11 @@ como si fuera/hubiera...
     ? Me miró como si fuera la última vez que nos veríamos : `She looked at me as though it were the last time we’d meet`
     ? Se comportaron como si todo fuera una broma : `They behaved as though it were all a joke`
 
-tantos como = as many as
+tanto[s] como
+    = as many as (contables
+    = as much as (incontables)
     ? Hay tantas manzanas como naranjas en la cesta : `There are as many apples as oranges in the basket`
+    ? Hay tanto dinero como tiempo en el proyecto : `There is as much money as time in the project`
 
 coincide con
     = matches

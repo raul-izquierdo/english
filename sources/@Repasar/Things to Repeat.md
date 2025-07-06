@@ -2,21 +2,30 @@
 
 ## Full Chapters to Repeat
 
-Mandatory to Repeat
+Mandatory to Repeat (and extract the challenging content)
     = Passive
     = Reported Speech
     = Present Perfect Simple and Continuous
     = Adverbs
     = Linking Words
     = Preferences
-    = Crime and Punishments
     = Food and Drinks
     = Quantities
+    = At Work
 
-Optional
+Optional (content not extracted)
     = Sports and Exercise
-    = Time and Moments
     = Critizing
+
+Not Needed (the challenging content is here)
+    = Technology and Communications
+    = Time and Moments
+    = Weather
+    = Creative Works
+    = Comparing Things
+    = Dates
+    = Crime and Punishments
+    = Manipulating Things
 
 ## Conditionals
 
@@ -28,7 +37,6 @@ Conditionals
     = Si **hubiera ocurrido** A en el pasado, **hubiera ocurrido** B en el pasado
         - Nótese que, aunque ambos son **hubiera ocurrido**, el del _if_ es _had_ y el 2º es _have_
         - If **had** ... (would/could/might) **have** <done> `If I had studied harder, I would have passed the exam`
-
 
 ## Gerund vs Infinitive
 
@@ -113,11 +121,6 @@ Robo a personas/lugares (atraco)
     ? Detuvieron al atracador del banco cuando estaba atracando el banco : `The bank robber was arrested while he was robbing the bank` - `The bank robber was arrested while robbing the bank`
     ? Fui atracado en la calle cuando el atracador cometió un atraco : `I was **mugged** in the street when the **mugger** committed a **mugging**`
 
-
-## Food
-
-translate:
-    ? En mi cumpleaños, salimos a comer a un restaurante : `On my birthday, we went out for lunch at a restaurant`
 
 
 ## Wishes Hopes and Expectations
@@ -263,15 +266,120 @@ hacer una gran actuación = **give** a great performance
     ! No es _do a performance_
     ? El actor dio una gran actuación : `The actor gave a great performance`
 
-## At Work
 
-Translate
-    ? La plantilla está formada por unos 20 empleados : `The staff consists **of** approximately 20 employees.`
+## Comparing Things
 
-estar de baja = be on <reason> leave `He is on sick leave` - `He is on maternity leave`
+menos <text>, el que menos <text>
+    = (incontable) less/least
+    = (contable) fewer/fewest
+    ? time : `less time` - `the least time`
+    ? people : `fewer people` - `the fewest people`
 
-trabajar horas extras = work overtime `I often work overtime to finish my projects` - `I worked overtime last week`
+es (poco más) ... que... (¿poco?)
+	= slightly, a bit
+    ? Es un poco más alto que su hermano : `He is slightly taller...`
 
-tomar el control/dirigir = take over (suele implicar sustituir a alguien)
-    ? ¿Puedes conducir tú un rato? : `Could you take over driving for a bit?`
-    ? Dirigiré el proyecto : `I will take over the project`
+es (mucho más) ... que... (¿mucho?)
+    = significantly, [so]much, a lot...
+    ? Es mucho más alto que su hermano : `He is significantly taller...`
+
+Alex es el nadador más rápido y John es el más listo
+    = `Alex is the FASTER swimmer and John is the MORE CLEVER one`
+        - De entre ellos dos. No se usa el superlativo en este caso
+    = `Alex is the FASTEST swimmer and John is the MOST CLEVER one`
+        - De entre todos los del grupo, no sólo entre ellos
+
+No hay diferencia entre mi coche y el tuyo
+    ! Nótese que aquí se usa _NO_ en vez de _NOT_
+    = `There IS NO DIFFERENCE between my car and yours`
+    = `There ARE NO DIFFERENCES between my car and yours`
+        - Nota: pluralizado, pero también válido
+
+hay <mucha> diferencia entre mi coche y el tuyo
+    = a lot of | a great deal of
+    ? Hay mucha diferencia entre mi coche y el tuyo : `There is A GREAT DEAL OF difference between my car and yours`
+
+es más bien ...
+    = MORE of a <noun>
+    ? Él está resultando ser más bien un líder que un gerente : `He's turning out to be more of a leader than a manager`
+    ? Fue más bien una charla que una reunión formal : `It was more of a chat than a formal meeting`
+
+ser un ... mayor del que...
+    = MORE of a <noun>
+    - Sí, el mismo de antes
+    ? Ella está resultando ser un problema mayor del que esperábamos : `She's turning out to be MORE OF A problem than we expected`
+    ? Él está resultando ser un riesgo mayor del que pensábamos : `He's MORE OF A risk than we thought`
+
+mejor aún
+    = better yet (proponer otra alternativa)
+    ? Podríamos tomar un café, o mejor aún, vamos a comer : `We could meet for coffee, or better yet, let's grab lunch`
+
+No es un ... tan ...
+    = NOT SUCH A ... AS
+    ? No es un coche tan rápido como el mío : `It is NOT SUCH A FAST car AS mine`
+    ? No es un restaurante tan popular como solía ser : `This restaurant is NOT SUCH A popular spot AS it used to be`
+
+como si fuera/hubiera...
+    = as though/if it <were>
+    ? Habla como si fuera el jefe : `He speaks as though he were the boss`
+    ? Parece como si hubiera estado lloviendo antes : `It looks as though it were raining earlier`
+    ? Me miró como si fuera la última vez que nos veríamos : `She looked at me as though it were the last time we’d meet`
+    ? Se comportaron como si todo fuera una broma : `They behaved as though it were all a joke`
+
+## Manipulating Things
+
+made <preposición> <material>
+    ! Se se usa la preposición incorrecta, tampoco pasa nada
+    = made of (cuando en el producto puedes aún ver el material) `The table/house is made of wood/cardboard/stone/plastic/metal`
+    = made from (pero ya no se ve) `The wine is made from grapes`
+    = made out of (reciclando/rehusando un objeto) `The bag is made out of recycled plastic`
+    = made with (ingredientes de una comida) `The cake is made with flour, sugar, and eggs`
+
+tirar/lanzar
+    = throw **into** (a container) `He threw the ball **into** the basket`
+    = throw **to** (a alguien para ser cogido) `He threw the ball **to** his friend`
+    = throw **at** (hacia/contra algo) `He threw the ball **at** the wall`
+
+
+organizar
+    = organize (es el genérico de clasificar, ordenar, etc.)
+    = arrange (colocar por estética/visualmente)
+    = sort out
+    ? Ella organizó los archivos en su ordenador : `She organized the files on her computer`
+    ? Coloqué los cuadros del salón  : `I arranged the paintings in the living room`
+    ? Ella arregló las flores en un jarrón : `She arranged the flowers in a vase`
+    ? Ella ordenó los papeles en su escritorio : `She sorted out the papers on her desk`
+    ? Organizó los muebles para que el salón pareciera más espacioso : `He arranged the furniture to make the living room feel more spacious`
+
+clasificar
+    = group (poner cosas juntas basándose en alguna característica)
+    = sort (separar en grupos)
+    = categorize ((poner en categorías preestablecidas))
+    = classify (versión sistemática científica de _categorize_)
+    ? Los objetos están agrupados por color : `The items are grouped by colour`
+    ? Ordena los papeles en carpetas : `Sort the papers into folders`
+    ? Tiene que separar su ropa sucia en montones para lavar : `He needs to sort his dirty clothes into piles for washing`
+    ? Los libros están categorizados por género : `The books are categorised by genre`
+    ? Los científicos clasifican nuevas especies animales según su ADN : `Scientists classify new animal species based on their DNA`
+
+ordenar objetos por algún criterio
+    = order (ordenar dentro de un grupo - una fila)
+    ? Ordené los archivos por fecha : `I ordered the files by date`
+
+desmoronarse = fall apart
+    ? La relación se desmoronó después de la discusión : `Their relationship fell apart after the argument`
+    ? El edificio se desmoronó después del terremoto : `The old building fell apart after the earthquake`
+
+caer
+    = fall **off** <apoyo> (caerse de sitio en el que se estaba sentado/apoyado)
+    = fall **over** (caerse al suelo)
+    = fall **down** (caerse de escaleras o inclinación)
+    ? Se cayó de la silla : `He fell off the chair`
+    ? El cuadro se cayó de la pared : `The picture fell off the wall`
+    ? Se cayó mientras corría : `He fell over while running`
+    ? La pila de libros se cayó : `The stack of books fell over`
+    ? Se cayó por las escaleras : `He fell down the stairs`
+
+desmontar = take apart
+    ? Desmontó la máquina para arreglarla : `He took apart the machine to fix it`
+    ? Desmontó el puzzle para ver cómo estaba hecho : `She took apart the puzzle to see how it was made`

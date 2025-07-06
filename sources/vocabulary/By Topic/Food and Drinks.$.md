@@ -28,6 +28,7 @@ comida de tres platos = three-course meal
     - Formado por _starter_, _main course_ y _dessert_
 
 la comida se ha estropeado = go off
+    - También se puede usar _spoil_
     ? La comida se ha estropeado, tenemos que tirarla : `The food has gone off, we need to throw it away`
 
 ## Places

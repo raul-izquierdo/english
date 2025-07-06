@@ -106,3 +106,8 @@ media (los medios de comunicación) = are
 
 information = is (nunca se usa en plural: no _informations_)
     - `The information is correct`
+
+## Expressions
+
+translate:
+    ? En mi cumpleaños, salimos a comer a un restaurante : `On my birthday, we went out for lunch at a restaurant`
