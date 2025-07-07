@@ -15,9 +15,12 @@ lo noto, me resulta ...
     ? Me resulta difícil de entender : `I find it difficult to understand`
 
 conformarse con
-    = settle FOR <ing/sthing>
-    ? Me conformé con la opción más barata : `I settled for the cheaper option`
-    ? Me conformo con cualquier cosa : `I'll settle for anything`
+    = I'm fine with... (me parece perfecto)
+    = settle **for** <ing/sthing> (se prefiere otra cosa, pero se acepta esta)
+    ? Me conformo con lo que hay : `I'm fine with what there is`
+    ? Me conformo con cualquier cosa : `I'm fine with anything`
+    ? Me conformé con la opción más barata (aunque prefería la cara) : `I settled for the cheaper option`
+    ? Me tuve que conformar con la caja pequeña" : `I had to settle for the small box`
 
 hacer algo, tomar medidas
     = take action
@@ -32,12 +35,18 @@ perderse algo (por no estar o no aprovecharlo)
     ? Perdí el autobús : `I missed the bus`
     ? Perdí la oportunidad de viajar : `I missed the opportunity to travel`
 
-poner en práctica, implementar (una medida)
-= adopt
+adoptar (una medida/postura...) = to adopt
     ? La empresa adoptó una nueva política para mejorar la eficiencia : `The company adopted a new policy to improve efficiency`
 
+poner en práctica (algo)
+    = to put **into** practice
+    ? Pusieron en práctica nuevas estrategias para mejorar la eficiencia : `They put new strategies into practice to improve efficiency`
+    ? Poner en práctica lo aprendido es esencial para el aprendizaje : `Putting what you've learned into practice is essential for learning`
+    ? Es una gran teoría, pero necesitamos encontrar una manera de ponerla en práctica : `It's a great theory, but we need to find a way to put it into practice`
+    ? Nuestro objetivo es poner estas recomendaciones en práctica lo antes posible : `Our goal is to put these recommendations into practice as soon as possible`
+
 supone, implica...
-    ! OJO: no es _imply_ 🠢 significa _dar a entender_
+    ! OJO: no es _imply_, que significa **dar a entender**
     = involve (involucra) Más común que _entail_
     = entail (conlleva)
     ? Hacer dieta implica renunciar a cosas : `Dieting involves giving up things`

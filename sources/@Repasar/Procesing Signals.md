@@ -162,3 +162,27 @@ matiz = nuance
 
 transmite, comunica, indica = convey
     ? El mensaje transmitía la importancia del trabajo en equipo : `The message conveyed the importance of teamwork`
+
+
+## Reacting
+
+hacer algo, tomar medidas
+    = take action
+    ? Necesitamos tomar medidas para resolver el problema : `We need to take action to solve the problem`
+    ? Necesitamos tomar medidas para mejorar la situación : `We need to take action to improve the situation`
+
+no están tomando las medidas adecuadas = not taking the right measures
+    ? No están tomando las medidas adecuadas para proteger el medio ambiente : `They are not taking the right measures to protect the environment`
+
+poner en práctica (algo)
+    = to put **into** practice
+    ? Pusieron en práctica nuevas estrategias para mejorar la eficiencia : `They put new strategies into practice to improve efficiency`
+    ? Poner en práctica lo aprendido es esencial para el aprendizaje : `Putting what you've learned into practice is essential for learning`
+    ? Es una gran teoría, pero necesitamos encontrar una manera de ponerla en práctica : `It's a great theory, but we need to find a way to put it into practice`
+    ? Nuestro objetivo es poner estas recomendaciones en práctica lo antes posible : `Our goal is to put these recommendations into practice as soon as possible`
+
+supone, implica...
+    ! OJO: no es _imply_, que significa **dar a entender**
+    = involve (involucra) Más común que _entail_
+    = entail (conlleva)
+    ? Hacer dieta implica renunciar a cosas : `Dieting involves giving up things`
