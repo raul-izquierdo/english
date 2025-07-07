@@ -35,8 +35,8 @@ Not Needed (the challenging content is here)
     = Shopping and Products
     = Environment and Nature
     = Home and Chores
-    = Moving
     = Travelling
+    = Moving
 
 ## Conditionals
 
@@ -879,3 +879,166 @@ desatendido (sin cuidar) = neglected
 
 escapada, salida
     = getaway (2+ días - enfatiza necesidad de relax) `We went on a weekend getaway to the mountains` - `The getaway was relaxing`
+
+## Moving
+
+entrar en
+    = go into//in
+        - go **into** <lugar> `He went into the room`
+        - go **in** (entrar sin decir lugar) `He went in`
+    = get in (i) (vehicles/small enclosed spaces)
+    = enter (f) (incluye el "into"; no se añade) `He entered the room`
+    = come in (invitación a entrar - `Ven, entra`)
+    ? Entré en la habitación y me senté : `I went into the room and sat down`
+    ? Entré en el taxi y me senté : `I got in the taxi and sat down`
+    ? Entró en su casa : `He entered his house`
+    ? Vamos, entra : `Come in`
+    ? Entra tú y cierra la puerta : `You go in and close the door`
+
+salir (movimiento hacia afuera)
+    = leave (el más común)
+    = go out (opuesto a _go in/into_)
+        - También tiene el significado de salir por ahí a dar una vuelta  `I went out for a walk`
+        - En muchos casos, _leave_ es más común (ver _irse_):
+        - Salí de la habitación : `I left the room` ya que `...went out of` enfatizaría el hecho de salir físicamente
+        - Así que _go out_ queda más para salir a dar una vuelta
+    = get out of (vehicles/small enclosed spaces) (i)
+    = exit (para dar instrucciones y cosas formales)
+    ? Sal de la habitación y cierra la puerta : `Go out of the room and close the door` - `Leave the room and close the door`
+    ? Salí [por ahí] con mis amigos : `I went out with my friends`
+    ? Salí del coche : `I got out of the car`
+    ? Después del evento, por favor salga por la puerta lateral : `After the event, please exit through the side door`
+
+
+partir/marcharse para
+    = set off [for <place>]
+    = head off **to** <place> (siempre con _place_ - marcharse a...)
+    ? Salí para casa : `I set off for home`
+    ? Los excursionistas partieron al amanecer : `The hikers set off at dawn`
+    ? Él partió hacia Londres temprano esta mañana : `He set off for London early this morning`
+    ? Nos marchamos a la playa el fin de semana : `We are heading off to the beach for the weekend`
+
+me puse en marcha, arranqué, salír (pasar de estar parado a moverse)
+    = move off (iniciar movimiento) `The car moved off quickly` - `As soon as the traffic lights turned green, the car in front moved off`
+
+dirigirse a <lugar>
+     ! Bastante intercambiables
+        = head **to** <place> (dirigirse **a** sitio concreto) Responde a "Where are you going?"
+        = head **for** <dirección> (dirigirse **hacia** o **en dirección a**) Responde a "Which way are you going?"
+        ? Me dirijo al supermercado : `I'm heading **to** the supermarket`
+        ? Los excursionistas se dirigieron hacia el humo que vieron a lo lejos : `The hikers headed **for** the smoke they saw in the distance`
+        ? Él se dirigió hacia el centro de la ciudad : `He headed **for** the city centre`
+
+acercarse
+    = head **over** to <place> (ir a sitio cercano)
+    = get close to (ponerse cerca de algo)
+    ? Me voy a acercar a la tienda de la esquina : `I'm just going to head **over** to the corner shop for some milk`
+    ? Se acercó al fuego : `He got close to the fire`
+    ? Se acercó al borde del acantilado : `He got close to the edge of the cliff`
+
+volver
+    = to return (f) `He returned to his office after lunch`
+        - Incluye a los dos siguientes
+    = to come back (si retorna aquí) `Please come back later, I'm busy now`
+    = to go back (si retorna a un lugar que no es aquí) `I need to go back to the office to get my laptop`
+
+alejarse = move away
+    ? Se alejó del fuego : `He moved away from the fire`
+    ? Se alejó del borde del acantilado : `He moved away from the edge of the cliff`
+
+pásate por (mi) casa
+    ! Se podrían usar para otras cosas, pero mejor usar **come** sin más si no es para ir a _casa_
+    ! Se puede decir aunque tú ahora no esté en casa
+    = come round/over (pásate por casa)
+    ? ¿Por qué no vienes a cenar esta noche? : `Why don’t you come over for dinner tonight?`
+    ? Mis amigos vienen más tarde : `My friends are coming over later`
+    ? Estamos en el bar de la esquina. Pásate y únete : `We're at the pub on the corner. Come and join us` (usar _come_ normal)
+
+pasarse por casa de alguien (no la nuestra)
+    ! Son los opuestos de _come over_ y _come round_
+    = go over/round
+        - Recordar que se suele omitir **house** al referirse a la casa de alguien -> `John's [house]`
+    ? Quizá vaya a casa de Sarah más tarde para ver cómo está : `I might go over to Sarah's later to see how she's doing`
+    ? Voy a ir a casa de John a ver el fútbol : `I'm going to go round to John's to watch the football`
+
+acompáñanos = come along
+    ? Ven al concierto con nosotros : `Come along to the concert with us`
+
+
+perseguir, ir a por...
+    = to chase (perseguir a alguien o algo físicamente)
+    = to go after (además de lo anterior, puede ser perseguir una objetivo, un sueño, etc.)
+    ? El perro persiguió al gato : `The dog chased the cat`
+    ? Él está persiguiendo ese premio : `He's going after that prize`
+
+me aparté
+    = move aside
+    = step aside
+    ? Me aparté para que pasara el coche : `I stepped/moved aside to let the car pass`
+
+desplazarse/moverse por lugar
+    = get around
+        - _move around_ no suena natural en este contexto
+    ? Me muevo por la ciudad en autobús : `I get around the city by bus`
+    ? Me cuesta moverme sin coche : `He finds it hard to get around without a car`
+
+moverse (cambiar de sitio)
+    = move around
+    ? El gato se está moviendo por la casa : `The cat is moving around the house`
+    ? Me gusta moverme durante el día en lugar de estar sentado en mi escritorio durante demasiado tiempo : `I like to move around during the day rather than sitting at my desk for too long`
+
+
+recorrer paseando
+    = walk around (ir andando) `I walked around the city` - `We walked around the park`
+    = stroll around (enfatiza que es por ocio) `I strolled around the park` - `We strolled around the city`
+
+visitar (ir al lugar)
+    = visit `I visited the museum` - `We visited the city` - `I want to visit the museum`
+    = pay a visit to (hacer una visita a ...- más formal) `I paid a quick visit to the museum`
+
+visitar (ver/recorrer el lugar))
+    = look **around** the
+        - _visit_ significa ir a la ciudad
+    ? Visité [los alrededores de] la ciudad : `I looked around [the outskirts of] the city`
+    ? Yo quiero ver la ciudad : `I want to look around the city`
+    ? Recorrimos todo el centro histórico : `We looked around the whole historic centre`
+
+hacer turismo (visitar lugares) = do/go sightseeing `We did some sightseeing this morning` - `Let's go sightseeing around the old town`
+
+aparcar
+    = park
+    ? Aparqué el coche en el garaje : `I parked the car in the garage`
+    ? Aparqué el coche en la calle : `I parked the car on the street`
+
+aparcamiento
+    = car park (zona de aparcamiento)
+    = parking space (plaza)
+    ? Aparqué el coche en el aparcamiento : `I parked the car in the car park`
+    ? Encontré una plaza de aparcamiento : `I found a parking space`
+
+bajar la ventanilla = roll down the window
+
+dejar a alguien
+    = drop off
+    ? Dejé a mi amigo en el aeropuerto : `I dropped off my friend at the airport`
+
+rozar = scrape
+    ? Roce el coche contra la pared : `I scraped the car against the wall`
+    ? El coche rozó el árbol : `The car scraped the tree`
+
+atropellar (con vehículo)
+    = run over <sbody>
+    ? Atropelló a un gato : `He ran over a cat`
+
+quedar tirado/varado/atascado = stranded
+    ? El coche se averió y nos dejó tirados en medio de la nada : `The car broke down and left us stranded in the middle of nowhere`
+    ? Nos quedamos tirados en el aeropuerto toda la noche : `We were stranded at the airport overnight`
+    ? Su yate quedó varado en la bahía : `His yacht had become stranded in the bay`
+
+lejano (distancia)
+    = far away
+    = remote (implica aislamiento/difícil acceso)
+    = distant (implica distancia emocional)
+    ? La playa está lejos del centro de la ciudad, lo que la convierte en una escapada perfecta : `The beach is far away from the city centre, making it a perfect getaway`
+    ? Vivir en un lugar remoto puede ser un reto debido a la falta de comodidades : `Living in a remote location can be challenging due to the lack of amenities`
+    ? Se sentía distante de su familia : `He felt distant from his family`

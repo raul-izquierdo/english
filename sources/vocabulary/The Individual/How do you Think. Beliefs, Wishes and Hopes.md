@@ -1,5 +1,14 @@
 # How do you Think and Beliefs
 
+## Terms
+
+emocionalmente = emotionally
+    ? No se siente bien emocionalmente : `He doesn't feel well emotionally`
+
+ánimo
+    ? Tiene el ánimo bastante bajo : `He is feeling quite low`
+    ? Necesita un poco de ánimo : `He needs a bit of a boost`
+
 ## Beliefs
 
 aferrarse a

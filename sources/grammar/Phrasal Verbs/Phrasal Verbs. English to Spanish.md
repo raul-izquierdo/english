@@ -64,6 +64,7 @@ drive apart = drive <who> apart - separar emocionalmente personas (amorosa, amis
 
 ## Drop
 
+drop off = dejar a alguien en un sitio `I dropped him off at the airport`
 drop out of = abandonar un curso/estudios `He dropped out of college` - `She dropped out of high school`
 
 ## Easy
@@ -289,7 +290,7 @@ run into
     = encontrarse/toparse con (persona o problemas) `I ran into an old colleague at the shops` - `I ran into problems with the project`
         - come across es para toparse con cosas o situaciones
 run out of = quedarse sin `We ran out of milk` - `I ran out of time` - `He ran out of money`
-
+run over = atropellar `He ran over a dog` - `He ran over a pedestrian`
 
 ## Set
 

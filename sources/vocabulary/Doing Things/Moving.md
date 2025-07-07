@@ -44,7 +44,7 @@ salir rápido
 
 partir/marcharse para
     = set off [for <place>]
-    = head off to <place> (siempre con _place_ - marcharse a...)
+    = head off **to** <place> (siempre con _place_ - marcharse a...)
     ? Salí para casa : `I set off for home`
     ? Los excursionistas partieron al amanecer : `The hikers set off at dawn`
     ? Él partió hacia Londres temprano esta mañana : `He set off for London early this morning`
@@ -136,8 +136,8 @@ dar un paseo
     ? Veo tres personas dando un paseo : `I see three people taking a walk` - `...going for a walk`
     ? Están dando un paseo y viendo las tiendas : `They are going for a walk and looking at the shops` - `They are taking a walk ...`
 
-salir a pasear
-    = go for a walk (sí, además de para _dar un paseo_)
+salir a dar un paseo
+    = go for a walk (sí, además de para _dar un paseo_, es para salir)
     ? Van a dar un paseo : `They are going for a walk`
     ? Salí a pasear por el parque : `I went for a walk in the park`
 
@@ -147,9 +147,8 @@ alejarse = move away
 
 
 pásate por (mi) casa
-    ! Se podrían usar para otras cosas, pero mejor usar _come_ a secas si no es para _casa_
+    ! Se podrían usar para otras cosas, pero mejor usar **come** sin más si no es para ir a _casa_
     ! Se puede decir aunque tú ahora no esté en casa
-    ! Son los opuestos de _go over_ y _go round_
     = come round/over (pásate por casa)
     ? ¿Por qué no vienes a cenar esta noche? : `Why don’t you come over for dinner tonight?`
     ? Mis amigos vienen más tarde : `My friends are coming over later`
@@ -158,8 +157,9 @@ pásate por (mi) casa
 pasarse por casa de alguien (no la nuestra)
     ! Son los opuestos de _come over_ y _come round_
     = go over/round
+        - Recordar que se suele omitir **house** al referirse a la casa de alguien -> `John's [house]`
     ? Quizá vaya a casa de Sarah más tarde para ver cómo está : `I might go over to Sarah's later to see how she's doing`
-    ? Voy a ir a casa de John a ver el fútbol : `I'm going to go round to John's house to watch the football`
+    ? Voy a ir a casa de John a ver el fútbol : `I'm going to go round to John's to watch the football`
 
 me doy la vuelta = I turn around
     ? Me di la vuelta para ver qué pasaba : `I turned around to see what was happening`
@@ -168,14 +168,17 @@ acompáñanos = come along
     ? Ven al concierto con nosotros : `Come along to the concert with us`
 
 llevar a alguien a un sitio
-    = take someone out
+    = take someone **out**...
         - **for** <sthing> (para algo) `I took him out for a drink`
         - **to** <place> (a lugar) `I took him out to the restaurant`
     ? Le saqué a comer el martes : `I took him out to eat on Tuesday`
     ? Lo llevé a dar un paseo por la ciudad : `I took him out for a walk around the city`
 
-perseguir = to chase
+perseguir, ir a por...
+    = to chase (perseguir a alguien o algo físicamente)
+    = to go after (además de lo anterior, puede ser perseguir una objetivo, un sueño, etc.)
     ? El perro persiguió al gato : `The dog chased the cat`
+    ? Él está persiguiendo ese premio : `He's going after that prize`
 
 me aparté
     = move aside
@@ -190,6 +193,7 @@ de camino a ... = on the way to ...
 
 desplazarse/moverse por lugar
     = get around
+        - _move around_ no suena natural en este contexto
     ? Me muevo por la ciudad en autobús : `I get around the city by bus`
     ? Me cuesta moverme sin coche : `He finds it hard to get around without a car`
 
@@ -208,33 +212,38 @@ ir a <lugar> en <transporte>
     = go to <place> by <transport>
         - no usar _to_ con _home_
     = It's much better to use specific verbs for certain types of transportation (drive, take, fly, ride, walk...)
-        ? Voy en coche : `I drive to school` (I'm the driver) - `I go to school by car` (no soy el conductor)
+        ? Voy en coche a la escuela : `I drive to school` (I'm the driver) - `I go to school by car` (no soy el conductor)
         ? Voy a casa en coche : `I go home by car` (sin _to_)
         ? Voy en autobús : `I take the bus to school` (public transportation/requieres ticket: bus, train, taxi, subway, ...)
         ? Voy en avión : `I fly to New York for work` (excepción a lo anterior)
         ? Voy en bicicleta : `I ride my bike to school`
         ? Voy a pie : `I walk to school`
 
-recorrer, circular = run over `The buses run over the city` - `Monorails run over over short distances`
+circular = run over
     - Nótese que no es un phrasal verb, sino "run" + "over" (preposición de lugar)
+    ? Los autobuses circulan por la ciudad : `The buses run over the city`
+    ? Los tranvías recorren distancias cortas : `Trams run over short distances`
 
-pasear
+recorrer paseando
     = walk around (ir andando) `I walked around the city` - `We walked around the park`
     = stroll around (enfatiza que es por ocio) `I strolled around the park` - `We strolled around the city`
 
-visitar
+visitar (ir al lugar)
     = visit `I visited the museum` - `We visited the city` - `I want to visit the museum`
     = pay a visit to (hacer una visita a ...- más formal) `I paid a quick visit to the museum`
 
-visitar la ciudad (pasear para mirar)
-    = look around the city `I looked around the city` - `We looked around the city` - `I want to look around the city`
+visitar (ver/recorrer el lugar))
+    = look **around** the
         - _visit_ significa ir a la ciudad
-
+    ? Visité [los alrededores de] la ciudad : `I looked around [the outskirts of] the city`
+    ? Yo quiero ver la ciudad : `I want to look around the city`
+    ? Recorrimos todo el centro histórico : `We looked around the whole historic centre`
 
 hacer turismo (visitar lugares) = do/go sightseeing `We did some sightseeing this morning` - `Let's go sightseeing around the old town`
 el turista = tourist `The tourist was lost` - `The tourists were taking pictures`
 el turismo = tourism `Tourism is important for the economy` - `The tourism industry is growing`
 oficina de turismo = tourist office
+    - No _turism_ office
 punto de información = information point
 
 perderse entre sus calles
@@ -246,18 +255,18 @@ perderse entre sus calles
 medios de transporte = means of transport (bus, car, airplane...)
     ? Hay muchos medios de transporte disponibles : `There are many means of transport available`
 
-viajar en avión = air travel
+el viaje aéreo (viajar en avión) = air travel
     ? Prefiero viajar en avión que en tren : `I prefer air travel to rail travel`
     ? Viajar en avión es muy caro hoy en día : `Air travel is very expensive these days`
 vuelo = flight
     ? Tomé un vuelo a Nueva York : `I took a flight to New York`
     ? El vuelo se retrasó : `The flight was delayed`
-viajar en coche = car travel
+el viaje en coche (viajar en coche) = car travel
     ? Prefiero viajar en coche que en avión : `I prefer car travel to air travel`
     ? Viajar en coche es muy conveniente : `Car travel is very convenient`
-viajar en tren = rail travel
+el viaje en tren = rail travel
     ? Prefiero viajar en tren que en avión : `I prefer rail travel to air travel`
-viajar en autobús = bus travel
+el viaje en autobús = bus travel
     ? Prefiero viajar en autobús que en coche : `I prefer bus travel to car travel`
 crucero = cruise
     ? Fui de crucero al Caribe : `I went on a cruise to the Caribbean`
@@ -300,11 +309,11 @@ parada de taxis = taxi rank
 
 llamar a un taxi/uber = call a taxi/uber
 
-coger un taxi/uber = get a taxi/uber
+coger un taxi/uber = get/take a taxi/uber
     ? Cogí un taxi para ir al aeropuerto : `I got a taxi to the airport`
 
-ir en taxi = go by taxi/uber
-    ? Voy en taxi al trabajo : `I go to work by taxi`
+ir en taxi = go **by** taxi/uber
+    ? Voy en taxi al trabajo : `I go to work **by** taxi`
 
 ## Driving
 
@@ -332,6 +341,7 @@ aparcar
     = park
     ? Aparqué el coche en el garaje : `I parked the car in the garage`
     ? Aparqué el coche en la calle : `I parked the car on the street`
+
 aparcamiento
     = car park (zona de aparcamiento)
     = parking space (plaza)
@@ -344,8 +354,9 @@ maletero = trunk
 
 llevar a alguien en coche
     = give someone a lift to
-    ? Llevé a mi amigo al aeropuerto : `I gave my friend a lift to the airport`
-    ? ¿Puedes llevarme mañana al trabajo? : `Can you give me a lift to work tomorrow?`
+    = take <sbody> to <place>
+    ? Llevé a mi amigo al aeropuerto : `I gave my friend a lift to the airport` - `I took him to the airport`
+    ? ¿Puedes llevarme mañana al trabajo? : `Can you give me a lift to work tomorrow?` - `Can you take me to work tomorrow?`
 
 dejar a alguien
     = drop off
@@ -361,12 +372,12 @@ dar marcha atrás = reverse
     ? Di marcha atrás en la entrada : `I reversed the car into the driveway`
     ? El coche dio marcha atrás en el garaje : `The car reversed into the garage`
 
-chocar = crash into
+chocar = crash **into**
     ? Choqué contra el coche : `I crashed **into** the car`
     ? El coche chocó contra la pared : `The car crashed **into** the wall`
-rozar = graze
-    ? Roce el coche contra la pared : `I grazed the car against the wall`
-    ? El coche rozó el árbol : `The car grazed the tree`
+rozar = scrape
+    ? Roce el coche contra la pared : `I scraped the car against the wall`
+    ? El coche rozó el árbol : `The car scraped the tree`
 abollar = dent
     ? Abolló la puerta del coche : `He dented the car door`
 
@@ -384,7 +395,7 @@ atasco = traffic jam
 semáforo = traffic light
     ? El semáforo estaba en rojo : `The traffic light was red`
     ? El semáforo se puso en verde : `The traffic light turned green`
-paso de cebra = pedestrian crossing
+paso de cebra = [pedestrian] crossing
     ? El paso de cebra estaba lleno : `The pedestrian crossing was busy`
     ? El paso de cebra es peligroso : `The pedestrian crossing is dangerous`
 cruce = intersection
@@ -394,6 +405,7 @@ rotonda = roundabout
     ? La rotonda estaba llena : `The roundabout was busy`
     ? La rotonda es peligrosa : `The roundabout is dangerous`
 cruce
+    ! No es _crossing_ (que es paso de cebra)
     = junction
     = intersection (US)
     ? El cruce es peligroso : `The junction is dangerous`
