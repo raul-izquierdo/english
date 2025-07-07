@@ -34,6 +34,7 @@ Not Needed (the challenging content is here)
     = Money
     = Shopping and Products
     = Environment and Nature
+    = Home and Chores
 
 ## Conditionals
 
@@ -806,3 +807,34 @@ tratamiento de residuos
 
 tirar a la papelera/cubo
     = to put <sthing> in the bin
+
+## Home and Chores
+
+hacer la comida
+    ! No usar _make the food_
+    = make lunch/dinner/**something** to eat
+    = cook
+    ? Tengo que hacer la comida : `I have to make something to eat` - `I have to cook`
+    ? Tengo que hacer la cena : `I have to make dinner`
+
+
+limpiar
+    = clean (sólo limpiar)
+    = clean up (recoger además de limpiar - está desordenado)
+    ? Necesito limpiar la casa : `I need to clean the house`
+    ? Recogí el desorden en mi habitación : `I cleaned **up** the mess in my room`
+    ? Ella limpió la cocina después de la cena : `She cleaned **up** the kitchen after dinner` (después de la cena hay que recoger antes)
+
+limpiar el polvo = dust
+    ? Necesito quitar el polvo de las estanterías : `I need to dust the shelves`
+
+fregar el suelo = mop the floor
+    ? Necesito fregar el suelo de la cocina : `I need to mop the floor in the kitchen`
+
+lavar los platos
+    = wash the dishes
+    = do the washing **up** (i)
+    ? No he fregado los platos todavía : `I haven't done the washing-up yet`
+
+recoger la habitación = clear up
+    ? Recogí el desorden en mi habitación : `I cleared up the mess in my room`

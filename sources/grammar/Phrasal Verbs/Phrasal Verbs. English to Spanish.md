@@ -20,8 +20,9 @@ bring up = criar/educar `He was brought up in a small town` - `She was brought u
 
 ## Call
 
-call in = llamar para reportar algo `I called in sick to work` - `I called in to report the accident`
 call away = tener que irse/ser requerido/tener que atender algo `He was called away from the meeting to take an urgent phone call` - `She was called away suddenly on a family emergency` - `I might be called away if something important comes up`
+call for = requiere `The situation calls for immediate action` - `This recipe calls for two eggs`
+call in = llamar para reportar algo `I called in sick to work` - `I called in to report the accident`
 
 ## Carry
 

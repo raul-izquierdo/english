@@ -67,6 +67,7 @@ poner en marcha = put into operation
 ## Requirements
 
 exige
+    = calls for
     = require
     = demand (más exigente)
     = place great demands ON (más aún)

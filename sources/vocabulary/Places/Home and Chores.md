@@ -18,26 +18,33 @@ tareas domésticas
     ? Tengo muchas tareas domésticas que hacer esta semana : `I have a lot of household chores to do this week`
 
 rutina (conjunto de chores) = routine
-    ? Tengo una rutina diaria que sigo todos los días : `I have a daily routine that I follow every day`
-    ? Tengo una rutina mañanera que sigo todos los días : `I have a morning routine that I follow every day`
+    ? Tengo una rutina diaria : `I have a daily routine`
+    ? Tengo una rutina mañanera : `I have a morning routine `
     ? Limpiar la casa es una tarea rutinaria : `Cleaning the house is a routine task`
 
 avería = breakdown
     ? El coche tuvo una avería de camino al trabajo : `The car had a breakdown on the way to work`
 
 cotidiano = everyday
-    ? Tengo una rutina cotidiana que sigo todos los días : `I have an everyday routine that I follow every day`
+    ? Tengo una rutina cotidiana : `I have an everyday/daily routine`
+
+polvo
+    = dust (suciedad)
+    = powder (algo que está en polvo)
+    ? Hay mucho polvo en la casa : `There is a lot of dust in the house`
+    ? Necesito quitar el polvo de los muebles : `I need to dust the furniture`
+    ? La receta requiere cacao en polvo : `The recipe calls for cocoa powder`
+
 
 ## In a new House
 
 mudarse
     = move out (marchar)
-    = move in (llegar)
-    ? Se mudó de la casa de sus padres : `He moved out of his parents' house`
-    ? Se mudó con su novia : `He moved in with his girlfriend`
-
-entrar a vivir = move into
-    ? Se mudó a un apartamento nuevo : `He moved into a new apartment`
+    = move in (llegar) Cuando no se indica el lugar `We're moving **in** next week` - `Have they moved **in** yet?`
+    = move into <place> `We're going to move into a bigger house next year`
+    ? Se mudó de la casa de sus padres : `He moved **out** of his parents' house`
+    ? Se mudó con su novia : `He moved **in** with his girlfriend`
+    ? Se mudó a un apartamento nuevo : `He moved **into** a new apartment`
 
 establecerse/vivir = settle down
     ? Quiero establecerme en un pueblo pequeño : `I want to settle down in a small town`
@@ -133,13 +140,13 @@ microondas = microwave
 horno = oven
 placa = [induction/ceramic] hob
 
-electrodoméstico = appliance
+electrodoméstico = [household] appliance
 
 ## Cooking
 
 hacer la comida
     ! No usar _make the food_
-    = make lunch/dinner/something to eat
+    = make lunch/dinner/**something** to eat
     = cook
     ? Tengo que hacer la comida : `I have to make something to eat` - `I have to cook`
     ? Tengo que hacer la cena : `I have to make dinner`
@@ -151,6 +158,9 @@ cocer, hervir = boil
 calentar = heat
 hornear = bake
     ? Necesito hornear el pastel : `I need to bake the cake`
+
+masa = dough
+
 dejar reposar = let it rest
     ? Necesito dejar reposar la masa : `I need to let the dough rest`
 
@@ -159,6 +169,16 @@ libro de cocina
     = recipe book (recetas)
     ? Este libro es un libro de cocina : `This book is a cookery book`
     ? Este libro es un libro de recetas : `This book is a recipe book`
+
+polvo de (x)
+    = <x> powder
+    ? Un bizcocho requiere levadura en polvo : `A cake requires baking powder`
+
+(ingrediente) en polvo = powdered
+    ! ¿Cuando es este o al anterior? Hay que saber cada caso
+    ? El azúcar en polvo es un ingrediente común en la repostería : `Powdered sugar is a common ingredient in baking`
+    ? La leche en polvo se utiliza para hacer batidos : `Powdered milk is used to make shakes`
+
 
 ## Furniture
 
@@ -184,17 +204,16 @@ cortinas = curtains
 ## Cleaning
 
 
-limpiar = clean
+limpiar
+    = clean (sólo limpiar)
+    = clean up (recoger además de limpiar - está desordenado)
     ? Necesito limpiar la casa : `I need to clean the house`
+    ? Recogí el desorden en mi habitación : `I cleaned **up** the mess in my room`
+    ? Ella limpió la cocina después de la cena : `She cleaned **up** the kitchen after dinner` (después de la cena hay que recoger antes)
 
 hacer la limpieza = do the cleaning
     ? Necesito hacer la limpieza este fin de semana : `I need to do the cleaning this weekend`
 
-
-limpiar la habitación
-    = clean up
-    ? Recogí el desorden en mi habitación : `I cleaned up the mess in my room`
-    ? Ella limpió la cocina después de la cena : `She cleaned up the kitchen after dinner`
 
 pasar la aspiradora = hoover
     ? Necesito pasar la aspiradora en la sala de estar : `I need to hoover the living room`

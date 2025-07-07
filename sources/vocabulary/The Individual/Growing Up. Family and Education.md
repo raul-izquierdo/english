@@ -13,6 +13,7 @@ parecerse, salir a = take after (aspecto y/o carácter)
     ? Se parece a su padre en el aspecto : `He takes after his father in looks`
     ? Se parece a su madre en la personalidad : `She takes after her mother in personality`
 
+
 ## Age
 
 bebé = baby
@@ -155,13 +156,27 @@ regañar, llamar la atención
     = tell off FOR <ing/sthing>
     ? El jefe regañó al empleado por llegar tarde : `The boss told off the employee for being late`
 
-adquirir hábitos = pick up
-    ? Adquirí malos hábitos : `I picked up bad habits`
-
 acostumbrarse gradualmente
     = to ease into
     ? Me iré acostumbrando gradualmente al nuevo trabajo : `I will ease into the new job`
     ? Deberías acostumbrarte gradualmente a la rutina de ejercicios : `You should ease yourself into the exercise routine`
+
+costumbre
+    ! En español usamos _costumbre_ para dos cosas distintas en inglés:
+    = habit (algo que se hace a menudo automáticamente)
+    = way (costumbres - **formas** de hacer las cosas)
+    ? Es una mala costumbre interrumpir a la gente : `It's a bad **habit** to interrupt people`
+    ? Tengo la costumbre de leer antes de dormir : `I have the **habit** of reading before bed`
+    ? En mi casa tenemos nuestras propias costumbres : `In my house, we have our own ways`
+    ? Cuando eres mayor, es difícil cambiar tus costumbres : `When you are older, it's hard to change your ways`
+    ? Él tiene su propia forma de hacer las cosas : `He's got his own way of doing things`
+    ? Las viejas costumbres están desapareciendo lentamente : `The old ways are slowly disappearing`
+
+tradiciones (costumbres arraigadas entre generaciones) = traditions
+    ? Las tradiciones culturales enriquecen nuestra vida : `Cultural traditions enrich our lives`
+
+adquirir hábitos = pick up
+    ? Adquirí malos hábitos : `I picked up bad habits`
 
 ## Family Relationships
 
