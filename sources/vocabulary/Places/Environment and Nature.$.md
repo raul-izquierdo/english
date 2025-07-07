@@ -15,7 +15,7 @@ conservación = conservation
 
 consumo responsable = responsible consumption
 
-... si queremos que nuestros hijos **puedan** heredar un mundo mejor = If we want our children **to be able** to inherit a better world
+... si queremos que nuestros hijos [puedan] heredar un mundo mejor = If we want our children **to be able** to inherit a better world
 
 ## In Nature
 
@@ -61,12 +61,12 @@ encender fuego
     ? Encenderé una hogera : `I will light a bonfire`
     ? El pirómano prendió fuego al edificio : `The arsonist set fire to the building`
 
-apagar cosas con fuego (incendio, cigarros, velas, ...)
+apagar cosas con fuego (alguien apaga incendio, cigarros, velas, ...)
     ! Alguien apaga algo
     = put out (i) (para todos)
     = extinguish (f) (para incendios)
     ? Los bomberos apagaron rápidamente el incendio : `The firefighters quickly put out the fire` - `... extinguished`
-    ? Apaguó su cigarro : `He put out his cigarette` (no _extinguished_)
+    ? Apagó su cigarro : `He put out his cigarette` (no _extinguished_)
 
 apagarse solas cosas con fuego (luz, fuego, velas, ...)
     ! Se apaga solo, no lo apaga alguien
@@ -134,6 +134,9 @@ manada/rebaño
 mamífero = mammal
     ? El león es un mamífero : `The lion is a mammal`
 
+presa = prey
+    ? El león caza a su presa : `The lion hunts its prey`
+
 ## Resources
 
 combustibles fósiles = fossil fuels
@@ -155,7 +158,11 @@ sostenible = sustainable
 
 ## Threats
 
+cambio climático = climate change
+    ? El cambio climático es una amenaza global : `Climate change is a global threat`
+
 especies invasoras = invasive species
+    - No _invading_!!
     ? Las especies invasoras pueden dañar los ecosistemas locales : `Invasive species can harm local ecosystems`
 
 especies en peligro = endangered species
@@ -163,7 +170,7 @@ especies en peligro = endangered species
     ? La especie está en peligro de extinción : `The species is endangered`
 
 sobreexplotación = overexploitation
-    ? La sobreexplotación de los recursos puede llevar a la extinción : `Overexploitation of resources can lead to extinction`
+    ? La sobreexplotación de los recursos puede llevar a la extinción : `overexploitation of resources can lead to extinction`
 
 deforestación = deforestation
     ? La deforestación es un problema ambiental importante : `Deforestation is a major environmental issue`
@@ -174,6 +181,7 @@ contaminación = pollution
 pesticidas = pesticides
 
 fenómenos meteorológicos extremos = extreme weather events
+    - Sí, aunque es _weather phenomenon_, si es extremo, se usa _extreme weather events_.
 
 problemas ecológicos = ecological issues
 
@@ -187,11 +195,11 @@ basura (doméstica)
 
 basura (en la calle) = litter (small rubbish in public spaces) `The litter was everywhere`
 
+trastos para tirar = junk `The junk was everywhere`
+
 deshechos (residuos) = waste (incluye a los demás - formal) `The waste was everywhere`
 
 envases vacíos = empties `The empties were everywhere`
-
-trastos para tirar = junk `The junk was everywhere`
 
 las sobras
     = leftovers (para comer luego) `I always eat the leftovers from dinner for lunch`
@@ -221,11 +229,8 @@ cubo de basura
     = communal bin (cubo de basura comunitario)
     ? El cubo de la cocina estaba lleno : `The kitchen bin was full`
     ? La papelera del escritorio estaba llena : `The desk bin was full`
-    ? No había ni una papelera en la calle : `There wasn't a litter bin on the street`
+    ? No había ni una papelera en la calle : `There wasn't even a litter bin on the street`
     ? El camping tenía contenedores de reciclaje : `The campsite had recycling bins`
-
-papeleras (en la calle) = litter bin
-    ? La papelera estaba llena : `The bin was full`
 
 vertedero (lugar) = dump
     ? El vertedero estaba completamente abandonado : `The dump was completely abandoned`
@@ -246,7 +251,7 @@ tirar a la papelera/cubo
 
 tirar al suelo (maleducado)
     = drop **on**...
-    = to throw  **on** (es su significado normal de _lanzar/tirar_)
+    = to throw  **on**
     ? Tiró el envoltorio del caramelo al suelo : `She dropped her sweet wrapper on the pavement`
     ? Tiró la basura al suelo : `He threw the rubbish on the ground`
 

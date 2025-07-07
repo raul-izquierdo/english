@@ -33,6 +33,7 @@ Not Needed (the challenging content is here)
     = Business and Marketing
     = Money
     = Shopping and Products
+    = Environment and Nature
 
 ## Conditionals
 
@@ -748,3 +749,60 @@ capricho = treat `I bought a new phone as a treat for myself`
 
 excelente calidad
     = outstanding quality `The product is of outstanding quality`
+
+## Environment and Nature
+
+cambio climático = climate change
+    ? El cambio climático es una amenaza global : `Climate change is a global threat`
+
+en todo el mundo, a nivel mundial = worldwide
+
+consumo responsable = responsible consumption
+
+apagar cosas con fuego (alguien apaga incendio, cigarros, velas, ...)
+    ! Alguien apaga algo
+    = put out (i) (para todos)
+    = extinguish (f) (para incendios)
+    ? Los bomberos apagaron rápidamente el incendio : `The firefighters quickly put out the fire` - `... extinguished`
+    ? Apagó su cigarro : `He put out his cigarette` (no _extinguished_)
+
+población mundial = world population
+    ? La población mundial está creciendo rápidamente : `The world population is growing rapidly`
+
+conciencia = awareness
+    ? La conciencia sobre el cambio climático está creciendo : `Awareness of climate change is growing`
+
+crías (de cualquier especie) = offspring
+    ? La leona cuida de sus crías : `The lioness takes care of her offspring`
+
+combustibles fósiles = fossil fuels
+
+especies invasoras = invasive species
+    - No _invading_!!
+
+fenómenos meteorológicos extremos = extreme weather events
+    - Sí, aunque es _weather phenomenon_, si es extremo, se usa _extreme weather events_.
+
+problemas ecológicos = ecological issues
+
+basura (doméstica) = rubbish `The rubbish was everywhere`
+
+basura (en la calle) = litter (small rubbish in public spaces) `The litter was everywhere`
+
+trastos para tirar = junk `The junk was everywhere`
+
+deshechos (residuos) = waste (incluye a los demás - formal) `The waste was everywhere`
+
+envases vacíos = empties `The empties were everywhere`
+
+las sobras
+    = leftovers (para comer luego) `I always eat the leftovers from dinner for lunch`
+    = scraps (peladuras, cáscaras, lo que sobra al pelar/cocinar) `I give the scraps to my dog`
+
+el desperdicio de comida = food waste `Food waste is a big problem in many countries`
+
+tratamiento de residuos
+    = waste treatment
+
+tirar a la papelera/cubo
+    = to put <sthing> in the bin

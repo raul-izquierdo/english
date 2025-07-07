@@ -53,6 +53,14 @@ un número importante de = a significant number of
 una cantidad importante de = a significant amount of (incontables - formal)
     ? Hay una cantidad importante de trabajo por hacer : `There is a significant amount of work to do`
 
+a la mitad = half full
+    ? El vaso está a la mitad : `The glass is half full`
+
+me queda la mitad = half left
+    ? Me queda la mitad del libro : `I have half of the book left`
+le queda la cuarta parte = a quarter left
+    ? Me queda la cuarta parte del libro : `I have a quarter of the book left`
+
 ## Quantities relative to a Target
 
 superar en número = outnumber

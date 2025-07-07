@@ -92,17 +92,17 @@ la clave para
     ? La clave del éxito es : `The key to success...`
 
 pensar en
-    = think about (pensar durante un rato, reflexionar)
-    = think of (a bote pronto)
-        - ¿Se te ocurre ... (así a bote pronto)
-        - ¿Qué te parece ... (opinión rápida sobre algo)
-    ? Necesito pensar en el problema antes de tomar una decisión : `I need to think about the problem before making a decision`
-    ? Estoy pensando qué hacer mis próximas vacaciones : `I'm thinking about what to do for my next holiday`
-    ? Se me acaba de ocurrir una idea brillante! : `I just thought of a brilliant idea!`
-    ? Se te ocurre alguna forma mejor de hacerlo : `Can you think of a better way to do this?`
-    ? ¿Qué piensas de mi nuevo peinado? : `What do you think of my new haircut?`
-    ? Cuando hablo de juegos de mesa, todo el mundo piensa en Monopoly : `When I talk about board games, everyone thinks of Monopoly`
-
+    = think **about** (dedicar tiempo a pensar en ello)
+    = think **of**
+        - ¿Se te ocurre ... (te viene a la cabeza algo?)
+        - ¿Qué te parece ... (opinión)
+    ? Necesito pensar en el problema antes de tomar una decisión : `I need to think **about** the problem before making a decision`
+    ? Estoy pensando qué hacer mis próximas vacaciones : `I'm thinking **about** what to do **for** my next holiday`
+    ? Se me acaba de ocurrir una idea brillante! : `I just thought **of** a brilliant idea!`
+    ? ¿Qué piensas de mi nuevo peinado? : `What do you think **of** my new haircut?`
+    ? Cuando hablo de juegos de mesa, todo el mundo piensa en Monopoly : `When I talk about board games, everyone thinks **of** Monopoly` (venir a la cabeza)
+    ? De joven, te preocupa lo que piense la gente [de ti]. De mayor, te das cuenta de que nadie ha pensado en ti: `When you're young, you worry about what people think **of** you. When you're older, you realise nobody was thinking **about** you at all` (opinión y luego pasar tiempo pensando en ello)
+    ? Nadie piensa en mí : `Nobody thinks about me` (dedicar tiempo a pensar en ello)
 
 [no] merece la pena
     = it's [not] worth <ing>...
