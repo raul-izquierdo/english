@@ -5,15 +5,12 @@
 
 sucedió, tuvo lugar, pasó
     = to happen (general - informal)
-    ? Los eventos que sucedieron fueron significativos : `The events that happened were significant`
     = occurred (f)
-    ? Los eventos que ocurrieron fueron significativos : `The events that occurred were significant`
-    ? Los eventos que ocurrieron fueron importantes : `The events that occurred were important`
     = take place (para enfatizar momento o lugar - formal)
-    ? La reunión tuvo lugar ayer por la tarde : `The meeting took place yesterday afternoon`
     = unfolded (eventos que se sucedieron)
-    ? Las escenas desordenadas que se sucedieron en 2014 : `The unruly scenes that unfolded in 2014`
-    ? Los eventos que se sucedieron fueron importantes : `The events that unfolded were important`
+    ? Los eventos que sucedieron fueron significativos : `The events that happened/occurred were significant`
+    ? La reunión tuvo lugar ayer por la tarde : `The meeting took place yesterday afternoon`
+    ? Las escenas que se sucedieron en 2014 : `The scenes that unfolded in 2014`
 
 pillar desprevenido
     = catch off guard
@@ -66,14 +63,9 @@ posibilidad de
     ? No hay posibilidad de que él venga : `There's no CHANCE OF him coming`
 
 Aprovechó que... para...
-    = since (ya que - la más común)
-    = take advantage of <sthing> (aprovecharse)
-    ? Ya que salió el tema, voy a... : `Since the topic came up, I’ll...`
-    ? Ya que estoy aquí,... : `Since I'm here,...`
-    ? Ya que estamos hablando de esto... : `Since we're talking about this...`
-    ? Aprovechó la oportunidad para aprender inglés : `He took advantage of the opportunity to learn English`
-    ? Se está aprovechando de que el jefe no está para irse temprano : `He's taking advantage of the boss not being here to leave early`. Se aprovechó de ello
-    ? Ya que el jefe no está, se va temprano : `Since the boss isn't here, he's leaving early`, aprovechó (sin connotación negativa)
+    = take advantage **of** <sthing> (aprovecharse)
+    ? Aprovechó la oportunidad para aprender inglés : `He took advantage **of** the opportunity to learn English`
+    ? Se está aprovechando de que el jefe no está para irse temprano : `He's taking advantage **of** the boss not being here to leave early`. Se aprovechó de ello
 
 aprovechar al máximo / sacar el máximo partido = make the most of
     ? Quiero sacar el máximo partido a mi tiempo en la universidad : `I want to make the most of my time in college`
@@ -91,9 +83,9 @@ tener mala suerte = to be out of luck
 
 
 por suerte
+    = fortunately
     = luckily
     ? Por suerte, encontré mis llaves : `Luckily, I found my keys`
-    = fortunately
     ? Por fortuna, tenía mi teléfono conmigo : `Fortunately, I had my phone with me`
 
 por desgracia
@@ -112,7 +104,7 @@ felizmente
     = happily
     ? Felizmente, el proyecto fue un éxito : `Happily, the project was a success`
 
-con un poco de suerte, ocurrirá ...
+con suerte,  ...
     = hopefully
     ? Con un poco de suerte, lloverá mañana : `Hopefully, it will rain tomorrow`
 
@@ -126,6 +118,7 @@ lotería = lottery
 
 elegir alguien al azar
     = select someone at random
+    = choose someone randomly
     ? Se elegirá alguien al azar para participar en el concurso : `Someone will be selected at random to participate in the contest`
 
 ser premiado en un sorteo

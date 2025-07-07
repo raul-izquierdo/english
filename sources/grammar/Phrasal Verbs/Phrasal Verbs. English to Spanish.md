@@ -141,8 +141,11 @@ give up = rendirse/abandonar `He gave up on his dreams` - `He gave himself up` -
 
 go after = ir a por `He went after the thief` - `He went after the job he wanted`
 go around = go round
-go off = irse `She went off to the store to buy some milk`
+go off
+    = irse de manera rápida/abrupta `She went off to the store to buy some milk`
     = (comida) estropearse `The milk has gone off`
+    = sonar la alarma `The alarm went off at 7 AM`
+    = un evento transcurrió ... `The party went off without a hitch` - `The concert went off badly`
 go out
     = (salir por ahí) `He went out for a walk` - `He went out with his friends`
     = apagarse (luz, fuego - por si mismo) `The fire went out` - `The lights went out during the storm`

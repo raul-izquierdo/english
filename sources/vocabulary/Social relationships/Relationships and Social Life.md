@@ -250,9 +250,9 @@ se celebran eventos = hold events
     ? Organizamos eventos cada mes : `We hold events every month`
     ? La empresa organiza eventos para sus empleados : `The company holds events for its employees`
 
-(el acto) fue bien, sin incidentes = went off
+(el acto) transcurrió... = went off
     ? El evento salió bien, sin contratiempos : `The event went off without a hitch`
-    ? La fiesta salió bien, sin contratiempos : `The party went off without a hitch`
+    ? La fiesta salió mal : `The party went off badly`
 
 asistir a un evento
     = attend (f)

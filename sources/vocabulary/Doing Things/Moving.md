@@ -71,7 +71,7 @@ acercarse
 irse
     = leave (irse de un lugar - neutral)
         - leave **for** (salir hacia un lugar)
-    = go off (salida espontánea)
+    = go off (salida rápida/abrupta)
     = go away (irse lejos, estar ausente)
     ? Se fue de la oficina a las 5 pm : `He left the office at 5 pm` (abandonó)
     ? Se fue de la habitación sin despedirse : `He left the room without saying goodbye`

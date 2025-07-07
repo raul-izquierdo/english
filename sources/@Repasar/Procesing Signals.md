@@ -186,3 +186,60 @@ supone, implica...
     = involve (involucra) Más común que _entail_
     = entail (conlleva)
     ? Hacer dieta implica renunciar a cosas : `Dieting involves giving up things`
+
+## Something Happened. Events and Situations
+
+le supone, ocasiona
+    = place on (f)
+    ? Las ofertas suponen mucho estrés para el personal : `Offers place a great deal of stress on staff`
+    ? El gerente puso la responsabilidad en el equipo : `The manager placed the responsibility on the team`
+    = put on (i)
+    ? Eso le pone mucha presión : `That puts a lot of stress on him`
+
+... plantea, supone, representa
+    = poses
+    ? El trabajo supone un reto : `The job poses a challenge`
+    ? El proyecto supone un riesgo : `The project poses a risk`
+    ? El trabajo supone un problema : `The job poses a problem`
+    = presents
+    ? El trabajo presenta un reto : `The job presents a challenge`
+    ? El proyecto presenta un riesgo : `The project presents a risk`
+    ? El trabajo presenta un problema : `The job presents a problem`
+
+esto plantea la cuestión
+    = this raises the question/issue
+    ? Esto plantea la cuestión/el problema : `This raises the question/issue`
+
+tener la oportunidad de
+    = get [the chance] to (mas entusiasta e informal)
+    ? Trabajo con animales todos los días : `I get to work with animals every day`
+    ? Tengo la oportunidad de trabajar con... : `I get the chance to work with...`
+    = have the chance to (más soso)
+    ? Tengo la oportunidad de trabajar con animales todos los días : `I have the chance to work with animals every day`
+
+posibilidad de
+    = chance OF
+    ? No hay posibilidad de que él venga : `There's no CHANCE OF him coming`
+
+
+tener mala suerte = to be out of luck
+    ? Hoy no tengo suerte : `I’m out of luck today`
+
+
+por suerte
+    = fortunately
+    = luckily
+    ? Por suerte, encontré mis llaves : `Luckily, I found my keys`
+    ? Por fortuna, tenía mi teléfono conmigo : `Fortunately, I had my phone with me`
+
+por desgracia
+    = unfortunately
+    ? Por desgracia, no puedo ir a la fiesta : `Unfortunately, I can't make it to the party`
+
+casualmente, por casualidad
+    = coincidentally
+    ? Por casualidad, la encontré en la tienda : `Coincidentally, I met her at the store`
+
+con suerte,  ...
+    = hopefully
+    ? Con un poco de suerte, lloverá mañana : `Hopefully, it will rain tomorrow`
