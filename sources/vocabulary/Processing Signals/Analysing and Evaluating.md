@@ -129,9 +129,6 @@ dependiendo de, ...
     ? Dependiendo de la situación, puede ser mejor esperar : `Depending on the situation, it might be better to wait`
 
 
-
-
-
 ventaja - desventaja
     ! <🠢
     = downside - upside (desventaja - se suele usar si se están comparando con las _upsides_) (I)
@@ -143,6 +140,17 @@ ventaja - desventaja
 
 ## Doubts
 
+dudoso = doubtful
+
+questionable = questionable
+    ? La validez de sus afirmaciones es cuestionable : `The validity of his claims is questionable`
+
+dudo de
+    ! No sé por qué tengo la manía de poner un **about** después de _doubt_. NO!!
+    = to doubt <sthing>
+    ? Dudo de la sinceridad de sus palabras : `I doubt the sincerity of his words` (sin **about**)
+    ? Dudo de que él esté diciendo la verdad : `We doubt **that** he is telling the truth`
+
 tengo una duda...
     = I have a question
     ? Tengo una pregunta sobre el tema : `I have a question about the topic`
@@ -152,8 +160,7 @@ me surgió la duda `Cuando estaba pasando, me surgió la duda de por dónde ir`
     = I wondered
     ? Mientras iba, me pregunté por dónde ir : `As I was going along, I wondered which way to go`
 
-no sabia por donde ir
-    = `I didn't know which way to go`
+no sabia por donde ir = `I didn't know which way to go` - `I didn't know where to go`
 
 estoy seguro
     = sure OF (seguro DE)
@@ -172,12 +179,10 @@ estoy indeciso
     = on the fence ABOUT (no decidido)
     ? Estoy indeciso sobre la decisión : `I'm on the fence about the decision`
 
-sin duda
-    = without a doubt
-    = certainly
-    = no doubt
-    = definitely
-    = undoubtedly
+sin duda, indudablemente
+    = Without any doubt (f)
+    = Absolutely (n)
+    = For sure (i)
 
 no es seguro que ocurra, no está garantizado
     = it's not a given
@@ -302,6 +307,10 @@ incertidumbre, inseguridad = uncertainty
 
 
 ## Truth and Falsehood
+
+veracidad = truthfulness
+    ? La veracidad de sus declaraciones es cuestionable : `The truthfulness of his statements is questionable`
+
 
 es falso
     = it's not true

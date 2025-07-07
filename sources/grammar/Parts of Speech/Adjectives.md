@@ -89,6 +89,9 @@ excepcional
 mal hecho = poorly done
     ? El trabajo estaba mal hecho : `The work was poorly done`
 
+preciso, correcto = accurate
+    ? El informe era preciso y detallado : `The report was accurate and detailed`
+
 ## Uses of So and Such (son tan...)
 
 Translate (I)...

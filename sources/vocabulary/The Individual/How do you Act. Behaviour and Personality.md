@@ -202,6 +202,10 @@ sincero
     = honest (que dice la verdad) `He was honest about his mistake`
     = sincere (que dice lo que siente) `Her apologies sounded sincere`
 
+sinceridad
+    = honesty
+    = sincerity
+
 fiable
     = reliable `The band is reliable and always on time` - `He is a trustworthy person`
         - No confundir con _trustworthy_ (de confianza) `He is a trustworthy person`

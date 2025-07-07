@@ -67,7 +67,6 @@ te deseo...
     ? Te deseo un feliz cumpleaños : `I wish you a happy birthday`
     ? Te deseo suerte en el examen : `I wish you luck on the exam`
 
-hacerse ilusiones = Wishful thinking `It's just wishful thinking to believe that everything will be fine`
 
 ## Expecting
 
@@ -92,6 +91,12 @@ contar con (algo) (estoy en la cuenta de que pasará)
 
 son muy esperados = are highly anticipated {Fashion shows are highly anticipated events in the industry}
 
+hacerse ilusiones (uno mismo) = get my hopes up
+    ? Cuando me dijiste eso, me hice ilusiones : `When you told me that, I got my hopes up`
+    ? No me hago ilusiones : `I don't get my hopes up`
+
+es hacerse ilusiones (<hecho> no es realista) = wishful thinking
+    ? Creer que todo saldrá bien es hacerse ilusiones : `Believing that everything will be fine is just wishful thinking`
 
 ## Wishes for the Future
 

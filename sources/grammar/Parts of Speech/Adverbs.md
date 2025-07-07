@@ -137,10 +137,6 @@ asombrosamente = amazingly
 
 lamentablemente = regrettably
 
-sin duda, indudablemente
-    = Without any doubt (f)
-    = Absolutely (n)
-    = For sure (i)
 
 comprensiblemente = understandably
 

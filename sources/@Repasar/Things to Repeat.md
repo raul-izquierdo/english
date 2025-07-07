@@ -157,7 +157,9 @@ deseos
     ? Sintió un repentino deseo de una taza de té : `He felt a sudden desire for a cup of tea`
     ? El genio le concedió su deseo de un nuevo coche : `The genie granted his wish for a new car`
 
-hacerse ilusiones = Wishful thinking `It's just wishful thinking to believe that everything will be fine`
+hacerse ilusiones = get my hopes up
+    ? Cuando me dijiste eso, me hice ilusiones : `When you told me that, I got my hopes up`
+    ? No me hago ilusiones : `I don't get my hopes up`
 
 ## Technology and Communications
 
