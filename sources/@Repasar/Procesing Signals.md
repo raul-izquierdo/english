@@ -87,7 +87,6 @@ acertar
 
 fallar
     = to get wrong (hacer o decir algo mal)
-probable es que el proyecto se retrase
 
 es probable que (ocurra algo) = It’s likely that
     ? Es probable que la reunión se posponga : `It’s likely that the meeting will be postponed`
@@ -98,4 +97,68 @@ lo más probables es
     ? Lo más probable es que el proyecto se retrase : `Chances are that the project will be delayed` - `The project will most likely be delayed`
     ? Lo más probable es que lleguemos tarde : `Chances are that we will arrive late` - `We will most likely arrive late`
 
+
 ## Perceiving Things
+
+mirar, ver, ...
+    = see (el más general: percibir con los ojos)
+    ? Lo vi en la fiesta el fin de semana pasado : `I saw him at the party last weekend`
+    = look at (mirar en una dirección)
+    ? ¡Mira el cielo! Es hermoso : `Look at the sky! It's beautiful`
+    = watch (observar durante un periodo)
+    ? Vi una película anoche : `I watched a movie last night`
+    = stare at (mirar fijamente)
+    ? Él miró fijamente la pintura durante horas : `He stared at the painting for hours`
+    = glance at (de reojo, mirada rápida)
+    ? Él miró su reloj de reojo : `He glanced at his watch`
+    ? Él echó un vistazo al periódico : `He glanced at the newspaper`
+    = gaze at (contemplar; con admiración o sorpresa)
+    ? Él contempló las estrellas : `He gazed at the stars`
+    ? Él contempló la pintura con asombro : `He gazed at the painting in awe`
+    = browse (ojear, "sólo estoy mirando")
+    ? Ojeé internet en busca de información : `I browsed the internet for information`
+    ? Ojeé la tienda en busca de ropa nueva : `I browsed the store for new clothes`
+    = peek at (mirar rápido en secreto)
+    ? Él miró las respuestas del examen en secreto : `He peeked at the answers on the test`
+    ? Él miró el regalo sorpresa : `He peeked at the surprise gift`
+    = scan (ojear/mirar rápidamente)
+    ? Revisé el documento en busca de errores : `I scanned the document for errors`
+    ? Eché un vistazo a la sala en busca de caras conocidas : `I scanned the room for familiar faces`
+
+notar, detectar
+    = notice (darse cuenta de algo en general)
+    = spot (ver algo rápidamente o difícil)
+    ? Él detectó el error antes que nadie : `He spotted the error before anyone else`
+    ? ¿Puedes encontrar el objeto oculto en esta imagen? : `Can you spot the hidden object in this picture?`
+
+noto que/veo que
+    = I see that (si lo detecto por la vista)
+    = I can tell (si lo detecto de cualquier forma - vista incluida)
+
+noto que/veo que
+    = I can tell (si lo detecto de cualquier forma - vista incluida)
+    = I see that (si lo detecto por la vista)
+    ? Veo que has desayunado (está recogiendo - tidying up) : `I see you've had breakfast`
+    ? Veo que está cansado (anda despacio) : `I can tell he's tired`
+    ? Noto que está cansado (habla despacio) : `I can tell he's tired`
+    ? Se nota que es falso : `You can tell it's fake`
+
+darse cuenta
+    = realize  (espontáneo)
+    = catch on (después de un proceso mental, entender finalmente)
+    = become aware of (percibir algo, tomar conciencia - lo que suele preceder a _realize_)
+
+me enteré / llegué a conocer...
+    = come to know (obtener conocimiento)
+        - No confundir con _get to know_, que es obtener _familiaridad_ con algo o _vínculos_ con alguien
+    ? Llegué a conocer bien la ciudad después de vivir allí un año : `I came to know the city well after living there for a year`
+    ? Me enteré de / Supe que ya se había ido cuando vi su oficina vacía : `I came to know that he had already left when I saw his empty office`
+    ? A través de años de estudio, llegó a conocer íntimamente los textos antiguos : `Through years of study, he came to know the ancient texts intimately`
+    ? Solo mucho más tarde llegué a saber toda la verdad: `Only much later did I come to know the full truth`
+
+matiz = nuance
+    ? No pillo el matiz : `I don't catch the nuance`
+    ? Pero hay un matiz que es importante : `But there is a nuance that is important`
+
+transmite, comunica, indica = convey
+    ? El mensaje transmitía la importancia del trabajo en equipo : `The message conveyed the importance of teamwork`

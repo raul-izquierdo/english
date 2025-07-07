@@ -122,6 +122,7 @@ get rid of = deshacerse de `He got rid of his old clothes`
 get stuck = quedarse atascado `He got stuck in the mud`
 get the chance to = surgir la oportunidad de `I get the chance to work with animals every day`
 get to = tener la oportunidad de `We get to see the concert for free`
+got to know = llegar a conocer (algo/a alguien) `I got to know the city well after living there for a year`
 
 ## Give
 

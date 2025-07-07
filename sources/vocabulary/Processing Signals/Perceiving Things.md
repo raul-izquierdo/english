@@ -32,9 +32,9 @@ leer por encima = skim
     ? Leí el libro por encima antes de comprarlo : `I skimmed through the book before buying it`
 
 echar un vistazo
-    = have a look at (echar un vistazo)
-    ? Eché un vistazo al informe : `I had a look at the report`
-    ? Eché un vistazo al coche nuevo : `I had a look at the new car`
+    = have/take a look **at** (echar un vistazo)
+    ? Eché un vistazo al informe : `I had a look **at** the report` - `I took a look **at** ...`
+    ? Eché un vistazo al coche nuevo : `I had a look **at** the new car`
 
 mirar a tu alrededor
     = [good] look round
@@ -84,12 +84,8 @@ noto que/veo que
     ? Veo que has desayunado (está recogiendo - tidying up) : `I see you've had breakfast`
     ? Veo que está cansado (anda despacio) : `I can tell he's tired`
     ? Noto que está cansado (habla despacio) : `I can tell he's tired`
-    ? Noto que algo va mal : `I can tell something's wrong`
-
-se nota que...
-    = You can tell...
     ? Se nota que es falso : `You can tell it's fake`
-    ? Se nota que está nervioso : `You can tell he's nervous`
+
 
 darse cuenta
     = realize  (espontáneo)
@@ -101,12 +97,13 @@ darse cuenta
     ? Me llevó un tiempo entender cómo funcionaba el juego : `It took me a while to catch on to how the game worked`
     ? Ella se dio cuenta del silencio y se percató de que todos se habían ido : `She became aware of the silence and realized everyone had left`
 
-llegar a saber/conocer/aprender (gradual)
-    = come to know
-    ? Llegué a conocerlo a través de amigos en común : `I came to know him through our mutual friends`
+me enteré / llegué a conocer...
+    = come to know (obtener conocimiento)
+        - No confundir con _get to know_, que es obtener _familiaridad_ con algo o _vínculos_ con alguien
     ? Llegué a conocer bien la ciudad después de vivir allí un año : `I came to know the city well after living there for a year`
-    ? Conocí esa información por una fuente fiable : `I came to know that information from a reliable source`
-    ? Llegué a conocerle muy bien durante el tiempo que trabajamos juntos : `I came to know him quite well during our time working together`
+    ? Me enteré de / Supe que ya se había ido cuando vi su oficina vacía : `I came to know that he had already left when I saw his empty office`
+    ? A través de años de estudio, llegó a conocer íntimamente los textos antiguos : `Through years of study, he came to know the ancient texts intimately`
+    ? Solo mucho más tarde llegué a saber toda la verdad: `Only much later did I come to know the full truth`
 
 he visto/notado/comprobado que
     = I’ve noticed that (observación casual)
@@ -114,13 +111,10 @@ he visto/notado/comprobado que
     = I’ve found that (descubrimiento o experiencia)
     ? He comprobado que hacer ejercicio por la mañana me da más energía : `I've found that exercising in the morning boosts my energy`
 
-
-me llamó la atención
-    ? Me llamó la atención : `It caught my attention`
-
 matiz = nuance
     ? No pillo el matiz : `I don't catch the nuance`
     ? El artista capturó los matices de la luz en la pintura : `The artist captured the nuances of light in the painting`
+    ? Pero hay un matiz que es importante : `But there is a nuance that is important`
 
 transmite, comunica, indica = convey
     ? La pintura transmite una sensación de paz : `The painting conveys a sense of peace`
@@ -139,42 +133,43 @@ recordar
 recuerda/ten cuenta = keep in mind
     ? Recuerda que la fecha límite es mañana : `Keep in mind that the deadline is tomorrow`
 
-recuerdo = memory
+[un] recuerdo = a memory
     ? Tengo un recuerdo vívido de mi infancia : `I have a vivid memory of my childhood`
     ? Los recuerdos de la infancia son preciosos : `Childhood memories are precious`
     ? Tengo recuerdos de que algo de eso pasó : `I have memories of that happening`
 
 es como X como lo que será recordado
-    = it will be remembered as X
-    ? Será recordado como un gran líder : `He will be remembered as a great leader`
-    ? Será recordado como un momento clave en la historia : `It will be remembered as a key moment in history`
+    ! Trampa: hay que cambiar a **será recordado como...**
+    = it will be remembered **as** X
+    ? Es como a un gran pintor como será recordado : `He will be remembered **as** a great painter`
+    ? Será recordado como un momento clave en la historia : `It will be remembered **as** a key moment in history`
 
 
 ## Getting Attention
-
-
-me llamó la atención (espontaneidad)
-    = caught my attention
-    ? El artículo llamó mi atención : `The article caught my attention`
-    = caught my eye (visualmente)
-    ? La hermosa pintura llamó mi atención : `The beautiful painting caught my eye`
-
-me atrajo la atención (me llevó la atención hacia)
-    = to draw the attention
-    ? El diseño inusual atrajo la atención de los transeúntes : `The unusual design drew the attention of passersby`
-
-captar la atención (del oyente)
-    = to capture the attention (FM. captar de manera continuada - presentaciones)
-    ? El orador logró captar la atención de la audiencia con historias atractivas : `The speaker managed to capture the audience's attention with engaging stories`
-    = to grab the attention (IN. atrapar)
-    ? Usaron un esquema de colores brillante para captar la atención del cliente : `They used a bright color scheme to grab the customer's attention`
-
-mantener la atención (del oyente)
-    = to hold/keep the attention
-    ? El orador usó imágenes poderosas para mantener la atención de la audiencia durante toda la presentación : `The speaker used powerful visuals to hold the audience's attention throughout the presentation`
 
 llamar la atención (hacerse notar)
     = get attention (puede ser positivo o negativo)
     ? Los colores brillantes del cuadro realmente llaman la atención : `The bright colours of the painting really get your attention`
     ? Intentó llamar la atención del camarero para pedir la cuenta. : `He tried to get the waiter's attention to ask for the bill`
     ? Siempre está haciendo el tonto para llamar la atención : `He's always doing silly things just to get attention`
+
+me llamó la atención (de forma espontánea/sorpresa)
+    = catch my attention
+    = caught my eye (visualmente)
+    ? El artículo llamó mi atención : `The article caught my attention`
+    ? La hermosa pintura llamó mi atención : `The beautiful painting caught my eye`
+
+atraer/dirigir la atención (llevarla hacia)
+    = to draw the attention
+    ? El diseño inusual atrajo la atención de los transeúntes : `The unusual design drew the attention of passersby`
+    ? Quería atraer la atención hacia el problema de las personas sin hogar : `He wanted to draw attention to the issue of homelessness`
+
+capturar/captar la atención (del oyente)
+    = to grab the attention (IN. atrapar)
+    = to capture the attention (FM. captar de manera continuada - presentaciones)
+    ? Usaron un esquema de colores brillante para captar la atención del cliente : `They used a bright color scheme to grab the customer's attention`
+    ? El orador logró captar la atención de la audiencia con historias atractivas : `The speaker managed to capture the audience's attention with engaging stories`
+
+mantener la atención (del oyente)
+    = to hold/keep the attention
+    ? El orador usó imágenes poderosas para mantener la atención de la audiencia durante toda la presentación : `The speaker used powerful visuals to hold the audience's attention throughout the presentation`

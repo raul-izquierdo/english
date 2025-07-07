@@ -81,7 +81,6 @@ translate
     ? Ella se sentía mal desde la hora de la comida : `She had been feeling unwell since lunchtime`
     ? Yo estaba enfermo porque había estado durmiendo fuera : `I was sick because I HAD BEEN SLEEPING outside`
 
-
 ## The Future
 
 Most common:
@@ -1125,6 +1124,3 @@ situado
 puesto, colocado (para objetos) = placed
     ? El cartel fue colocado cerca de la entrada : `The sign was placed near the entrance`
     ? Un oficial de policía estaba puesto en la entrada : `A police officer was placed at the entrance`
-
-
-## Analising and Evaluating

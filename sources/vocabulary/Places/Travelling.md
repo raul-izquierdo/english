@@ -77,11 +77,14 @@ anular una reserva
 
 ## Objective for the Trip
 
-conocer un nuevo (lugar)
-    = get to know
-    = explore a new place
+para [llegar a conocer] (algo/a alguien)
+    = get to know  (familiarizarse con algo o establecer vínculos con alguien)
+        - No confundir con _come to know_, que es obtener _conocimiento_
+    ? Lleva tiempo llegar a conocer a alguien : `It takes time to get to know someone properly`
+    ? Voy a hacer un viaje para conocer mejor Roma : `I'm going on a trip to get to know Rome better`
     ? Quiero conocer mejor la ciudad : `I want to get to know the city better`
-    ? Lo llevé a conocer la ciudad : `I took him to get to know the city`
+
+explorar un nuevo (lugar) = explore a new place
     ? Quiero explorar la ciudad : `I want to explore the city`
 
 
