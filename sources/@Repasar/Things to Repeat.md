@@ -35,6 +35,8 @@ Not Needed (the challenging content is here)
     = Shopping and Products
     = Environment and Nature
     = Home and Chores
+    = Moving
+    = Travelling
 
 ## Conditionals
 
@@ -838,3 +840,42 @@ lavar los platos
 
 recoger la habitación = clear up
     ? Recogí el desorden en mi habitación : `I cleared up the mess in my room`
+
+## Travelling
+
+se fué...
+    = went away
+    = went (on a trip / on holiday) Ver arriba estas dos
+    ? Él se quedó en casa y su familia se fue : `He stayed at home while his family went away`
+    ? ... y su familia se fue de vacaciones : `...family went on holiday`
+    ? ... y su familia se fue de viaje : `...family went on a trip`
+
+lugar de vacaciones
+    = holiday destination
+    ? La playa es un lugar de vacaciones popular para las familias : `The beach is a popular holiday destination for families`
+
+
+vacaciones de hacer turismo (visitar sitios) = sightseeing holiday `I went on a sightseeing holiday` - `I went on a sightseeing tour`
+
+extranjero
+    = abroad (el extranjero - lugar)
+    = foreigner (persona del extranjero)
+    = foreign (adjetivo - de otro país)
+
+servicios, comodidades, instalaciones (hotel, casas, ciudades...) = amenities
+    ? El hotel tiene muchos servicios : `The hotel has many amenities`
+
+alojamiento en casa rural = rural house `I stayed at a rural house`
+
+alojamiento = accommodation `I booked accommodation for the trip`
+
+alojar a alguien = put up `He put me up for the night` - `I put him up for the night`
+
+deteriorado (por uso o tiempo) = run-down
+    ? La zona está deteriorada : `The area is run-down`
+
+desatendido (sin cuidar) = neglected
+    ? La zona está desatendida : `The area is neglected`
+
+escapada, salida
+    = getaway (2+ días - enfatiza necesidad de relax) `We went on a weekend getaway to the mountains` - `The getaway was relaxing`

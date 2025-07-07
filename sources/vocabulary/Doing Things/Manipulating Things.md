@@ -254,8 +254,8 @@ separados = apart
     ? Mis padres viven separados : `My parents live apart now`
 
 separar
+    ! OJO: no usar _set apart_ 🠢 destacar/reservar
     = separate (f)
-        - OJO: no usar _set apart_ 🠢 destacar/reservar
     ? Necesito separar los documentos importantes de los que no lo son : `I need to separate the important documents from the unimportant ones`
 
 
