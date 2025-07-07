@@ -80,9 +80,11 @@ para calles = **on**
     ? Está en la calle Mayor : `He is on Main Street`
 
 para áreas, ciudades, países... = **in**
+    - Excepción: `**on** the outskirts` (en las afueras)
     ? Está en el centro de la ciudad : `He is in the city centre`
     ? Está en Chinatown : `He is in Chinatown`
     ? Está en Madrid : `He is in Madrid`
+    ? Vive en las afueras de la ciudad : `He lives **on** the outskirts of the city`
 
 test
     ? Está en el 221B de Baker Street : `He is at 221B Baker Street`

@@ -37,6 +37,7 @@ Not Needed (the challenging content is here)
     = Home and Chores
     = Travelling
     = Moving
+    = Places to Live
 
 ## Conditionals
 
@@ -1042,3 +1043,77 @@ lejano (distancia)
     ? La playa está lejos del centro de la ciudad, lo que la convierte en una escapada perfecta : `The beach is far away from the city centre, making it a perfect getaway`
     ? Vivir en un lugar remoto puede ser un reto debido a la falta de comodidades : `Living in a remote location can be challenging due to the lack of amenities`
     ? Se sentía distante de su familia : `He felt distant from his family`
+
+## Places to Live
+
+vivienda
+    = dwelling (el genérico de piso, casa, ...)
+    = housing (la vivienda - incontable)
+    ? La segunda vivienda es muy cómoda : `The second dwelling is very comfortable`
+    ? El problema de la vivienda es grave : `The housing problem is serious`
+
+
+adosado = terraced house
+    ? Hay muchas casas adosadas en la zona : `There are many terraced houses in the area`
+
+terreno
+    = terrain (tipo de terreno)
+    = plot of land
+    = parcel (parcela)
+    ? El terreno era difícil de cruzar : `The terrain was difficult to cross`
+    ? El terreno es muy rocoso : `The terrain is very rocky`
+    ? Compró un terreno para construir una casa : `He bought a plot of land to build a house`
+    ? La parcela de terreno fue vendida : `The parcel of land was sold`
+    ? La parcela es muy grande : `The parcel is very large`
+
+acera = pavement (aunque a veces se incluye la carretera)
+    ? La acera estaba llena de gente : `The pavement was full of people`
+    ? La acera es muy ancha : `The pavement is very wide`
+    ? Iba caminando por la acera : `I was walking along the pavement`
+
+en el exterior, en la calle
+    = outdoors
+    ? Me encanta comer al aire libre : `I love eating outdoors`
+
+el campo
+    = the countryside (lo que no son ciudades)
+    = the field (prado)
+    ? Me encanta el campo : `I love the countryside`
+    ? El prado estaba lleno de flores : `The field was full of flowers`
+
+la gente de fuera, forasteros = outsiders
+    - No confundir con _foreigners_ (extranjeros), que son _outsiders_, pero no al revés
+    ? Los forasteros a menudo tienen una perspectiva diferente de la ciudad : `Outsiders often have a different perspective on the city`
+
+en auge = thriving
+    ? La zona está en auge : `The area is thriving`
+    ? La economía está en auge : `The economy is thriving`
+
+bullicioso = bustling
+    ? La ciudad es bulliciosa por la noche : `The city is bustling at night`
+
+estar bien comunicado = be well connected
+    - OJO: Nunca _well communicated_ (comunicado es más para hablar)
+    ? La ciudad está bien comunicada por transporte público : `The city is well connected by public transport`
+
+acceso fácil (por distancia o transportes) = within easy reach
+    ? El hotel está a fácil acceso de la playa : `The hotel is within easy reach of the beach`
+
+a poca distancia a pie
+    = within walking distance [of place] (f)
+    = in a short walk away (oral)
+    ? El hotel está a poca distancia a pie de la playa : `The hotel is within walking distance of the beach`
+    ? El supermercado está a poca distancia a pie : `The supermarket is within walking distance`
+    ? El hotel está a un corto paseo de la playa : `The hotel is a short walk away from the beach`
+    ? El supermercado está a un corto paseo : `The supermarket is a short walk away`
+
+situado
+    = situated (para edificios, y elementos geográficos)
+    = set (puesto deliberadamente - often used for scenery or emotional tone)
+    ? El hotel está situado en las montañas : `The hotel is situated in the mountains`
+    ? La casa de campo está bellamente situada entre los árboles : `The cottage is beautifully set amongst the trees`
+    ? La historia está situada en la época medieval : `The story is set in medieval times`
+
+puesto, colocado (para objetos) = placed
+    ? El cartel fue colocado cerca de la entrada : `The sign was placed near the entrance`
+    ? Un oficial de policía estaba puesto en la entrada : `A police officer was placed at the entrance`

@@ -36,7 +36,7 @@ bloque de pisos = block of flats
 edificio = building
     ? El edificio es muy alto : `The building is very tall`
 vivienda
-    = dwelling (el genérico de piso, casa, ...
+    = dwelling (el genérico de piso, casa, ...)
     = housing (la vivienda - incontable)
     ? La segunda vivienda es muy cómoda : `The second dwelling is very comfortable`
     ? El problema de la vivienda es grave : `The housing problem is serious`
@@ -88,9 +88,9 @@ en el exterior, en la calle
 
 centro de la ciudad = city centre
     ? El centro de la ciudad está lleno de tiendas y restaurantes : `The city centre is full of shops and restaurants`
-periferia/en las afueras = on the outskirts
+periferia/en las afueras = **on** the outskirts
     ? Las afueras de la ciudad son muy tranquilas : `The outskirts of the city are very quiet`
-    ? Vivo en las afueras de la ciudad : `I live on the outskirts of the city`
+    ? Vivo en las afueras de la ciudad : `I live **on** the outskirts of the city`
 
 en la zona = in the area
     ? Hay muchas tiendas en la zona : `There are many shops in the area`
@@ -140,6 +140,7 @@ el camino = path
 persona que solo viene a dormir = commuter
     ? El viajero se desplaza a la ciudad todos los días : `The commuter travels to the city every day`
 la gente de fuera, forasteros = outsiders
+    - No confundir con _foreigners_ (extranjeros), que son _outsiders_, pero no al revés
     ? Los forasteros a menudo tienen una perspectiva diferente de la ciudad : `Outsiders often have a different perspective on the city`
 
 el suelo
@@ -177,11 +178,12 @@ impresionante, asombroso
 
 bullicioso = bustling
     ? La ciudad es bulliciosa por la noche : `The city is bustling at night`
-    ? El mercado estaba lleno de gente y actividad : `The market was full of people and activity`
 
 ## Services and Facilities
 
-council = ayuntamiento
+ayuntamiento
+    = (el equipo de gobierno) the council
+    = (el edificio) Town Hall
     ? El ayuntamiento es responsable de los servicios locales : `The council is responsible for local services`
 alcalde = mayor
     ? El alcalde es responsable de la ciudad : `The mayor is responsible for the city`
@@ -215,14 +217,15 @@ ciudad natal/lugar de nacimiento (aunque no sea una ciudad)
 
 vivir fuera de casa
     = live away from home
-    = live on my own (por mi cuenta)
     ? Vivo fuera de casa durante la semana : `I live away from home during the week`
-    ? Vivo solo en un pequeño apartamento : `I live on my own in a small apartment`
 
 situado
-    = situated (situado - en un entorno)
-    = set (como colocado en una composición)
-    = placed (puesto en algún sitio)
+    = situated (para edificios, y elementos geográficos)
+    = set (puesto deliberadamente - often used for scenery or emotional tone)
     ? El hotel está situado en las montañas : `The hotel is situated in the mountains`
     ? La casa de campo está bellamente situada entre los árboles : `The cottage is beautifully set amongst the trees`
+    ? La historia está situada en la época medieval : `The story is set in medieval times`
+
+puesto, colocado (para objetos) = placed
     ? El cartel fue colocado cerca de la entrada : `The sign was placed near the entrance`
+    ? Un oficial de policía estaba puesto en la entrada : `A police officer was placed at the entrance`

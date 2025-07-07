@@ -54,8 +54,9 @@ no es lo mio
 ## Tastes
 
 ¿Qué es lo que más te gusta de...?
-    = What do you like most/best about...
-    ? Qué es lo que más te gusta de esta ciudad : `What do you **like most** about this city?`
+    = What do you like best _about_...
+        - Se puede usar **most** en vez de **best**, pero es más común con la segunda
+    ? Qué es lo que más te gusta de esta ciudad : `What do you **like best** about this city?`
 
 Quién te gustaría más... = Who would you most like to...
     ? ¿Quién te gustaría más ver en un concierto? : `Who would you **most like** to see in concert?`
