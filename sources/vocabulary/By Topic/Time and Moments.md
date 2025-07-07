@@ -349,6 +349,12 @@ pasado mañana
 tan pronto como = as soon as
     ? Te llamaré tan pronto como llegue a casa : `I’ll call you as soon as I get home` (más informal)
 
+cuando son/sean, cuando llegan/lleguen las <hora>
+    = when it’s <hour>
+    ? Cuando **son** las 7, me voy a casa : `When it’s 7, I **go** home`
+    ? Cuando **sean** las 7, me voy a casa : `When it’s 7, **I'm going** home`
+    ? Cuando **llegaron** las 7, me fui a casa : `When it was 7, I went home`
+
 ## Still vs Yet vs Already
 
 ya

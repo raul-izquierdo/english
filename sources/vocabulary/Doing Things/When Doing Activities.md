@@ -425,6 +425,8 @@ salió bien
 
 cumplir con los plazos = meet deadlines
     ? Necesitamos cumplir con los plazos : `We need to meet the deadlines`
+no cumplir expectativas = to fail to
+    ? La empresa no cumplió su objetivo de ventas : `The company failed to meet its sales target`
 
 dar el visto bueno a = give the green light to
     ? El gerente dio luz verde al proyecto : `The manager gave the green light to the project`

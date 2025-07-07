@@ -47,10 +47,13 @@ cheer up = animar `I tried to cheer him up by telling him a joke` - `He cheered 
 come about = sucedió/tuvo lugar/se originó `The meeting came about after a long discussion` - `The changes came about as a result of the new policy`
 come across = encontrarse/toparse con (cosas, situaciones - no problemas ni personas) `I came across an old book at the library`
 come along = acompáñanos `Come along to the concert!! It's free`
+come around = come round
 come into = heredar
 come out = salir [a la vista] `The sun came out after the rain` - `The book came out last month` - `The truth will come out eventually`
-come over = ir a casa de alguien `Why don't you come over for a cup of tea?`
-come round = +/-come over
+come over = pasarse por casa de alguien (venir) `Why don't you come over for a cup of tea?`
+come round
+    = +/-come over
+    = llegar de nuevo (un evento periódico) `When dinner time comes around, ...` - `The festival comes round every year`
 come up with = ocurrirse algo `I came up with a great idea for the project` - `He came up with a solution to the problem`
 
 ## Deck
@@ -136,6 +139,7 @@ give up = rendirse/abandonar `He gave up on his dreams` - `He gave himself up` -
 ## Go
 
 go after = ir a por `He went after the thief` - `He went after the job he wanted`
+go around = go round
 go off = irse `She went off to the store to buy some milk`
     = (comida) estropearse `The milk has gone off`
 go out
@@ -144,7 +148,7 @@ go out
 go over
     = go round
     = repasar (plan, apuntes, ...)
-go round = ir a, pasarse por `He went round to his friend's house` - `He went round to the office`
+go round = pasarse por casa de alguien (ir) `He went round to his friend's house` - `He went round to the office`
 
 ## Grow
 

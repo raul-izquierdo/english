@@ -40,6 +40,7 @@ vivienda
     = housing (la vivienda - incontable)
     ? La segunda vivienda es muy cómoda : `The second dwelling is very comfortable`
     ? El problema de la vivienda es grave : `The housing problem is serious`
+portal = the [communal] entrance
 
 adosado = terraced house
     ? Hay muchas casas adosadas en la zona : `There are many terraced houses in the area`

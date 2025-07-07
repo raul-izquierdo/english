@@ -1,6 +1,6 @@
 # Things to Repeat
 
-## Full Chapters to Repeat
+## Chapters Status
 
 Mandatory to Repeat (and extract the challenging content)
     = Passive
@@ -240,6 +240,12 @@ un rato
 lo que más tiempo me llevó fue ...
     = What took me the **longest** was... (no poner _the most_)
 
+cuando son/sean, cuando llegan/lleguen las <hora>
+    = when it’s <hour>
+    ? Cuando **son** las 7, me voy a casa : `When it’s 7, I **go** home`
+    ? Cuando **sean** las 7, me voy a casa : `When it’s 7, **I'm going** home`
+    ? Cuando **llegaron** las 7, me fui a casa : `When it was 7, I went home`
+
 ## Weather
 
 fenómeno meteorológico = weather phenomenon
@@ -465,6 +471,8 @@ fue bien\mal = it went well/badly
 
 cumplir con los plazos = meet deadlines
     ? Necesitamos cumplir con los plazos : `We need to meet the deadlines`
+no cumplir expectativas = to fail to
+    ? La empresa no cumplió su objetivo de ventas : `The company failed to meet its sales target`
 
 resultó, acabó siendo
     = turn out TO <base> (cierta sorpresa)
@@ -1117,3 +1125,6 @@ situado
 puesto, colocado (para objetos) = placed
     ? El cartel fue colocado cerca de la entrada : `The sign was placed near the entrance`
     ? Un oficial de policía estaba puesto en la entrada : `A police officer was placed at the entrance`
+
+
+## Analising and Evaluating

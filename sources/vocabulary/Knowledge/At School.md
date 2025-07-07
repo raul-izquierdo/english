@@ -229,9 +229,10 @@ sin corregir = unmarked
     ? El trabajo está sin corregir : `The assignment is unmarked`
 
 error, fallo = mistake
+
+cometer un error = make a mistake (cometer un error)
     ? Cometí un error en el examen : `I made a mistake in the exam`
-    ? Cometí un error en el trabajo : `I made a mistake in the assignment`
-    ? Cometí un error en el test : `I made a mistake on the test`
+    ? Cometí un error en mis cálculos : `I made a mistake in my calculations`
 
 descuido, omisión = oversight
     ? Fue un descuido por mi parte : `It was an oversight on my part`
