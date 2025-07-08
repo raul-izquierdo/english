@@ -114,8 +114,11 @@ débil
 
 ## Illnesses
 
-enfermedad = illness `I have an illness`
-    - plural: illnesses
+enfermedad
+    ! Intercambiables
+    = disease (enfermedad diagnosticable)
+    = illness (uno se siente enfermo. Si el médico te mira, te dice la _disease_) `I have an illness`
+        - plural: illnesses
 
 ponerse enfermo
     = get sick (gravedad leve a media) `I got sick after eating that food`

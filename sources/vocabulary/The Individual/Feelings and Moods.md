@@ -3,6 +3,9 @@
 
 ## Expressing Emotions
 
+estado de ánimo, humor, ánimo = mood
+    ? Tiene buen/mal ánimo : `He/She is in a good/bad mood`
+
 suspiro = sigh
     ? Dejó escapar un suspiro de alivio : `He let out a sigh of relief`
 dar un profundo suspiro = give a deep sigh
@@ -34,10 +37,6 @@ estoy <mood> = I am/feel <mood>
 me pone <estado> (nervioso/inquieto/...)
     = it makes me nervous/angry/... `The noise from the construction site made me nervous`
 
-estado de ánimo, humor, ánimo = mood
-    ? Tiene buen/mal ánimo : `He/She is in a good/bad mood`
-
-
 abrazar
     = hug (abrazo rápido, amistoso)
     ? Abrazo a mis amigos cuando los veo : `I hug my friends when I see them`
@@ -55,11 +54,6 @@ alegre = cheerful
     ? Se despertó alegre y silbó mientras preparaba el desayuno : `He woke up in a cheerful mood and whistled while making breakfast`
 alegría = happiness
     ? Sintió una oleada de alegría al oír la buena noticia : `She felt a surge of happiness when she heard the good news`
-
-se alegra de, contento con
-    = is pleased with
-    ? Está contento con los resultados del proyecto : `He is pleased with the results of the project`
-    ? Está contento con su nuevo trabajo : `He is pleased with his new job`
 
 gozo / alegría intensa = joy
     ? Los niños estaban llenos de alegría la mañana de Navidad : `The children were filled with joy on Christmas morning`
@@ -102,22 +96,27 @@ me causa mucho placer = gives me great pleasure
 ## Anxiety, Nervousness & Stress
 
 nervioso = nervous `I always get nervous before a job interview`
-tranquilo / calmado = calm `The peaceful music helped her feel calm`
 
 estaría nervioso de <hacer X>
     = I’d be nervous ABOUT <ing> `I’d be nervous about speaking in public`
+
 
 ansioso/nervioso = anxious `I feel anxious when I have to speak in public`
 ansioso por
     = eager to
     ? Estoy ansioso por comenzar mi nuevo trabajo : `I'm eager to start my new job`
+
+tranquilo / calmado = calm `The peaceful music helped her feel calm`
+
 cálmate = calm down `You need to calm down before the meeting`
 
 preocupar/preocupado = to worry
     ? Estoy preocupado por los resultados del examen : `I'm worried about the exam results`
     ? Estoy preocupado por mis resultados de examen : `I'm worried about my exam results`
 
-preocupaciones, temores = concerns
+preocupaciones, temores
+    = worries (preocupaciones emocionales)
+    = concerns (preocupaciones más formales)
     ? Hay preocupaciones sobre la nueva política : `There are concerns about the new policy`
 
 inquieto
@@ -148,7 +147,7 @@ melancólico / sombrío = gloomy
 desanimado
     = discouraged
     ? Se sintió desanimado tras suspender el examen : `He felt discouraged after failing the test`
-    = (de bajón) down
+    = (de bajón) down `I feel down`
     ? Últimamente se ha sentido un poco de bajón : `He's been feeling a bit down lately`
 
 desanimarse = put off
@@ -174,6 +173,11 @@ me da pena
     ? ¿No te doy pena? : `Don't you feel sorry for me?`
     = feel sorry for <ing>
     ? Me da pena no haberte ayudado : `I feel sorry for not helping you`
+
+tener compasión = take pity on
+    ? Ten compasión por él : `Take pity on him`
+    ? Siento compasión por los sin techo : `I take pity on the homeless`
+    ? Siento compasión por los animales del refugio : `I take pity on the animals in the shelter`
 
 sentirse mal por
     = feel bad about <ing>
@@ -218,6 +222,7 @@ frustración = frustration
 
 harto = fed up
     ? Estoy harto del ruido constante : `I'm fed up with the constant noise`
+    ? Estaba harto del ... : `I was fed up with ...`
 
 
 Ya está bien = `That's enough!`
@@ -251,11 +256,17 @@ avergonzado
 vergüenza = shame
     ? Una sensación de vergüenza lo invadió tras su error : `A feeling of shame washed over him after his mistake`
 
-culpa = guilt
-
+culpa
+    = guilt (sentimiento interno)
+    = blame (culpa que te echa otra persona)
+    ? Siento culpa por no haber ayudado a mi amigo : `I feel guilt for not helping my friend`
+    ? Me echa la culpa por no haberlo hecho : `He blames me for not doing it`
+    ? La invadió una sensación de culpa tras el accidente : `She was overwhelmed by guilt after the accident`
+    ? No intentes desviar la culpa hacia otra persona : `Don't try to shift the blame onto someone else`
 
 lo siento (pedir disculpas)
     = to be sorry (i) (pedir disculpas)
+        - No confundir con _feel sorry_ .> Sentir pena
     - sorry **for** something the speaker did `He said He was sorry for shouting`
     - sorry **about** a general situation `I'm sorry about the noise`
     ? Siento llegar tarde : `I'm sorry for being late`
@@ -270,7 +281,7 @@ pedir disculpas
     ? Le dije que lo sentía por lo que pasó : `I said sorry for what happened`
 
 estar arrepentido (sentir arrepentimiento - expresar sentimiento)
-    = to be regret <sthing>/<ing> (f) Poco común en oral
+    = to regret <sthing>/<ing> (f) Poco común en oral
     ? Estoy arrepentido : `I regret it`
     ? Está arrepentido de su decisión : `He regrets his decision`
     ? Estoy arrepentido de no haber ido a la fiesta : `I regret not going to the party`
@@ -317,21 +328,21 @@ perplejo, desconcertado
     ? Me sentí perplejo por el extraño comportamiento de mi amigo : `I was puzzled by the strange behavior of my friend`
     ? Me sentí desconcertado por el truco del mago : `I was baffled by the magician's trick`
 
-dubitativo = hesitant
-    ? Dudó en tomar una decisión : `He was hesitant to make a decision`
-    ? Ella tenía dudas sobre el plan : `She was hesitant about the plan`
-
 
 ## Surprise
 
 sorpresa = surprise
     ? Sus ojos se abrieron de sorpresa ante el regalo inesperado : `Her eyes widened in surprise at the unexpected gift`
-llevarse una (desagradable) sorpresa = give <sbody> a nasty shock
-    ? Me dio una desagradable sorpresa cuando me contó la noticia : `He gave me a nasty shock when he told me the news`
-    ? Me dio una desagradable sorpresa cuando llegó inesperadamente : `She gave me a nasty shock when she arrived unexpectedly`
-llevarse una agrada sorpresa = give <sbody> a pleasant surprise
+
+me llevé una sorpresa
+    = I was surprised
+    = I had/got a surprise
+
+dar una (desagradable) sorpresa = give <sbody> a sorpresa
     ? Me dio una grata sorpresa cuando me contó la noticia : `He gave me a pleasant surprise when he told me the news`
-    ? Me dio una grata sorpresa cuando llegó inesperadamente : `She gave me a pleasant surprise when she arrived unexpectedly`
+
+grata sorpresa = pleasant surprise
+desagradable sorpresa = unpleasant surprise
 
 no es de sorprender
     = It isn't surprising
@@ -346,6 +357,7 @@ no es de sorprender
 
 ## Fear
 
+
 miedo = fear
     ? Un escalofrío de miedo la recorrió al oír el ruido : `A jolt of fear went through her when she heard the noise`
 
@@ -354,12 +366,15 @@ asustar
     ? El ruido me asustó : `The noise scared me`
     = (dar un susto) to frighten
     ? Me diste un susto : `You frightened me`
+
 susto
     = scare
     ? Esa película me dio unos cuantos sustos : `That film gave me a few scares`
     = fright
     ? Esa película me dio unos cuantos sustos : `That film gave me a few frights`
 
+llevarse un susto = get a fright
+    ? Parece que ella recibió un buen susto : `It seems she got a good fright`
 dar un susto = to give a fright
     ? Me diste un susto : `You gave me a fright`
 
@@ -381,6 +396,7 @@ tener miedo, asustado
     ? Me aterrorizaba intentarlo : `I was terrified to try it`
 
 me daría miedo <hacer X>
+    = I'd be afraid of <ing>
     = I’d be scared to <base>
     ? Me daría miedo hacer puenting : `I’d be scared to go bungee jumping`
 
@@ -427,6 +443,6 @@ no herir los sentimientos de alguien
     ? Quise no herir sus sentimientos : `I wanted to spare his feelings`
     ? Formuló su crítica cuidadosamente para no herir sus sentimientos : `He phrased his criticism carefully to spare their feelings`
 
-procesar algo (emocionalmente)
+procesar/asimilar algo (emocionalmente)
     = to process it
     ? Necesito tiempo para asimilar esta mala noticia : `I need time to process this bad news`

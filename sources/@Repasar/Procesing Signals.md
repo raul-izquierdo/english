@@ -59,6 +59,10 @@ ventaja - desventaja
     ? La ventaja de vivir en la ciudad son todas las actividades culturales, pero la desventaja es el ruido : `The **upside** of living in the city is all the cultural activities, but the **downside** is the noise`
     ? El principal inconveniente del software es su complejidad : `The main **drawback** of the software is its complexity` (no se está haciendo balance con otras características)
 
+dubitativo = hesitant
+    ? Dudó en tomar una decisión : `He was hesitant to make a decision`
+    ? Ella tenía dudas sobre el plan : `She was hesitant about the plan`
+
 dudoso = doubtful
     ? Estoy dudoso sobre la validez de sus afirmaciones : `I'm doubtful about the validity of his claims`
     ? Es dudoso que sea así : `It's doubtful that it is like that`

@@ -135,6 +135,10 @@ ventaja - desventaja
 
 ## Doubts
 
+dubitativo = hesitant
+    ? Dudó en tomar una decisión : `He was hesitant to make a decision`
+    ? Ella tenía dudas sobre el plan : `She was hesitant about the plan`
+
 dudoso = doubtful
     ? Estoy dudoso sobre la validez de sus afirmaciones : `I'm doubtful about the validity of his claims`
     ? Es dudoso que sea así : `It's doubtful that it is like that`

@@ -72,11 +72,6 @@ tratar un tema
 
 ## Interacting with Others
 
-tener compasión = take pity on
-    ? Ten compasión por él : `Take pity on him`
-    ? Siento compasión por los sin techo : `I take pity on the homeless`
-    ? Siento compasión por los animales del refugio : `I take pity on the animals in the shelter`
-
 interesarse por = take interest in
     ? Ella se interesa por la comunidad : `She takes interest in the community`
 
