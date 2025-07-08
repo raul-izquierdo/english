@@ -68,3 +68,62 @@ tratar un tema
     ? Necesitamos tratar los puntos clave de la propuesta antes de la fecha límite : `We need to address the key points in the proposal before the deadline`
     ? Trató los problemas de uno en uno : `He dealt with the problems one by one`
     ? Incluyó dicho tema en su presentación : `He covered that topic in his presentation`
+
+
+## Interacting with Others
+
+tener compasión = take pity on
+    ? Ten compasión por él : `Take pity on him`
+    ? Siento compasión por los sin techo : `I take pity on the homeless`
+    ? Siento compasión por los animales del refugio : `I take pity on the animals in the shelter`
+
+interesarse por = take interest in
+    ? Ella se interesa por la comunidad : `She takes interest in the community`
+
+impedir = prevent
+    ? La lluvia nos impidió salir : `The rain prevented us from going outside`
+    ? Las reglas nos impiden hacer eso : `The rules prevent us from doing that`
+
+Consiguió que <alguien> <hiciera algo> (da igual como)
+    = get <sbody> TO <base> <sthing> (más informal)
+    ? Él consiguió que su hijo limpiara la habitación : `He got his child TO clean the room`
+
+Hizo que <alguien> <hiciera algo> (acuerdo, encargo...)
+    = have <sbody> <base> <sthing>
+    ? Hice que mi hermano lavara los platos : `I had my brother wash the dishes`
+
+
+Obliga a <alguien> a <hacer algo> (obligación, imposición, coerción)
+    = made <sbody> <base> <sthing>
+        - sin TO en presente `I make him do it`
+        - con To en _pasivo_ `He was made **to** do it`
+    ? Él obligó a su hijo a limpiar la habitación : `He made his child clean the room`
+
+... me ha pasado algo (normalmente desagradable)
+    = have/get <sthing> <done> (i)
+        - Sí, igual que el anterior
+    ? La semana pasada entraron a robar en su casa de John : `John HAD his house BROKEN INTO last week`
+
+rechazar
+    = refuse TO <base> (más personal; me niego a/rehúso a)
+    = reject <ing> (rechazar, normalmente después de evaluación)
+    = dismiss <ing> (no merece más consideración)
+    = turn down (rechazar una oferta)
+    ? La compañía rechazó la propuesta : `The company rejected the proposal` (después de evaluación)
+    ? Descartó la idea por considerarla poco práctica : `He dismissed the idea as impractical`
+    ? El rechazó la oferta de trabajo : `He turned down the job offer`
+    ? Se negó a firmar el contrato : `He refused to sign the contract`
+    ? El editor rechazó el manuscrito : `The publisher rejected the manuscript`
+    ? El editor rechazó leer el manuscrito : `The publisher rejected reading the manuscript`
+    ? Descartó cambiar el plan por innecesario : `He dismissed changing the plan as unnecessary`
+    ? La junta desestimó la propuesta de una nueva política : `The board dismissed the proposal for a new policy`
+    ? Ella rechazó el regalo : `She refused the present`
+    ? Se negó a seguir su consejo : `He refused to follow her advice`
+
+de ninguna manera = by no means
+    ? De ninguna manera es esta la mejor solución : `By no means is this the best solution`
+
+y mucho menos...
+    = let alone
+    ? No puedo permitirme ni un coche, y mucho menos una casa : `I can't even afford a car, let alone a house`
+    ? No te culpo a ti, y mucho menos a él : `I don't blame you, let alone him`

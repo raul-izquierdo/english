@@ -272,9 +272,6 @@ gran problema
 la parte más dura/difícil = the heavy lifting
     ? El trabajo más duro ya está hecho, ahora solo hay que terminar los detalles : `The heavy lifting is done, now we just need to finish the details`
 
-preocupaciones, temores = concerns
-    ? Hay preocupaciones sobre la nueva política : `There are concerns about the new policy`
-
 complicaciones, desafíos = challenges
     ? El proyecto enfrentó varios desafíos : `The project faced several challenges`
 
@@ -306,14 +303,6 @@ estoy bloqueado (no sé seguir/no entiendo)
     ? Estoy en un punto muerto con esta tarea : `I’m at a standstill with this task`
 
 estoy intrigado de por qué no funcionó = `I’m intrigued **as** to why it didn’t work`
-
-dificultar
-    ! Bastanten intercambiables
-    = hinder (dificultar el progreso de algo - más general)
-    = hamper (dificultar el movimiento físico o figurado - estorbar algo)
-    ? La falta de recursos puede dificultar el desarrollo de nuevos proyectos : `Lack of resources can hinder the development of new projects`
-    ? La lluvia dificultó nuestros planes de picnic : `The rain hampered our plans for a picnic`
-    ? El tráfico dificultó mi llegada : `The traffic hampered my arrival`
 
 costar hacer algo, pelearse con ello
     = to struggle to do something

@@ -117,6 +117,9 @@ preocupar/preocupado = to worry
     ? Estoy preocupado por los resultados del examen : `I'm worried about the exam results`
     ? Estoy preocupado por mis resultados de examen : `I'm worried about my exam results`
 
+preocupaciones, temores = concerns
+    ? Hay preocupaciones sobre la nueva política : `There are concerns about the new policy`
+
 inquieto
     = uneasy (inquieto mentalmente)
     ? Hubo un silencio incómodo en la sala tras el anuncio : `There was an uneasy silence in the room after the announcement`

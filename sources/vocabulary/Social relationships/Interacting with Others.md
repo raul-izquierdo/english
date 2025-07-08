@@ -17,27 +17,26 @@ despedida = farewell
     ? Una despedida cálida es importante : `A warm farewell is important`
     ? Él se despidió cálidamente de sus amigos : `He said a warm farewell to his friends`
 despedir con la mano = wave
-    ? Él se despidió con la mano de sus amigos : `He waved goodbye to his friends`
+    ? Él se despidió con la mano de sus amigos : `He waved to his friends`
 
-cómo te va = get on
-    ? Avísame cómo te va : `let me know how you get on`
+¿Cómo te va? = `How are you doing?`
 
-Qué te pasa? = What's the matter?
+¿Qué te pasa? = What's the matter?
     ? ¿Qué te pasa? : `What's the matter with you?`
     ? ¿Qué ocurre? : `What's the matter?` (más general)
 
-Qué tal...
+¿Qué tal...
     = How ...
         - (... estás) `How are you?`
-        ? ¿Cómo está? : `How is...?`
+        ? ¿Cómo está ...? : `How is...?`
         - (... fue tal situación) `How was ...`
-        ? ¿Cómo fue tu día? : `How was your day?` - `How was your trip?`
+        ? ¿Cómo fue tu día? : `How was your day?`
         - (... te fue con) `How did it go with...`
         ? ¿Cómo te fue con el nuevo colega? : `How did it go with the new colleague`
 
 
 nos conocimos = we met
-    ? Este es el lugar donde nos conocimos : `This is the place where we met`
+    ? Este es el lugar donde nos conocimos : `This is the place where we met` (_meet up_ sería _donde quedamos_)
     ? Nos conocimos en un evento : `We met at an event`
 
 dale recuerdos a ... = give him my regards / give my regards to him
@@ -70,10 +69,31 @@ tratar como (a persona o situación)
 hizo lo mismo, siguió el ejemplo/mismo camino = follow suit
     ? Cuando la primera empresa empezó a ofrecer descuentos, las demás siguieron el ejemplo : `When the first company started offering discounts, others followed suit`
 
-
 perturbar
     = to disturb
     ? El ruido de la obra molestó a los vecinos : `The noise from the construction site disturbed the neighbors`
+
+intervenir
+    = to intervene
+    = to step in (i)
+    ? La policía intervino para detener la pelea : `The police intervened to stop the fight`
+    ? Intervine para ayudar a resolver el conflicto : `I intervened to help resolve the conflict`
+
+impedir = prevent
+    ? La lluvia nos impidió salir : `The rain prevented us from going outside`
+    ? Las reglas nos impiden hacer eso : `The rules prevent us from doing that`
+
+interponerse en su camino = get in the way
+    ? No te interpongas en el camino del progreso : `Don't get in the way of progress`
+    ? Él se interpuso en mis planes : `He got in the way of my plans`
+
+dificultar
+    ! Bastante intercambiables
+    = hinder (dificultar el progreso de algo - más general)
+    = hamper (dificultar el movimiento físico o figurado - estorbar algo)
+    ? La falta de recursos puede dificultar el desarrollo de nuevos proyectos : `Lack of resources can hinder the development of new projects`
+    ? La lluvia dificultó nuestros planes de picnic : `The rain hampered our plans for a picnic`
+    ? El tráfico dificultó mi llegada : `The traffic hampered my arrival`
 
 ## Forcing others to Do something
 
@@ -101,15 +121,6 @@ Obliga a <alguien> a <hacer algo> (obligación, imposición, coerción)
     ? Fue obligado a pagar la multa : `He was made **to** pay the fine` (pasivo)
 
 
-impedir = prevent
-    ? La lluvia nos impidió salir : `The rain prevented us from going outside`
-    ? Las reglas nos impiden hacer eso : `The rules prevent us from doing that`
-
-interponerse en su camino = get in the way
-    ? No te interpongas en el camino del progreso : `Don't get in the way of progress`
-    ? Él se interpuso en mis planes : `He got in the way of my plans`
-
-
 ## Getting Things Done
 
 ... me han <hecho algo> (alguien nos ha hecho algo)
@@ -123,7 +134,8 @@ interponerse en su camino = get in the way
     ? Me cortan el pelo mañana : `I'm getting my hair DONE tomorrow`
 
 ... me ha pasado algo (normalmente desagradable)
-    = have/get <sthing> <done> (i) Igual que el anterior
+    = have/get <sthing> <done> (i)
+        - Sí, igual que el anterior
     ? La semana pasada entraron a robar en su casa de John : `John HAD his house BROKEN INTO last week`
 
 
@@ -147,8 +159,6 @@ animar
     = cheer up (estado anímico)
     ? Traté de animarlo contándole un chiste : `I tried to cheer him up by telling him a joke`
 
-para animar a =  to cheer up
-    ? Fui al concierto para animarlo : `I went to the concert to cheer him up`
 
 tranquilizar
     = put his mind at rest/ease (tranquilizar con palabras)
@@ -163,10 +173,10 @@ tranquilizar
 ## Rejecting
 
 rechazar
+    = refuse TO <base> (más personal; me niego a/rehúso a)
     = reject <ing> (rechazar, normalmente después de evaluación)
     = dismiss <ing> (no merece más consideración)
     = turn down (rechazar una oferta)
-    = refuse TO <base> (más personal; me niego a/rehúso a)
     ? La compañía rechazó la propuesta : `The company rejected the proposal` (después de evaluación)
     ? Descartó la idea por considerarla poco práctica : `He dismissed the idea as impractical`
     ? El rechazó la oferta de trabajo : `He turned down the job offer`
@@ -194,12 +204,12 @@ y ni hablar de...
 ## Expectations
 
 Se supone/suponía que...
-    = be supposed to <base>  (nótese el <base> -presente- aunque hablemos del pasado. En pasado/futuro se pone el _to be_)
+    = be supposed to <base>
+    - El <base> se pone siempre en presente, aunque hablemos del pasado o futuro
+    - `You are supposed to come` - `You were supposed to come`- `You will be supposed to come`
     ? Se supone que lo harás : `You are supposed to do it`
     ? Se suponía que lo harías : `You were supposed to do it`
     ? Se supondrá que lo harás : `You will be supposed to do it`
-    ? Se supone que vendrás : `You are supposed to come`
-    ? Se suponía que vendrías : `You were supposed to come`
 
 decepcionar = let down
     ? Nunca te voy a decepcionar : `Never gona give you up, never gonna let you down🎶`

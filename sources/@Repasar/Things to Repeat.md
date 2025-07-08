@@ -447,14 +447,6 @@ encontrar/meterse en problemas
 
 estoy intrigado de por qué no funcionó = `I’m intrigued **as** to why it didn’t work`
 
-dificultar
-    ! Bastanten intercambiables
-    = hinder (dificultar el progreso de algo - más general)
-    = hamper (dificultar el movimiento físico o figurado - estorbar algo)
-    ? La falta de recursos puede dificultar el desarrollo de nuevos proyectos : `Lack of resources can hinder the development of new projects`
-    ? La lluvia dificultó nuestros planes de picnic : `The rain hampered our plans for a picnic`
-    ? El tráfico dificultó mi llegada : `The traffic hampered my arrival`
-
 solucionar, arreglar (situación) = sort out
 
 finalizar algo (lo acaba alguien)
