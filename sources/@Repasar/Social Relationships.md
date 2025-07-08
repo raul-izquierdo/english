@@ -260,6 +260,11 @@ el boca a boca
 
 ## Speaking with Purpose
 
+mantener una conversación
+    = To hold/have a conversation
+        - _keep a conversation going_ sería dar charla para que que la conversación no se detenga
+    ? No soy capaz de mantener una conversación seria : `I'm not able to hold a serious conversation`
+
 asegurar algo
     = ensure (asegurarse, tomando medidas/garantizar)
     ? Para asegurarte de conseguir asiento, deberías reservar con antelación : `To ensure you get a seat, you should book in advance`

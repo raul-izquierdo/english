@@ -69,6 +69,10 @@ juego de palabras
     = pun (juego de palabras)
     ? El chiste era un juego de palabras con "light" : `The joke was a pun on the word "light"`
 
+mantener una conversación
+    = To hold/have a conversation
+        - _keep a conversation going_ sería dar charla para que que la conversación no se detenga
+    ? No soy capaz de mantener una conversación seria : `I'm not able to hold a serious conversation`
 
 ## Emphasizing
 

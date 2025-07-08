@@ -136,3 +136,41 @@ llevarse un susto = get a fright
     ? Parece que ella recibió un buen susto : `It seems she got a good fright`
 dar un susto = to give a fright
     ? Me diste un susto : `You gave me a fright`
+
+## Growing Up. Family and Education
+
+la gente entre 30 y 40 años
+    = people aged between 30 and 40
+    = people in their thirties and forties
+    ? La gente entre 30 y 40 años suele estar muy ocupada : `People aged between 30 and 40 are usually very busy`
+    ? La gente en sus treinta y cuarenta suele estar muy ocupada : `People in their thirties and forties are usually very busy`
+
+cuando maduras = when you grow up
+    ? Cuando madures, entenderás mejor el mundo : `When you grow up, you'll understand the world better`
+
+criar, educar = bring up
+    ? Ellos criaron bien a sus hijos : `They brought up their children well`
+    ? Ella fue criada en una familia estricta : `She was brought up in a strict family`
+
+malcriar = spoil
+    ? Malcriaron a sus hijos : `They spoiled their children`
+    ? Ella malcrió a su perro : `She spoiled her dog`
+
+disciplina = discipline
+    ? La disciplina ha decaído en los últimos años : `Discipline has gone downhill in the last few years`
+
+
+ser obligado
+    = be forced (el más fuerte)
+    = be obliged
+    = be compelled (por convicción o responsabilidad)
+    = be required
+    ? Fue obligado a asistir a la reunión : `He was forced to attend the meeting`
+    ? Se vio obligado a asistir a la reunión : `He was obliged to attend the meeting`
+    ? Se sintió compelido a asistir a la reunión : `He was compelled to attend the meeting`
+    ? Se requiere asistencia para todos los estudiantes : `Attendance is required for all students`
+
+portarse mal = misbehave
+    ? Los niños se portaron mal durante la clase : `The children misbehaved durante la clase`
+portarse bien = behave well
+    ? Los niños se portaron bien durante la clase : `The children behaved well durante la clase`

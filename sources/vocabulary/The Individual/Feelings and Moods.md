@@ -92,6 +92,8 @@ enérgico = energetic
 me causa mucho placer = gives me great pleasure
     ? Me causa mucho placer verte : `It gives me great pleasure to see you`
 
+estar orgulloso = to be proud **of** ..
+    ? Estoy orgulloso de mis logros : `I am proud of my achievements`
 
 ## Anxiety, Nervousness & Stress
 

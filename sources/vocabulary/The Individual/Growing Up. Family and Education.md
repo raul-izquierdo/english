@@ -38,18 +38,19 @@ muchacho = lad (masculino sólo)
     ? Cuando era un muchacho, jugaba al fútbol todos los días : `When I was a lad, I used to play football every day`
 
 los jóvenes
-    = the young people (puede ser en un contexto dado)
-    = the youth (la juventud)
-    ? Los jóvenes en la fiesta lo estaban pasando muy bien : `The young people at the party were having a great time`
+    ! Intercambiables
+    = Young people
+    = The youth (la juventud)
+    ? Los jóvenes son el futuro de nuestra sociedad : `Young people are the future of our society` - `The youth are ...`
+    ? Los jóvenes de la fiesta eran los más ruidosos : `**The** young people at the party were the loudest` (aquí sí usamos _the_ porque es un grupo específico)
     ? La juventud de hoy es muy diferente al pasado : `The youth of today are very different from the past`
-        - creo que se solapan bastante
 
 los  adultos = adults
     ? Los adultos tienen responsabilidades diferentes a los niños : `Adults have different responsibilities than children`
 
 anciano, ancianos
-    = elderly
-    ? Los ancianos son más vulnerables al virus : `The elderly are more vulnerable to the virus`
+    = Elderly people / The elderly
+    ? Los ancianos son más vulnerables al virus : `The elderly are more vulnerable to the virus` - `Elderly people are more vulnerable to the virus`
     ? El anciano caminaba despacio : `The elderly man walked slowly`
 
 El mayor de un grupo
@@ -70,8 +71,6 @@ si tienes entre 10 y 20 años
 ha cumplido x años = has turned x
     ? Ha cumplido 30 este año : `He has turned 30 this year`
 
-cuando maduras = when you grow up
-    ? Cuando madures, entenderás mejor el mundo : `When you grow up, you'll understand the world better`
 
 llegar a una edad = reach an age
     ? Cuando llegue a los 30 años, quiero viajar : `When I reach the age of 30, I want to travel`
@@ -86,14 +85,21 @@ dar a luz = give birth
 
 crecer = grow up
     ? Crecí en un pequeño pueblo : `I grew up in a small village`
+
+madurar = mature (madurar emocional/intelectualmente)
+    - Se puede crecer (_grow up_) y no madurar (_mature_)
+    ? Maduró rápidamente tras la muerte de su padre : `He matured quickly after his father's death`
+    ? Ella maduró hasta convertirse en una adulta responsable : `She matured into a responsible adult`
+    ? Cuando madures, entenderás mejor el mundo : `When you mature, you'll understand the world better`
+
+
 crianza = upbringing
     ? Mi crianza fue muy estricta : `My upbringing was very strict`
 
-madurar = mature
-    ? Maduró rápidamente tras la muerte de su padre : `He matured quickly after his father's death`
-    ? Ella maduró hasta convertirse en una adulta responsable : `She matured into a responsible adult`
+hacerse mayor = grow/get **older**
+    ? A medida que te haces mayor, entiendes muchas cosas : `As you grow older, you understand many things`
 
-envejecer = grow old
+envejecer = grow/get **old**
     ? Todos envejecemos eventualmente : `We all grow old eventually`
 
 morir
@@ -175,7 +181,7 @@ costumbre
 tradiciones (costumbres arraigadas entre generaciones) = traditions
     ? Las tradiciones culturales enriquecen nuestra vida : `Cultural traditions enrich our lives`
 
-adquirir hábitos = pick up
+adquirir hábitos = pick up habits
     ? Adquirí malos hábitos : `I picked up bad habits`
 
 ## Family Relationships
@@ -192,7 +198,6 @@ nieto = grandson/granddaughter/grandchild
 sobrino = nephew/niece (no hay género neutro)
 cuñado = brother-in-law/sister-in-law/ my in-laws
 
-esposo = husband/wife
 suegro = father-in-law/mother-in-law
 
 tío = uncle/aunt
