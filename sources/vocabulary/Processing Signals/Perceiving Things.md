@@ -41,6 +41,11 @@ mirar a tu alrededor
     ? Cuando visites el nuevo museo, asegúrate de mirar bien la galería de arte : `When you visit the new museum, make sure you have a good look round in the art gallery section`
     = look around (US)
 
+
+el ver... = the sight of ...
+    ? El ver la sangre me mareó : `The sight of blood made me feel faint`
+    ? El ver el accidente me impactó : `The sight of the accident shocked me`
+
 al ver ...
     = at the sight of ...
     ? Al ver los resultados, me sorprendí : `At the sight of the results, I was surprised`

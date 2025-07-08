@@ -250,3 +250,31 @@ la intención
     ? La intención es lo que cuenta : `It's the thought that counts` (sí, no usa _intention_, pero así es el dicho en inglés :)
     ? Mi intención es ayudarte : `My intention is to help you`
     ? No tengo intención de ofenderte : `I have no intention of offending you`
+
+## Human Body and Health
+
+receta médica
+    = prescription `I need a prescription for my medication`
+        - OJO: _recipe_ es receta de cocina
+
+catarro = cold `I have a cold`
+
+
+hacer daño
+    = hurt <sbody> (daño físico a alguien)
+    = to harm <sobdy> (dañar, perjudicar a alguien)
+    ? Dañar/perjudicar : `I don't want to harm anyone`
+    = to do harm to <sbody> (f)
+    ? Dañar/perjudicar (formal) : `I don't want to do harm to anyone`
+    ? Sus intenciones eran buenas, pero sus acciones acabaron haciendo más daño que bien : `His intentions were good, but his actions ended up doing more harm than good`
+    = to damage (a objetos)
+    = to do damage to (f)
+    ? Dañar objetos : `I don't want to damage the environment`
+    ? Dañar objetos (formal) : `I don't want to do damage to the environment`
+
+tener buena salud = be in good health `I am in good health`
+
+no estoy en forma = `I am out of shape` - `I am in not fit`
+
+estoy así desde hace dos años = `I have been like this **for** two years`
+no estoy en forma = `I am out of shape` - `I am not fit`

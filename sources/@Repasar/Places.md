@@ -86,9 +86,16 @@ lavar los platos
     = do the washing **up** (i)
     ? No he fregado los platos todavía : `I haven't done the washing-up yet`
 
-recoger la habitación = clear up
+ordenar/recoger la habitación = clear up <lugar>
     ? Recogí el desorden en mi habitación : `I cleared up the mess in my room`
 
+recoger cosas en su sitio (normalmente después de usarlas) = put away <things>
+    ? Por la mañana montamos las mesas en el jardín y por la noche lo recogimos todo : `In the morning we set up the tables in the garden and at night we put everything away`
+
+despejar una zona de cosas = clear away <zona> **of** <objetos>
+    - Puede ser recogiéndolas (_put away_), pero también tirarlas, ... da igual cómo
+    ? Despejamos la mesa para comer : `We cleared the table to eat`
+    ? Despejamos el jardín de mesas y sillas : `We cleared the garden of tables and chairs`
 
 ## Places to Live
 

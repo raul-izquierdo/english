@@ -239,8 +239,16 @@ lavar los platos
 recoger la ropa del suelo = pick up
     ? Recogí la ropa del suelo : `I picked up the clothes from the floor`
 
-recoger la habitación = clear up
+ordenar/recoger la habitación = clear up <lugar>
     ? Recogí el desorden en mi habitación : `I cleared up the mess in my room`
+
+recoger cosas en su sitio (normalmente después de usarlas) = put away <things>
+    ? Por la mañana montamos las mesas en el jardín y por la noche lo recogimos todo : `In the morning we set up the tables in the garden and at night we put everything away`
+
+despejar una zona de cosas = clear away <zona> **of** <objetos>
+    - Puede ser recogiéndolas (_put away_), pero también tirarlas, ... da igual cómo
+    ? Despejamos la mesa para comer : `We cleared the table to eat`
+    ? Despejamos el jardín de mesas y sillas : `We cleared the garden of tables and chairs`
 
 meter la ropa en
     = (poner) put

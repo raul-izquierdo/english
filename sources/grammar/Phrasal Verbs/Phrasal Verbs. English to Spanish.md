@@ -41,6 +41,11 @@ catch up on = ponerse al día `I need to catch up on my reading`
 
 cheer up = animar `I tried to cheer him up by telling him a joke` - `He cheered up when he heard the good news`
 
+## Clear
+
+clear away = despejar de cosas una zona `The workers cleared away the debris after the storm`
+    - Parecido a _put away_, que es más recoger algo y ponerlo en su sitio
+clear up = ordenar/recoger un lugar `I need to clear up my room`
 
 ## Come
 
@@ -268,6 +273,8 @@ put aside
     = separar `Pick up all the shirts and put the dirty ones aside`
     = dejar de lado `He put aside his differences with his colleague`
     = reservar `He put aside some money for a vacation`
+put away = guardar algo en su sitio `He put away the groceries` - `He put away his toys`
+    - _clear away_ es más despejar lo que hay en una zona, no necesariamente guardarlo en su sitio
 put into = invertir (tiempo, dinero, esfuerzo) `He put a lot of time into the project` - `He put a lot of effort into his work`
 put off
     = echar para atrás/desanimar/disuadir; _put <sbody> off <ing|sthing>_ `This would put some people off working with animals` - `What puts me off is that it's on Netflix`

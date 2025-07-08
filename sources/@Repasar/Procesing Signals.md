@@ -129,6 +129,10 @@ mirar, ver, ...
     ? Revisé el documento en busca de errores : `I scanned the document for errors`
     ? Eché un vistazo a la sala en busca de caras conocidas : `I scanned the room for familiar faces`
 
+el ver... = the sight of ...
+    ? El ver la sangre me mareó : `The sight of blood made me feel faint`
+    ? El ver el accidente me impactó : `The sight of the accident shocked me`
+
 notar, detectar
     = notice (darse cuenta de algo en general)
     = spot (ver algo rápidamente o difícil)
