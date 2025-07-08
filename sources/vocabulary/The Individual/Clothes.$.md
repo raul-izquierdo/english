@@ -154,15 +154,21 @@ duradero = guaranteed to last
     ? Estos zapatos están garantizados para durar años : `These shoes are guaranteed to last for years`
 
 
-## Clothes Attributes
+## Clothing Sizes
+
+te queda bien (de talla) = fits
+    ? El vestido te queda como un guante : `The dress fits you perfectly/like a globe`
+
+(prenda) te queda bien/te favorece (aspecto))
+    = suits
+    ? Estas ropas no te quedan bien : `This clothes don’t suit you`
+    ? Le queda bien (de talla), pero no le favorece : `The dress fits you well, but it doesn't suit you`
+    ? Ese vestido te queda realmente bien : `The dress really suits you`
 
 talla
     = size
     ? Necesito una talla más grande : `I need a larger size`
     ? Necesito una talla más pequeña : `I need a smaller size`
-    = fit (talla de ropa)
-    ? El vestido me queda bien : `The dress fits me well`
-    ? El vestido me queda perfectamente : `The dress fits me perfectly`
 
 Cuál es tu talla
     ? ¿Cuál es tu talla? : `What size are you?`

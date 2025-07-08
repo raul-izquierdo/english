@@ -2,16 +2,6 @@
 
 
 
-## Appearance
-
-tiene buen aspecto
-    = looks good (buen aspecto exterior)
-    = looks well (parece sano)
-    ? Tiene buen aspecto (imagen) : `She looks good`
-    ? Está guapa con ese vestido : `She looks good in that dress`
-    ? Tiene mejor aspecto después de las vacaciones (salud) : `She looks well after her vacation`
-
-
 
 
 
@@ -47,6 +37,19 @@ hacerse ilusiones = get my hopes up
     ? Cuando me dijiste eso, me hice ilusiones : `When you told me that, I got my hopes up`
     ? No me hago ilusiones : `I don't get my hopes up`
 
+
+
+## Appearance
+
+tiene buen aspecto
+    = looks good (buen aspecto exterior)
+    = looks well (parece sano)
+    ? Tiene buen aspecto (imagen) : `She looks good`
+    ? Está guapa con ese vestido : `She looks good in that dress`
+    ? Tiene mejor aspecto después de las vacaciones (salud) : `She looks well after her vacation`
+
+
+
 gordo
     = plump (regordete - afectivo)
     ? Es regordete y tiene la cara redonda : `He is plump and has a round face`
@@ -54,3 +57,21 @@ gordo
     ? Tiene sobrepeso y necesita perder peso : `He is overweight and needs to lose weight`
     = fat (negativo)
     ? Tiene un problema de sobrepeso : `He has a weight problem`
+
+ponerse la <prenda> = put on
+    ? Se puso la camisa antes de ir a la reunión : `He put on his shirt before going to the meeting`
+
+quitarse la <prenda>
+    = take off (i)
+    ? Se quitó los zapatos antes de entrar en la casa : `He took off his shoes before entering the house`
+
+un conjunto, la ropa que se lleva puesta  = an outfit
+    ? Llevó un conjunto bonito a la fiesta : `She wore a beautiful outfit to the party`
+
+gorro
+    = beanie (el que yo llevo)
+    = hat (sombrero)
+    = cap (gorra estilo baseball)
+
+duradero = guaranteed to last
+    ? Estos zapatos están garantizados para durar años : `These shoes are guaranteed to last for years`

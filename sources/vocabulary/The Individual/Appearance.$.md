@@ -24,16 +24,6 @@ no tiene buen aspecto (estético)
     ? No es como mejor está : `She is not looking her best`
 
 
-te queda bien (de talla) = fits
-    ? El vestido te queda como un guante : `The dress fits you perfectly/like a globe`
-
-(prenda) te queda bien/te favorece (aspecto))
-    = suits
-    ? Estas ropas no te quedan bien : `This clothes don’t suit you`
-    ? Le queda bien (de talla), pero no le favorece : `The dress fits you well, but it doesn't suit you`
-    ? Ese vestido te queda realmente bien : `The dress really suits you`
-
-
 ## Physical Characteristics
 
 calvo = bald
