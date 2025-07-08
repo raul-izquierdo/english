@@ -178,3 +178,9 @@ me permite/deja, permitió/dejó...
     ? Mi padre no me deja ver ese programa : `My dad DOESN'T LET me watch that programme`
     ? Mi padre no me dejará ver ese programa : `My dad WONT'T LET me watch that programme`
     ? No me fue permitido ver ese programa : `I WASN'T ALLOWED to watch that programme` (no se puede usar _let_ en pasivo)
+
+## Ownership
+
+translate
+    ? ¿De quién son estas zapatillas que se quedaron en el campo de fútbol ayer? : `Whose trainers are these that were left on the football pitch yesterday?` - `Who do these trainers that were left on the football pitch yesterday belong to?`
+    ? Son del chico del parque : `They belong to the boy who left earlier`

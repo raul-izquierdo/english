@@ -19,16 +19,17 @@ El genitivo sajón se usa cuando...
 ## Inquiries about Ownership
 
 ¿De quien es...?
-    = Who does <ob> belong to? `Who does this book belong to?`
-    = Whose <ob> <to be> ...? `Whose book is this?`
+    = Whose <obj> is this [that...]? `Whose book is this?` - `Whose trainers are these?`
+    = Who does <obj> belong to? `Who does this book belong to?`
     ? ¿De quién es este jersey? : `Who does this jumper belong to?` - `Whose jumper is this?`
-    ? ¿De quién son estas zapatillas que se quedaron en el campo de fútbol ayer? : `Who do these trainers that were left on the football pitch yesterday belong to?` - `Whose trainers were left on the football pitch yesterday?`
+    ? ¿De quién son estas zapatillas que se quedaron en el campo de fútbol ayer? : `Whose trainers are these that were left on the football pitch yesterday?` - `Who do these trainers that were left on the football pitch yesterday belong to?`
 
 Es de ...
-    ? Es mío : `It is mine`
+    ? Es mío : `It is mine` - `It belongs to me`
     ? Es de él : `It is his`
     ? Es de ella : `It is hers`
     ? Es nuestro : `It is ours`
     ? Es de ellos : `It is theirs`
     ? Es de mi hermano : `It is my brother's` (genitivo sajón sin poner objeto) - `It belongs to my brother`
-    ? Es del chico de ayer : `It is the boy's from yesterday` - `It belongs to the boy...`
+    ? Son del chico pelirrojo : `They're the redhead boy's` - `They belong to the redhead boy`
+    ? Son del chico del parque : `They belong to the boy who left earlier`
