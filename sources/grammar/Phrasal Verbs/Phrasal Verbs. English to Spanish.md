@@ -48,6 +48,7 @@ come about = sucedió/tuvo lugar/se originó `The meeting came about after a lon
 come across = encontrarse/toparse con (cosas, situaciones - no problemas ni personas) `I came across an old book at the library`
 come along = acompáñanos `Come along to the concert!! It's free`
 come around = come round
+come by = pasarse por `Come by my office later if you want to talk`
 come into = heredar
 come out = salir [a la vista] `The sun came out after the rain` - `The book came out last month` - `The truth will come out eventually`
 come over = pasarse por casa de alguien (venir) `Why don't you come over for a cup of tea?`

@@ -184,3 +184,80 @@ me permite/deja, permitió/dejó...
 translate
     ? ¿De quién son estas zapatillas que se quedaron en el campo de fútbol ayer? : `Whose trainers are these that were left on the football pitch yesterday?` - `Who do these trainers that were left on the football pitch yesterday belong to?`
     ? Son del chico del parque : `They belong to the boy who left earlier`
+
+## Relationships and Social Life
+
+estar casado = to be married **to**
+    ? Estoy casado con Paula : `I am married **to** Paula`
+
+establecer relaciones
+    = form relationships
+    ? Formar relaciones es importante para nuestro bienestar : `Forming relationships is important for our well-being`
+
+caer bien (primera impresión)
+    = hit if off
+    = click
+    ? Nos caímos bien de inmediato : `We hit it off immediately`
+    ? Se cayeron bien en la fiesta : `They hit it off at the party`
+    ? Conectamos enseguida : `We clicked right away`
+    ? Conectaron en la fiesta : `They clicked at the party`
+
+llevarse bien )
+    = get on with
+    ? Me llevo bien con mis compañeros : `I get on well with my colleagues`
+    ? Me llevo bien con mi familia : `I get on with my family`
+    = get along with (equivalente)
+    ? Me llevo bien con mis compañeros : `I get along well with my colleagues`
+    ? Me llevo bien con mi familia : `I get along with my family`
+
+hacer las paces
+    = make up (sí, como maquillar)
+    = make peace (más para países, conflictos grandes)
+    ? Hicieron las paces después de su discusión : `They made up after their argument`
+    ? Ella hizo las paces con su amiga : `She made up with her friend`
+    ? Los dos países finalmente hicieron las paces después de décadas de guerra : `The two countries finally made peace after decades of war`
+
+reunir
+    = to bring ... together (con propósito)
+    ? Reunimos a toda la familia : `We brought the whole family together`
+    ? La música tiene el poder de unir a la gente, independientemente de su origen : `Music has the power to bring people together, regardless of their background`
+    = to gather (reunir sin más)
+    ? Por favor, reúnanse en la sala de estar para la reunión : `Please gather together in the living room for the meeting`
+    ? Necesitamos reunir todos los documentos : `We need to gather together all the documents`
+
+juntarse, reunirse
+    = to get together (cita aunque sea informal)
+    ? Deberíamos juntarnos a cenar algún día : `We should get together for dinner sometime`
+
+(el acto) transcurrió... = went off
+    ? El evento salió bien, sin contratiempos : `The event went off without a hitch`
+    ? La fiesta salió mal : `The party went off badly`
+
+reír
+    = [makes me] laugh
+        - **at** <something> (reirse **de** algo) `He laughed at the joke`
+        - **at** <sbody> (reirse **de** alguien - implica burla) `I laugh at him`
+        - **with** <sbody> (reirse **con** alguien) `I laugh with my friends`
+
+la risa = laughter
+    ? La risa es la mejor medicina : `Laughter is the best medicine`
+    ? Su risa era contagiosa : `Her laughter was contagious`
+
+visitar
+    = visit (más planificado)
+    = come by (más espontáneo, informal, pásate)
+    ? Visité a mis abuelos el fin de semana pasado : `I visited my grandparents last weekend`
+    ? Solo pasé a saludar : `I just came by to say hello`
+
+hacerse popular (moda, dichos, objetos, actividades...) = gain popularity (mas gradual)
+
+
+continua siendo uno de los mas populares
+    = `It remains one of the most popular`
+        - OJO: sin el AS antes the one!!
+
+
+el boca a boca
+    = [through] word of mouth
+    ? El éxito del restaurante se debe al boca a boca : `The restaurant's success is due to word of mouth`
+    ? El producto ganó popularidad por el boca a boca : `The product gained popularity through word of mouth`

@@ -946,10 +946,12 @@ alejarse = move away
     ? Se alejó del fuego : `He moved away from the fire`
     ? Se alejó del borde del acantilado : `He moved away from the edge of the cliff`
 
+pásate por = come by
+    ? Pásate por mi oficina más tarde si quieres hablar : `Come by my office later if you want to talk`
+
 pásate por (mi) casa
-    ! Se podrían usar para otras cosas, pero mejor usar **come** sin más si no es para ir a _casa_
-    ! Se puede decir aunque tú ahora no esté en casa
     = come round/over (pásate por casa)
+        - Añade a _come by_ el que es específico para casa y ser una invitación un punto más familiar
     ? ¿Por qué no vienes a cenar esta noche? : `Why don’t you come over for dinner tonight?`
     ? Mis amigos vienen más tarde : `My friends are coming over later`
     ? Estamos en el bar de la esquina. Pásate y únete : `We're at the pub on the corner. Come and join us` (usar _come_ normal)

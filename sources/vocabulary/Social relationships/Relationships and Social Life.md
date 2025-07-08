@@ -35,9 +35,9 @@ tener novia
     ? Estoy en una relación con ella : `I am in a relationship with her`
     ? Él está en una relación con ella : `He is in a relationship with her`
 
-estar casado = to be married TO
-    ? Estoy casado con Paula : `I am married to Paula`
-    ? Ella está casada con un médico : `She is married to a doctor`
+estar casado = to be married **to**
+    ? Estoy casado con Paula : `I am married **to** Paula`
+    ? Ella está casada con un médico : `She is married **to** a doctor`
 estar divorciado = to be divorced FROM
     ? Estoy divorciado de mi exmarido : `I am divorced from my ex-husband`
     ? Ella está divorciada de su marido : `She is divorced from her husband`
@@ -103,11 +103,18 @@ cariño
     ? Ella tiene mucho cariño por su familia : `She has a lot of affection for her family`
     ? Él mostró cariño por sus amigos : `He showed affection for his friends`
 
-alejarse (figuradamente)
+distanciarse emocionalmente (debido a algo)
     = drift apart (sin motivo)
-    ? Nos hemos distanciado con los años : `We've drifted apart over the years`
     = drive apart (por motivo: discusión, ...)
+    ? Nos hemos distanciado con los años : `We've drifted apart over the years`
     ? La guerra separó a muchas familias : `The war drove many families apart`
+
+se distanció (alguien) de (algo)
+    = to distance <noun> **from** (no especificar porqué)
+    = to move to distance <noun> (más enfático)
+    ? Él se distanció del grupo : `He distanced himself from the group` - `He moved to distance himself from the group`
+    ? Se distanció de las políticas de su partido : `He distanced himself from his party's policies`
+
 
 perder el contacto
     = fall out of touch
@@ -123,48 +130,6 @@ hablarse (y poco más) = to be on speaking terms
 no hablarse = to be not on speaking terms
     ? Después de su discusión, no se hablaron durante meses, pero ahora vuelven a hablar : `After their argument, they weren't on speaking terms for months, but now they are talking again`
     ? No puedo creer que sigamos sin hablarnos después de todo lo que pasó : `I can't believe we're still not on speaking terms after all that happened`
-no llevarse bien = to not get along
-    ? No nos llevamos muy bien : `We don't get along very well`
-    ? No se llevan nada bien : `They don't get along at all`
-
-llevarse bien
-    = get on with
-    ? Me llevo bien con mis compañeros : `I get on well with my colleagues`
-    ? Me llevo bien con mi familia : `I get on with my family`
-    = get along with (equivalente)
-    ? Me llevo bien con mis compañeros : `I get along well with my colleagues`
-    ? Me llevo bien con mi familia : `I get along with my family`
-
-
-discutir
-    = argue
-    ? Discutieron sobre el proyecto : `They argued about the project`
-    ? Discutieron sobre el dinero : `They argued about the money`
-    = fall out with (más fuerte - cese de relación)
-    ? Se pelearon por un malentendido : `They fell out over a misunderstanding`
-    ? Él se peleó con su amigo : `He fell out with his friend`
-
-hacer las paces = make up
-    ? Hicieron las paces después de su discusión : `They made up after their argument`
-    ? Ella hizo las paces con su amiga : `She made up with her friend`
-
-discusión ruidosa, disputa = squabble
-    ? Tuvieron una disputa por el último trozo de pastel : `They had a squabble over the last piece of cake`
-    ? Los niños tuvieron una disputa por el juguete : `The children had a squabble over the toy`
-
-romper relación = break up
-    ? Rompieron después de una larga relación : `They broke up after a long relationship`
-    ? Él rompió con su novia : `He broke up with his girlfriend`
-
-dejó a la novia
-    = ended the relationship with ... (f)
-    = break up with ... (n)
-    = dumped ... (i)
-    ? Él la dejó porque no se llevaban bien : `He dumped her because they didn't get along` - `He ended the relationship with her ...` - `He broke up with her ...`
-
-separar emocionalmente personas (amorosa, amistad, ...)
-    = drive <who> apart
-    ? Vivir en diferentes países separó a la pareja : `Living in different countries drove the couple apart`
 
 caer bien (primera impresión)
     = hit if off
@@ -174,12 +139,48 @@ caer bien (primera impresión)
     ? Conectamos enseguida : `We clicked right away`
     ? Conectaron en la fiesta : `They clicked at the party`
 
-distanciarse (de persona o postura)
-    = to distance <noun> (no especificar porqué)
-    ? Se distanciaron cuando crecieron : `They distanced themselves when they grew up`
-    ? Él se distanció del grupo : `He distanced himself from the group`
-    = to move to distance <noun> (lo hicieron a posta)
-    ? Se alejaron a propósito cuando crecieron : `They moved to distance themselves when they grew up`
+llevarse bien )
+    = get on with
+    ? Me llevo bien con mis compañeros : `I get on well with my colleagues`
+    ? Me llevo bien con mi familia : `I get on with my family`
+    = get along with (equivalente)
+    ? Me llevo bien con mis compañeros : `I get along well with my colleagues`
+    ? Me llevo bien con mi familia : `I get along with my family`
+
+no llevarse bien = to not get along
+    ? No nos llevamos muy bien : `We don't get along very well`
+    ? No se llevan nada bien : `They don't get along at all`
+
+discutir
+    = argue
+    ? Discutieron sobre el proyecto : `They argued about the project`
+    ? Discutieron sobre el dinero : `They argued about the money`
+    = fall out with (más fuerte - cese de relación)
+    ? Se pelearon por un malentendido : `They fell out over a misunderstanding`
+    ? Él se peleó con su amigo : `He fell out with his friend`
+
+hacer las paces
+    = make up (sí, como maquillar)
+    = make peace (más para países, conflictos grandes)
+    ? Hicieron las paces después de su discusión : `They made up after their argument`
+    ? Ella hizo las paces con su amiga : `She made up with her friend`
+    ? Los dos países finalmente hicieron las paces después de décadas de guerra : `The two countries finally made peace after decades of war`
+
+discusión ruidosa, disputa
+    = dispute **over**
+    = squabble **over** (más infantil o sobre cosas poco importantes)
+    ? Tuvieron una disputa por el último trozo de pastel : `They had a squabble **over** the last piece of cake`
+    ? Los niños tuvieron una disputa por el juguete : `The children had a squabble **over** the toy`
+
+romper relación (sin aclarar quién dejó a quien) = break up
+    ? Rompieron después de una larga relación : `They broke up after a long relationship`
+
+dejó a la novia
+    = break up **with** ... (n)
+        - El mismo de antes
+    = ended the relationship with ... (f)
+    ? Él la dejó porque no se llevaban bien : `He ended the relationship with her ...` - `He broke up with her ...`
+
 
 
 ## Gatherings
@@ -219,15 +220,16 @@ quedar
 regalo
     = present (regalo envuelto en celebración)
     ? Le dio un regalo por Navidad : `He gave her a present for Christmas`
-    = gift (vale para todo uso)
+    = gift (vale para todo uso - más común)
     ? El libro fue un buen regalo : `The book was a nice gift`
     ? Él tiene un don natural para cantar : `He has a natural gift for singing`
 
 me regalaron
+    ! No existe "regalar" en ingles, se usa "give as a gift/for my birthday"
     = I was given ... as a gift
+    = They gave me ... as a gift (_present_ no queda bien aquí)
     ? Me regalaron un libro : `I was given a book as a gift`
     ? Me regalaron un teléfono nuevo por mi cumpleaños : `I was given a new phone for my birthday`
-        - No existe "regalar" en ingles, se usa "give as a gift/for my birthday"
 
 apartar/separar a alguien del grupo para algo = take someone aside
     ? Me apartó para hablar del proyecto : `He took me aside to talk about the project`
@@ -266,34 +268,16 @@ el lugar/recinto/sala/espacio = venue
     ? El lugar del evento fue perfecto : `The venue for the event was perfect`
     - para bodas, conciertos, conferencias, party, etc.
 
-hacer un discurso = make a speech
+hacer un discurso = make/give a speech
     ? Hacer un discurso : `make a speech`
 
 ## Having a Good Time
 
-reírse de alguien = laugh at
-    ? Me reí de su chiste : `I laughed at his joke`
-    ? Él se rió de mi error : `He laughed at my mistake`
-    = make fun of (más fuerte)
-    ? Él se burló de mi error : `He made fun of my mistake`
-    ? Ella se burló de su chiste : `She made fun of his joke`
-
-risa = laughter
-    ? La risa es la mejor medicina : `Laughter is the best medicine`
-    ? Su risa era contagiosa : `Her laughter was contagious`
-hacer reír = make <sbody> laugh
-    ? Siempre me hace reír con sus chistes : `He always makes me laugh with his jokes`
-    ? Hizo reír a todos con su historia divertida : `She made everyone laugh with her funny story`
-
-me rio mucho con él
-    = I laugh a lot with him
-    ? Me río mucho con mi hermano : `I laugh a lot with my brother`
-
 reír
     = [makes me] laugh
         - **at** <something> (reirse **de** algo) `He laughed at the joke`
-        - **with** <sbody> (reirse **con** alguien) `I laugh with my friends`
         - **at** <sbody> (reirse **de** alguien - implica burla) `I laugh at him`
+        - **with** <sbody> (reirse **con** alguien) `I laugh with my friends`
     ? Me río mucho con mis amigos : `I laugh a lot with my friends`
     ? Me río de sus chistes : `I laugh at his jokes`
     ? Se rieron de él cuando se cayó : `They laughed at him when he fell over`
@@ -302,6 +286,18 @@ reír
     ? Me río para mis adentros cuando recuerdo una historia graciosa : `I chuckle to myself when I remember a funny story`
     = giggle (reír nerviosamente)
     ? Me río nerviosamente cuando estoy nervioso : `I giggle when I'm nervous`
+
+la risa = laughter
+    ? La risa es la mejor medicina : `Laughter is the best medicine`
+    ? Su risa era contagiosa : `Her laughter was contagious`
+
+hacer reír = make <sbody> laugh
+    ? Siempre me hace reír con sus chistes : `He always makes me laugh with his jokes`
+    ? Hizo reír a todos con su historia divertida : `She made everyone laugh with her funny story`
+
+me rio mucho con él
+    = I laugh a lot with him
+    ? Me río mucho con mi hermano : `I laugh a lot with my brother`
 
 divertido
     = fun (enjoyable - no es que haga reir) `Solving puzzles is fun`
@@ -364,12 +360,6 @@ broma/inocentada = prank
 
 
 ## Spending Time with Others
-
-visitar
-    = visit (más planificado)
-    ? Visité a mis abuelos el fin de semana pasado : `I visited my grandparents last weekend`
-    = come by (más espontáneo, informal, pásate)
-    ? Solo pasé a saludar : `I just came by to say hello`
 
 pasar el rato
     = to hang out
