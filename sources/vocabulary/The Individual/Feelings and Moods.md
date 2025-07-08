@@ -6,6 +6,7 @@
 estado de ánimo, humor, ánimo = mood
     ? Tiene buen/mal ánimo : `He/She is in a good/bad mood`
 
+
 suspiro = sigh
     ? Dejó escapar un suspiro de alivio : `He let out a sigh of relief`
 dar un profundo suspiro = give a deep sigh
@@ -149,11 +150,14 @@ melancólico / sombrío = gloomy
 desanimado
     = discouraged
     ? Se sintió desanimado tras suspender el examen : `He felt discouraged after failing the test`
-    = (de bajón) down `I feel down`
+    = (de bajón) down `I feel down/low`
     ? Últimamente se ha sentido un poco de bajón : `He's been feeling a bit down lately`
+    ? Está un pco desanimado, necesita un poco de ánimo : `He feels a bit down, he needs a bit of a boost`
 
 desanimarse = put off
     ? No te desanimes por las críticas : `Don't be put off by the critics`
+
+necesita un poco de ánimo = `He needs a bit of a boost`
 
 desesperanzado = hopeless
     ? Se sintió desesperanzado tras la noticia : `He felt hopeless after the news`
@@ -448,3 +452,6 @@ no herir los sentimientos de alguien
 procesar/asimilar algo (emocionalmente)
     = to process it
     ? Necesito tiempo para asimilar esta mala noticia : `I need time to process this bad news`
+
+emocionalmente = emotionally
+    ? No se siente bien emocionalmente : `He doesn't feel well emotionally`

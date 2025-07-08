@@ -137,6 +137,9 @@ llevarse un susto = get a fright
 dar un susto = to give a fright
     ? Me diste un susto : `You gave me a fright`
 
+necesita un poco de ánimo = `He needs a bit of a boost`
+    ? Está un pco desanimado, necesita un poco de ánimo : `He feels a bit down, he needs a bit of a boost`
+
 ## Growing Up. Family and Education
 
 la gente entre 30 y 40 años
@@ -212,3 +215,38 @@ No puedo evitar...
     ? No puedo evitarlo : `I can't help it`
     ? No puedo evitar sentirme nervioso antes de hablar en público : `I can't help feeling nervous before speaking in public`
     ? No puedo evitar reírme de sus chistes : `I can't help laughing **at** his jokes`
+
+## How do you Think. Beliefs, Wishes and Hopes
+
+
+objetivo
+    = aim (medible a largo plazo)
+    ? El objetivo del proyecto es aumentar las ventas en un 20% : `The aim of the project is to increase sales by 20%`
+    = goal (medible a medio/corto)
+    ? Su meta es terminar el proyecto para diciembre : `His goal is to finish the project by December`
+    = target (muchas veces en cifras)
+    ? Nuestro objetivo de ventas para este trimestre es de 10,000 unidades : `Our sales target for this quarter is 10,000 units`
+
+pretender, tengo el propósito de
+    ! OJO: NO es "to pretend"; eso es _fingir_ `He pretended to be sick`
+    = to intend
+    = look to (f) (conocer pero no usar)
+    ? Él tenía la intención de ir a la fiesta : `He intended to go to the party`
+    ? Tengo la intención de estudiar en el extranjero el próximo año : `I intend to study abroad next year`
+    ? La empresa busca expandir sus operaciones : `The company looks to expand its operations`
+
+tengo planeado hacer...
+    = plan **on** <ing>
+        - Indica que se han hecho ciertas preparaciones, compromisos, ...
+    ? Planeo ir a la fiesta : `I plan on going to the party`
+    ? Él planea estudiar en el extranjero : `He plans on studying abroad`
+
+no pretendo
+    = don't mean to <base>
+    ? No quise herir tus sentimientos : `I didn't mean to hurt your feelings`
+
+la intención
+    = intention (lo que pretendes hacer - el plan)
+    ? La intención es lo que cuenta : `It's the thought that counts` (sí, no usa _intention_, pero así es el dicho en inglés :)
+    ? Mi intención es ayudarte : `My intention is to help you`
+    ? No tengo intención de ofenderte : `I have no intention of offending you`

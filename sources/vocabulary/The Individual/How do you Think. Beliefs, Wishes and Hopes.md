@@ -1,14 +1,5 @@
 # How do you Think and Beliefs
 
-## Terms
-
-emocionalmente = emotionally
-    ? No se siente bien emocionalmente : `He doesn't feel well emotionally`
-
-ánimo
-    ? Tiene el ánimo bastante bajo : `He is feeling quite low`
-    ? Necesita un poco de ánimo : `He needs a bit of a boost`
-
 ## Beliefs
 
 aferrarse a
@@ -40,9 +31,11 @@ personas con las mismas ideas = `like-minded people`
     ? Personas con las mismas ideas : `like-minded people`
 
 piensan diferente
-    = think differently
-    ? Él piensa diferente sobre el tema : `He thinks differently about the issue`
+    = think [completely] differently
+        - NO olvidar el **...ly** al final
     = have a different opinion
+    ? Ellos piensan completamente diferente : `They think completely differently`
+    ? Él piensa diferente sobre el tema : `He thinks differently about the issue`
     ? Ella tiene una opinión diferente sobre el asunto : `She has a different opinion on the matter`
 
 ## Faith
@@ -65,9 +58,12 @@ la iglesia católica = the Catholic Church
 
 ## Aspirations
 
-objetivo
-    = purpose (propósito - no medible)
+
+propósito
+    = purpose (el objetivo o función de algo)
     ? El propósito de la reunión es discutir el nuevo proyecto : `The purpose of the meeting is to discuss the new project`
+
+objetivo
     = aim (medible a largo plazo)
     ? El objetivo del proyecto es aumentar las ventas en un 20% : `The aim of the project is to increase sales by 20%`
     = goal (medible a medio/corto)
@@ -75,15 +71,17 @@ objetivo
     = target (muchas veces en cifras)
     ? Nuestro objetivo de ventas para este trimestre es de 10,000 unidades : `Our sales target for this quarter is 10,000 units`
 
-pretender
+pretender, tengo el propósito de
+    ! OJO: NO es "to pretend"; eso es _fingir_ `He pretended to be sick`
     = to intend
+    = look to (f) (conocer pero no usar)
     ? Él tenía la intención de ir a la fiesta : `He intended to go to the party`
     ? Tengo la intención de estudiar en el extranjero el próximo año : `I intend to study abroad next year`
-    = look to (más formal)
     ? La empresa busca expandir sus operaciones : `The company looks to expand its operations`
-        - OJO: NO es "to pretend"; eso es _fingir_ `He pretended to be sick`
 
-tener la intención de hacer algo = plan ON <ing>
+tengo planeado hacer...
+    = plan **on** <ing>
+        - Indica que se han hecho ciertas preparaciones, compromisos, ...
     ? Planeo ir a la fiesta : `I plan on going to the party`
     ? Él planea estudiar en el extranjero : `He plans on studying abroad`
 
@@ -91,11 +89,8 @@ no pretendo
     = don't mean to <base>
     ? No quise herir tus sentimientos : `I didn't mean to hurt your feelings`
 
-propósito
-    = purpose (el objetivo o función de algo)
-    ? El propósito de la reunión es discutir el nuevo proyecto : `The purpose of the meeting is to discuss the new project`
-
-intención
-    = intention to (lo que pretendes hacer - el plan)
+la intención
+    = intention (lo que pretendes hacer - el plan)
+    ? La intención es lo que cuenta : `It's the thought that counts` (sí, no usa _intention_, pero así es el dicho en inglés :)
     ? Mi intención es ayudarte : `My intention is to help you`
     ? No tengo intención de ofenderte : `I have no intention of offending you`
