@@ -34,7 +34,7 @@ intimidante, desalentador = daunting
 
 preocupante = worrying
 
-molesto = annoying
+molesta = annoying
 
 tranquilizador = reassuring
     ? La palabras del doctor eran tranquilizadoras : `The doctor's words were reassuring`
@@ -51,6 +51,9 @@ humorístico = humorous `The comedian was humorous`
 humor = humor
     ? Su sentido del humor es contagioso : `His sense of humor is contagious`
 
+turbia = shady
+
+sospechosa = suspicious
 
 ## Describing Quality or Condition
 

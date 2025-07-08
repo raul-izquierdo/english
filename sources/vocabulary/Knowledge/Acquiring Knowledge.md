@@ -16,6 +16,10 @@ tipo de
     ? Hay diferentes tipos de bacterias : `There are different types of bacteria`
     ? ¿Qué tipo de música te gusta? : `What kind of music do you like?`
 
+estar al tanto = to be aware of
+    ? Estoy al tanto de los últimos acontecimientos : `I'm aware of the latest events`
+    ? Ella está al tanto de las noticias : `She is aware of the news`
+
 ## Studying
 
 estudiar = study

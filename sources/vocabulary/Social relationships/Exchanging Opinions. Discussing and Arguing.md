@@ -6,7 +6,11 @@
 establecer el contexto = set the context
     ? Hay que establecer el contexto de la situación : `We need to set the context of the situation`
 
-tema polémico = controversial topic
+asunto = matter
+    ? Peter está al tanto de los asuntos actuales : `Peter is aware of current matters`
+
+tema polémico = controversial topic/subject/matter
+
 
 ## General Agreement
 
@@ -16,14 +20,14 @@ Existe un consenso en que...
 
 Hoy en dia, la mayoría de la gente cree que...
     = Nowadays, most people share the view that...
-    ? Hoy en día, la mayoría de la gente cree que Sanchez es un sinvergüenza : `Nowadays, most people share the view that Sanchez is a rogue`
+    ? Hoy en día, la mayoría de la gente cree que Peter es un sinvergüenza : `Nowadays, most people share the view that Peter is a rogue`
 
 Se dice que... = It is said that...
 
 ## Mixed Opinions
 
 Aunque algunos afirman que.... otros, sin embargo, creen que... (50% de acuerdo)
-    = While some people argue that..., others, however, believe that...
+    = While\Although some people argue that..., others, however, believe that...
 
 Aunque la mayoría de la gente cree que... algunos, sin embargo, piensan que... (70/30 de acuerdo)
     = Although most people believe that ... some, however, think that...
@@ -33,12 +37,12 @@ cada vez hay más gente que...
     ? Cada vez hay más gente que apoya las energías nucleares : `More and more people are in favour of nuclear energy`
 
 
-defensores de esta postura
+para referirse a los 'defensores de esta postura'
     = Those who agree with this view/point
     = Those who hold this view
     = supporters of this view/point
 
-contrarios a esta postura = opponents of this view/point
+para referirse a los 'contrarios a esta postura' = opponents of this view/point
 
 
 ## Asking Opinions
@@ -83,7 +87,8 @@ dando opinion con seguridad
     ? Yo diría que la película fue un éxito : `I'd say that the film was a success`
     ? Desde mi punto de vista, la nueva política es una buena idea : `From my point of view, the new policy is a good idea`
 
-inclinarse por algo = lean towards
+inclinarse por algo = lean towards <ing>
+    ? Me inclino por comer fuera : `I lean towards eating out`
     ? Me inclino por la idea de ir a la playa : `I lean towards the idea of going to the beach`
     ? Me inclino por el vestido rojo : `I lean towards the red dress`
 
@@ -92,10 +97,6 @@ estar a favor de = in favour OF
 
 estar en contra de = to be against <sthing> / <sbody> <ing>
     ? Estoy en contra de que él lo haga : `I'm against him doing it`
-
-otra ventaja/desventaja es que...
-    = Another advantage/disadvantage is that...
-    = A **further** advantage/criticism of... (f)
 
 ni siquiera creo que ... = I don't even think [that] ...
     ? Ni siquiera creo que haya una palabra para eso : `I don't even think there's a word for it`
@@ -108,7 +109,7 @@ son prueba de que = are evidence OF
 
 ## Clarifying Concepts
 
-desde un punto de vista x = from x a point of view
+desde un punto de vista <x> = from a <x> point of view
     ? Desde un punto de vista práctico, la solución es efectiva : `From a practical point of view, the solution is effective`
     ? Desde un punto de vista ético, ... : `From an ethical point of view, ...`
     ? Desde un punto de vista estético, ... : `From an aesthetic point of view, ...`
@@ -125,17 +126,18 @@ por ejemplo
     ? Hay muchas formas de ahorrar dinero; por ejemplo, puedes dejar de comer fuera : `There are many ways to save money; for instance, you can cut down on eating out`
 
 dicho de otra manera, ...
-    = In other words, ...
-    = [Let me/Well, to] put it another way, ...
+    = to put it another way, ... (más común)
         - Puede ser _another way_ (de otra manera) o _this way_ (de esta manera)
+    = In other words, ...
     ? Los beneficios de la compañía han disminuido ligeramente. Dicho de otra manera, no estamos ganando tanto como el año pasado : `The company's profits have decreased slightly. To put it another way, we're not making as much money as last year`
     ? A ver, dicho de otra manera, creo que es más importante la salud que el dinero : `Let me put it another way, I think health is more important than money`
 
 o, mejor dicho, ...
     ! JAMAS _better said_ No existe!!!
-    = ..., or rather, ...
+    = ..., or rather, ...  (más común)
     = or, to put it better, ...
     ? Me gusta la playa, o mejor dicho, la amo : `I like the beach, or rather, I love it`
+    ? Ella es mi colega, o mejor dicho, solía serlo : `She’s my colleague — or rather, she used to be`
 
 es x, más bien
     = it's X, rather
@@ -173,14 +175,21 @@ no hay duda
     = There's no doubt about that
 
 estoy de acuerdo parcialmente
+    ! _I partially agree_ no suena natural
     = I agree with you up to a point
 
 estoy de acuerdo en casi todo, excepto en...
-    = I agree with you on most things, except for...
+    = I agree with you **on most things, except for**...
 
-reconozco que (f)
-    = I reckon that (i)
-    ? Reconozco que la nueva política es una buena idea : `I reckon that the new policy is a good idea`
+considero que (creo que)
+    = I reckon that (i) (creo que)
+    = I consider that (f)
+        - Nota, han salido otros usos de _consider_. Aquí es "creer", en otros es "ser considerado como"
+    ? Yo considero que la nueva política es una buena idea : `I reckon that the new policy is a good idea`
+
+admito que (implica cesión - vale, pulpo)
+    = I admit that (implica cesión - vale, pulpo)
+    ? Está bien, admito que la nueva política es una buena idea : `Okay, I admit that the new policy is a good idea`
 
 ## Disagreeing
 
@@ -198,6 +207,15 @@ creo que no siempre es así
 
 me niego a ... = `I refuse to believe that ...`
 
+me mantengo en mi opinión
+    = I stand by my opinion
+    = I stick to my guns (me mantengo en mis trece)
+    ? Mi jefe nunca cambia de opinión. Se mantiene en sus trece, incluso cuando está equivocado : `My boss never changes his mind. He sticks to his guns, even when he's wrong`
+    ? A pesar de eso que dices, me mantengo en mis trece : `Despite what you say, I'm sticking to my guns` ... `I stand by my opinion`
+
+cada uno tenemos nuestra opinión
+    = We can agree to disagree
+
 ## Managing a Discussion
 
 Empecemos con ...
@@ -205,12 +223,12 @@ Empecemos con ...
 
 ¿Pasamos al siguiente punto?
     = Shall we move on to the next point?
+Pasemos ahora a ...
+    = Now let's move on to ...
 
 Hablemos ahora de ...
     = Now, let's talk about ...
 
-Pasemos ahora a ...
-    = Now let's move on to ...
 
 ¿Quieres añadir algo más? Tenemos que completar el tiempo
     = Do you want to add anything else? We need to fill the time
@@ -229,48 +247,32 @@ tratar un tema
     ? Trató los problemas de uno en uno : `He dealt with the problems one by one`
     ? Incluyó dicho tema en su presentación : `He covered that topic in his presentation`
 
-## Ending a Discussion
-
-me mantengo en mi opinión
-    = I stand by my opinion
-    = I stick to my guns (me mantengo en mis trece)
-    ? Mi jefe nunca cambia de opinión. Se mantiene en sus trece, incluso cuando está equivocado : `My boss never changes his mind. He sticks to his guns, even when he's wrong`
-    ? A pesar de eso que dices, me mantengo en mis trece : `Despite what you say, I'm sticking to my guns` ... `I stand by my opinion`
-
-cada uno tenemos nuestra opinión
-    = We can agree to disagree
-
-Así que los dos estamos de acuerdo
-    = So we both agree, don't we?
-
 
 ## Agreement and Disagreement
 
-todos estaremos de acuerdo en que
+todos estaremos de acuerdo en que...
     = we can all agree that
     ? Todos estaremos de acuerdo en que la nueva política es una buena idea : `... the new policy is a good idea`
 
 Yo <expr> 🠢  Yo también!
     = Me too
-    ? Me gusta el chocolate : `I like chocolate 🠢 Me too`
-    = (en general)  I <expr> 🠢 So do I
-    ? Me gusta el chocolate : `I like chocolate 🠢 So do I`
-    = (con auxiliares be/have/can/should/must/will/would) I <aux> 🠢 So <aux> I
-    ? Sé nadar : `I can swim 🠢 So can I`
-    ? Iría : `I would go 🠢 So would I`
-    ? Tengo hambre : `I'm hungry 🠢 So am I`
-        - RULE: In 'so X I', X must match the auxiliary verb used in the original statement. If it doesn't use an auxiliary (like "I like coffee"), then "do/does/did" is used
+    ? I like chocolate : `Me too` - `So do I`
+    = (con auxiliares be/have/can/should/must/will/would) **I** <aux> 🠢 **So** <aux> **I**
+    = (sin auxiliares)  I <expr> 🠢 So do I
+        - In 'so X I', X must match the auxiliary verb used in the original statement. If it doesn't use an auxiliary then "do" is used
+    ? I can swim : `So can I`
+    ? I would go : `So would I`
+    ? I'm hungry : `So am I`
 
 Yo no <expr> 🠢  Yo tampoco!
     = Me neither
-    ? No me gusta el chocolate : `I don't like chocolate 🠢 Me neither`
-    = (en general)  I don't <expr> 🠢 Neither do I
-    ? No me gusta el chocolate : `I don't like chocolate 🠢 Neither do I`
     = (con auxiliares be/have/can/should/must/will/would) I <aux> 🠢 So <aux> I
-    ? No sé nadar : `I can't swim 🠢 Neither can I`
-    ? No iría : `I wouldn't go 🠢 Neither would I`
-    ? No tengo hambre : `I'm not hungry 🠢 Neither am I`
         - RULE: La misma que antes, pero pasando de negativo a positivo
+    = (sin auxiliares)  I don't <expr> 🠢 Neither do I
+    ? I don't like chocolate : `Me neither` - `Neither do I`
+    ? I can't swim : `Neither can I`
+    ? I wouldn't go : `Neither would I`
+    ? I'm not hungry : `Neither am I`
 
 discutir sobre...
     = discuss (hablar/tratar un tema, no necesariamente en desacuerdo)
@@ -290,3 +292,8 @@ acordar que, llegar al acuerdo de
     = agree TO <sthing> (acuerdo de hacer algo)
     ? Acordamos vernos a las 5pm : `We agreed to meet at 5pm`
     ? ¿Podemos acordar hacerlo de esta manera? : `Can we agree to do it this way?`
+
+Así que los dos estamos de acuerdo
+    = So we both agree, don't we?
+
+Parece que hemos alcanzado un acuerdo = It seems we have reached an agreement
