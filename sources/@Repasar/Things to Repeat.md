@@ -193,6 +193,8 @@ buscar en Internet
 
 ## Time and Moments
 
+mediodía = noon
+
 dedicar/pasar tiempo
     = spend time ON <thing>
     = spend time IN <place>

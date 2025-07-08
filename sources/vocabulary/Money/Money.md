@@ -61,6 +61,10 @@ invertir
     ? Invertí en la bolsa : `I invested in the stock market`
     ? Puse dinero en una cuenta de ahorros : `I put money into a savings account`
 
+acciones (de una compañía)
+    = shares (UK)
+    = stocks ($)
+
 mantenerse por sí mismo = pay his own way
     ? Él se mantiene por sí mismo : `He pays his own way`
 

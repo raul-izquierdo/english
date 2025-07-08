@@ -261,3 +261,46 @@ el boca a boca
     = [through] word of mouth
     ? El éxito del restaurante se debe al boca a boca : `The restaurant's success is due to word of mouth`
     ? El producto ganó popularidad por el boca a boca : `The product gained popularity through word of mouth`
+
+
+## Speaking with Purpose
+
+asegurar algo
+    = ensure (asegurarse, tomando medidas/garantizar)
+    ? Para asegurarte de conseguir asiento, deberías reservar con antelación : `To ensure you get a seat, you should book in advance`
+    ? Por favor, asegúrate de que todas las puertas estén cerradas : `Please ensure that all the doors are locked`
+    = assure (prometer/tranquilizar)
+    ? Te aseguro que todo saldrá bien : `I assure you that everything will be alright`
+    ? Ella le aseguró su apoyo : `She assured him of her support`
+    = make sure (ensure informal)
+    ? Me aseguro de que el proyecto se complete a tiempo : `I make sure that the project is completed on time`
+    ? Me aseguro de que el producto sea seguro : `I make sure that the product is safe`
+
+reconocer un mérito
+    = recognize <sthing>
+    ? El comité reconoció sus años de servicio con un premio : `The committee recognized her years of service with an award`
+
+aceptar consejo = take advice
+    ? Deberías aceptar su consejo : `You should take his advice`
+
+es recomendable
+    = is recommended (neutro)
+
+no te equivocarás = you can't go wrong **in** <ing>
+    ? No te equivocarás al elegir un traje negro clásico para eventos formales : `You can't go far wrong **in** choosing a classic black suit for formal events`
+
+ten cuidado con
+    = beware of <ing|thing>
+    = be careful with (tener cuidado al hacer tarea)
+    ? Ten cuidado con el perro : `Beware of the dog`
+
+echar en cara = hold it against asbody>
+    ? No te lo tendré en cuenta si no vienes : `I won't hold it against you if you don't come`
+    ? No te lo tendré en cuenta si cometes un error : `I won't hold it against you if you make a mistake`
+
+aceptar la culpa = take the blame
+    ? No quiero asumir la culpa por esto : `I don't want to take the blame for this`
+    ? Él asumió la culpa por el error : `He took the blame for the mistake`
+
+la culpa es de = It's <sbody> fault
+    ? La culpa es de Elsa : `It's Elsa's fault`

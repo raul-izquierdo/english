@@ -55,9 +55,9 @@ afirmar
         - También se utilizar para "quejarse" `He claimed that the food was cold`
     = state (el más formal)
     ? Él declaró que era inocente : `He stated that he was innocent`
-    ? Se quejó the que la comida estaba fría : `He claimed that the food was cold`
+    ? Se quejó de que la comida estaba fría : `He claimed that the food was cold`
 
-como lo diría un nativo = how a native would express it
+cómo lo diría un nativo = how a native would express it
     ? Quiero saber cómo lo expresaría un nativo : `I want to know how a native would express this idea`
 
 mencionado = mentioned
@@ -94,12 +94,6 @@ señalar algo, hacer notar algo (make them aware of)
 insistir = insist ON <ing/sthing>
     ? Él insistió en ir a la fiesta : `He insisted on going to the party`
 
-excepcional, sobresaliente
-    = outstanding (excelencia)
-    ? La actuación fue sobresaliente : `The performance was outstanding`
-    = exceptional (fuera de la norma)
-    ? La actuación fue excepcional : `The performance was exceptional`
-
 cumple un papel importante = play an important role
     ? Él cumple un papel importante en el proyecto : `He plays an important role in the project`
 
@@ -129,23 +123,23 @@ asegurar algo
     ? Me aseguro de que el proyecto se complete a tiempo : `I make sure that the project is completed on time`
     ? Me aseguro de que el producto sea seguro : `I make sure that the product is safe`
 
+hacer trampas = to cheat
+
 engañar
-    = trick (engaño menor o broma)
+    = cheat (con trampas)
+    = trick (con ingenio)
+    = fool (burlar - explotando credulidad)
+    = deceive (engaño mayor y formal)
     ? Me engañó haciéndome creer que era mi cumpleaños : `He tricked me into thinking it was my birthday`
-    = fool (intermedio)
     ? Me engañó haciéndome creer que era millonario : `He fooled me into thinking he was a millionaire`
-    = deceive (engaño mayor)
     ? Él la engañó para que invirtiera todo su dinero en una empresa falsa : `He deceived her into investing all her money in a fake company`
 
-engaño
-    = deception
+el engaño
+    = the trick (un truco, un engaño ingenioso)
+    = the deception
     ? El engaño se emplea a menudo en la publicidad : `Deception is often employed in advertising`
     ? Los trucos del mago se basan en el engaño : `The magician's tricks rely on clever deception`
-        - más ligero
-    = deceit
-    ? Todo su negocio se basaba en el engaño : `His entire business was built on deceit`
-    ? El engaño del político hizo que la confianza pública se derrumbara : `The politician's deceit caused public trust to collapse`
-        - often implies a deeper level of dishonesty and is usually associated with harmful or morally wrong intentions
+    ? El engaño del político hizo que la confianza pública se derrumbara : `The politician's deception caused public trust to collapse`
 
 ## Congratulating
 
@@ -174,9 +168,13 @@ valorar
     ? Valoro tu amistad : `I value your friendship`
 
 hacer un cumplido
-    = compliment
-    ? Él le hizo un cumplido sobre su vestido : `He complimented her on her dress`
-    ? Ella recibió muchos cumplidos por su actuación : `She received many compliments on her performance`
+    = compliment sbody> **on** ...
+    = to pay <sbody> a compliment **on** ...
+    ? Él le hizo un cumplido sobre su vestido : `He paid her a compliment **on** her new dress` - `He complimented her **on** her new dress`
+
+
+un cumplido = compliment
+    ? Ella recibió muchos cumplidos por su actuación : `She received many compliments **on** her performance`
 
 reconocer un mérito
     = recognize <sthing>
@@ -295,13 +293,12 @@ es recomendable
     ? Se recomienda que tomes un descanso cada hora : `It is recommended that you take a break every hour`
     = is to be recommended (f)
     ? Se recomienda que tomes un descanso cada hora : `It is to be recommended that you take a break every hour`
-no te equivocarás = you can't go FAR wrong in <ing>
-    ? No te equivocarás al elegir un traje negro clásico para eventos formales : `You can't go far wrong in choosing a classic black suit for formal events`
+no te equivocarás = you can't go wrong **in** <ing>
+    ? No te equivocarás al elegir un traje negro clásico para eventos formales : `You can't go far wrong **in** choosing a classic black suit for formal events`
 
-Deberías probarlo = You should give it a try
+Deberías probarlo = You should give it a try/go
 Vale la pena intentarlo = It’s definitely worth trying
 No te arrepentirás = You won’t regret it!
-Te recomiendo que lo pruebes = I highly recommend giving it a go
 
 ## Warning
 
@@ -327,7 +324,7 @@ mejor que no... (avisar sobre consecuencias negativas)
     ? Mejor que no lo comamos. Podría ser venenoso : `We'D BETTER NOT EAT it. It might be poisonous`
 
 
-cuidado con
+ten cuidado con
     = beware of <ing|thing>
     ? Ten cuidado con el perro : `Beware of the dog`
     ? Ten cuidado de no pasar demasiado tiempo sentado : `Beware of spending too long sitting`
@@ -346,15 +343,7 @@ quejarse = complain [TO <sbody>] ABOUT <sthing>
     ? Se quejó con su jefe por el ruido : `He complained to his boss about the noise`
 quejas = complaints
 
-criticar
-    = criticize [<sbody>] FOR <ing/sthing>
-    ? Él criticó a su hermano por romper el jarrón : `He criticized his brother for breaking the vase`
-
-crítica = criticism
-    ? La crítica fue dura : `The criticism was harsh`
-    ? La crítica fue constructiva : `The criticism was constructive`
-
-echar en cara = hold it against
+echar en cara = hold it against asbody>
     ? No te lo tendré en cuenta si no vienes : `I won't hold it against you if you don't come`
     ? No te lo tendré en cuenta si cometes un error : `I won't hold it against you if you make a mistake`
 
@@ -380,7 +369,7 @@ convencer, persuadir
     ? Él me convenció de que ir al gimnasio era una buena idea : `He convinced me that going to the gym was a good idea`
         - _convince_ es más fuerte que _persuade_ y _talk into_ (más informal)
 
-hacer caso
+tomar nota de
     = take notice of
     ? Deberías prestar atención a las señales de advertencia : `You should take notice of the warning signs`
     ? Presté atención a los cambios en el clima : `I took notice of the changes in the weather`
@@ -392,11 +381,15 @@ concienciar
     = raise awareness
     ? La campaña tiene como objetivo concienciar sobre el cambio climático : `The campaign aims to raise awareness about climate change`
 
-cautivar = hold me in thrall
-    ? El libro me cautivó desde la primera página : `The book held me in thrall from the first page`
+cautivar
+    = to captivate
+    = hold me in thrall
+    ? El libro me cautivó desde la primera página : `The book held me in thrall from the first page` - `The book captivated me from ...e`
     ? Su belleza me cautivó : `Her beauty held me in thrall`
 
-presionar = put pressure on
+presionar
+    = to press
+    = to put pressure on
     ? Él me presionó para terminar el proyecto : `He put pressure on me to finish the project`
     ? Ella lo presionó para tomar una decisión : `She put pressure on him to make a decision`
 
@@ -451,14 +444,14 @@ la culpa es de = It's <sbody> fault
     ? ¿Quién es el culpable del accidente? : `Who is to blame FOR the accident?`
 
 son los culpables
-    = are to blame for
-    ? La policía dice que los criminales son los culpables del aumento de la delincuencia : `The police say the criminals are to blame for the increase in crime`
-    = are the ones to blame for
-    ? La policía dice que los criminales son los culpables del aumento de la delincuencia : `The police say the criminals are to blame for the increase in crime`
+    = are to blame **for**
+    ? La policía dice que los criminales son los culpables del aumento de la delincuencia : `The police say the criminals are to blame **for** the increase in crime`
+    = are the ones to blame **for**
+    ? La policía dice que los criminales son los culpables del aumento de la delincuencia : `The police say the criminals are to blame **for** the increase in crime`
 
 son los responsables de
-    = are responsible for
-    ? La policía dice que los criminales son responsables del aumento de la delincuencia : `The police say the criminals are responsible for the increase in crime`
+    = are responsible **for**
+    ? La policía dice que los criminales son responsables del aumento de la delincuencia : `The police say the criminals are responsible **for** the increase in crime`
 
 disculparse
     = apologize [TO <sbody>] FOR <ing>
