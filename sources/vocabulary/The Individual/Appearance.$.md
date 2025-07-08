@@ -54,7 +54,7 @@ expresivo = expressive
 pálida = pale
     ? Tiene la cara pálida : `She has a pale face`
 
-complexion = tez (aspecto de piel)
+tez (aspecto de piel) = complexion
     ? Se cuida la piel y su tez lo refleja : `She takes good care of her skin, and her complexion reflects that`
 
 gordo
@@ -63,6 +63,7 @@ gordo
     = overweight
     ? Tiene sobrepeso y necesita perder peso : `He is overweight and needs to lose weight`
     = fat (negativo)
+    ? Tiene un problema de sobrepeso : `He has a weight problem`
 
 delgado
     = slim (delgado pero en forma)

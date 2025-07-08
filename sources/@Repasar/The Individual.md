@@ -2,6 +2,15 @@
 
 
 
+## Appearance
+
+tiene buen aspecto
+    = looks good (buen aspecto exterior)
+    = looks well (parece sano)
+    ? Tiene buen aspecto (imagen) : `She looks good`
+    ? Está guapa con ese vestido : `She looks good in that dress`
+    ? Tiene mejor aspecto después de las vacaciones (salud) : `She looks well after her vacation`
+
 
 
 
@@ -37,3 +46,11 @@ deseos
 hacerse ilusiones = get my hopes up
     ? Cuando me dijiste eso, me hice ilusiones : `When you told me that, I got my hopes up`
     ? No me hago ilusiones : `I don't get my hopes up`
+
+gordo
+    = plump (regordete - afectivo)
+    ? Es regordete y tiene la cara redonda : `He is plump and has a round face`
+    = overweight
+    ? Tiene sobrepeso y necesita perder peso : `He is overweight and needs to lose weight`
+    = fat (negativo)
+    ? Tiene un problema de sobrepeso : `He has a weight problem`
