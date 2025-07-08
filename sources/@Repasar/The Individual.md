@@ -174,3 +174,41 @@ portarse mal = misbehave
     ? Los niños se portaron mal durante la clase : `The children misbehaved durante la clase`
 portarse bien = behave well
     ? Los niños se portaron bien durante la clase : `The children behaved well durante la clase`
+
+## How do you Act. Behaviour and Personality
+
+convertirse/transformar en
+    = become (más gradual - formal)
+    ? Se convirtió en médico tras años de estudio : `He became a doctor after years of study`
+    = turn into (cambio observable - informal)
+    ? La oruga se convirtió en mariposa : `The caterpillar turned into a butterfly`
+    ? El agua se convirtió en hielo : `The water turned into ice`
+
+forma de ser
+    = personality (más externo)
+    ? Su personalidad es muy amigable : `Her personality is very friendly`
+    = character (más interno)
+    ? Su carácter es muy fuerte : `His character is very strong`
+    ? Su carácter es muy amable : `Her character is very kind`
+
+tranquilo = easy-going
+    ? Es tranquilo y no se estresa fácilmente : `He is easy-going and doesn't get stressed easily`
+    ? Ella es tranquila y se deja llevar : `She is easy-going and goes with the flow`
+
+hablador = talkative
+    ? Es hablador y le encanta charlar : `He is talkative and loves to chat`
+    ? Ella es habladora y disfruta de las conversaciones : `She is talkative and enjoys conversations`
+
+reacio
+    = reluctant (tirando a dudoso)
+    ? Estaba reacio a ayudar : `He was reluctant to help`
+    = unwilling (más firme)
+    ? No estaba dispuesto a ayudar : `He was unwilling to help`
+
+No puedo evitar...
+    = I can't help <ing>
+    - `I can't avoid ...` se entendería, pero es más natural lo anterior
+    ? No puedo evitar distraerme : `I can't help getting distracted`
+    ? No puedo evitarlo : `I can't help it`
+    ? No puedo evitar sentirme nervioso antes de hablar en público : `I can't help feeling nervous before speaking in public`
+    ? No puedo evitar reírme de sus chistes : `I can't help laughing **at** his jokes`

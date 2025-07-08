@@ -387,3 +387,6 @@ ever vs never
 El tiempo pasa rápido cuando...
     = time flies when...
    ? El tiempo pasa rápido cuando te diviertes : `Time flies when you're having fun`
+
+estar haciendo el tonto/perdiendo el tiempo = to be messing about/around
+    ? Sólo estaba perdiendo el tiempo : `I was just messing around`

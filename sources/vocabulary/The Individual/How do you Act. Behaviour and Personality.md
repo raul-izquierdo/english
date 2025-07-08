@@ -30,7 +30,7 @@ tradicional = traditional
 
 estable
     = stable (improbable que cambie)
-    ? El puente es estable, así que es seguro cruzar : `The bridge is stable, so it's safe to cross`
+    ? Tengo una vida estable : `I have a stable life`
 
 desordenado
     = untidy (ligeramente)
@@ -41,18 +41,38 @@ desordenado
 
 ## Describing Behaviors in the Present
 
-costumbre = habit
+costumbre
+    ! En español usamos _costumbre_ para dos cosas distintas en inglés:
+    = habit (algo que se hace a menudo automáticamente)
+    = way (costumbres - **formas** de hacer las cosas)
+    ? Es una mala costumbre interrumpir a la gente : `It's a bad **habit** to interrupt people`
+    ? Tengo la costumbre de leer antes de dormir : `I have the **habit** of reading before bed`
+    ? En mi casa tenemos nuestras propias costumbres : `In my house, we have our own ways`
+    ? Cuando eres mayor, es difícil cambiar tus costumbres : `When you are older, it's hard to change your ways`
+    ? Él tiene su propia forma de hacer las cosas : `He's got his own way of doing things`
+    ? Las viejas costumbres están desapareciendo lentamente : `The old ways are slowly disappearing`
+
+acostumbrarse gradualmente
+    = to ease into
+    ? Me iré acostumbrando gradualmente al nuevo trabajo : `I will ease into the new job`
+    ? Deberías acostumbrarte gradualmente a la rutina de ejercicios : `You should ease yourself into the exercise routine`
+
+tradiciones (costumbres arraigadas entre generaciones) = traditions
+    ? Las tradiciones culturales enriquecen nuestra vida : `Cultural traditions enrich our lives`
+
+adquirir hábitos = pick up habits
+    ? Adquirí malos hábitos : `I picked up bad habits`
 
 suelo/normalmente... (en el presente)
-    ! No usar nunca _I use to_. Sólo se usa la forma _I useD to_, y es para HB en el pasado (nunca en el presente)
-    = <sbody> <adverb> <base> (usually, normally, often, sometimes, always, never...)
+    ! No usar nunca **I use to**. Sólo se usa la forma **I useD to**, y es para el pasado (nunca en el presente)
+    = I (usually, normally, often, sometimes, always, never...) <base>
     = tend to <base>
     ? Suelo comer fruta todos los días : `I usually eat fruit every day` - `I tend to eat fruit every day`
     ? En mi casa solemos cenar a las 8 PM : `In my house we usually eat dinner at 8 PM`
 
 
 Yo solía... (en el pasado)
-    == I used to <base> (ahora ya no se hace)
+    = I used to <base> (ahora ya no se hace)
     = I <past> (no indica nada sobre el presente)
     ? Yo jugaba al fútbol cuando era niño (ya no) : `I used to play football when I was a child`
     ? Yo jugaba al fútbol cuando era niño (no indica nada sobre el presente) : `I played football when I was a child`
@@ -63,54 +83,39 @@ Nunca lo he hecho en toda mi vida = `I've never done it in my whole life`
 
 ## Judging Behaviors
 
-es raro que, no es habitual que...
+es/era raro que, no es habitual que...
     = It is <adj> FOR <subject> TO <base>
         - adj: [un]usual, rare, [un]common, normal...
     ? Es raro que él beba cerveza : `It's rare for him to drink beer`
-    ? No es habitual que él beba cerveza : `It's unusual for him to drink beer`
-
-era raro que, no era habitual que ... (en alterior en pasado)
-    = Igual pero en pasado: It was <adj> FOR <subject> TO <base>
     ? Era raro que él bebiera cerveza : `It was rare for him to drink beer`
+    ? No es habitual que él beba cerveza : `It's unusual for him to drink beer`
     ? No era habitual que él bebiera cerveza : `It was unusual for him to drink beer`
-
-será raro que, no será habitual que ... (en futuro)
-    = Igual pero en futuro: It will be <adj> FOR <subject> TO <base>
-    ? Será raro que él beba cerveza : `It will be rare for him to drink beer`
-    ? No será habitual que él beba cerveza : `It will be unusual for him to drink beer`
 
 no es propio de él...
     = It's not like him to <base>
     ? No es propio de él beber cerveza : `It's not like him to drink beer`
-
-no era propio de él... (en pasado)
-    = It wasn't like him to <base>
     ? No era propio de él beber cerveza : `It wasn't like him to drink beer`
-
-no será propio de él... (en futuro)
-    = It won't be like him to <base>
-    ? No será propio de él beber cerveza : `It won't be like him to drink beer`
 
 ## Changing Behaviors
 
-convertirse en
+convertirse/transformar en
     = become (más gradual - formal)
     ? Se convirtió en médico tras años de estudio : `He became a doctor after years of study`
     = turn into (cambio observable - informal)
     ? La oruga se convirtió en mariposa : `The caterpillar turned into a butterfly`
     ? El agua se convirtió en hielo : `The water turned into ice`
 
-se está <adjetivo>
+se está haciendo ...
     = getting <adjetivo>
     ? Se está haciendo viejo : `He is getting old`
     ? Se está haciendo tarde : `It's getting late`
     ? Se está cansando : `He is getting tired`
     ? Se está enfadando : `He is getting angry`
 
-hacerse x
+hacerse x (cambiar de estilo de vida)
     = become
-    ? Me convertí en profesor a los 22 años : `I became a teacher at 22 years old`
     = go <estilo de vida>
+    ? Me convertí en profesor a los 22 años : `I became a teacher at 22 years old`
     ? Me hice vegano : `I went vegan`
 
 permanece/sigue siendo igual (persona o situación)
@@ -118,11 +123,6 @@ permanece/sigue siendo igual (persona o situación)
     ? Siguió igual después de todos estos años : `He stayed the same after all these years`
     = remain the same
     ? Permaneció igual después de todos estos años : `He remained the same after all these years`
-
-aceptar, adoptar (idea o costumbre)
-    = embrace
-    ? La empresa adoptó la nueva tecnología : `The company embraced the new technology`
-    ? Él adoptó la nueva cultura : `He embraced the new culture`
 
 ## Behaviors
 
@@ -183,6 +183,8 @@ sensible = sensitive
 entusiasta = enthusiastic
     ? Está entusiasmado con su nuevo trabajo : `He is enthusiastic about his new job`
     ? Ella está entusiasmada con el proyecto : `She is enthusiastic about the project`
+
+entusiasmo = enthusiasm
 
 amistoso = friendly
     ? Es amistoso y fácil de hablar : `He is friendly and easy to talk to`
@@ -293,9 +295,6 @@ confianza
     ? Confío en mis amigos para guardar mis secretos : `I trust my friends to keep my secrets`
     ? Él confía en su equipo : `He has trust in his team`
 
-hay falta de confianza = there is a lack of confidence
-    ? Hay una falta de confianza en el sistema : `There is a lack of confidence in the system`
-    ? Hay falta de confianza entre ellos : `There is a lack of trust between them`
 
 me siento con confianza/seguro = to be/feel confident
     ? Me siento seguro con el examen :  `I feel confident about the exam`
@@ -338,15 +337,6 @@ reacio
     = unwilling (más firme)
     ? No estaba dispuesto a ayudar : `He was unwilling to help`
 
-me opongo a
-    = I'm opposed to...
-    ? Me opongo a la idea de aumentar los impuestos : `I'm opposed to the idea of increasing taxes`
-    ? Me opongo al plan : `I'm opposed to the plan`
-
-negarse a
-    = refuse to <base>
-    ? Me niego a ir a la fiesta : `I refuse to go to the party`
-
 indiferencia
     = disregard (ignorar activamente)
     ? La empresa mostró indiferencia por el medio ambiente : `The company showed a disregard for the environment`
@@ -355,7 +345,7 @@ indiferencia
     ? Sintió indiferencia hacia el resultado de las elecciones : `He felt indifference towards the outcome of the election`
     ? La indiferencia del público fue decepcionante : `The indifference of the public was disappointing`
 
-independencia
+autosuficiencia
     = self-reliance
     ? Valora su autosuficiencia : `He values his self-reliance`
     ? Ella aprecia su autosuficiencia : `She cherishes her self-reliance`
@@ -381,10 +371,8 @@ llevar/pasarse x tiempo sin (presente - aún se sigue sin)
     ! Se usa para indicar escasez o que se pasó mal
     ! Se solapa mucho con el Presente Perfecto, que sería la versión neutra/no dramática
     = They have gone <period> **without** <ing> 🠢  `They have gone two days without smoking`
-    ? Llevan dos días sin comer : `They have gone two days without eating` (`They have been without eating for two days` es descriptiva sin más - no implica que se pasó mal)
-    ? Llevan dos horas contando chistes : `They have been telling jokes for two hours` (aquí no hay drama)
-    ? Llevo dos días sin fumar : `I've gone two days without smoking` (drama) - `I've been without smoking for two days` (descriptivo)
-    ? Llevo dos días sin dormir : `I've gone two days without sleeping` (drama) - `I've been without sleeping for two days` (neutro)
+    ? Llevan dos días sin comer : `They have gone two days without eating` (drama) `They have been without eating for two days` (neutro)
+    ? Llevo dos días sin fumar : `I've gone two days without smoking` (drama) - `I've been without smoking for two days` (neutro)
 
 
 se pasaron/estuvieron <periodo> sin ... (pasado)
@@ -393,8 +381,8 @@ se pasaron/estuvieron <periodo> sin ... (pasado)
     = went **without**
         - went <period> without <ing>  `They went two days without eating`
         - went without <ing> **for** <period>  `They went without eating for two days`
-    ? Se pasaron sin comida dos días: `They went without food for two days` - (`They were without...` descripción neutra)
-    ? Estuvieron dos días sin dormir: `They went 2 days without sleeping` - (`They were...` descripción neutra)
+    ? Se pasaron sin comida dos días: `They went without food for two days` (drama) `They were without food for two days` (neutro)
+    ? Estuvieron dos días sin dormir: `They went 2 days without sleeping` (drama) `They were...` (neutro)
     ? Estuvieron contando chistes durante horas : `They **were** telling jokes for hours` (usar pasado 🠢 no se pasó mal)
 
 ## Common Expressions
@@ -402,17 +390,13 @@ se pasaron/estuvieron <periodo> sin ... (pasado)
 me gusta la tranquilidad = I like peace and quiet
     ? Me gusta la tranquilidad en mi vida : `I like peace and quiet in my life`
 
-estar haciendo el tonto/perdiendo el tiempo = to be messing about/around
-    ? Sólo estaba perdiendo el tiempo : `I was just messing around`
-
-no es lo mio = not my cup of tea
-    ? No me gustan las películas de terror. No son lo mío : `I don't like horror movies. They're not my cup of tea`
 
 necesito organizar mi vida
     ? Necesito organizar mi vida : `I need to sort myself out`
 
 No puedo evitar...
     = I can't help <ing>
+    - `I can't avoid ...` se entendería, pero es más natural lo anterior
     ? No puedo evitar distraerme : `I can't help getting distracted`
     ? No puedo evitarlo : `I can't help it`
     ? No puedo evitar sentirme nervioso antes de hablar en público : `I can't help feeling nervous before speaking in public`

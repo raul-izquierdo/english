@@ -35,8 +35,12 @@ perderse algo (por no estar o no aprovecharlo)
     ? Perdí el autobús : `I missed the bus`
     ? Perdí la oportunidad de viajar : `I missed the opportunity to travel`
 
-adoptar (una medida/postura...) = to adopt
+adoptar, acoger (una medida/postura...)
+    = to adopt
+    = to embrace (adoptar con entusiasmo)
     ? La empresa adoptó una nueva política para mejorar la eficiencia : `The company adopted a new policy to improve efficiency`
+    ? La empresa adoptó la nueva tecnología con entusiasmo : `The company embraced the new technology`
+    ? Él adoptó la nueva cultura : `He embraced the new culture`
 
 poner en práctica (algo)
     = to put **into** practice
