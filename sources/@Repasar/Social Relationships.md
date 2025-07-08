@@ -127,3 +127,54 @@ y mucho menos...
     = let alone
     ? No puedo permitirme ni un coche, y mucho menos una casa : `I can't even afford a car, let alone a house`
     ? No te culpo a ti, y mucho menos a él : `I don't blame you, let alone him`
+
+## Obligation, Need and Permission
+
+tengo que/debo... (en presente)
+    ! Son bastante intercambiables; siendo _have to_ el más común
+    = have to (el más común con diferencia - casi el único en hablado)
+        - En preguntas, siempre _have to_ `Do I have to wear a helmet?`
+    = must (más en escrito)
+        - con auto-obligación (**debo** ...) `I must visit my grandmother`
+        - En cartelería/señales/instrucciones escritas `You must not park here`
+        - Orden de una autoridad (jefe, profesor,...) y quiere enfatizar el "es una orden!!!" `You must wear a helmet`
+    ? ¿Tengo que llevar casco? : `Do I have to wear a helmet?`
+    ? Debo visitar a mi abuela : `I must visit my grandmother`
+    ? No debes aparcar aquí : `You must not park here`
+    ? Debes llevar casco : `You must wear a helmet`
+    ? Debo llamar a Alex : `I must call Alex` (auto-obligación)
+    ? Tengo que llamar a Alex : `I have to remember to call Alex` (obligación externa)
+    ? Tenéis que hacer los deberes para el martes : `You have to finish your homework by Tuesday` (podría se _must_ si se quisiera ser más estricto - raro)
+
+tenia que/tendré que (Cuando no es presente -> pasado, futuro, condicional...)
+    = have to (no _must_)
+    ? Tenia que llevar uniforme : `I had to wear a uniform`
+    ? Tendré que trabajar el sábado : `I will have to work on Saturday`
+    ? (el profesor) Tenéis que acabar los deberes para el martes : `You have to finish your homework by Tuesday`
+
+No puedes... (está prohibido)
+    ! No es _don't have to_ ya que es sinónimo de _don't need to_
+    = must not (más común)
+    ? No puedes fumar aquí : `You must not smoke here`
+
+mayor necesidad/más urgente
+    = greater need
+    = more urgent need
+
+No tienes que, no es necesario... (pero puedes) (en presente)
+    = don't have to
+    = don't need to (intercambiables)
+    = There is no need [for <sbody> TO <base> (f)
+
+No tenías que, no era necesario... (en pasado)
+    = (... pero se hizo igualmente) needn't have <done>
+    = (... y por eso no se hizo) didn't need to <base>
+
+me permite/deja, permitió/dejó...
+    = let <sbody> <base> (sin el TO)
+        - No se puede usar en pasivo -> usar la siguiente opción
+    = is allowed to (f)
+    ? Mi padre me deja ver ese programa : `My dad LET me watch that programme`
+    ? Mi padre no me deja ver ese programa : `My dad DOESN'T LET me watch that programme`
+    ? Mi padre no me dejará ver ese programa : `My dad WONT'T LET me watch that programme`
+    ? No me fue permitido ver ese programa : `I WASN'T ALLOWED to watch that programme` (no se puede usar _let_ en pasivo)

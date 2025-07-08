@@ -18,7 +18,7 @@ tengo que/debo... (en presente)
     ? Tengo que llamar a Alex : `I have to remember to call Alex` (obligación externa)
     ? Tenéis que hacer los deberes para el martes : `You have to finish your homework by Tuesday` (podría se _must_ si se quisiera ser más estricto - raro)
 
-tenia que/tendré que (pasado, futuro, condicional...)
+tenia que/tendré que (Cuando no es presente -> pasado, futuro, condicional...)
     = have to (no _must_)
     ? Tenia que llevar uniforme : `I had to wear a uniform`
     ? Tendré que trabajar el sábado : `I will have to work on Saturday`
@@ -47,7 +47,7 @@ es obligatorio
 necesidad
     = need (más amplio: deseo, me falta...)
     ? Tengo necesidad de un abrigo nuevo : `I have a need for a new coat`
-    = necessity (más indispensable)
+    = necessity (más indispensable - requisito)
     ? Un abrigo cálido es una necesidad en invierno : `A warm coat is a necessity in winter`
 
 mayor necesidad/más urgente
@@ -89,8 +89,9 @@ Puedes/podías...
     ? No podías tomar una cerveza : `You WEREN'T ALLOWED to have a beer`
 
 me permite/deja, permitió/dejó...
-    ! No se puede usar en pasivo: usar _be allowed to_
     = let <sbody> <base> (sin el TO)
+        - No se puede usar en pasivo -> usar la siguiente opción
+    = is allowed to (f)
     ? Mi padre me deja ver ese programa : `My dad LET me watch that programme`
     ? Mi padre no me deja ver ese programa : `My dad DOESN'T LET me watch that programme`
     ? Mi padre no me dejará ver ese programa : `My dad WONT'T LET me watch that programme`
