@@ -139,6 +139,9 @@ comer en pequeñas cantidades = eat in small amounts
 quisquilloso con la comida = fussy eater
     ? Él es muy quisquilloso con la comida y solo come ciertos alimentos : `He's a fussy eater and only eats certain foods`
 
+pasar hambre = to go hungry
+    ? Mi padre pasó mucho hambre durante la guerra : `My father went hungry during the war`
+    ? Pasar hambre no es saludable : `Going hungry is not healthy`
 
 sobremesa
     = table talk

@@ -124,6 +124,8 @@ lo que le diferencia, distingue
     ? Lo que le distingue de los demás es su dedicación : `What sets him apart from the others is ...`
     ? El diseño único distingue al producto : `The unique design sets the product apart`
 
+diferenciar uno de otro = to tell one from another
+    ? No puedo diferenciar uno de otro : `I can't tell one from another`
 
 ## Otros Comparativos
 

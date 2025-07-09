@@ -95,6 +95,11 @@ dificultar
     ? La lluvia dificultó nuestros planes de picnic : `The rain hampered our plans for a picnic`
     ? El tráfico dificultó mi llegada : `The traffic hampered my arrival`
 
+compensar
+    = make **up for** (compensar algo negativo)
+    ? ¿Cómo puedo compensarte por haber roto tu taza favorita? : `How can I make up for breaking your favourite mug?`
+    ? Falté mucho al trabajo la semana pasada, así que estoy intentando compensarlo quedándome hasta tarde : `I missed a lot of work last week, so I'm trying to make up for it by staying late`
+
 ## Forcing others to Do something
 
 Consiguió que <alguien> <hiciera algo> (da igual como)
@@ -187,6 +192,10 @@ rechazar
     ? La junta desestimó la propuesta de una nueva política : `The board dismissed the proposal for a new policy`
     ? Ella rechazó el regalo : `She refused the present`
     ? Se negó a seguir su consejo : `He refused to follow her advice`
+
+descartar = to rule out
+    ? El médico descartó la posibilidad de una enfermedad grave : `The doctor ruled out the possibility of a serious illness`
+    ? La policía descartó al sospechoso : `The police ruled out the suspect`
 
 de ninguna manera = by no means
     ? De ninguna manera es esta la mejor solución : `By no means is this the best solution`

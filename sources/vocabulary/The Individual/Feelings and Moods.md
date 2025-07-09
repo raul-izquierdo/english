@@ -334,6 +334,9 @@ perplejo, desconcertado
     ? Me sentí perplejo por el extraño comportamiento de mi amigo : `I was puzzled by the strange behavior of my friend`
     ? Me sentí desconcertado por el truco del mago : `I was baffled by the magician's trick`
 
+me estoy volviendo loco
+    = I'm going crazy
+    ? Me estoy volviendo loco con este rompecabezas : `I'm going crazy with this puzzle`
 
 ## Surprise
 
@@ -434,6 +437,9 @@ gratitud / agradecimiento = gratitude
 
 
 ## Common Expressions
+
+comprendo tu situación = I understand your situation
+    ? Comprendo que no puedas ayudarme : `I understand that you can't help me`
 
 dejarse llevar (por la emoción/entusiasmo)
     = to be carried away

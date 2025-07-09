@@ -56,6 +56,8 @@ deseo <algo>
 estoy deseando / tengo muchas ganas de
     = I can't wait to <base> (i) `I can't wait to see you`
     = I'm looking forward to <ing> (f) `I'm looking forward to the weekend`
+    = I'm looking forward to <sthing> `I'm looking forward to the party`
+        - En presente (_I look forward to_) sólo se usa en escritos formales
     = to long **for** (anhelo -> el más dramático/deseperado/poético)
     ? Estoy deseando verte : `I'm looking forward to **seeing** you` (gerund)
     ? Estoy deseando que llegue el fin de semana : `I'm looking forward to the weekend`

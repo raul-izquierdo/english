@@ -158,6 +158,8 @@ hacer una entrega
     ? Necesito entregar mi trabajo antes del viernes : `I need to hand in my assignment by Friday`
     ? Entregué las llaves perdidas en recepción : `I handed in the lost keys at the reception`
 
+aprender de memoria = learn by heart
+    ? Tengo que aprenderme esta canción de memoria : `I have to learn this song by heart`
 
 ## Exams
 
@@ -238,6 +240,9 @@ descuido, omisión = oversight
     ? Fue un descuido por mi parte : `It was an oversight on my part`
     ? El descuido se debió a falta de atención : `The oversight was due to a lack of attention`
 
+escribir mal una palabra = misspell
+    ? Escribí mal su nombre en la tarjeta : `I misspelled his name on the card`
+    ? Siempre escribo mal 'accommodation' : `I always misspell 'accommodation'.`
 
 el examen fue difícil = the exam was hard
     ? El examen fue difícil, pero conseguí aprobarlo : `The exam was hard, but I managed to pass it`
@@ -367,9 +372,15 @@ en la clase de hoy, veremos
 
 ## During the Lesson
 
-atender, prestar atención = pay attention to
+atender, prestar atención
+    ! Intercambiables
+    = pay [no] attention **to**
+    = take [no] notice **of**
     ? Necesitas prestar atención en clase : `You need to pay attention in class`
-    ? Presté atención al profesor durante la lección : `I paid attention to the teacher during the lesson`
+    ? No presté atención al profesor durante la lección : `I paid no attention to the teacher during the lesson` - `I didn't pay attention ...`
+    ? Deberías prestar atención a las señales de advertencia : `You should take notice of the warning signs`
+    ? No presté atención a los cambios en el clima : `I took no notice of the changes in the weather` - `I didn't take notice ...`
+
 
 distraerse = get distracted
     ? Me distraje con el móvil durante la clase : `I got distracted by my phone durante la clase`

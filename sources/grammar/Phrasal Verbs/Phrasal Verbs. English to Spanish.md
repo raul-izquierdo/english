@@ -23,6 +23,7 @@ bring up = criar/educar `He was brought up in a small town` - `She was brought u
 call away = tener que irse/ser requerido/tener que atender algo `He was called away from the meeting to take an urgent phone call` - `She was called away suddenly on a family emergency` - `I might be called away if something important comes up`
 call for = requiere `The situation calls for immediate action` - `This recipe calls for two eggs`
 call in = llamar para reportar algo `I called in sick to work` - `I called in to report the accident`
+call off = cancelar `They called off the meeting`
 
 ## Carry
 
@@ -60,6 +61,7 @@ come over = pasarse por casa de alguien (venir) `Why don't you come over for a c
 come round
     = +/-come over
     = llegar de nuevo (un evento periódico) `When dinner time comes around, ...` - `The festival comes round every year`
+[when it] comes to = cuando se trata de `When it comes to cooking, he is an expert`
 come up with = ocurrirse algo `I came up with a great idea for the project` - `He came up with a solution to the problem`
 
 ## Deck
@@ -124,6 +126,7 @@ get on = llevarse bien (igual que get along) `He got on well with his new boss`
 get out of = salir de `He got out of the car` - `He got out of the meeting`
 get over = superar una situación `I need to get over my fear of flying`
 get ready [for] = prepararse `He got ready for the party`
+get round to <ing> = ponerse [por fin] a hacer algo (para lo que no se ha tenido tiempo/ganas) `I must get round to unpacking my suitcase`
 get rid of = deshacerse de `He got rid of his old clothes`
 get stuck = quedarse atascado `He got stuck in the mud`
 get the chance to = surgir la oportunidad de `I get the chance to work with animals every day`
@@ -217,7 +220,8 @@ live off = vivir de `He lives off his parents` - `He lives off the land`
 ## Look
 
 look after = cuidar `He looked after his sister`
-look forward to <ing/thing> = esperar con ilusión, deseando que `I look forward to seeing you` - `He looked forward to the party`
+look**ing** forward to <ing/thing> = esperar con ilusión, deseando que `I look forward to seeing you` - `He looked forward to the party`
+look into = investigar `The police are looking into the case` - `He looked into the problem and found a solution`
 look to = pretender `The company looks to expand its operations` - `He looks to improve his skills`
 look up to = admirar/respetar `I look up to my parents` - `Manowar: "Father... father... I look up to youuuu"`
 look upon = ver a alguien/algo como `Many people look upon him as a hero` - `In those days, illness was often looked upon as a punishment from God`
@@ -226,6 +230,7 @@ look upon = ver a alguien/algo como `Many people look upon him as a hero` - `In 
 ## Make
 
 make up = inventar (historia, excusa...) `He made up a story to explain his absence` - `She made up an excuse for being late`
+make up for = compensar algo negativo `He tried to make up for his mistake` - `She made up for her absence by working extra hours`
 make up my mind
     = decidirme `I can’t make up my mind about what to do this weekend`
 make it to = conseguir llegar a `I was late, but I managed to make it to the meeting on time` - `We finally made it to the top of the mountain` - `They had made it to the shore in a small boat`
@@ -328,7 +333,7 @@ settle down
 ## Show
 
 show off = presumir/fardar `He showed off his new car`
-
+show up = aparecer/presentarse `He showed up late to the meeting` - `She showed up at the party unexpectedly`
 
 ## Sort
 
@@ -353,7 +358,9 @@ take <sthing> back = descambiar en tienda `He took the computer back to DELL`
 take charge of = hacerse cargo de `He took charge of the project` - `He took charge of the situation`
 take in = asimilar, aceptar algo `He took in the information quickly` - `He couldn't take in the bad news`
 take into account = tener en cuenta `He took into account the weather when planning the trip` - `You should take into account the time it takes to get there`
-take off = despegar `The plane took off on time` - `He took off his shoes before entering the house`
+take off
+    = despegar `The plane took off on time` - `He took off his shoes before entering the house`
+    = quitarse ropa `He took off his jacket` - `He took off his glasses`
 take on
     = contratar `He took on a new employee`
     = asumir una responsabilidad/papel `He took on the challenge` - `He took on the role of project manager`
@@ -415,3 +422,7 @@ walk into
 ## Wind
 
 wind up = pinchar/meterse con alguien `I'm just winding you up`
+
+## Work
+
+work out = resolver, averiguar `I need to work out the solution to this problem`

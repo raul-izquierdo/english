@@ -54,3 +54,10 @@ try. Diferencia entre...
         = TO <base> (hacer un esfuerzo para...)
         ? Prueba a descansar un rato (a ver qué pasa) : **Try resting** for a while; you might feel better then
         ? Alan intentó detener... : Alan **tried to stop** the thief as he ran away
+
+## Use to
+
+Choose the right form:
+    ? Solía ir al cine los viernes : **infinitivo** `I **used to go** to the cinema on Fridays`
+    ? Me acostumbré a beber café sin azúcar : **ing** `I **got used to drinking** coffee without sugar`
+    ? Estoy acostumbrado a beber café sin azúcar : **ing** `I **am used to drinking** coffee without sugar`

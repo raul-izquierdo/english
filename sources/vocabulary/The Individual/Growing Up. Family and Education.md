@@ -76,6 +76,11 @@ llegar a una edad = reach an age
     ? Cuando llegue a los 30 años, quiero viajar : `When I reach the age of 30, I want to travel`
     ? Cuando un niño llega a la edad escolar... : `By the time a child reaches school age...`
 
+ser mayor de 18 años
+    = `to be over 18 years old`
+    = `to be more than 18 years of age` (f)
+    ? Cualquiera que sea mayor de 18 años puede votar : `Anyone who is over 18 years old can vote`
+
 ## Stages of Life
 
 nacer = be born
@@ -114,6 +119,14 @@ educar
     = educate (es más lo que hacen los padres)
     ? Educo a mis hijos sobre la importancia de reciclar : `I educate my children about the importance of recycling`
         - _teach_ (es enseñanza reglada en el colegio) `I teach English to children`
+
+maleducado
+    = rude
+    = impolite
+
+bien educado
+    = well-mannered
+    = polite
 
 criar, educar = bring up
     ? Ellos criaron bien a sus hijos : `They brought up their children well`

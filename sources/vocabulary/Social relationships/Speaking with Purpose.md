@@ -240,14 +240,14 @@ Creo que no deberías... (caso especial para 'creer + deber')
 
 aconsejar
     = adviSe [<sbody>] AGAINST <ing>
-    ? Le aconsejé que no invirtiera en acciones : `I advised him against investing in stocks`
     = advise [<sbody>] ON <ing/sthing>
-    ? Le aconsejé sobre cómo invertir su dinero : `I advised him on how to invest his money`
-    = advise [<sbody>] TO <base>
-    ? Le aconsejé invertir su dinero en acciones : `I advised him to invest his money in stocks`
+    = advise [<sbody>] [not] TO <base>
     = to give advice (dar consejos)
     = to give a piece of advice (dar UN consejo)
     = to give some advice (dar algunos consejos)
+    ? Le aconsejé que no invirtiera en acciones : `I advised him against investing in stocks`
+    ? Le aconsejé sobre cómo invertir su dinero : `I advised him on how to invest his money`
+    ? Le aconsejé invertir su dinero en acciones : `I advised him to invest his money in stocks`
     ? Doy consejos a mis estudiantes : `I give advice to my students`
     ? Doy un consejo a mis estudiantes : `I give a piece of advice to my students`
     ? Doy algunos consejos a mis estudiantes : `I give some advice to my students`
@@ -372,14 +372,6 @@ convencer, persuadir
     = to convince <sbody> to <base> (a que alguien PIENSE algo)
     ? Él me convenció de que ir al gimnasio era una buena idea : `He convinced me that going to the gym was a good idea`
         - _convince_ es más fuerte que _persuade_ y _talk into_ (más informal)
-
-tomar nota de
-    = take notice of
-    ? Deberías prestar atención a las señales de advertencia : `You should take notice of the warning signs`
-    ? Presté atención a los cambios en el clima : `I took notice of the changes in the weather`
-    = heed (muy formal)
-    ? Deberías tener en cuenta la advertencia : `You should heed the warning`
-    ? Tuvo en cuenta el consejo : `I heeded the advice` (más formal y literario)
 
 concienciar
     = raise awareness

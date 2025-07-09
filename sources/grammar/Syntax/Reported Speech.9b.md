@@ -81,3 +81,13 @@ reported speech in questions
     ? She asked me `Where have you been` : `She asked me where I had been`
     ? He asked me `Does she know Joe?` : `He asked whether I knew Joe` (añadir _whether_ por que no hay _what/where/..._)
     ? She asked me `Could you help me?` : `She asked me whether I could help her` - `She asked me to help her` - `She asked me for help`
+
+## Reported Speech in Commands
+
+reported speech in commands
+    = Do <x> -> He told me to <x>
+    = Don't <x> -> He told me **not** to <x>
+    = Si se usa un verbo de los que hemos visto, se pone en infinitivo
+    ? He said `Don't put the clothes on my bed` : `He told me **not** to put the clothes on his bed`
+    ? He said `Close the door` : `He told me to close the door`
+    ? She said `Don't touch that` : `She told me **not** to touch that`

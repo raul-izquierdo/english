@@ -156,10 +156,6 @@ es una persona x
 
 ## Personality. Positive
 
-educado = polite
-    ? Es educado y siempre dice por favor y gracias : `He is polite and always says please and thank you`
-    ? Ella es educada y respetuosa con todos : `She is polite and respectful to everyone`
-
 alegre = cheerful
     ? Es una persona alegre : `He is a cheerful person`
     ? Tiene una personalidad alegre : `He has a cheerful personality`

@@ -152,14 +152,6 @@ estar bien comunicado = be well connected
 acceso fácil (por distancia o transportes) = within easy reach
     ? El hotel está a fácil acceso de la playa : `The hotel is within easy reach of the beach`
 
-a poca distancia a pie
-    = within walking distance [of place] (f)
-    = in a short walk away (oral)
-    ? El hotel está a poca distancia a pie de la playa : `The hotel is within walking distance of the beach`
-    ? El supermercado está a poca distancia a pie : `The supermarket is within walking distance`
-    ? El hotel está a un corto paseo de la playa : `The hotel is a short walk away from the beach`
-    ? El supermercado está a un corto paseo : `The supermarket is a short walk away`
-
 situado
     = situated (para edificios, y elementos geográficos)
     = set (puesto deliberadamente - often used for scenery or emotional tone)

@@ -79,7 +79,7 @@ duradero = guaranteed to last
 ## Feelings and Moods
 
 se alegra de, contento con
-    = is pleased with
+    = is pleased **with**
     ? Está contento con los resultados del proyecto : `He is pleased with the results of the project`
     ? Está contento con su nuevo trabajo : `He is pleased with his new job`
 

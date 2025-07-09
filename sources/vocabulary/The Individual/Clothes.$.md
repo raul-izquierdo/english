@@ -34,8 +34,8 @@ ponerse la <prenda> = put on
 
 quitarse la <prenda>
     = take off (i)
-    ? Se quitó los zapatos antes de entrar en la casa : `He took off his shoes before entering the house`
     = remove (f)
+    ? Se quitó los zapatos antes de entrar en la casa : `He took off his shoes before entering the house`
     ? Se quitó los zapatos antes de entrar en la casa : `He removed his shoes before entering the house`
 
 abrochar (ropa)

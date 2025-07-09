@@ -191,6 +191,17 @@ El <dia> a las <hora>
 nunca sabes lo que te depara el futuro = `You never know what the future holds for you`
 
 
+faltan <x dias/años> para ...
+    = It is <x days/years> until/before ...
+    = It will be <x days/years> before/until/... (f)
+    ? Faltan dos semanas para que abra el nuevo restaurante : `It'll be two weeks before the new restaurant opens`
+    ? Faltan dos horas para que abrir el regalo : `It is two hours until we open the gift`
+
+pasarán <x dias/años> ...
+    = It will be <x days/years> ...
+    ? Pasarán dos años antes de que yo vuelva : `It will be two years before I come back`
+    ? Pasará un tiempo antes de que vuelva a verlo : `It will be some time before I see him again`
+
 ## Time Periods and Durations
 
 durante X años
@@ -390,3 +401,10 @@ El tiempo pasa rápido cuando...
 
 estar haciendo el tonto/perdiendo el tiempo = to be messing about/around
     ? Sólo estaba perdiendo el tiempo : `I was just messing around`
+
+tiempo libre
+    ! Bastante intercambiables
+    = free time (sin obligaciones)
+    = spare time (un hueco - tiempo sobrante)
+    ? Me gusta leer en mi tiempo libre : `I like to read in my spare time`
+    ? La sesión terminó temprano, así que tuve algo de tiempo libre para mirar las tiendas : `The session finished early, so I had some spare time to look around the shops`

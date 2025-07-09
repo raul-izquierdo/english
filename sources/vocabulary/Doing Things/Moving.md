@@ -355,7 +355,7 @@ maletero = trunk
     ? Puse el equipaje en el maletero : `I put the luggage in the trunk`
 
 llevar a alguien en coche
-    = give someone a lift to
+    = give <sbody> a lift **to**
     = take <sbody> to <place>
     ? Llevé a mi amigo al aeropuerto : `I gave my friend a lift to the airport` - `I took him to the airport`
     ? ¿Puedes llevarme mañana al trabajo? : `Can you give me a lift to work tomorrow?` - `Can you take me to work tomorrow?`
@@ -432,5 +432,22 @@ cerca
     = near
     = close to (más cerca)
 
-cercano (que estaba cerca) = nearby
-    ? Fuimos un restaurante cercano : `We went to a nearby restaurant`
+cercano (que estaba cerca)
+    = nearby
+    = near <place>
+        - Near parece que requiere un lugar al que está cerca. Para decir _cerca_ sin más, mejor _nearby_.
+    ? Hay una tienda cerca: `There's a shop nearby`
+    ? Hay una tienda cerca de la estación: `There's a shop near the station`
+    ? Fuimos a un restaurante cercano: `We went to a nearby restaurant`
+
+a poca distancia a pie
+    = within walking distance [of place] (f)
+    = in a short walk away (oral)
+    ? El hotel está a poca distancia a pie de la playa : `The hotel is within walking distance of the beach`
+    ? El supermercado está a poca distancia a pie : `The supermarket is within walking distance`
+    ? El hotel está a un corto paseo de la playa : `The hotel is a short walk away from the beach`
+    ? El supermercado está a un corto paseo : `The supermarket is a short walk away`
+
+a <x minutos> en coche
+    = It's a <x-minute> drive
+    ? Soto está a 25 minutos en coche de aquí : `Soto is a 25-minute drive from here`

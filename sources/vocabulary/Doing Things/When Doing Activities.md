@@ -50,6 +50,10 @@ los preparativos/el periodo previo
     ? La emoción creció en el periodo previo a la final : `The excitement built in the lead-up to the final`
     ? Los preparativos para la fiesta incluyeron mucha cocina y decoración : `The lead-up to the party involved a lot of cooking and decorating` (se refiere a las tareas previas a la fiesta)
 
+ponerse [por fin] a hacer algo (para lo que no se ha tenido tiempo/ganas)
+    = get around to <ing>
+    ? Tengo que ponerme a deshacer la maleta : `I must get round to unpacking my suitcase`
+
 ## Before doing an Activity
 
 prepararse = get ready
@@ -99,7 +103,7 @@ hacerlo en etapas/pasos = do it in stages/steps
 continuar = carry on
     ? Continúa con tu trabajo, volveré en un minuto : `Carry on with your work, I’ll be back in a minute`
 
-ocurrirse algo = come up with something
+ocurrirse algo = come **up with** something
     ? Cuando hablaba con él, se me ocurrió la idea : `When I was talking with him, I came up with the idea`
     ? Se le ocurrió una solución al problema : `He came up with a solution to the problem`
 
@@ -203,6 +207,9 @@ recurrir a = turn to
 
 contar con = rely on
     ? Puedes contar conmigo para ayudarte : `You can rely on me to help you`
+
+unos a otros = one another
+    ? Nos apoyamos unos a otros en momentos difíciles : `We support one another in difficult times`
 
 hacer una petición
     = to request
@@ -451,6 +458,9 @@ llevar a, provocar, causar
 
 salir bien parado = `land on your feet`
 
+venirse todo abajo, derrumbarse
+    = fall through
+    ? El plan se vino abajo cuando no conseguimos financiación : `The plan fell through when we
 
 ## Reasons for Doing something
 
@@ -470,6 +480,11 @@ Hice <acción> para...
 
 para no... = so as not to
     ? Fuí al concierto para no aburrirme : `I went to the concert so as not to be bored`
+    ? Caminaron en silencio para no despertar al bebé : `They walked quietly so as not to wake the baby`
+
+para <algo> = [so as] to
+    - Este es el _to_ de toda la vida, que se puede enfatizar con el _so as_. Se usa mucho más en negativo (ver anterior)
+    ? Estudió mucho para no suspender el examen : `He studied hard so as not to fail the exam`
 
 para no tener que ...
     = so we don't have to

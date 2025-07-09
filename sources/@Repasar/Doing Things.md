@@ -2,6 +2,9 @@
 
 ## Comparing Things
 
+diferenciar uno de otro = to tell one from another
+    ? No puedo diferenciar uno de otro : `I can't tell one from another`
+
 menos <text>, el que menos <text>
     = (incontable) less/least
     = (contable) fewer/fewest
@@ -203,6 +206,8 @@ pasarse por casa de alguien (no la nuestra)
 acompáñanos = come along
     ? Ven al concierto con nosotros : `Come along to the concert with us`
 
+acompañar a casa = walk you home
+    ? Te acompaño a tu casa : `I'll walk you home`
 
 perseguir, ir a por...
     = to chase (perseguir a alguien o algo físicamente)
@@ -284,6 +289,13 @@ lejano (distancia)
 
 ## When Doing Activities
 
+ponerse [por fin] a hacer algo (para lo que no se ha tenido tiempo/ganas)
+    = get around to <ing>
+    ? Tengo que ponerme a deshacer la maleta : `I must get round to unpacking my suitcase`
+
+unos a otros = one another
+    ? Nos apoyamos unos a otros en momentos difíciles : `We support one another in difficult times`
+
 Translate:
     ? Miraré/averiguaré cuál es el problema e intentaré solucionarlo. Después, llevaré a cabo el paso final : `I'll figure out what the problem is and I'll try to sort it out. After that, I'll carry out the final step`
 
@@ -299,7 +311,11 @@ hazlo de manera que quede así = do it so that it looks like this
 dividirlo en partes = break it down
     ? Necesito dividirlo en partes más pequeñas : `I need to break it down into smaller pieces`
 
-ocurrirse algo = come up with something
+ocurrirse algo = come **up with** something
+
+idear/encontrar/averiguar una solución = to work out
+    ? ¿Puedes encontrar la respuesta a este problema de matemáticas? : `Can you work out the answer to this maths problem?`
+    ? Necesitamos averiguar cómo reducir nuestros gastos : `We need to work out how to reduce our spending.`
 
 poner en riesgo = put **at** risk
 

@@ -8,9 +8,10 @@ para [motivo]
     ? Voy al gimnasio para mantenerme saludable y perder peso : `I’m going to the gym to stay healthy and lose weight` - `so as to ...`
     ? Esto es un atajo para no tener que escribir tanto : `This is a shortcut to avoid having to write so much`
 
-(hizo algo) para que <sbody> (hiciera algo)... = so that <sbody>
+(hizo algo) para que <sbody> (hiciera algo)...
     ! Cada acción la hace una persona distinta (si es la misma, se usa el **in order to** anterior)
     ! El _that_ es opcional, pero mejor dejarlo
+    = so that <sbody>
     ? Le di instrucciones para que supiera qué hacer : `I gave him instructions so that he would know what to do`
     ? Le dio dinero para que ella pudiera comprar un coche : `He saved money so that she could buy a car` (para que ella...)
     ? Le dí dinero para que no tuviera que vender su coche : `I gave him money so that he didn't have to sell his car`
@@ -159,6 +160,7 @@ Esto plantea la cuestión de si...
 debido a
     = because OF
     = due to (f)
+    = owing to (f)
     ? El vuelo se retrasó debido al mal tiempo : `The flight was delayed due to bad weather` `...because of the bad weather`
 
 
@@ -265,6 +267,7 @@ en resumen
 de todas formas
     = anyway (a pesar de eso)
     = in any case (sea cual sea el resultado - en cualquier caso)
+    = regardless (f) (sin importar las circunstancias)
     ? Iré a la fiesta de todas formas : `I'll go to the party anyway`
     ? No me gusta el café. Pero lo tomaré de todos modos : `I don't like coffee. But I'll have it anyway`
     ? Puede que llueva o puede que no. En cualquier caso, tenemos que coger un paraguas : `It might rain, or it might not. In any case, we need to take an umbrella`

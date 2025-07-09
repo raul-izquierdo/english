@@ -149,6 +149,9 @@ es como X como lo que será recordado
     ? Es como a un gran pintor como será recordado : `He will be remembered **as** a great painter`
     ? Será recordado como un momento clave en la historia : `It will be remembered **as** a key moment in history`
 
+olvidadizo = forgetful
+    ? El es olvidadizo : `He's forgetful`
+    ? Es un poco olvidadizo, a menudo olvida dónde deja sus llaves : `He's a bit forgetful, often forgetting where he leaves his keys`
 
 ## Getting Attention
 

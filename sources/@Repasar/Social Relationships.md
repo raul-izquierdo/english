@@ -115,6 +115,10 @@ rechazar
     ? Ella rechazó el regalo : `She refused the present`
     ? Se negó a seguir su consejo : `He refused to follow her advice`
 
+descartar = to rule out
+    ? El médico descartó la posibilidad de una enfermedad grave : `The doctor ruled out the possibility of a serious illness`
+    ? La policía descartó al sospechoso : `The police ruled out the suspect`
+
 de ninguna manera = by no means
     ? De ninguna manera es esta la mejor solución : `By no means is this the best solution`
 

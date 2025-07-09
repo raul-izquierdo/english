@@ -139,7 +139,7 @@ disponible, disponibles
 en venta
     = be **for** sale (que algo se vende)
         - OJO: _be ON sale_ indica que está en oferta
-    = go on sale (para indicar cuando algo se pone a la venta)
+    = go **on** sale (para indicar cuando algo se pone a la venta)
     ? La casa está en venta : `The house is for sale`
     ? El nuevo iPhone sale a la venta la próxima semana : `The new iPhone goes on sale next week`
 
