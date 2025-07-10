@@ -1,4 +1,4 @@
-# My Mistakes in Tests
+# @My Mistakes in Tests
 
 ## Suppositions
 
@@ -117,19 +117,19 @@ empezar una afición
 
 ## Prepositions
 
-to be _ his own = on
+to be ___ his own = on
 
-demand _= for
-is fluent_ = in
-is pleased _= with
-(_) average = on
-I work _a teacher = as
+demand ___= for
+is fluent___ = in
+is pleased ___= with
+(___) average = on
+I work ___ a teacher = as
 The reason (por la que) = why
-keep an eye_ = on
+keep an eye ___ = on
 
-pay [not] attention _= to
-take [not] notice_ = of
+pay [not] attention ___= to
+take [not] notice ___= of
 
-prevent <sbody> _ = from
+prevent <sbody> ___ = from
 
-sigues todavía estudiando inglés?, do you keep _ ? = on `I keep on studying English`
+sigues todavía estudiando inglés?, do you keep ___ ? = on `I keep on studying English`

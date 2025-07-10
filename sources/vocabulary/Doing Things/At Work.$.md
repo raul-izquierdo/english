@@ -282,6 +282,8 @@ obligaciones
     ? Mis responsabilidades incluyen gestionar el equipo : `My responsibilities include managing the team`
     ? Mis compromisos incluyen gestionar el equipo : `My commitments include managing the team`
 
+me comprometí a = I committed to <ing> `I committed to working late this week`
+
 estar dispuesto a (hacer algo) = to be willing to <base>
     ? Los hombres están más dispuestos a comer que las mujeres : `Men are more willing to eat than women`
 

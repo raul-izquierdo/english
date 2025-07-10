@@ -25,6 +25,8 @@ naturaleza = nature
 el medio ambiente = environment
     ? El medio ambiente es muy importante : `The environment is very important`
 
+ser vivo = living being
+    ? Todos los seres vivos son importantes : `All living beings are important`
 
 cultivos = crops
     ? La zona está llena de cultivos : `The area is full of crops`

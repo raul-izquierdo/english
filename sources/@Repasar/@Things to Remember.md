@@ -1,4 +1,4 @@
-# Things to Remember
+# @Things to Remember
 
 
 ## Expressions
@@ -6,6 +6,9 @@
 Sigue siendo uno de los más populares
     = `It remains one of the most popular` 🠢  OJO: sin el AS antes the 'one'!!
 
+
+translate:
+    ? En mi cumpleaños, salimos a comer a un restaurante : `On my birthday, we went out for lunch at a restaurant`
 
 ## Prepositions
 
@@ -49,7 +52,7 @@ promise = TO
 insist = ON
 
 sugerir/recomendar (presente)
-    = suggest <ing> (a todos, speaker included) `He suggested going to the cinema`
+    = suggest <ing> (a todos, speaker included) `He **suggested going** to the cinema`
     = suggest [THAT] <sbody> <base> (sugerir acción a alguien) `I suggest he GO to the doctor` (nótese que no es _goes_)
     = suggest <obj> TO <sbody> (sugerir objeto) `She suggested a new restaurant to us`
 
@@ -106,8 +109,3 @@ media (los medios de comunicación) = are
 
 information = is (nunca se usa en plural: no _informations_)
     - `The information is correct`
-
-## Expressions
-
-translate:
-    ? En mi cumpleaños, salimos a comer a un restaurante : `On my birthday, we went out for lunch at a restaurant`

@@ -448,6 +448,11 @@ a poca distancia a pie
     ? El hotel está a un corto paseo de la playa : `The hotel is a short walk away from the beach`
     ? El supermercado está a un corto paseo : `The supermarket is a short walk away`
 
+a 15 km de distancia = is 15 km away
+
+a 15 km de <lugar> = is 15 km from <place>
+    ? Gajano está a 15km de Santander : `Gajano is 15 km from Santander`
+
 a <x minutos> en coche
-    = It's a <x-minute> drive
+    = is a <x-minute> drive
     ? Soto está a 25 minutos en coche de aquí : `Soto is a 25-minute drive from here`
