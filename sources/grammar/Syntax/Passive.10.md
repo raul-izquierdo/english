@@ -1,6 +1,6 @@
 # Passive Voice
 
-## Use I. Enfátizar [qué] se hace
+## Use I. Enfatizar [qué] se hace
 
 
 Put into the passive (I)
@@ -38,7 +38,7 @@ Put into the passive (VI)
     ? Someone might have repaired the car by now : `The car MIGHT have been repaired by now` (modal _might_)
     ? The judge should sentence him to life imprisonment : `He should be sentenced to life imprisonment` (modal _should_)
 
-Explanation Ia. Enfátizar [qué] se hace _(sin verbos modales)_
+Explanation Ia. Enfatizar [qué] se hace _(sin verbos modales)_
     ! Se trata de coger frases centradas en **quién** lo hace y centrarlas en **qué** se hace
     ! Supóngase en activo: "... <verb> ..." `He <writes> a letter`
     = El <verb> siempre se pasará a <done> (si no lo está ya)
@@ -60,7 +60,7 @@ Explanation Ia. Enfátizar [qué] se hace _(sin verbos modales)_
         - `They have been doing an exercise` 🠢 `They have done an exercise` 🠢 `An exercise has been done by them`
         - `She had been reading a book` 🠢 `She had read a book` 🠢 `A book had been read by her`
 
-Explanation Ib. Enfátizar [qué] se hace _(con verbos modales)_
+Explanation Ib. Enfatizar [qué] se hace _(con verbos modales)_
     ! Supóngase en activo: "... (can/must/should/may/could/would...) <verb> ..." `He may <write> a letter`
     ! El modal se mantiene igual
     = El <verb> se pasa a <done> (si no lo está ya)
@@ -108,7 +108,7 @@ Use II. A [algo] se le hace [algo]
         - Para _presente/futuro_, usar **being done** `He doesn't like BEING told what to do`
         - Para _pasado_, usar **having been done** `He didn't like HAVING BEEN told what to do`
 
-## Use III. Dada la situación...
+## Use III. Dada la situación
 
 Put into the passive (I)
     ? Habiendo sido invitado, sería descortés no ir : `Having been invited, it would be rude not to go`

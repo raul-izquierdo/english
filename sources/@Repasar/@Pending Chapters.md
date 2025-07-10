@@ -1,14 +1,16 @@
 # Pending Chapters
 
-## Chapters to Repeat
+## Unsummarised Chapters
 
-Pending Review
-    = At Work
-    = Food and Drinks
-    = Quantities and Sizes
-    = Adverbs
-    = Linking Words
+Read this chapters directly in their original files:
+    = Reported Speech
     = Passive
     = Preferences
-    = Reported Speech
     = Present Perfect Simple and Continuous
+    = Adverbs
+    = Linking Words
+
+Chapters pending to summarise:
+    = Food and Drinks
+    = Quantities and Sizes
+    = At Work
