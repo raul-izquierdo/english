@@ -50,10 +50,6 @@ estar cómodo, a gusto = at ease
 
 emocionado = excited
 
-estar cómodo, a gusto = at ease
-    ? Me siento a gusto en este entorno : `I feel at ease in this environment`
-    ? Ella se sentía a gusto con sus amigos : `She felt at ease with her friends`
-
 ansioso por
     = eager to
     ? Estoy ansioso por comenzar mi nuevo trabajo : `I'm eager to start my new job`
@@ -238,7 +234,6 @@ tener buena salud = be in good health `I am in good health`
 no estoy en forma = `I am out of shape` - `I am in not fit`
 
 estoy así desde hace dos años = `I have been like this **for** two years`
-no estoy en forma = `I am out of shape` - `I am not fit`
 
 
 ## Wishes Hopes and Expectations

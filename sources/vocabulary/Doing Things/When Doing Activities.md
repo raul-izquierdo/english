@@ -51,7 +51,7 @@ los preparativos/el periodo previo
     ? Los preparativos para la fiesta incluyeron mucha cocina y decoración : `The lead-up to the party involved a lot of cooking and decorating` (se refiere a las tareas previas a la fiesta)
 
 ponerse [por fin] a hacer algo (para lo que no se ha tenido tiempo/ganas)
-    = get around to <ing>
+    = get round to <ing>
     ? Tengo que ponerme a deshacer la maleta : `I must get round to unpacking my suitcase`
 
 ## Before doing an Activity

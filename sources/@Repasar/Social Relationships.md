@@ -201,7 +201,7 @@ caer bien (primera impresión)
     ? Conectamos enseguida : `We clicked right away`
     ? Conectaron en la fiesta : `They clicked at the party`
 
-llevarse bien )
+llevarse bien
     = get on with
     ? Me llevo bien con mis compañeros : `I get on well with my colleagues`
     ? Me llevo bien con mi familia : `I get on with my family`

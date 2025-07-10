@@ -217,6 +217,9 @@ en realidad
     ? Entonces, ¿eres estudiante? No, soy médico en realidad : `So, you're a student? No, I'm a doctor, actually` (al contrario)
     ? No pensé que disfrutaría de la fiesta, pero en realidad fue divertida : `I didn't think I'd enjoy the party, but it was **actually** quite fun` (sorpresa)
 
+de por qué = as to why
+    ? Estoy intrigado de por qué no funcionó : `I’m intrigued **as to why** it didn’t work`
+
 ## Selecting
 
 de [entre] todos ellos (para seleccionar) = of all

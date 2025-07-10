@@ -15,7 +15,6 @@ periodos vacacionales (weekend, Navidad, Pascua) = **at**
     ? Vendrá el día de Navidad : `He will come **on** Christmas Day` (ojo, que ahora es un dia, no periodo)
 
 test
-    ? Ven el fin de semana : `Come at the weekend` (periodo vacacional)
     ? Ven en Semana Santa : `Come at Easter` (periodo vacacional)
     ? Ven en el puente : `Come at the long weekend` (periodo vacacional)
     ? Le conocí el día de que nació : `I met him on the day he was born` (día específico)

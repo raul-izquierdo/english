@@ -36,12 +36,12 @@ hay <mucha> diferencia entre mi coche y el tuyo
     ? Hay mucha diferencia entre mi coche y el tuyo : `There is A GREAT DEAL OF difference between my car and yours`
 
 es más bien ...
-    = MORE of a <noun>
+    = MORE of a <noun> than...
     ? Él está resultando ser más bien un líder que un gerente : `He's turning out to be more of a leader than a manager`
     ? Fue más bien una charla que una reunión formal : `It was more of a chat than a formal meeting`
 
 ser un ... mayor del que...
-    = MORE of a <noun>
+    = MORE of a <noun>  than...
     - Sí, el mismo de antes
     ? Ella está resultando ser un problema mayor del que esperábamos : `She's turning out to be MORE OF A problem than we expected`
     ? Él está resultando ser un riesgo mayor del que pensábamos : `He's MORE OF A risk than we thought`
@@ -340,7 +340,7 @@ encontrar/meterse en problemas
     = get **into** (meterse - informal)
     = encounter (f)
 
-estoy intrigado de por qué no funcionó = `I’m intrigued **as** to why it didn’t work`
+estoy intrigado de por qué no funcionó = `I’m intrigued **as to why** it didn’t work`
 
 solucionar, arreglar (situación) = sort out
 

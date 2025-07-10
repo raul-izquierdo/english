@@ -140,10 +140,6 @@ notar, detectar
     ? ¿Puedes encontrar el objeto oculto en esta imagen? : `Can you spot the hidden object in this picture?`
 
 noto que/veo que
-    = I see that (si lo detecto por la vista)
-    = I can tell (si lo detecto de cualquier forma - vista incluida)
-
-noto que/veo que
     = I can tell (si lo detecto de cualquier forma - vista incluida)
     = I see that (si lo detecto por la vista)
     ? Veo que has desayunado (está recogiendo - tidying up) : `I see you've had breakfast`
