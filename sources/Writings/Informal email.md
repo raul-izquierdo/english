@@ -26,9 +26,9 @@ Content of P1-3
         - `You could try <ing>...`
     = Recommendation
         - `If I were you, I'd...`
+        - `don't hesitate to...`
         - `It's best to...`
         - `... you can't go far wrong in <ing>...`
-        - `don't hesitate to...`
 
 Content of P4
     = `If you need any more information, just let me know`

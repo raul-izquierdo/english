@@ -36,7 +36,7 @@ Content of P2
 
 Content of P3
     = `In terms of personal qualities,...`
-    = `...not only AM I a hard-working person, but I am also a great team player.`
+    = `...not only **AM I** a hard-working person, but **I am** also a great team player.` (está bien el **am I**)
     = `I possess strong communication skills...`
     = `I have a good knowledge of Spanish.`
     = `Furthermore, I would like to highlight that I am a self-taught individual and therefore able to adapt quickly to new technologies`

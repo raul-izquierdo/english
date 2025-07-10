@@ -39,6 +39,7 @@ Content of P1-3
 
 Content of P4
     = `## Conclusion`
-    = `I strongly believe that, for the above reasons, the advantages [far] outweigh the disadvantages`
+    = `Taking all of the above into consideration, ...`
+    = `...I strongly believe that the advantages [far] outweigh the disadvantages`
     = `Should all the above recommendations be implemented, I truly believe that...`
     = `... will be a [great] success` - `... it will achieve sufficient success`
