@@ -460,7 +460,7 @@ salir bien parado = `land on your feet`
 
 venirse todo abajo, derrumbarse
     = fall through
-    ? El plan se vino abajo cuando no conseguimos financiación : `The plan fell through when we
+    ? El plan se vino abajo cuando no conseguimos financiación : `The plan fell through when we couldn't secure funding`
 
 ## Reasons for Doing something
 

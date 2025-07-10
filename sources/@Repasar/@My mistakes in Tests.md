@@ -100,16 +100,14 @@ I'm looking forward <verte> = <ing> `I'm looking forward to seeing you`
 
 ## Phrasal Verbs
 
-<!-- TODO: 📅 /**/ Ver si están en Phrasal Verbs -->
-
 ponerse por fin a algo
     = get round to <ing>
     ? Tengo que ponerme por fin a desempaquetar mi maleta : `I must get round to unpacking my suitcase`
 
 
-venirse todo abajo, derrumbarse
+ no llegar a cabo (plan, acuerdo...)
     = fall through
-    ? El plan se vino abajo cuando no conseguimos financiación : `The plan fell through when we
+    ? El plan se vino abajo cuando no conseguimos financiación : `The plan fell through when we couldn't secure funding`
 
 empezar una afición
     = take up
@@ -124,7 +122,7 @@ to be _ his own = on
 demand _= for
 is fluent_ = in
 is pleased _= with
-_ average = on
+(_) average = on
 I work _a teacher = as
 The reason (por la que) = why
 keep an eye_ = on

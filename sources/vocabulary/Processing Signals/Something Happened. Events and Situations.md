@@ -19,10 +19,6 @@ pillar desprevenido
 de repente = out of the blue
     ? Me sorprendió cuando ella me llamó de repente : `I was surprised when she called me out of the blue`
 
-la alarma sonó
-    = the alarm went off
-    ? La alarma sonó : `The alarm went off`
-
 ## Consequences
 
 le supone, ocasiona

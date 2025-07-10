@@ -91,10 +91,11 @@ end up = acabar haciendo algo `I ended up going to the party alone` - `He ended 
 ## Fall
 
 fall out = discutir fuerte `They fell out over a misunderstanding` - `He fell out with his friend`
-fall apart = desmoronarse `The old building fell apart after the earthquake` - `Their relationship fell apart after the argument`
+fall apart = desmoronarse/romperse (real o figurado) `The old building fell apart after the earthquake` - `Their relationship fell apart after the argument`
+fall down = caerse de escaleras o inclinación `He fell down the stairs`
 fall off <apoyo> = caerse de sitio en el que se estaba sentado/apoyado `He fell off the chair` - `The picture fell off the wall`
 fall over = caerse al suelo `He fell over while running` - `The stack of books fell over`
-fall down = caerse de escaleras o inclinación `He fell down the stairs`
+fall through = no llegar a cabo (plan, acuerdo...) `The plan fell through when we couldn't secure funding`
 
 ## Feel
 
