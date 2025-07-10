@@ -74,6 +74,10 @@ sólo para que lo sepas
     = just so you know (i)
     ? Sólo para que lo sepas, la reunión ha sido cancelada : `Just so you know, the meeting has been cancelled`
 
+no solo... sino que además
+    = not only... but also (f)
+    ? No solo es inteligente, sino que también es amable : `He is not only smart, but also kind`
+
 ## Contrast Linkers
 
 sin embargo
@@ -167,6 +171,9 @@ debido a
 ## Clarification and Explanation
 
 dicho eso = that being said
+
+sobre como... = as to
+    ? Se harán recomendaciones sobre cómo mejorar el proceso : `Recommendations will be made **as to** how to improve the process`
 
 es decir
     = that is (f)

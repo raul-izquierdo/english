@@ -1,4 +1,4 @@
-# Letter of Application*
+# Letter of Application
 
 ## Overview
 
@@ -35,14 +35,14 @@ Content of P2
     = `Currently, I work as a lecturer AT the University of Oviedo.`
 
 Content of P3
-    = `Beyond my technical background, I possess strong communication skills...`
-    = `and a good knowledge of Spanish.`
     = `In terms of personal qualities,...`
     = `...not only AM I a hard-working person, but I am also a great team player.`
-    = `I am a self-taught person`
+    = `I possess strong communication skills...`
+    = `I have a good knowledge of Spanish.`
+    = `Furthermore, I would like to highlight that I am a self-taught individual and therefore able to adapt quickly to new technologies`
 
 Content of P4
-    = `I am confident I would be well suited to the job and bring significant value to your team.`
+    = `I am confident I would be well suited to the job and bring significant value to your team`
     = `Thank you for your consideration. I look forward to hearing from you`
     = `Yours sincerely/faithfully,` (en función de cómo se haya empezado)
     = `Raúl Izquierdo`

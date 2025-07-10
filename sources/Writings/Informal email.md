@@ -22,15 +22,14 @@ Content of P0
         - `It’s great to hear from you!`
 
 Content of P1-3
+    = Suggestion
+        - `You could try <ing>...`
     = Recommendation
         - `If I were you, I'd...`
         - `It's best to...`
         - `... you can't go far wrong in <ing>...`
         - `don't hesitate to...`
-    = Suggestion
-        - `You could try <ing>...`
 
 Content of P4
-    = `I hope that's useful/helpful` - `If you need any more information, just let me know`
-    = `Looking forward to hearing from you`
+    = `If you need any more information, just let me know`
     = `Hope to (see | hear from) you soon`

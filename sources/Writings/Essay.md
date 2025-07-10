@@ -1,4 +1,4 @@
-# Essay*
+# Essay
 
 ## Overview
 
@@ -25,9 +25,9 @@ Structure overview
         - Al fin la **opinión**
 
 Content of P0
+    = `Although some people argue that..., others, however, believe that...`
     = `Nowadays most people share the view that...`
     = `It is widely believed that education is important`
-    = `Although most people believe that ... some, however, think that...`
 
 Content of P1-3
     = `A further advantage/criticism is that ...`
